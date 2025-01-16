@@ -1,6 +1,6 @@
-# Quantum | IIIT
+# Quantum Talks | IIIT
 
-Welcome to the Quantum page for IIIT where we intend to post details regarding upcoming seminars to begin with. 
+Welcome to the Quantum Talks page for IIIT where we intend to post details regarding upcoming seminars to begin with. 
 
 * [YouTube channel](https://www.youtube.com/channel/UCZqeOxEIisIIscw2wcxIr2g) (videos will be uploaded as we proceed)
 * [Teams Channel](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/Announcements%20(Quantum%E2%80%94IIIT)?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) (primarily for announcing upcoming events)
