@@ -13,21 +13,18 @@ If you would like to present your work, or have other related questions, please 
 ## Upcoming 
 <br/>
 
+Here are the confirmed upcoming talks/seminars. 
+Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
+
 ### Aryaman Kolhe
 Abstract: TBA
 
-| Event | Speaker |  Venue | Time | Date | 
+| Event | Speaker |  Venue |  Date | Time |
 |-|-|-|-|-|
-| Talk | Aryaman Kohle | Seminar Hall 2 (SH2), Vindhya |  11:00 AM to 12:30 PM | Wednesday, Jan 29, 2025 |
+| Talk | Aryaman Kohle | Seminar Hall 2 (SH2), Vindhya |  Wed, Jan 29, 2025 | 11:00 AM to 12:30 PM | 
 
-<details open>
 
-  <summary>
-    
-## Pipeline (provisional)
-<br />
 
-  </summary>
 
 
 ### Kishor Bharti—Pseudorandom quantum authentication
@@ -35,9 +32,24 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 
 
 
-| Event | Speaker | Venue and Time | |
-|-|-|-|-|
-| Seminar | Kishor Bharti | TBA | [[arXiv](https://arxiv.org/abs/2501.00951)] |
+| Event | Speaker | Venue | Date | Time | |
+|-|-|-|-|-|-|
+| Seminar | Kishor Bharti | TBA | Wed, Feb 19, 2025 | 11:00 AM to 12:30 PM | [[arXiv](https://arxiv.org/abs/2501.00951)] |
+
+
+
+<details open>
+
+  <summary>
+    
+## Pipeline (provisional)
+
+This is a provisional list of speakers, subject to change.
+
+<br />
+
+  </summary>
+
 
 ### Achim Kempf—Encrypted Qubits can be Cloned 
 We show that encrypted cloning of unknown quantum states is possible. Any number of encrypted clones of a qubit can be created through a unitary transformation, and each of the encrypted clones can be decrypted through a unitary transformation. The decryption of an encrypted clone consumes the decryption key, i.e., only one decryption is possible, in agreement with the no-cloning theorem. A possible application of encrypted cloning is to enable encrypted quantum multi-cloud storage. Beyond applications in cryptography, encrypted cloning could provide a form of redundancy, parallelism, fault tolerance or scalability where direct duplication is forbidden by the no-cloning theorem.
