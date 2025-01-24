@@ -13,10 +13,12 @@ If you would like to present your work, or have other related questions, please 
 ## Upcoming 
 <br/>
 
-| Event | Venue | Time | Date | 
-|-|-|-|-|
-| Tea | A3-117 |  3:00 PM | Tuesday, Jan 21, 2025 |
+### Aryaman Kolhe
+Abstract: TBA
 
+| Event | Speaker |  Venue | Time | Date | 
+|-|-|-|-|-|
+| Talk | Aryaman Kohle | Seminar Hall 2 (SH2), Vindhya |  11:00 AM to 12:30 PM | Wednesday, Jan 29, 2025 |
 
 <details open>
 
@@ -50,10 +52,21 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
   <summary>
     
   ## Past    
-  
-  </summary>
-  
+
+  Expand for older events.
+
   ### January - April, 2025
+
+
+  | Event | Venue | Time | Date | 
+|-|-|-|-|
+| Tea | A3-117 |  3:00 PM | Tuesday, Jan 21, 2025 |
+
+</summary>
+
+
+« That is all for now. »
+
 <!--
   ### Achim Kempf—Encrypted Qubits can be Cloned 
 We show that encrypted cloning of unknown quantum states is possible. Any number of encrypted clones of a qubit can be created through a unitary transformation, and each of the encrypted clones can be decrypted through a unitary transformation. The decryption of an encrypted clone consumes the decryption key, i.e., only one decryption is possible, in agreement with the no-cloning theorem. A possible application of encrypted cloning is to enable encrypted quantum multi-cloud storage. Beyond applications in cryptography, encrypted cloning could provide a form of redundancy, parallelism, fault tolerance or scalability where direct duplication is forbidden by the no-cloning theorem.
@@ -63,7 +76,6 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 | Seminar | Achim Kempf |  TBA | 
 -->
 
-  «Will be updated as we proceed.»
     
 </details>
 
