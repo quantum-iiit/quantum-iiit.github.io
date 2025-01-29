@@ -67,7 +67,7 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 <br/>
 
 
-### [Quantum Talk] Aryaman Kolhe—A Study of Bias-Preserving Gates
+### [Quantum Talk] Aryaman Kohle—A Study of Bias-Preserving Gates
 In realistic quantum hardware, the noise channel could be more biased towards either X or Z errors, so it is possible to construct fault-tolerant schemes that focus on handling this biased noise. However, the application of certain gates during computation can change this noise bias, which leads to the study of bias-preserving gates, whose properties will be discussed in this talk.
 
 | Event | Speaker |  Venue |  Date | Time |
