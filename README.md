@@ -20,7 +20,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
   | Event | Venue | Time | Date | 
 |-|-|-|-|
-| Tea | TBA |  11:00 AM | Tuesday, Feb 5, 2025 |
+| Tea | TBA |  11:00 AM | Wed, Feb 5, 2025 |
 
 
 ### [Quantum Seminar] Kishor Bharti—Pseudorandom quantum authentication
