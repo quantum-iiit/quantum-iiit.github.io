@@ -84,9 +84,10 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 ### [Quantum Talk] Aryaman Kolhe—A Study of Bias-Preserving Gates
 In realistic quantum hardware, the noise channel could be more biased towards either X or Z errors, so it is possible to construct fault-tolerant schemes that focus on handling this biased noise. However, the application of certain gates during computation can change this noise bias, which leads to the study of bias-preserving gates, whose properties will be discussed in this talk.
 
-| Event | Speaker |  Venue |  Date | Time |
-|-|-|-|-|-|
-| Talk | Aryaman Kolhe | Seminar Hall 2 (SH2), Vindhya |  Wed, Jan 29, 2025 | 11:00 AM to 12:30 PM | 
+
+| Event | Speaker |  Venue |  Date | Time |  | 
+|-|-|-|-|-|-|
+| Talk | Aryaman Kolhe | Seminar Hall 2 (SH2), Vindhya |  Wed, Jan 29, 2025 | 11:00 AM to 12:30 PM | <sup><sub>[[Recording]](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EVaN2nCNnqhKs6b7XTg6ZaEBqI0Zibn_bAB3Dp8uYp1jiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NiTJ7k)</sub></sup> |
 
 
 
