@@ -2,10 +2,10 @@
 
 Welcome to the Quantum Meets page for IIIT where we post details regarding upcoming quantum events.
 
-* [YouTube channel](https://www.youtube.com/channel/UCZqeOxEIisIIscw2wcxIr2g) (videos will be uploaded as we proceed)
-* Teams Channel (primarily for announcing upcoming events)
-    * [Seminar Only](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/Announcements%20(Quantum%E2%80%94IIIT)?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) 
-    * [Everything](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/%5Bpublic%5D%20Quantum%20Meets?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) (includes announcements about internal, in person events as well)
+* Recordings: [YouTube Channel](https://www.youtube.com/channel/UCZqeOxEIisIIscw2wcxIr2g) (videos will be uploaded as we proceed)
+* Announcements: 
+    * Teams channel for [all](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/%5Bpublic%5D%20Quantum%20Meets?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) events. <sup><sub> (including internal in-person events) </sub></sup>
+    * Teams channel for [seminar only](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/Announcements%20(Quantum%E2%80%94IIIT)?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) announcements.
 * Calendar <sup><sub> [[iCal]](https://calendar.google.com/calendar/ical/b02429b4ded9c76a1e5e691621d9da9263d3393d55efba77086f8b688470d589%40group.calendar.google.com/public/basic.ics) [[Google]](https://calendar.google.com/calendar/embed?src=b02429b4ded9c76a1e5e691621d9da9263d3393d55efba77086f8b688470d589%40group.calendar.google.com&ctz=Asia%2FKolkata) </sub></sup>
 
 
@@ -22,7 +22,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
   | Event | Venue | Time | Date | 
 |-|-|-|-|
-| Tea | TBA |  11:00 AM | Wed, Feb 5, 2025 |
+| Tea | KRB Large Meeting-LM 34 (3rd floor) |  11:00 AM onwards | Wed, Feb 5, 2025 |
 
 
 ### [Quantum Seminar] Kishor Bharti—Pseudorandom quantum authentication
