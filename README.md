@@ -16,6 +16,12 @@ If you would like to present your work, or have other related questions, please 
 Here are the confirmed upcoming talks/seminars. 
 Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
 
+### [Quantum Tea]
+
+  | Event | Venue | Time | Date | 
+|-|-|-|-|
+| Tea | TBA |  11:00 AM | Tuesday, Feb 5, 2025 |
+
 
 ### [Quantum Seminar] Kishor Bharti—Pseudorandom quantum authentication
 We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient method for encrypting quantum states that relies solely on the existence of pseudorandom unitaries (PRUs). The scheme guarantees that for any eavesdropper with quantum polynomial-time (QPT) computational power, the encrypted states are indistinguishable from the maximally mixed state. Furthermore, the receiver can verify that the state has not been tampered with and recover the original state with asymptotically unit fidelity. Our scheme is cost-effective, requiring only polylogarithmic circuit depth and a single shared key to encrypt a polynomial number of states. Notably, the PQAS can potentially exist even without quantum-secure one-way functions, requiring fundamentally weaker computational assumptions than semantic classical cryptography. Additionally, PQAS is secure against attacks that plague protocols based on QPT indistinguishability from Haar random states, such as chosen-plaintext attacks (CPAs) and attacks that reveal meta-information such as quantum resources. We relate the amount of meta-information that is leaked to quantum pseudoresources, giving the concept a practical meaning. As an application, we construct important cryptographic primitives, such as verifiable pseudorandom density matrices (VPRDMs), which are QPT-indistinguishable from random mixed states while being efficiently verifiable via a secret key, as well as verifiable noise-robust EFI pairs and one-way state generators (OWSGs). Our results establish a new paradigm of quantum information processing with weaker computational assumptions.
