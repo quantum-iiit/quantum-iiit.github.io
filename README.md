@@ -32,7 +32,7 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 
 | Event | Speaker | Venue | Date | Time | |
 |-|-|-|-|-|-|
-| Seminar | Kishor Bharti | TBA | Wed, Feb 19, 2025 | 11:00 AM to 12:30 PM | [[arXiv](https://arxiv.org/abs/2501.00951)] |
+| Seminar | Kishor Bharti | KRB Faculty Meeting room (backup: KRB Large Meeting room) | Wed, Feb 19, 2025 | 11:00 AM to 12:30 PM | [[arXiv](https://arxiv.org/abs/2501.00951)] |
 
 
 
