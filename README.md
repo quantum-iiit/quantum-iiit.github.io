@@ -26,7 +26,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db048bbd-b64f-4065-8cde-0029af4d164e" /> -->
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a1896d95-b28d-4140-bae6-9da2f078e57a" />
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1bd23b7d-0cd1-416e-81dd-54f53587ae7b" />
 
 We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient method for encrypting quantum states that relies solely on the existence of pseudorandom unitaries (PRUs). The scheme guarantees that for any eavesdropper with quantum polynomial-time (QPT) computational power, the encrypted states are indistinguishable from the maximally mixed state. Furthermore, the receiver can verify that the state has not been tampered with and recover the original state with asymptotically unit fidelity. Our scheme is cost-effective, requiring only polylogarithmic circuit depth and a single shared key to encrypt a polynomial number of states. Notably, the PQAS can potentially exist even without quantum-secure one-way functions, requiring fundamentally weaker computational assumptions than semantic classical cryptography. Additionally, PQAS is secure against attacks that plague protocols based on QPT indistinguishability from Haar random states, such as chosen-plaintext attacks (CPAs) and attacks that reveal meta-information such as quantum resources. We relate the amount of meta-information that is leaked to quantum pseudoresources, giving the concept a practical meaning. As an application, we construct important cryptographic primitives, such as verifiable pseudorandom density matrices (VPRDMs), which are QPT-indistinguishable from random mixed states while being efficiently verifiable via a secret key, as well as verifiable noise-robust EFI pairs and one-way state generators (OWSGs). Our results establish a new paradigm of quantum information processing with weaker computational assumptions.
 
@@ -50,6 +50,9 @@ This is a provisional list of speakers, subject to change.
 
 
 ### [Quantum Seminar] Ulysse Chabaud—Can effective descriptions of bosonic systems be considered complete?
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/21fd3bb4-c6a0-4d1c-9093-9a81e8e78e7d" />
+
 Bosonic statistics give rise to remarkable phenomena, from the Hong–Ou–Mandel effect to Bose–Einstein condensation, with applications spanning fundamental science to quantum technologies.
 Modeling bosonic systems relies heavily on effective descriptions: typical examples include truncating their infinite-dimensional state space and restricting their dynamics to a simple class of
 Hamiltonians, such as polynomials of canonical operators, which are used to define quantum computing over bosonic modes. However, many natural bosonic Hamiltonians do not belong to this
