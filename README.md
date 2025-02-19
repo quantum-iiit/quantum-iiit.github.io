@@ -32,9 +32,9 @@ can we trust results obtained with such simplifying assumptions to capture real 
 Driven by the increasing importance of bosonic systems for quantum technologies, we solve this outstanding problem by showing that these effective descriptions do in fact capture the relevant
 physics of bosonic systems. Our technical contribution is twofold: firstly, we prove that any physical, bosonic unitary evolution can be strongly approximated by a finite-dimensional unitary evolution; secondly, we show that any finite-dimensional unitary evolution can be generated exactly by a bosonic Hamiltonian that is a polynomial of canonical operators. Beyond their fundamental significance, our results have implications for classical and quantum simulations of bosonic systems, they provide universal methods for engineering bosonic quantum states and Hamiltonians, they show that polynomial Hamiltonians do generate universal gate sets for quantum computing over bosonic modes, and they lead to an infinite-dimensional Solovay–Kitaev theorem.
 
-| Event | Speaker | Venue | Date | Time | |
+| Event | Speaker | Venue | Date | Time | Link |
 |-|-|-|-|-|-|
-| Seminar | Ulysse Chabaud | TBA | Tentatively, April | TBA | | 
+| Seminar | Ulysse Chabaud | TBA | Tentatively, April | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
