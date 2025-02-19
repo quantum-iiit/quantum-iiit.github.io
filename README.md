@@ -32,9 +32,9 @@ can we trust results obtained with such simplifying assumptions to capture real 
 Driven by the increasing importance of bosonic systems for quantum technologies, we solve this outstanding problem by showing that these effective descriptions do in fact capture the relevant
 physics of bosonic systems. Our technical contribution is twofold: firstly, we prove that any physical, bosonic unitary evolution can be strongly approximated by a finite-dimensional unitary evolution; secondly, we show that any finite-dimensional unitary evolution can be generated exactly by a bosonic Hamiltonian that is a polynomial of canonical operators. Beyond their fundamental significance, our results have implications for classical and quantum simulations of bosonic systems, they provide universal methods for engineering bosonic quantum states and Hamiltonians, they show that polynomial Hamiltonians do generate universal gate sets for quantum computing over bosonic modes, and they lead to an infinite-dimensional Solovay–Kitaev theorem.
 
-| Event | Speaker | Venue and Time | 
-|-|-|-|
-| Seminar | Ulysse Chabaud | Tentatively, April | 
+| Event | Speaker | Venue | Date | Time | |
+|-|-|-|-|-|-|
+| Seminar | Ulysse Chabaud | TBA | Tentatively, April | TBA | | 
 
 
 
@@ -83,9 +83,9 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
 We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient method for encrypting quantum states that relies solely on the existence of pseudorandom unitaries (PRUs). The scheme guarantees that for any eavesdropper with quantum polynomial-time (QPT) computational power, the encrypted states are indistinguishable from the maximally mixed state. Furthermore, the receiver can verify that the state has not been tampered with and recover the original state with asymptotically unit fidelity. Our scheme is cost-effective, requiring only polylogarithmic circuit depth and a single shared key to encrypt a polynomial number of states. Notably, the PQAS can potentially exist even without quantum-secure one-way functions, requiring fundamentally weaker computational assumptions than semantic classical cryptography. Additionally, PQAS is secure against attacks that plague protocols based on QPT indistinguishability from Haar random states, such as chosen-plaintext attacks (CPAs) and attacks that reveal meta-information such as quantum resources. We relate the amount of meta-information that is leaked to quantum pseudoresources, giving the concept a practical meaning. As an application, we construct important cryptographic primitives, such as verifiable pseudorandom density matrices (VPRDMs), which are QPT-indistinguishable from random mixed states while being efficiently verifiable via a secret key, as well as verifiable noise-robust EFI pairs and one-way state generators (OWSGs). Our results establish a new paradigm of quantum information processing with weaker computational assumptions.
 
-| Event | Speaker | Venue | Date | Time | Topic |
+| Event | Speaker | Venue | Date | Time | Links |
 |-|-|-|-|-|-|
-| Seminar | Kishor Bharti | KRB Faculty Meeting room (backup: KRB Large Meeting room) |  <nobr> Wed, Feb 19,</nobr> 2025 | 11:00 AM to 12:30 PM | Pseudorandom quantum authentication <sub><sup>[[arXiv](https://arxiv.org/abs/2501.00951)] [[YouTube](https://youtu.be/SAVN-dznnFY)] </sub></sup> |
+| Seminar | Kishor Bharti | KRB Faculty Meeting room (backup: KRB Large Meeting room) |  <nobr> Wed, Feb 19,</nobr> 2025 | 11:00 AM to 12:30 PM | <sub><sup>[[preprint](https://arxiv.org/abs/2501.00951)] [[Recording](https://youtu.be/SAVN-dznnFY)] </sub></sup> |
 
 
 </summary>
