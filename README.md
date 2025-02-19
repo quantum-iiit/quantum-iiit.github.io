@@ -108,7 +108,7 @@ In realistic quantum hardware, the noise channel could be more biased towards ei
 
 | Event | Speaker |  Venue |  Date | Time |  | 
 |-|-|-|-|-|-|
-| Talk | Aryaman Kolhe | Seminar Hall 2 (SH2), Vindhya |  Wed, Jan 29, 2025 | 11:00 AM to 12:30 PM | <sup><sub>[[Recording]](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EVaN2nCNnqhKs6b7XTg6ZaEBqI0Zibn_bAB3Dp8uYp1jiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NiTJ7k)</sub></sup> |
+| Talk | Aryaman Kolhe | Seminar Hall 2 (SH2), Vindhya |  Wed, Jan 29, 2025 | 11:00 AM to 12:30 PM | Recording <sup><sub>[[SharePoint]](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EVaN2nCNnqhKs6b7XTg6ZaEBqI0Zibn_bAB3Dp8uYp1jiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NiTJ7k)</sub></sup> |
 
 
 
