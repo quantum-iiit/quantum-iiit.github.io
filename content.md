@@ -20,6 +20,17 @@ Here are the confirmed upcoming talks/seminars.
 Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
 
 
+<br/>
+
+### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar)
+
+| Event |  Venue | Date | Time | Link | 
+|-|-|-|-|-|
+| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 12, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://www.youtube.com/live/M-iI2csVdPc?si=1Rn2fXkgKTfCyfpt) |
+
+
+<br/>
+
 ### [Quantum Seminar] Ulysse Chabaud—Can effective descriptions of bosonic systems be considered complete?
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/21fd3bb4-c6a0-4d1c-9093-9a81e8e78e7d" />
