@@ -22,11 +22,11 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar)
+### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar), continued
 
 | Event |  Venue | Date | Time | Link | 
 |-|-|-|-|-|
-| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 12, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://www.youtube.com/live/M-iI2csVdPc?si=1Rn2fXkgKTfCyfpt) |
+| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 19, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://www.youtube.com/live/M-iI2csVdPc?si=1Rn2fXkgKTfCyfpt) |
 
 
 <br/>
@@ -105,6 +105,13 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 
 
 <br/>
+
+### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar)
+
+| Event |  Venue | Date | Time | Link | 
+|-|-|-|-|-|
+| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 12, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://www.youtube.com/live/M-iI2csVdPc?si=1Rn2fXkgKTfCyfpt) |
+
 
 ### [Quantum Tea—cancelled]
 
