@@ -31,7 +31,19 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Seminar] Ulysse Chabaud—Can effective descriptions of bosonic systems be considered complete?
+## Pipeline
+
+### [Quantum Seminar] Venkata Koppula
+
+TBA
+
+| Event | Speaker | Venue | Date | Time | Link |
+|-|-|-|-|-|-|
+| Seminar | Venkata Koppula | TBA | Tentatively, April (first week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+### [Quantum Seminar] Ulysse Chabaud—[Can effective descriptions of bosonic systems be considered complete?](https://arxiv.org/abs/2501.13857)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/21fd3bb4-c6a0-4d1c-9093-9a81e8e78e7d" />
 
@@ -45,7 +57,55 @@ physics of bosonic systems. Our technical contribution is twofold: firstly, we p
 
 | Event | Speaker | Venue | Date | Time | Link |
 |-|-|-|-|-|-|
-| Seminar | Ulysse Chabaud | TBA | Tentatively, April | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Ulysse Chabaud | TBA | Tentatively, April (second week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
+### [Quantum Seminar] Ravi Kunjwal—[What's nonclassical about indefinite causal order?](https://arxiv.org/abs/2307.02565)
+
+<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
+<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> 
+
+Causal inequalities are device-independent constraints on correlations realizable via local operations under the assumption of definite causal order between these operations. While causal inequalities in the bipartite scenario require nonclassical resources within the process-matrix framework for their violation, there exist tripartite causal inequalities that admit violations with classical resources. The tripartite case puts into question the status of a causal inequality violation as a witness of nonclassicality, i.e., there is no a priori reason to believe that quantum effects are in general necessary for a causal inequality violation. Here we propose antinomicity as a notion of nonclassicality for correlations in the presence of indefinite causality and prove strict inclusions between correlation sets classified by their antinomicity. This article provides a causal perspective on antinomicity, complementing the device-independent perspective adopted in arXiv:2411.11397. Besides providing important background to the results reported in arXiv:2411.11397, including proofs of key technical results, we also define a weight-based measure for the antinomicity of correlations that we term the antinomy weight of a correlation. We then investigate antinomic correlations in bipartite and tripartite scenarios with binary settings and outcomes. In doing so, we discover antinomic correlations that are impossible in the process-matrix framework. 
+
+
+| Event | Speaker | Venue | Date | Time | Link |
+|-|-|-|-|-|-|
+| Seminar | Ravi Kunjwal | TBA | Tentatively, April (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
+
+
+
+<br/>
+
+### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb" />
+
+<!-- ![image](https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb) -->
+
+TBA 
+
+| Event | Speaker | Venue | Date | Time | Link |
+|-|-|-|-|-|-|
+| Seminar | Damian Markham | TBA | Tentatively, May (1st week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Seminar] Mark M. Wilde—Machina ex Quanta: Rise of the Quantum Boltzmann Machines
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3cb99c12-a7f5-4ec8-a34d-5f033661d00a" />
+
+
+Boltzmann machines are a well established model for classical machine learning, based on ideas rooted in physics like thermal distributions. Roughly eight years ago now, quantum Boltzmann machines were proposed as a generalization of their classical counterparts and can be understood as parameterized thermal states of local Hamiltonians. While this generalization allows for non-commuting Hamiltonians inaccessible in the classical case, training them for various optimization tasks had remained an obstacle. In this talk, I'll discuss how my coauthors and I have overcome this obstacle by deriving analytical expressions for the gradient and providing quantum algorithms that can estimate it. The algorithms make use of standard primitives such as the Hadamard test, classical sampling, and Hamiltonian simulation. I'll also show how to train quantum Boltzmann machines using a metric-aware gradient descent algorithm, which makes use of analytical expressions we have derived for quantum generalizations of the Fisher information matrix and quantum algorithms we have constructed for estimating information matrix elements. Finally, I'll introduce a new model called evolved quantum Boltzmann machines, which uses parameterized time-evolved thermal states as an ansatz, extending the conventional model of quantum Boltzmann machines. Evolved quantum Boltzmann machines incorporate real and imaginary time evolution according to two different non-commuting parameterized Hamiltonians, and they can also be trained using metric-aware gradient descent. If time permits, I'll mention applications of our findings to estimating time-evolved thermal states. Based on joint work with Daniel Koch, Michele Minervini, Dhrumil Patel, Saahil Patel, and available at arXiv:2410.12935, arXiv:2410.24058, and arXiv:2501.03367.
+
+
+| Event | Speaker | Venue | Date | Time | Link |
+|-|-|-|-|-|-|
+| Seminar | Mark M. Wilde | TBA | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
