@@ -146,7 +146,7 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
 
 
-### [Quantum Seminar] Kishor Bharti—Pseudorandom quantum authentication
+### [Quantum Seminar] Kishor Bharti—[Pseudorandom quantum authentication](https://arxiv.org/abs/2501.00951)
 
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db048bbd-b64f-4065-8cde-0029af4d164e" /> -->
 
