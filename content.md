@@ -33,17 +33,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 ## Pipeline
 
-### [Quantum Seminar] Venkata Koppula
-
-<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
-
-TBA 
-| Event | Speaker | Venue | Date | Time | Link |
-|-|-|-|-|-|-|
-| Seminar | Venkata Koppula | TBA | Tentatively, April (first week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
 <br/>
 
 ### [Quantum Seminar] Ulysse Chabaud—[Can effective descriptions of bosonic systems be considered complete?](https://arxiv.org/abs/2501.13857)
@@ -79,6 +68,22 @@ Causal inequalities are device-independent constraints on correlations realizabl
 | Seminar | Ravi Kunjwal | TBA | Tentatively, April (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
 
 
+<br/>
+
+
+### [Quantum Seminar] Venkata Koppula
+
+<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
+
+TBA 
+| Event | Speaker | Venue | Date | Time | Link |
+|-|-|-|-|-|-|
+| Seminar | Venkata Koppula | TBA | Tentatively, May (first week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
 
 <br/>
 
@@ -92,7 +97,7 @@ TBA
 
 | Event | Speaker | Venue | Date | Time | Link |
 |-|-|-|-|-|-|
-| Seminar | Damian Markham | TBA | Tentatively, May (1st week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Damian Markham | TBA | Tentatively, May (second week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
