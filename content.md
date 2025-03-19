@@ -152,7 +152,11 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
   Expand for older events.
 
+</summary>
 
+  ### January - April, 2025
+
+<br/>
 
 ### [Quantum Seminar] Kishor Bharti—[Pseudorandom quantum authentication](https://arxiv.org/abs/2501.00951)
 
@@ -167,9 +171,6 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 | Seminar | Kishor Bharti | KRB Faculty Meeting room |  <nobr> Wed, Feb 19,</nobr> 2025 | 11:00 AM to 12:30 PM | Preprint <sub><sup>[[arXiv](https://arxiv.org/abs/2501.00951)]</sup></sub> <br/> Recording <sub><sup>[[YouTube](https://youtu.be/SAVN-dznnFY)] </sup></sub> |
 
 
-</summary>
-
-  ### January - April, 2025
 
 
 <br/>
