@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29a869f3-9866-4e26-a5d1-1be2b39d606b)# Quantum Meets | IIIT
+Quantum Meets | IIIT
 
 Welcome to the Quantum Meets page for IIIT where we post details regarding upcoming quantum events.
 
