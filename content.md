@@ -1,4 +1,4 @@
-Quantum Meets | IIIT
+# Quantum Meets | IIIT
 
 Welcome to the Quantum Meets page for IIIT where we post details regarding upcoming quantum events.
 
