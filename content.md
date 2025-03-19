@@ -1,4 +1,4 @@
-# Quantum Meets | IIIT
+![image](https://github.com/user-attachments/assets/29a869f3-9866-4e26-a5d1-1be2b39d606b)# Quantum Meets | IIIT
 
 Welcome to the Quantum Meets page for IIIT where we post details regarding upcoming quantum events.
 
@@ -22,11 +22,11 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar), continued
+### [Quantum Tea] Aryaman Kolhe and Sreyas Samanithan—TBA
 
-| Event |  Venue | Date | Time | Link | 
-|-|-|-|-|-|
-| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 19, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://www.youtube.com/live/M-iI2csVdPc?si=1Rn2fXkgKTfCyfpt) |
+| Event |  Venue | Date | Time | 
+|-|-|-|-|
+| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM |
 
 
 <br/>
@@ -136,6 +136,7 @@ This is a provisional list of speakers, subject to change.
 
 
 
+
 ### [Quantum Seminar] Achim Kempf—Encrypted Qubits can be Cloned 
 We show that encrypted cloning of unknown quantum states is possible. Any number of encrypted clones of a qubit can be created through a unitary transformation, and each of the encrypted clones can be decrypted through a unitary transformation. The decryption of an encrypted clone consumes the decryption key, i.e., only one decryption is possible, in agreement with the no-cloning theorem. A possible application of encrypted cloning is to enable encrypted quantum multi-cloud storage. Beyond applications in cryptography, encrypted cloning could provide a form of redundancy, parallelism, fault tolerance or scalability where direct duplication is forbidden by the no-cloning theorem.
 
@@ -151,6 +152,8 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
   ## Past    
 
   Expand for older events.
+
+<br />
 
 </summary>
 
@@ -171,6 +174,13 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 | Seminar | Kishor Bharti | KRB Faculty Meeting room |  <nobr> Wed, Feb 19,</nobr> 2025 | 11:00 AM to 12:30 PM | Preprint <sub><sup>[[arXiv](https://arxiv.org/abs/2501.00951)]</sup></sub> <br/> Recording <sub><sup>[[YouTube](https://youtu.be/SAVN-dznnFY)] </sup></sub> |
 
 
+<br/>
+
+### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar), continued
+
+| Event |  Venue | Date | Time | Link | 
+|-|-|-|-|-|
+| Tea |  KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 19, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://www.youtube.com/live/M-iI2csVdPc?si=1Rn2fXkgKTfCyfpt) |
 
 
 <br/>
