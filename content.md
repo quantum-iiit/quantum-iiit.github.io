@@ -54,7 +54,7 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/))
 <!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
 
-
+<br/>
 
 |Event | Visitor | Affiliation | From | To | Office |
 |-|-|-|-|-|-|
@@ -130,9 +130,59 @@ Boltzmann machines are a well established model for classical machine learning, 
 | Seminar | Mark M. Wilde | Cornell University | TBA | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
+<br/>
+
+### [Quantum Seminar] Alexandru Cojocaru—TBA
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
+
+<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | (provisional) July (2nd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
+
+### [Quantum Seminar] Antariksha Das—TBA
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/639ce1f9-cce4-4e63-9930-3f1db7c831e3" />
+
+<!-- ![image](https://github.com/user-attachments/assets/639ce1f9-cce4-4e63-9930-3f1db7c831e3) -->
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Antariksha Das | ICFO (Barcelona)  | TBA | (provisional) July (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+<br/>
+
+
+
+### [Quantum Seminar] Gilad Gour—TBA
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
+
+<!-- ![image](https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3) -->
+
+<br/>
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Gilard Gour | Technion - Israel Institute of Technology  | TBA | (provisional) August (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 <details close>
