@@ -22,7 +22,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Tea] (YouTube) 11th BIU Winter School in Cryptography
+### [Quantum Tea] 11th BIU Winter School in Cryptography (YouTube) 
 
 | Event |  Venue | Date | Time | Link | 
 |-|-|-|-|-|
