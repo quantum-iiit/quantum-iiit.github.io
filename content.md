@@ -22,11 +22,11 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Tea]
+### [Quantum Tea] (YouTube) 11th BIU Winter School in Cryptography
 
-| Event |  Venue | Date | Time | 
-|-|-|-|-|
-| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM |
+| Event |  Venue | Date | Time | Link | 
+|-|-|-|-|-|
+| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)]
 
 <br/>
 <br/>
