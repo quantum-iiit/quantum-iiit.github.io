@@ -26,7 +26,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 | Event |  Venue | Date | Time | Link | 
 |-|-|-|-|-|
-| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)]
+| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
 
 <br/>
 <br/>
@@ -133,7 +133,7 @@ Boltzmann machines are a well established model for classical machine learning, 
 <br/>
 
 
-### [Quantum Seminar] Ion Nechita—Diagonal unitary and orthogonal symmetries in quantum theory
+### [Quantum Seminar] Ion Nechita—[Diagonal unitary and orthogonal symmetries in quantum theory](https://quantum-journal.org/papers/q-2021-08-09-519/)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b0f1da84-8576-4b67-aee5-5488c01ccd1c" />
 
@@ -145,7 +145,7 @@ We analyze bipartite matrices and linear maps between matrix algebras, which are
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | TBA | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [[Article](https://quantum-journal.org/papers/q-2021-08-09-519/)] [[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)] | 
+| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | TBA | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
