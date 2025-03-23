@@ -33,15 +33,32 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 ## Pipeline
 
-### [Quantum Visitor] Venkata Koppula
+### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
 
-<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
+<!-- ![image](https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba) -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba" />
+
+Yes, we show that they are.
+We initiate the study of languages that necessarily need uncloneable quantum proofs and advice. We define strictly uncloneable versions of the classes QMA, BQP/qpoly and FEQP/qpoly (which is the class of relational problems solvable exactly with polynomial-sized quantum advice). Strictly uncloneable QMA is defined to be the class of languages in QMA that only have uncloneable proofs, i.e., given any family of candidate proof states, a polynomial-time cloning algorithm cannot act on it to produce states that are jointly usable by k separate polynomial-time verifiers, for arbitrary polynomial k. This is a stronger notion of uncloneable proofs and advice than those considered in previous works, which only required the existence of a single family of proof or advice states that are uncloneable. We show that in the quantum oracle model, there exist languages in strictly uncloneable QMA and strictly uncloneable BQP/qpoly. The language in strictly uncloneable QMA also gives a quantum oracle separation between QMA and the class cloneableQMA introduced by Nehoran and Zhandry (2024). We also show without using any oracles that the language, used by Aaronson, Buhrman and Kretschmer (2024) to separate FEQP/qpoly and FBQP/poly, is in strictly uncloneable FEQP/qpoly.
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Srijita Kundu | Institute for Quantum Computing, University of Waterloo | TBA | Tentatively, April (first week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+### [Quantum Visitor] Venkata Koppula
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
 
-| From | To | Office |
-|-|-|-|
-| (provisional) April 14, 2025 | (provisional)  April 19, 2025 | TBA | 
+Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/))
+<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
+
+
+
+|Event | Visitor | Affiliation | From | To | Office |
+|-|-|-|-|-|-|
+|Visit | Venkata Koppula | IIT Delhi | (provisional) April 14, 2025 | (provisional)  April 19, 2025 | TBA | 
 
 
 <br/>
@@ -59,9 +76,9 @@ can we trust results obtained with such simplifying assumptions to capture real 
 Driven by the increasing importance of bosonic systems for quantum technologies, we solve this outstanding problem by showing that these effective descriptions do in fact capture the relevant
 physics of bosonic systems. Our technical contribution is twofold: firstly, we prove that any physical, bosonic unitary evolution can be strongly approximated by a finite-dimensional unitary evolution; secondly, we show that any finite-dimensional unitary evolution can be generated exactly by a bosonic Hamiltonian that is a polynomial of canonical operators. Beyond their fundamental significance, our results have implications for classical and quantum simulations of bosonic systems, they provide universal methods for engineering bosonic quantum states and Hamiltonians, they show that polynomial Hamiltonians do generate universal gate sets for quantum computing over bosonic modes, and they lead to an infinite-dimensional Solovay–Kitaev theorem.
 
-| Event | Speaker | Venue | Date | Time | Link |
-|-|-|-|-|-|-|
-| Seminar | Ulysse Chabaud  | TBA | Tentatively, April (second week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | TBA | Tentatively, April (second week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
 
@@ -75,9 +92,9 @@ physics of bosonic systems. Our technical contribution is twofold: firstly, we p
 Causal inequalities are device-independent constraints on correlations realizable via local operations under the assumption of definite causal order between these operations. While causal inequalities in the bipartite scenario require nonclassical resources within the process-matrix framework for their violation, there exist tripartite causal inequalities that admit violations with classical resources. The tripartite case puts into question the status of a causal inequality violation as a witness of nonclassicality, i.e., there is no a priori reason to believe that quantum effects are in general necessary for a causal inequality violation. Here we propose antinomicity as a notion of nonclassicality for correlations in the presence of indefinite causality and prove strict inclusions between correlation sets classified by their antinomicity. This article provides a causal perspective on antinomicity, complementing the device-independent perspective adopted in arXiv:2411.11397. Besides providing important background to the results reported in arXiv:2411.11397, including proofs of key technical results, we also define a weight-based measure for the antinomicity of correlations that we term the antinomy weight of a correlation. We then investigate antinomic correlations in bipartite and tripartite scenarios with binary settings and outcomes. In doing so, we discover antinomic correlations that are impossible in the process-matrix framework. 
 
 
-| Event | Speaker | Venue | Date | Time | Link |
-|-|-|-|-|-|-|
-| Seminar | Ravi Kunjwal | TBA | Tentatively, April (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ravi Kunjwal | Universit´e libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | TBA | Tentatively, April (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
 
 
 
@@ -92,9 +109,9 @@ Causal inequalities are device-independent constraints on correlations realizabl
 
 TBA 
 
-| Event | Speaker | Venue | Date | Time | Link |
-|-|-|-|-|-|-|
-| Seminar | Damian Markham | TBA | Tentatively, Mon, May 12, 2025 |  4:00 PM to 5:30 PM (IST) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Event | Speaker | Affiliaton | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Damian Markham | LIP6, Sorbonne Université |TBA | Tentatively, Mon, May 12, 2025 |  4:00 PM to 5:30 PM (IST) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -108,9 +125,9 @@ TBA
 Boltzmann machines are a well established model for classical machine learning, based on ideas rooted in physics like thermal distributions. Roughly eight years ago now, quantum Boltzmann machines were proposed as a generalization of their classical counterparts and can be understood as parameterized thermal states of local Hamiltonians. While this generalization allows for non-commuting Hamiltonians inaccessible in the classical case, training them for various optimization tasks had remained an obstacle. In this talk, I'll discuss how my coauthors and I have overcome this obstacle by deriving analytical expressions for the gradient and providing quantum algorithms that can estimate it. The algorithms make use of standard primitives such as the Hadamard test, classical sampling, and Hamiltonian simulation. I'll also show how to train quantum Boltzmann machines using a metric-aware gradient descent algorithm, which makes use of analytical expressions we have derived for quantum generalizations of the Fisher information matrix and quantum algorithms we have constructed for estimating information matrix elements. Finally, I'll introduce a new model called evolved quantum Boltzmann machines, which uses parameterized time-evolved thermal states as an ansatz, extending the conventional model of quantum Boltzmann machines. Evolved quantum Boltzmann machines incorporate real and imaginary time evolution according to two different non-commuting parameterized Hamiltonians, and they can also be trained using metric-aware gradient descent. If time permits, I'll mention applications of our findings to estimating time-evolved thermal states. Based on joint work with Daniel Koch, Michele Minervini, Dhrumil Patel, Saahil Patel, and available at arXiv:2410.12935, arXiv:2410.24058, and arXiv:2501.03367.
 
 
-| Event | Speaker | Venue | Date | Time | Link |
-|-|-|-|-|-|-|
-| Seminar | Mark M. Wilde | TBA | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Mark M. Wilde | Cornell University | TBA | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
