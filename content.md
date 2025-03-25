@@ -33,20 +33,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 ## Pipeline
 
-### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
-
-<!-- ![image](https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba) -->
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba" />
-
-Yes, we show that they are.
-We initiate the study of languages that necessarily need uncloneable quantum proofs and advice. We define strictly uncloneable versions of the classes QMA, BQP/qpoly and FEQP/qpoly (which is the class of relational problems solvable exactly with polynomial-sized quantum advice). Strictly uncloneable QMA is defined to be the class of languages in QMA that only have uncloneable proofs, i.e., given any family of candidate proof states, a polynomial-time cloning algorithm cannot act on it to produce states that are jointly usable by k separate polynomial-time verifiers, for arbitrary polynomial k. This is a stronger notion of uncloneable proofs and advice than those considered in previous works, which only required the existence of a single family of proof or advice states that are uncloneable. We show that in the quantum oracle model, there exist languages in strictly uncloneable QMA and strictly uncloneable BQP/qpoly. The language in strictly uncloneable QMA also gives a quantum oracle separation between QMA and the class cloneableQMA introduced by Nehoran and Zhandry (2024). We also show without using any oracles that the language, used by Aaronson, Buhrman and Kretschmer (2024) to separate FEQP/qpoly and FBQP/poly, is in strictly uncloneable FEQP/qpoly.
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Srijita Kundu | Institute for Quantum Computing, University of Waterloo (Canada) | TBA | Tentatively, April (first week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
 ### [Quantum Visitor] Venkata Koppula
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
@@ -96,6 +82,21 @@ Causal inequalities are device-independent constraints on correlations realizabl
 |-|-|-|-|-|-|-|
 | Seminar | Ravi Kunjwal | Universit´e libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | TBA | Tentatively, April (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
 
+
+<br/>
+
+### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
+
+<!-- ![image](https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba) -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba" />
+
+Yes, we show that they are.
+We initiate the study of languages that necessarily need uncloneable quantum proofs and advice. We define strictly uncloneable versions of the classes QMA, BQP/qpoly and FEQP/qpoly (which is the class of relational problems solvable exactly with polynomial-sized quantum advice). Strictly uncloneable QMA is defined to be the class of languages in QMA that only have uncloneable proofs, i.e., given any family of candidate proof states, a polynomial-time cloning algorithm cannot act on it to produce states that are jointly usable by k separate polynomial-time verifiers, for arbitrary polynomial k. This is a stronger notion of uncloneable proofs and advice than those considered in previous works, which only required the existence of a single family of proof or advice states that are uncloneable. We show that in the quantum oracle model, there exist languages in strictly uncloneable QMA and strictly uncloneable BQP/qpoly. The language in strictly uncloneable QMA also gives a quantum oracle separation between QMA and the class cloneableQMA introduced by Nehoran and Zhandry (2024). We also show without using any oracles that the language, used by Aaronson, Buhrman and Kretschmer (2024) to separate FEQP/qpoly and FBQP/poly, is in strictly uncloneable FEQP/qpoly.
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Srijita Kundu | Institute for Quantum Computing, University of Waterloo (Canada) | TBA | Tentatively, April (first week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
