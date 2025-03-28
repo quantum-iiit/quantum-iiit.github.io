@@ -26,10 +26,11 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 | Event |  Venue | Date | Time | Link | 
 |-|-|-|-|-|
-| Tea | KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
+| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, April 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
 
 <br/>
 <br/>
+
 
 ## Pipeline
 
@@ -284,6 +285,15 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 
 
 <br/>
+
+### [Quantum Tea] 11th BIU Winter School in Cryptography (YouTube) 
+
+| Event |  Venue | Date | Time | Link | 
+|-|-|-|-|-|
+| Tea | KRB Large Meeting-LM 22 (2nd floor) | Wed, Mar 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
+
+<br/>
+
 
 ### [Quantum Tea] Fermi Ma—How to construct random unitaries (YouTube Seminar), continued
 
