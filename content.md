@@ -26,7 +26,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 | Event |  Venue | Date | Time | Link | 
 |-|-|-|-|-|
-| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, April 2, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
+| Tea | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 2, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
 
 <br/>
 <br/>
