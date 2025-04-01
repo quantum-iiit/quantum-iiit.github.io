@@ -26,7 +26,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 | Event |  Venue | Date | Time | Link | 
 |-|-|-|-|-|
-| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, April 26, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
+| Tea | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, April 2, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
 
 <br/>
 <br/>
@@ -34,22 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 ## Pipeline
 
-### [Quantum Visitor] Venkata Koppula
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
-
-Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/))
-<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
-
-<br/>
-
-|Event | Visitor | Affiliation | From | To | Office |
-|-|-|-|-|-|-|
-|Visit | Venkata Koppula | IIT Delhi | (provisional) April 14, 2025 | (provisional)  April 19, 2025 | TBA | 
-
-
-<br/>
-<br/>
 
 ### [Quantum Seminar] Ulysse Chabaud—[Can effective descriptions of bosonic systems be considered complete?](https://arxiv.org/abs/2501.13857)
 
@@ -82,6 +66,25 @@ Causal inequalities are device-independent constraints on correlations realizabl
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Ravi Kunjwal | Universit´e libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | TBA | Monday, April 14 |  4:00 PM to 5:30 PM IST  | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
+
+
+<br/>
+
+### [Quantum Visitor] Venkata Koppula
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
+
+Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/))
+<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
+
+<br/>
+
+|Event | Visitor | Affiliation | From | To | Office |
+|-|-|-|-|-|-|
+|Visit | Venkata Koppula | IIT Delhi | (provisional) April 14, 2025 | (provisional)  April 19, 2025 | TBA | 
+
+
+<br/>
 
 
 <br/>
