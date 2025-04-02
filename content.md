@@ -18,7 +18,7 @@ If you would like to present your work, or have other related questions, please 
 ## Upcoming 
 <br/>
 
-Here are the confirmed upcoming talks/seminars. 
+Here are the confirmed upcoming [Quantum Meets events](quantum-iiit.github.io). 
 Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
 
 
@@ -106,6 +106,7 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 
 
 
+
 <br/>
 
 ### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
@@ -113,8 +114,6 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb" />
 
 <!-- ![image](https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb) -->
-
-<br/>
 
 ```
 
@@ -127,7 +126,10 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 
 
 ```
+<div style="clear: both;"></div>
 <br/>
+<br/>
+
 
 
 
