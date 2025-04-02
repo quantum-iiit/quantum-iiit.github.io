@@ -21,7 +21,7 @@ If you would like to present your work, or have other related questions, please 
 Here are the confirmed upcoming [Quantum Meets events](quantum-iiit.github.io). 
 Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
 
-
+<div style="clear: both;"></div>
 <br/>
 
 ### [Quantum Tea] 11th BIU Winter School in Cryptography (YouTube) 
@@ -31,6 +31,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 | Tea | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 2, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
 
 <br/>
+<div style="clear: both;"></div>
 <br/>
 
 
@@ -53,6 +54,7 @@ physics of bosonic systems. Our technical contribution is twofold: firstly, we p
 |-|-|-|-|-|-|-|
 | Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | TBA | Monday, April 7 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
+<div style="clear: both;"></div>
 <br/>
 
 
@@ -69,7 +71,7 @@ Causal inequalities are device-independent constraints on correlations realizabl
 |-|-|-|-|-|-|-|
 | Seminar | Ravi Kunjwal | Universit´e libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | TBA | Monday, April 14 |  4:00 PM to 5:30 PM IST  | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
 
-
+<div style="clear: both;"></div>
 <br/>
 
 ### [Quantum Visitor] Venkata Koppula
@@ -88,7 +90,7 @@ Venkata is a faculty member in the Computer Science and Engineering department a
 
 <br/>
 
-
+<div style="clear: both;"></div>
 <br/>
 
 ### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
@@ -106,7 +108,7 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 
 
 
-
+<div style="clear: both;"></div>
 <br/>
 
 ### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
@@ -153,7 +155,7 @@ Boltzmann machines are a well established model for classical machine learning, 
 |-|-|-|-|-|-|-|
 | Seminar | Mark M. Wilde | Cornell University | TBA | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
-
+<div style="clear: both;"></div>
 <br/>
 
 
@@ -177,7 +179,7 @@ We also discuss their applications to zero-knowledge proofs, oblivious transfers
 | Seminar | Barak Nehoran | Princeton | TBA | (Provisional) Wed, June 11, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
-
+<div style="clear: both;"></div>
 <br/>
 
 
@@ -196,7 +198,7 @@ We analyze bipartite matrices and linear maps between matrix algebras, which are
 | Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | TBA | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
-
+<div style="clear: both;"></div>
 <br/>
 
 
@@ -217,7 +219,7 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 |-|-|-|-|-|-|-|
 | Seminar | Rohit Chatterjee | National University of Singapore  | TBA | Provisionally, Wed, June 25th, 2025 | 11 AM to 12:30 PM IST (1:30 PM to 3:00 PM SGT) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
-
+<div style="clear: both;"></div>
 <br/>
 
 <!-- SKIP_START -->
