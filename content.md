@@ -115,6 +115,12 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 <!-- ![image](https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb) -->
 
 TBA 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 | Event | Speaker | Affiliaton | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
