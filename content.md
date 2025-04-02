@@ -24,19 +24,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Tea] 11th BIU Winter School in Cryptography (YouTube) 
-
-| Event |  Venue | Date | Time | Link | 
-|-|-|-|-|-|
-| Tea | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 2, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
-
-<br/>
-<div style="clear: both;"></div>
-<br/>
-
-
-## Pipeline
-
 
 ### [Quantum Seminar] Ulysse Chabaud—[Can effective descriptions of bosonic systems be considered complete?](https://arxiv.org/abs/2501.13857)
 
@@ -56,6 +43,11 @@ physics of bosonic systems. Our technical contribution is twofold: firstly, we p
 
 <div style="clear: both;"></div>
 <br/>
+
+
+
+## Pipeline
+
 
 
 ### [Quantum Seminar] Ravi Kunjwal—[What's nonclassical about indefinite causal order?](https://arxiv.org/abs/2307.02565)
@@ -92,6 +84,8 @@ Venkata is a faculty member in the Computer Science and Engineering department a
 
 <div style="clear: both;"></div>
 <br/>
+
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
 
@@ -222,13 +216,25 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 <div style="clear: both;"></div>
 <br/>
 
-<!-- SKIP_START -->
+
 
 ### [Quantum Seminar] Alexandru Cojocaru—TBA
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
 
 <!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+
+```
+
+
+
+
+   TBA
+
+
+
+
+```
 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
@@ -247,6 +253,20 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 <!-- ![image](https://github.com/user-attachments/assets/639ce1f9-cce4-4e63-9930-3f1db7c831e3) -->
 
+```
+
+
+
+
+   TBA
+
+
+
+
+```
+<div style="clear: both;"></div>
+<br/>
+<br/>
 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
@@ -266,7 +286,21 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 <!-- ![image](https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3) -->
 
+```
+
+
+
+
+   TBA
+
+
+
+
+```
+<div style="clear: both;"></div>
 <br/>
+<br/>
+
 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
@@ -332,6 +366,16 @@ We introduce the pseudorandom quantum authentication scheme (PQAS), an efficient
 | Seminar | Kishor Bharti | KRB Faculty Meeting room |  <nobr> Wed, Feb 19,</nobr> 2025 | 11:00 AM to 12:30 PM | Preprint <sub><sup>[[arXiv](https://arxiv.org/abs/2501.00951)]</sup></sub> <br/> Recording <sub><sup>[[YouTube](https://youtu.be/SAVN-dznnFY)] </sup></sub> |
 
 
+<br/>
+
+### [Quantum Tea] 11th BIU Winter School in Cryptography (YouTube) 
+
+| Event |  Venue | Date | Time | Link | 
+|-|-|-|-|-|
+| Tea | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 2, 2025 | 11:00 AM to 12:00 PM | [YouTube](https://youtube.com/playlist?list=PL8Vt-7cSFnw2JZsskO0bzeO7FswokQC7-&si=QhSHwC0iOvD286-p)
+
+<br/>
+<div style="clear: both;"></div>
 <br/>
 
 ### [Quantum Tea] 11th BIU Winter School in Cryptography (YouTube) 
