@@ -1,5 +1,7 @@
 # Quantum Meets | IIIT
 
+## About
+
 Welcome to the Quantum Meets page for IIIT where we post details regarding upcoming quantum events.
 
 * [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)
@@ -58,7 +60,7 @@ physics of bosonic systems. Our technical contribution is twofold: firstly, we p
 
 <!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
 <!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  /> 
 
 Causal inequalities are device-independent constraints on correlations realizable via local operations under the assumption of definite causal order between these operations. While causal inequalities in the bipartite scenario require nonclassical resources within the process-matrix framework for their violation, there exist tripartite causal inequalities that admit violations with classical resources. The tripartite case puts into question the status of a causal inequality violation as a witness of nonclassicality, i.e., there is no a priori reason to believe that quantum effects are in general necessary for a causal inequality violation. Here we propose antinomicity as a notion of nonclassicality for correlations in the presence of indefinite causality and prove strict inclusions between correlation sets classified by their antinomicity. This article provides a causal perspective on antinomicity, complementing the device-independent perspective adopted in arXiv:2411.11397. Besides providing important background to the results reported in arXiv:2411.11397, including proofs of key technical results, we also define a weight-based measure for the antinomicity of correlations that we term the antinomy weight of a correlation. We then investigate antinomic correlations in bipartite and tripartite scenarios with binary settings and outcomes. In doing so, we discover antinomic correlations that are impossible in the process-matrix framework. 
 
@@ -201,6 +203,8 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 <br/>
 
+<!-- SKIP_START -->
+
 ### [Quantum Seminar] Alexandru Cojocaru—TBA
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
@@ -281,6 +285,8 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
 <details>
   <summary>
+
+
     
   ## Past    
 
@@ -413,3 +419,5 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
 
 </details>
+
+<!-- SKIP_END -->
