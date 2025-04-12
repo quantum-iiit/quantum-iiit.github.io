@@ -26,24 +26,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Ulysse Chabaud—[Can effective descriptions of bosonic systems be considered complete?](https://arxiv.org/abs/2501.13857)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/21fd3bb4-c6a0-4d1c-9093-9a81e8e78e7d" />
-
-Bosonic statistics give rise to remarkable phenomena, from the Hong–Ou–Mandel effect to Bose–Einstein condensation, with applications spanning fundamental science to quantum technologies. Modeling bosonic systems relies heavily on effective descriptions: typical examples include truncating their infinite-dimensional state space and restricting their dynamics to a simple class of Hamiltonians, such as polynomials of canonical operators, which are used to define quantum computing over bosonic modes. However, many natural bosonic Hamiltonians do not belong to this simple class, and some quantum effects harnessed by bosonic computers inherently require infinite dimensional spaces, questioning the validity of such effective descriptions of bosonic systems. How can we trust results obtained with such simplifying assumptions to capture real effects? 
-Driven by the increasing importance of bosonic systems for quantum technologies, we solve this outstanding problem by showing that these effective descriptions do in fact capture the relevant physics of bosonic systems. Our technical contribution is twofold: firstly, we prove that any physical, bosonic unitary evolution can be strongly approximated by a finite-dimensional unitary evolution; secondly, we show that any finite-dimensional unitary evolution can be generated exactly by a bosonic Hamiltonian that is a polynomial of canonical operators. Beyond their fundamental significance, our results have implications for classical and quantum simulations of bosonic systems, they provide universal methods for engineering bosonic quantum states and Hamiltonians, they show that polynomial Hamiltonians do generate universal gate sets for quantum computing over bosonic modes, and they lead to an infinite-dimensional Solovay–Kitaev theorem.
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 7 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<div style="clear: both;"></div>
-<br/>
-
-
-
-## Pipeline
-
 
 
 ### [Quantum Seminar] Ravi Kunjwal—[What's nonclassical about indefinite causal order?](https://arxiv.org/abs/2307.02565)
@@ -62,6 +44,33 @@ Causal inequalities are device-independent constraints on correlations realizabl
 <div style="clear: both;"></div>
 <br/>
 
+
+### [Quantum Visitor/Seminar] Sowrabh Sudevan—[TBA]()
+
+<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
+<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
+<!--- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  />  -->
+
+```
+
+
+
+
+   TBA
+
+
+
+
+```
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Sowrabh Sudevan | IISER Kolkata | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 16 |  10:00 AM to 11:15 AM IST  | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
+
+<div style="clear: both;"></div>
+<br/>
+
 ### [Quantum Visitor] Venkata Koppula
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
@@ -73,7 +82,7 @@ Venkata is a faculty member in the Computer Science and Engineering department a
 
 |Event | Visitor | Affiliation | From | To | Office |
 |-|-|-|-|-|-|
-|Visit | Venkata Koppula | IIT Delhi | (provisional) April 14, 2025 | (provisional)  April 19, 2025 | TBA | 
+|Visit | Venkata Koppula | IIT Delhi | (provisional) April 18, 2025 | (provisional)  April 19, 2025 | TBA | 
 
 
 <br/>
@@ -81,7 +90,9 @@ Venkata is a faculty member in the Computer Science and Engineering department a
 <div style="clear: both;"></div>
 <br/>
 
-<!-- SKIP_START -->
+
+## Pipeline
+
 
 ### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
 
@@ -100,6 +111,8 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 
 <div style="clear: both;"></div>
 <br/>
+
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
 
@@ -422,6 +435,22 @@ In realistic quantum hardware, the noise channel could be more biased towards ei
 |-|-|-|-|
 | Tea | A3-117 |  3:00 PM | Tuesday, Jan 21, 2025 |
 
+
+
+
+### [Quantum Seminar] Ulysse Chabaud—[Can effective descriptions of bosonic systems be considered complete?](https://arxiv.org/abs/2501.13857)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/21fd3bb4-c6a0-4d1c-9093-9a81e8e78e7d" />
+
+Bosonic statistics give rise to remarkable phenomena, from the Hong–Ou–Mandel effect to Bose–Einstein condensation, with applications spanning fundamental science to quantum technologies. Modeling bosonic systems relies heavily on effective descriptions: typical examples include truncating their infinite-dimensional state space and restricting their dynamics to a simple class of Hamiltonians, such as polynomials of canonical operators, which are used to define quantum computing over bosonic modes. However, many natural bosonic Hamiltonians do not belong to this simple class, and some quantum effects harnessed by bosonic computers inherently require infinite dimensional spaces, questioning the validity of such effective descriptions of bosonic systems. How can we trust results obtained with such simplifying assumptions to capture real effects? 
+Driven by the increasing importance of bosonic systems for quantum technologies, we solve this outstanding problem by showing that these effective descriptions do in fact capture the relevant physics of bosonic systems. Our technical contribution is twofold: firstly, we prove that any physical, bosonic unitary evolution can be strongly approximated by a finite-dimensional unitary evolution; secondly, we show that any finite-dimensional unitary evolution can be generated exactly by a bosonic Hamiltonian that is a polynomial of canonical operators. Beyond their fundamental significance, our results have implications for classical and quantum simulations of bosonic systems, they provide universal methods for engineering bosonic quantum states and Hamiltonians, they show that polynomial Hamiltonians do generate universal gate sets for quantum computing over bosonic modes, and they lead to an infinite-dimensional Solovay–Kitaev theorem.
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 7 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<div style="clear: both;"></div>
+<br/>
 
 
 <!--
