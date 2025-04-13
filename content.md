@@ -346,7 +346,7 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
 </details>
 
-<details>
+<details open>
   <summary>
 
 
@@ -357,7 +357,7 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
 <br />
 
-</summary>
+</summary> 
 
   ### January - April, 2025
 
