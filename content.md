@@ -45,24 +45,18 @@ Causal inequalities are device-independent constraints on correlations realizabl
 <br/>
 
 
-### [Quantum Visitor/Seminar] Sowrabh Sudevan—[TBA]()
+### [Quantum Visitor/Seminar] Sowrabh Sudevan—[Constructing error correcting code spaces from m-uniform states]()
 
 <!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
 <!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
-<!--- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  />  -->
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/af09b264-e2cd-40b8-975a-359a0973d46d" /> 
 
-```
-
-
+<!-- ![image](https://github.com/user-attachments/assets/af09b264-e2cd-40b8-975a-359a0973d46d) -->
 
 
-   TBA
+While separable states are essentially alike, multipartite entangled states exhibit a rich diversity of structures. One notable form of such entanglement is m-uniformity, whose extremal case—absolutely maximally entangled (AME) states—has been studied across various domains, including quantum cryptography, quantum error correction, and holography.
 
-
-
-
-```
-
+In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]-distance quantum codes. We then introduce a method for "teleporting" information into a set of quantum registers. By combining these ideas, we construct [[n,k,m+1]] quantum codes and derive bounds relating the parameters n, k, and m.
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
