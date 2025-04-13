@@ -75,6 +75,8 @@ Venkata is a faculty member in the Computer Science and Engineering department a
 <br/>
 
 <sup> The speaker will be at the institute, until 6:00 PM. </sup>
+<br/>
+<sup> We apologise, we know it is a holiday but we couldn't find a better slot, given the constraints. </sup>
    
 <br/>
 
