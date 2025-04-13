@@ -73,7 +73,7 @@ In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]
 Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/))
 <!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
 
-<br/>
+<br/><div style="clear: both;"></div><br/>
 
 <sup> The speaker will be at the institute, until 6:00 PM. </sup>
 <br/>
