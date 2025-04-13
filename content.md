@@ -65,7 +65,7 @@ In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Visitor] Venkata Koppula
+### [Quantum Visitor/Informal Talk] Venkata Koppula
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
 
@@ -74,9 +74,13 @@ Venkata is a faculty member in the Computer Science and Engineering department a
 
 <br/>
 
-|Event | Visitor | Affiliation | From | To | Office |
+<sup> The speaker will be at the institute, until 6:00 PM. </sup>
+   
+<br/>
+
+|Event | Visitor | Affiliation | Date | Time | Venue |
 |-|-|-|-|-|-|
-|Visit | Venkata Koppula | IIT Delhi | (provisional) April 18, 2025 | (provisional)  April 19, 2025 | TBA | 
+|Visit | Venkata Koppula | IIT Delhi | Friday, April 18, 2025 | 10:00 AM to 11:30 AM | KRB Large Meeting-LM 22 (2nd floor) | 
 
 
 <br/>
