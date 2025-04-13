@@ -80,9 +80,9 @@ Venkata is a faculty member in the Computer Science and Engineering department a
    
 <br/>
 
-|Event | Visitor | Affiliation | Date | Time | Venue |
+|Event | Visitor | Affiliation | Venue | Date | Time | 
 |-|-|-|-|-|-|
-|Visit | Venkata Koppula | IIT Delhi | Friday, April 18, 2025 | 10:00 AM to 11:30 AM | KRB Large Meeting-LM 22 (2nd floor) | 
+|Visit | Venkata Koppula | IIT Delhi | KRB Large Meeting-LM 22 (2nd floor) |  Friday, April 18, 2025 | 10:00 AM to 11:30 AM | 
 
 
 <br/>
