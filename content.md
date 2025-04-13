@@ -66,11 +66,19 @@ In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Visitor/Informal Talk] Venkata Koppula
+### [Quantum Visitor/Informal Talk] Venkata Koppula—Verification and Delegation of (Quantum) Computation
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
 
-Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/))
+Abstract: Consider a resource-bounded client that wants to outsource some computation C to a powerful server. The client might want the following desirable features: 
+
+(a) Verifiability - some proof that the server has indeed performed the computation C <br/>
+(b) Blind Delegation - the server performs the computation without learning anything about C
+
+I will briefly discuss how these properties can achieved in the classical setting (where both client and server are classical, but the server is more powerful than the client). Next, I will discuss some recent progress for these questions in the quantum setting, where the server is quantum, and the client is classical. Both these problems can be solved using a single cryptographic tool. No crypto background will be assumed for this talk.
+
+
+<!-- Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/)) -->
 <!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
 
 <br/><div style="clear: both;"></div><br/>
