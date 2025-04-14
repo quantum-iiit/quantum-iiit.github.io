@@ -39,7 +39,7 @@ Causal inequalities are device-independent constraints on correlations realizabl
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ravi Kunjwal | Universit´e libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 14 |  4:00 PM to 5:30 PM IST  | [YouTube](https://www.youtube.com/watch?v=oykULBBuUy4)  | 
+| Seminar | Ravi Kunjwal | Université libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 14 |  4:00 PM to 5:30 PM IST  | [YouTube](https://www.youtube.com/watch?v=oykULBBuUy4)  | 
 
 <div style="clear: both;"></div>
 <br/>
