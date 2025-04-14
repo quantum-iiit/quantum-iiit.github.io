@@ -91,7 +91,7 @@ I will briefly discuss how these properties can achieved in the classical settin
 
 |Event | Visitor | Affiliation | Venue | Date | Time | 
 |-|-|-|-|-|-|
-|Visit | Venkata Koppula | IIT Delhi | KRB Large Meeting-LM 22 (2nd floor) |  Friday, April 18, 2025 | 10:00 AM to 11:30 AM | 
+|Visit | Venkata Koppula | IIT Delhi | KRB Large Meeting-LM 22 (2nd floor) |  Friday, April 18, 2025 | 2:00 PM to 3:30 PM | 
 
 
 <br/>
