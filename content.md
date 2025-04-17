@@ -61,7 +61,7 @@ In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Sowrabh Sudevan | IISER Kolkata | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 16 |  10:00 AM to 11:15 AM IST  | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)  | 
+| Seminar | Sowrabh Sudevan | IISER Kolkata | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 16 |  10:00 AM to 11:15 AM IST  | [YouTube](https://www.youtube.com/watch?v=rMF8yziav2E)  | 
 
 <div style="clear: both;"></div>
 <br/>
