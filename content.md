@@ -28,73 +28,17 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Ravi Kunjwal—[What's nonclassical about indefinite causal order?](https://arxiv.org/abs/2307.02565)
+### [Quantum Talk] Soumyabrata Hazra—[Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla](https://arxiv.org/abs/2504.02385)
 
 <!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
 <!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  /> 
+<!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  />  -->
 
-Causal inequalities are device-independent constraints on correlations realizable via local operations under the assumption of definite causal order between these operations. While causal inequalities in the bipartite scenario require nonclassical resources within the process-matrix framework for their violation, there exist tripartite causal inequalities that admit violations with classical resources. The tripartite case puts into question the status of a causal inequality violation as a witness of nonclassicality, i.e., there is no a priori reason to believe that quantum effects are in general necessary for a causal inequality violation. Here we propose antinomicity as a notion of nonclassicality for correlations in the presence of indefinite causality and prove strict inclusions between correlation sets classified by their antinomicity. This article provides a causal perspective on antinomicity, complementing the device-independent perspective adopted in arXiv:2411.11397. Besides providing important background to the results reported in arXiv:2411.11397, including proofs of key technical results, we also define a weight-based measure for the antinomicity of correlations that we term the antinomy weight of a correlation. We then investigate antinomic correlations in bipartite and tripartite scenarios with binary settings and outcomes. In doing so, we discover antinomic correlations that are impossible in the process-matrix framework. 
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Ravi Kunjwal | Université libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 14 |  4:00 PM to 5:30 PM IST  | [YouTube](https://www.youtube.com/watch?v=oykULBBuUy4)  | 
-
-<div style="clear: both;"></div>
-<br/>
-
-
-### [Quantum Visitor/Seminar] Sowrabh Sudevan—[Constructing error correcting code spaces from m-uniform states](https://drive.google.com/drive/folders/1VQ89UiaoFFwSp0seL_CuttrqH67_3KJP?usp=sharing)
-
-<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
-<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/003c5169-84c6-4656-9506-7534bc3654e2" /> 
-
-<!-- ![image](https://github.com/user-attachments/assets/af09b264-e2cd-40b8-975a-359a0973d46d) -->
-<!-- ![image](https://github.com/user-attachments/assets/003c5169-84c6-4656-9506-7534bc3654e2) -->
-
-
-While separable states are essentially alike, multipartite entangled states exhibit a rich diversity of structures. One notable form of such entanglement is m-uniformity, whose extremal case—absolutely maximally entangled (AME) states—has been studied across various domains, including quantum cryptography, quantum error correction, and holography.
-
-In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]-distance quantum codes. We then introduce a method for "teleporting" information into a set of quantum registers. By combining these ideas, we construct [[n,k,m+1]] quantum codes and derive bounds relating the parameters n, k, and m. <sup>[[1]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.022426),[[2]](https://ieeexplore.ieee.org/abstract/document/10591769),[[3]](https://drive.google.com/drive/folders/1VQ89UiaoFFwSp0seL_CuttrqH67_3KJP?usp=sharing)</sup>
+We develop new algorithms for Quantum Singular Value Transformation (QSVT), a unifying framework underlying a wide range of quantum algorithms. Existing implementations of QSVT rely on block encoding, incurring O(logL) ancilla overhead and circuit depth O˜(dλL) for polynomial transformations of a Hamiltonian H=∑Lk=1λkHk, where d is polynomial degree, and λ=∑k|λk|. We introduce a new approach that eliminates block encoding, needs only a single ancilla qubit, and maintains near-optimal complexity, using only basic Hamiltonian simulation methods such as Trotterization. Our method achieves a circuit depth of O˜(L(dλcomm)1+o(1)), without any multi-qubit controlled gates. Here, λcomm depends on the nested commutators of the Hk's and can be much smaller than λ. Central to our technique is a novel use of Richardson extrapolation, enabling systematic error cancellation in interleaved sequences of arbitrary unitaries and Hamiltonian evolution operators, establishing a broadly applicable framework beyond QSVT. Additionally, we propose two randomized QSVT algorithms for cases with only sampling access to Hamiltonian terms. The first uses qDRIFT, while the second replaces block encodings in QSVT with randomly sampled unitaries. Both achieve quadratic complexity in d, which we establish as a lower bound for any randomized method implementing polynomial transformations in this model. Finally, as applications, we develop end-to-end quantum algorithms for quantum linear systems and ground state property estimation, achieving near-optimal complexity without oracular access. Our results provide a new framework for quantum algorithms, reducing hardware overhead while maintaining near-optimal performance, with implications for both near-term and fault-tolerant quantum computing.
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Sowrabh Sudevan | IISER Kolkata | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 16 |  10:00 AM to 11:15 AM IST  | [YouTube](https://www.youtube.com/watch?v=rMF8yziav2E)  | 
-
-<div style="clear: both;"></div>
-<br/>
-
-### [Quantum Visitor/Informal Talk] Venkata Koppula—Verification and Delegation of (Quantum) Computation
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
-
-Abstract: Consider a resource-bounded client that wants to outsource some computation C to a powerful server. The client might want the following desirable features: 
-
-(a) Verifiability - some proof that the server has indeed performed the computation C <br/>
-(b) Blind Delegation - the server performs the computation without learning anything about C
-
-I will briefly discuss how these properties can achieved in the classical setting (where both client and server are classical, but the server is more powerful than the client). Next, I will discuss some recent progress for these questions in the quantum setting, where the server is quantum, and the client is classical. Both these problems can be solved using a single cryptographic tool. No crypto background will be assumed for this talk.
-
-
-<!-- Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/)) -->
-<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
-
-<br/><div style="clear: both;"></div><br/>
-
-<sup> The speaker will be at the institute, until 6:00 PM. </sup>
-<br/>
-<sup> We apologise, we know it is a holiday but we couldn't find a better slot, given the constraints. </sup>
-   
-<br/>
-
-|Event | Visitor | Affiliation | Venue | Date | Time | 
-|-|-|-|-|-|-|
-|Visit | Venkata Koppula | IIT Delhi | KRB Large Meeting-LM 22 (2nd floor) |  Friday, April 18, 2025 | 2:00 PM to 3:30 PM | 
-
-
-<br/>
+| Seminar | Ravi Kunjwal | IIIT | A3-117, Vindya (ground floor) (provisional) | Sat, May 3, 2025 |  11:00 AM to 1:00 PM IST  |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <div style="clear: both;"></div>
 <br/>
@@ -457,6 +401,81 @@ Driven by the increasing importance of bosonic systems for quantum technologies,
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 7 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<div style="clear: both;"></div>
+<br/>
+
+
+
+
+
+### [Quantum Seminar] Ravi Kunjwal—[What's nonclassical about indefinite causal order?](https://arxiv.org/abs/2307.02565)
+
+<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
+<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  /> 
+
+Causal inequalities are device-independent constraints on correlations realizable via local operations under the assumption of definite causal order between these operations. While causal inequalities in the bipartite scenario require nonclassical resources within the process-matrix framework for their violation, there exist tripartite causal inequalities that admit violations with classical resources. The tripartite case puts into question the status of a causal inequality violation as a witness of nonclassicality, i.e., there is no a priori reason to believe that quantum effects are in general necessary for a causal inequality violation. Here we propose antinomicity as a notion of nonclassicality for correlations in the presence of indefinite causality and prove strict inclusions between correlation sets classified by their antinomicity. This article provides a causal perspective on antinomicity, complementing the device-independent perspective adopted in arXiv:2411.11397. Besides providing important background to the results reported in arXiv:2411.11397, including proofs of key technical results, we also define a weight-based measure for the antinomicity of correlations that we term the antinomy weight of a correlation. We then investigate antinomic correlations in bipartite and tripartite scenarios with binary settings and outcomes. In doing so, we discover antinomic correlations that are impossible in the process-matrix framework. 
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ravi Kunjwal | Université libre de Bruxelles, QuIC, Brussels, Belgium and Aix-Marseille University, CNRS, LIS, Marseille, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 14 |  4:00 PM to 5:30 PM IST  | [YouTube](https://www.youtube.com/watch?v=oykULBBuUy4)  | 
+
+<div style="clear: both;"></div>
+<br/>
+
+
+### [Quantum Visitor/Seminar] Sowrabh Sudevan—[Constructing error correcting code spaces from m-uniform states](https://drive.google.com/drive/folders/1VQ89UiaoFFwSp0seL_CuttrqH67_3KJP?usp=sharing)
+
+<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
+<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/003c5169-84c6-4656-9506-7534bc3654e2" /> 
+
+<!-- ![image](https://github.com/user-attachments/assets/af09b264-e2cd-40b8-975a-359a0973d46d) -->
+<!-- ![image](https://github.com/user-attachments/assets/003c5169-84c6-4656-9506-7534bc3654e2) -->
+
+
+While separable states are essentially alike, multipartite entangled states exhibit a rich diversity of structures. One notable form of such entanglement is m-uniformity, whose extremal case—absolutely maximally entangled (AME) states—has been studied across various domains, including quantum cryptography, quantum error correction, and holography.
+
+In this talk, we explore how n-qubit, m-uniform states correspond to [[n,0,m+1]]-distance quantum codes. We then introduce a method for "teleporting" information into a set of quantum registers. By combining these ideas, we construct [[n,k,m+1]] quantum codes and derive bounds relating the parameters n, k, and m. <sup>[[1]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.022426),[[2]](https://ieeexplore.ieee.org/abstract/document/10591769),[[3]](https://drive.google.com/drive/folders/1VQ89UiaoFFwSp0seL_CuttrqH67_3KJP?usp=sharing)</sup>
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Sowrabh Sudevan | IISER Kolkata | KRB Large Meeting-LM 22 (2nd floor) | Wed, April 16 |  10:00 AM to 11:15 AM IST  | [YouTube](https://www.youtube.com/watch?v=rMF8yziav2E)  | 
+
+<div style="clear: both;"></div>
+<br/>
+
+### [Quantum Visitor/Informal Talk] Venkata Koppula—Verification and Delegation of (Quantum) Computation
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf" />
+
+Abstract: Consider a resource-bounded client that wants to outsource some computation C to a powerful server. The client might want the following desirable features: 
+
+(a) Verifiability - some proof that the server has indeed performed the computation C <br/>
+(b) Blind Delegation - the server performs the computation without learning anything about C
+
+I will briefly discuss how these properties can achieved in the classical setting (where both client and server are classical, but the server is more powerful than the client). Next, I will discuss some recent progress for these questions in the quantum setting, where the server is quantum, and the client is classical. Both these problems can be solved using a single cryptographic tool. No crypto background will be assumed for this talk.
+
+
+<!-- Venkata is a faculty member in the Computer Science and Engineering department at IIT Delhi. Before this, he was a postdoc at the Weizmann Institute of Science, hosted by Zvika Brakerski. He obtained his Ph.D. from University of Texas, Austin, where his advisor was Brent Waters. His area of research is theoretical cryptography. (Adapted from [this page](https://web.iitd.ac.in/~kvenkata/)) -->
+<!-- ![image](https://github.com/user-attachments/assets/31cde43a-b4aa-4233-9885-a8c587fd1adf) -->
+
+<br/><div style="clear: both;"></div><br/>
+
+<sup> The speaker will be at the institute, until 6:00 PM. </sup>
+<br/>
+<sup> We apologise, we know it is a holiday but we couldn't find a better slot, given the constraints. </sup>
+   
+<br/>
+
+|Event | Visitor | Affiliation | Venue | Date | Time | 
+|-|-|-|-|-|-|
+|Visit | Venkata Koppula | IIT Delhi | KRB Large Meeting-LM 22 (2nd floor) |  Friday, April 18, 2025 | 2:00 PM to 3:30 PM | 
+
+
+<br/>
 
 <div style="clear: both;"></div>
 <br/>
