@@ -404,7 +404,7 @@ Driven by the increasing importance of bosonic systems for quantum technologies,
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 7 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Ulysse Chabaud  | DIENS, École Normale Supérieure, PSL University, CNRS, INRIA, France | KRB Large Meeting-LM 22 (2nd floor) | Monday, April 7 | 4:00 PM to 5:30 PM IST | [YouTube](https://www.youtube.com/watch?v=zOklqkGtrKw) | 
 
 <div style="clear: both;"></div>
 <br/>
