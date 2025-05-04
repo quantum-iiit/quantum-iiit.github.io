@@ -282,6 +282,32 @@ Of potentially independent interest, we develop a progress bound for information
 
 
 
+
+### [Quantum Seminar] Nagisa Hara—[A classical proof of quantum knowledge for multi-prover interactive proof systems](https://arxiv.org/abs/2503.13699)
+
+<!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373" />  -->
+
+<!-- ![image](https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373) -->
+
+
+In a proof of knowledge (PoK), a verifier becomes convinced that a prover possesses privileged information. In combination with zero-knowledge proof systems, PoKs are an important part of secure protocols such as digital signature schemes and authentication schemes as they enable a prover to demonstrate possession of a certain piece of information (such as a private key or a credential), without revealing it. Formally, A PoK is defined via the existence of an extractor, which is capable of reconstructing the key information that makes a verifier accept, given oracle access to the prover. We extend the concept of a PoK in the setting of a single classical verifier and two quantum provers, and exhibit the PoK property for a non-local game for the local Hamiltonian problem. More specifically, we construct an extractor which, given oracle access to a provers' strategy that leads to high acceptance probability, is able to reconstruct the ground state of a local Hamiltonian. Our result can be seen as a new form of self-testing, where, in addition to certifying a pre-shared entangled state and the prover's strategy, the verifier also certifies a local quantum state. This technique thus provides a method to ascertain that a prover has access to a quantum system, in particular, a ground state, thus indicating a new level of verification for a proof of quantumness.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Nagisa Hara | University of Ottawa, Canada | TBA | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+
 ### [Quantum Seminar] Gilad Gour—TBA
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
