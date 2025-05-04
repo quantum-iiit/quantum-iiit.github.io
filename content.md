@@ -26,31 +26,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-
-
-### [Quantum Talk] Soumyabrata Hazra—[Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla](https://arxiv.org/abs/2504.02385)
-
-<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
-<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
-<!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  />  -->
-
-<!-- <img width="462" alt="image" src="https://github.com/user-attachments/assets/005ecd49-5a9d-42c4-9655-d795ea13955c" /> -->
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/005ecd49-5a9d-42c4-9655-d795ea13955c"  />
-
-We develop new algorithms for Quantum Singular Value Transformation (QSVT), a unifying framework underlying a wide range of quantum algorithms. Existing implementations of QSVT rely on block encoding, incurring O(logL) ancilla overhead and circuit depth O˜(dλL) for polynomial transformations of a Hamiltonian H=∑Lk=1λkHk, where d is polynomial degree, and λ=∑k|λk|. We introduce a new approach that eliminates block encoding, needs only a single ancilla qubit, and maintains near-optimal complexity, using only basic Hamiltonian simulation methods such as Trotterization. Our method achieves a circuit depth of O˜(L(dλcomm)1+o(1)), without any multi-qubit controlled gates. Here, λcomm depends on the nested commutators of the Hk's and can be much smaller than λ. Central to our technique is a novel use of Richardson extrapolation, enabling systematic error cancellation in interleaved sequences of arbitrary unitaries and Hamiltonian evolution operators, establishing a broadly applicable framework beyond QSVT. Additionally, we propose two randomized QSVT algorithms for cases with only sampling access to Hamiltonian terms. The first uses qDRIFT, while the second replaces block encodings in QSVT with randomly sampled unitaries. Both achieve quadratic complexity in d, which we establish as a lower bound for any randomized method implementing polynomial transformations in this model. Finally, as applications, we develop end-to-end quantum algorithms for quantum linear systems and ground state property estimation, achieving near-optimal complexity without oracular access. Our results provide a new framework for quantum algorithms, reducing hardware overhead while maintaining near-optimal performance, with implications for both near-term and fault-tolerant quantum computing.
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Soumyabrata Hazra | IIIT | A3-117, Vindya (ground floor) (provisional) | Sat, May 3, 2025 |  11:00 AM to 1:00 PM IST  |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<div style="clear: both;"></div>
-<br/>
-
-
-## Pipeline
-
-
 ### [Quantum Seminar] Srijita Kundu—[Are uncloneable proof and advice states strictly necessary?](https://arxiv.org/abs/2410.11827)
 
 <!-- ![image](https://github.com/user-attachments/assets/d97e5300-cab8-444f-be78-fad1a346b3ba) -->
@@ -69,7 +44,10 @@ We initiate the study of languages that necessarily need uncloneable quantum pro
 <div style="clear: both;"></div>
 <br/>
 
-<!-- SKIP_START -->
+
+
+
+## Pipeline
 
 ### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
 
@@ -117,6 +95,8 @@ Boltzmann machines are a well established model for classical machine learning, 
 
 <div style="clear: both;"></div>
 <br/>
+
+<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Barak Nehoran—[Unconditionally Secure Commitments with Quantum Auxiliary Inputs](https://arxiv.org/abs/2311.18566)
@@ -483,6 +463,31 @@ I will briefly discuss how these properties can achieved in the classical settin
 
 <div style="clear: both;"></div>
 <br/>
+
+
+
+
+
+### [Quantum Talk] Soumyabrata Hazra—[Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla](https://arxiv.org/abs/2504.02385)
+
+<!-- <img width="423" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b" /> -->
+<!-- src="https://github.com/user-attachments/assets/1dcece59-01ab-4a5b-bedc-9d8ec3cbef61" -->
+<!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15d1ef15-edd7-4a1a-815a-4ff4b7b3d02b"  />  -->
+
+<!-- <img width="462" alt="image" src="https://github.com/user-attachments/assets/005ecd49-5a9d-42c4-9655-d795ea13955c" /> -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/005ecd49-5a9d-42c4-9655-d795ea13955c"  />
+
+We develop new algorithms for Quantum Singular Value Transformation (QSVT), a unifying framework underlying a wide range of quantum algorithms. Existing implementations of QSVT rely on block encoding, incurring O(logL) ancilla overhead and circuit depth O˜(dλL) for polynomial transformations of a Hamiltonian H=∑Lk=1λkHk, where d is polynomial degree, and λ=∑k|λk|. We introduce a new approach that eliminates block encoding, needs only a single ancilla qubit, and maintains near-optimal complexity, using only basic Hamiltonian simulation methods such as Trotterization. Our method achieves a circuit depth of O˜(L(dλcomm)1+o(1)), without any multi-qubit controlled gates. Here, λcomm depends on the nested commutators of the Hk's and can be much smaller than λ. Central to our technique is a novel use of Richardson extrapolation, enabling systematic error cancellation in interleaved sequences of arbitrary unitaries and Hamiltonian evolution operators, establishing a broadly applicable framework beyond QSVT. Additionally, we propose two randomized QSVT algorithms for cases with only sampling access to Hamiltonian terms. The first uses qDRIFT, while the second replaces block encodings in QSVT with randomly sampled unitaries. Both achieve quadratic complexity in d, which we establish as a lower bound for any randomized method implementing polynomial transformations in this model. Finally, as applications, we develop end-to-end quantum algorithms for quantum linear systems and ground state property estimation, achieving near-optimal complexity without oracular access. Our results provide a new framework for quantum algorithms, reducing hardware overhead while maintaining near-optimal performance, with implications for both near-term and fault-tolerant quantum computing.
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Soumyabrata Hazra | IIIT | A3-117, Vindya (ground floor) (provisional) | Sat, May 3, 2025 |  11:00 AM to 1:00 PM IST  |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<div style="clear: both;"></div>
+<br/>
+
+
 
 
 <!--
