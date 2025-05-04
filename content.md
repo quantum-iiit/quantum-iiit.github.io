@@ -96,7 +96,6 @@ Boltzmann machines are a well established model for classical machine learning, 
 <div style="clear: both;"></div>
 <br/>
 
-<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Barak Nehoran—[Unconditionally Secure Commitments with Quantum Auxiliary Inputs](https://arxiv.org/abs/2311.18566)
@@ -122,6 +121,7 @@ We also discuss their applications to zero-knowledge proofs, oblivious transfers
 <div style="clear: both;"></div>
 <br/>
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Ion Nechita—[Diagonal unitary and orthogonal symmetries in quantum theory](https://quantum-journal.org/papers/q-2021-08-09-519/)
 
@@ -164,6 +164,35 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 
 
+### [Quantum Seminar] Benjamin Lovitz—TBA
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b2d5f132-b24e-4e4b-ba30-ca8779b784d5" />
+
+<!-- <img width="360" alt="image" src="https://github.com/user-attachments/assets/b2d5f132-b24e-4e4b-ba30-ca8779b784d5" /> -->
+
+
+```
+
+
+
+
+   TBA
+
+
+
+
+```
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Benjamin Lovitz | Northeastern University  | TBA | Wednesday, 2 July, 2025 | 6:30 – 8:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 ### [Quantum Seminar] Alexandru Cojocaru—TBA
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
@@ -185,7 +214,7 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | (provisional) July (2nd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | Monday, 7 July, 2025 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -217,12 +246,39 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Antariksha Das | ICFO (Barcelona)  | TBA | (provisional) July (3rd week) | TBA | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Antariksha Das | ICFO (Barcelona)  | TBA | Monday, 14 July, 2025 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
 
 <br/>
+
+
+
+
+### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373" /> 
+
+<!-- ![image](https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373) -->
+
+
+We show how to construct simulation secure one-time memories, and thus one-time programs, without computational assumptions in the presence of constraints on quantum hardware. Specifically, we build one-time memories from random linear codes and quantum random access codes (QRACs) when constrained to non-adaptive, constant depth, and D-dimensional geometrically-local quantum circuit for some constant D. We place no restrictions on the adversary's classical computational power, number of qubits it can use, or the coherence time of its qubits. Notably, our construction can still be secure even in the presence of fault tolerant quantum computation as long as the input qubits are encoded in a non-fault tolerant manner (e.g. encoded as high energy states in non-ideal hardware). Unfortunately though, our construction requires decoding random linear codes and thus does not run in polynomial time. We leave open the question of whether one can construct a polynomial time information theoretically secure one-time memory from geometrically local quantum circuits.
+Of potentially independent interest, we develop a progress bound for information leakage via collision entropy (Renyi entropy of order 2) along with a few key technical lemmas for a "mutual information" for collision entropies. We also develop new bounds on how much information a specific 2↦1 QRAC can leak about its input, which may be of independent interest as well.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | TBA | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 
 
