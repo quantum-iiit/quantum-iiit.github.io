@@ -339,6 +339,30 @@ In a proof of knowledge (PoK), a verifier becomes convinced that a prover posses
 <br/>
 
 
+
+### [Quantum Seminar] Nicolai Friis—[Activation of Genuine Multipartite Entanglement: state-space structures beyond the single-copy paradigm](https://arxiv.org/abs/2412.18331)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9" /> 
+
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
+
+
+Quantum correlations in the form of entanglement, quantum steering or Bell nonlocality are resources for various information-processing tasks, but their detailed quantification and characterization remains complicated. One counter-intuitive effect is the phenomenon of superactivation, meaning that two copies of a quantum state may exhibit forms of correlations which are absent on the single-copy level. We develop a systematic approach towards a full understanding of this phenomenon using the paradigm of genuine multipartite entanglement. We introduce systematic methods for studying superactivation of entanglement based on symmetries and generalized notions of multipartite distillability. With this, we present novel criteria for superactivation as well as a quantitative theory of it. Moreover, we present evidence for incompressible entanglement on multi-copy systems, which cannot be reduced to the single-copy level.
+<sup> [1](https://arxiv.org/abs/2106.01372),[2](https://arxiv.org/abs/2312.16570),[3](https://arxiv.org/abs/2412.18331) </sup>
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | TBA | Wednesday, 27 August | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 <details close>
 
   <summary>
