@@ -44,7 +44,7 @@ In order to exploit this advantage, it is important to be sure the state that is
 
 | Event | Speaker | Affiliaton | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Damian Markham | LIP6, Sorbonne Université |TBA | Tentatively, Mon, May 12, 2025 |  4:00 PM to 5:30 PM (IST) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Damian Markham | LIP6, Sorbonne Université | KRB Large Meeting-LM 22 (2nd floor) | Tentatively, Mon, May 12, 2025 |  4:00 PM to 5:30 PM (IST) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
