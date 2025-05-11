@@ -52,7 +52,7 @@ In order to exploit this advantage, it is important to be sure the state that is
 
 ## Pipeline
 
-### [Quantum Seminar] Mark M. Wilde—Quantum thermodynamics and semi-definite optimization
+### [Quantum Seminar] Mark M. Wilde—[Quantum thermodynamics and semi-definite optimization](https://arxiv.org/abs/2505.04514)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3cb99c12-a7f5-4ec8-a34d-5f033661d00a" />
 
