@@ -92,7 +92,7 @@ We also discuss their applications to zero-knowledge proofs, oblivious transfers
 <div style="clear: both;"></div>
 <br/>
 
-<!-- SKIP_START -->
+
 
 ### [Quantum Seminar] Ion Nechita—[Diagonal unitary and orthogonal symmetries in quantum theory](https://quantum-journal.org/papers/q-2021-08-09-519/)
 
@@ -112,6 +112,7 @@ We analyze bipartite matrices and linear maps between matrix algebras, which are
 <div style="clear: both;"></div>
 <br/>
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Rohit Chatterjee—[The Round Complexity of Black-Box Post-Quantum Secure Computation](https://eprint.iacr.org/2020/494.pdf)
 
