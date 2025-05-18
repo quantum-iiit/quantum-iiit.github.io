@@ -26,31 +26,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb" />
-
-<!-- ![image](https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb) -->
-
-Quantum states act as resources in many quantum information tasks, in particular entangled states for quantum networks allow for security, communication complexity and distributed sensing not possible classically.
-In order to exploit this advantage, it is important to be sure the state that is the one that is expected - this is the problem of certification. We present some general techniques for verification and certification of quantum states for networks and their applications.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-
-| Event | Speaker | Affiliaton | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Damian Markham | LIP6, Sorbonne Université | KRB Large Meeting-LM 22 (2nd floor) | Mon, May 12, 2025 |  4:00 PM to 5:30 PM (IST) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-## Pipeline
 
 ### [Quantum Seminar] Mark M. Wilde—[Quantum thermodynamics and semi-definite optimization](https://arxiv.org/abs/2505.04514)
 
@@ -62,11 +38,12 @@ In quantum thermodynamics, a system is described by a Hamiltonian and a list of 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Mark M. Wilde | Cornell University | (provisional) KRB Large Meeting-LM 22 (2nd floor) | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Mark M. Wilde | Cornell University | *Online Only* | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <div style="clear: both;"></div>
 <br/>
 
+## Pipeline
 
 
 ### [Quantum Seminar] Barak Nehoran—[Unconditionally Secure Commitments with Quantum Auxiliary Inputs](https://arxiv.org/abs/2311.18566)
@@ -370,6 +347,30 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
    </summary>
   
+
+<br/>
+
+
+### [Quantum Seminar] Damian Markham—How to certify quantum states and what to do with them.
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb" />
+
+<!-- ![image](https://github.com/user-attachments/assets/4540f2b0-4d88-4695-8f73-898a3d81dfdb) -->
+
+Quantum states act as resources in many quantum information tasks, in particular entangled states for quantum networks allow for security, communication complexity and distributed sensing not possible classically.
+In order to exploit this advantage, it is important to be sure the state that is the one that is expected - this is the problem of certification. We present some general techniques for verification and certification of quantum states for networks and their applications.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+
+| Event | Speaker | Affiliaton | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Damian Markham | LIP6, Sorbonne Université | KRB Large Meeting-LM 22 (2nd floor) | Mon, May 12, 2025 |  4:00 PM to 5:30 PM (IST) | [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EXD84htiGldNkb3VSpZPJ28BlUFK_7P06Cx_r-SghvAjUw?e=AjsBnn) | 
+
 
 <br/>
 
