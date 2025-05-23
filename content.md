@@ -38,7 +38,7 @@ In quantum thermodynamics, a system is described by a Hamiltonian and a list of 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Mark M. Wilde | Cornell University | *«online only»* | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [YouTube](https://www.youtube.com/watch?v=DYIjgBGshb8) | 
+| Seminar | Mark M. Wilde | Cornell University | *«online only»* | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [YouTube](https://youtu.be/b9kWscePd0s) | 
 
 <div style="clear: both;"></div>
 <br/>
