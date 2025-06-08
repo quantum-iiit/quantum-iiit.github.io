@@ -28,22 +28,8 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Mark M. Wilde—[Quantum thermodynamics and semi-definite optimization](https://arxiv.org/abs/2505.04514)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3cb99c12-a7f5-4ec8-a34d-5f033661d00a" />
 
 
-In quantum thermodynamics, a system is described by a Hamiltonian and a list of non-commuting charges representing conserved quantities like particle number or electric charge, and an important goal is to determine the system’s minimum energy in the presence of these conserved charges. In optimization theory, a semi-definite program involves a linear objective function optimized over the cone of positive semi-definite operators intersected with an affine space. These problems arise from differing motivations in the physics and optimization communities and are phrased using very different terminology, yet they are essentially identical mathematically. By adopting Jaynes’ mindset motivated by quantum thermodynamics, I’ll discuss how minimizing free energy in the aforementioned thermodynamics problem, instead of energy, leads to an elegant solution in terms of a dual chemical potential maximization problem that is concave in the chemical potential parameters. As such, one can employ standard (stochastic) gradient ascent methods to find the optimal values of these parameters, and these methods are guaranteed to converge quickly. At low temperature, the minimum free energy provides an excellent approximation for the minimum energy. I’ll then show how this Jaynes-inspired gradient-ascent approach can be used in both classical and quantum algorithms for minimizing energy, and equivalently, how it can be used for solving semi-definite programs, with guarantees on the runtimes of the algorithms. The approach discussed here is well grounded in quantum thermodynamics and, as such, provides physical motivation underpinning why algorithms published fifty years after Jaynes’ seminal work, including the matrix multiplicative weights update method, the matrix exponentiated gradient update method, and their quantum algorithmic generalizations, perform well at semi-definite optimization tasks. Joint work with Nana Liu, Michele Minervini, and Dhrumil Patel.
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Mark M. Wilde | Cornell University | *«online only»* | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [YouTube](https://youtu.be/b9kWscePd0s) | 
-
-<div style="clear: both;"></div>
-<br/>
-
-## Pipeline
 
 
 ### [Quantum Seminar] Barak Nehoran—[Unconditionally Secure Commitments with Quantum Auxiliary Inputs](https://arxiv.org/abs/2311.18566)
@@ -69,6 +55,7 @@ We also discuss their applications to zero-knowledge proofs, oblivious transfers
 <div style="clear: both;"></div>
 <br/>
 
+## Pipeline
 
 
 ### [Quantum Seminar] Ion Nechita—[Diagonal unitary and orthogonal symmetries in quantum theory](https://quantum-journal.org/papers/q-2021-08-09-519/)
@@ -115,22 +102,14 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 ### [Quantum Seminar] Benjamin Lovitz—TBA
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b2d5f132-b24e-4e4b-ba30-ca8779b784d5" />
+<!-- ![image](https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476) -->
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476" />
 
 <!-- <img width="360" alt="image" src="https://github.com/user-attachments/assets/b2d5f132-b24e-4e4b-ba30-ca8779b784d5" /> -->
 
-
-```
-
-
-
-
-   TBA
-
-
-
-
-```
+Tree tensor network states (TTNS) form a class of physically motivated quantum states. We study the task of testing TTNS in the property testing framework, wherein one is handed multiple copies of an unknown quantum state, and performs measurements to determine whether the state forms a TTNS (of a given bond dimension) or is epsilon-far from TTNS. The minimum number of copies required is called the copy complexity of the task. We prove nearly tight bounds on the copy complexity of testing TTNS. This generalizes prior works on testing matrix product states (MPS), and closes a gap left in these works. No prior knowledge of quantum computing will be assumed. Based on joint work with Angus Lowe.
 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
@@ -234,9 +213,13 @@ Of potentially independent interest, we develop a progress bound for information
 
 ### [Quantum Seminar] Nagisa Hara—[A classical proof of quantum knowledge for multi-prover interactive proof systems](https://arxiv.org/abs/2503.13699)
 
-<!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373" />  -->
 
-<!-- ![image](https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373) -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/70774111-fcb2-4332-8b38-0527d9a4066c" />
+
+<!-- ![image](https://github.com/user-attachments/assets/70774111-fcb2-4332-8b38-0527d9a4066c) -->
+
+
 
 
 In a proof of knowledge (PoK), a verifier becomes convinced that a prover possesses privileged information. In combination with zero-knowledge proof systems, PoKs are an important part of secure protocols such as digital signature schemes and authentication schemes as they enable a prover to demonstrate possession of a certain piece of information (such as a private key or a credential), without revealing it. Formally, A PoK is defined via the existence of an extractor, which is capable of reconstructing the key information that makes a verifier accept, given oracle access to the prover. We extend the concept of a PoK in the setting of a single classical verifier and two quantum provers, and exhibit the PoK property for a non-local game for the local Hamiltonian problem. More specifically, we construct an extractor which, given oracle access to a provers' strategy that leads to high acceptance probability, is able to reconstruct the ground state of a local Hamiltonian. Our result can be seen as a new form of self-testing, where, in addition to certifying a pre-shared entangled state and the prover's strategy, the verifier also certifies a local quantum state. This technique thus provides a method to ascertain that a prover has access to a quantum system, in particular, a ground state, thus indicating a new level of verification for a proof of quantumness.
@@ -348,6 +331,21 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
    </summary>
   
 
+<br/>
+
+### [Quantum Seminar] Mark M. Wilde—[Quantum thermodynamics and semi-definite optimization](https://arxiv.org/abs/2505.04514)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3cb99c12-a7f5-4ec8-a34d-5f033661d00a" />
+
+
+In quantum thermodynamics, a system is described by a Hamiltonian and a list of non-commuting charges representing conserved quantities like particle number or electric charge, and an important goal is to determine the system’s minimum energy in the presence of these conserved charges. In optimization theory, a semi-definite program involves a linear objective function optimized over the cone of positive semi-definite operators intersected with an affine space. These problems arise from differing motivations in the physics and optimization communities and are phrased using very different terminology, yet they are essentially identical mathematically. By adopting Jaynes’ mindset motivated by quantum thermodynamics, I’ll discuss how minimizing free energy in the aforementioned thermodynamics problem, instead of energy, leads to an elegant solution in terms of a dual chemical potential maximization problem that is concave in the chemical potential parameters. As such, one can employ standard (stochastic) gradient ascent methods to find the optimal values of these parameters, and these methods are guaranteed to converge quickly. At low temperature, the minimum free energy provides an excellent approximation for the minimum energy. I’ll then show how this Jaynes-inspired gradient-ascent approach can be used in both classical and quantum algorithms for minimizing energy, and equivalently, how it can be used for solving semi-definite programs, with guarantees on the runtimes of the algorithms. The approach discussed here is well grounded in quantum thermodynamics and, as such, provides physical motivation underpinning why algorithms published fifty years after Jaynes’ seminal work, including the matrix multiplicative weights update method, the matrix exponentiated gradient update method, and their quantum algorithmic generalizations, perform well at semi-definite optimization tasks. Joint work with Nana Liu, Michele Minervini, and Dhrumil Patel.
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Mark M. Wilde | Cornell University | *«online only»* | Wed, May 21, 2025 | 6:30 PM to 8:00 PM IST | [YouTube](https://youtu.be/b9kWscePd0s) | 
+
+<div style="clear: both;"></div>
 <br/>
 
 
