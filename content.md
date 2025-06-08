@@ -240,7 +240,7 @@ In a proof of knowledge (PoK), a verifier becomes convinced that a prover posses
 
 
 
-### [Quantum Seminar] Gilad Gour—TBA
+### [Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
 
