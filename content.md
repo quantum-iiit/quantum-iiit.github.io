@@ -100,7 +100,7 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 
 
-### [Quantum Seminar] Benjamin Lovitz—TBA
+### [Quantum Seminar] Benjamin Lovitz—Nearly tight bounds for testing tree tensor network states
 
 <!-- ![image](https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476) -->
 
