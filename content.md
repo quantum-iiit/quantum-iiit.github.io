@@ -255,30 +255,7 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 <br/>
 
-<details close>
 
-  <summary>
-    
-## Pipeline (provisional)
-
-This is a provisional list of speakers, subject to change.
-
-<br />
-
-  </summary>
-
-
-
-
-
-### [Quantum Seminar] Achim Kempf—Encrypted Qubits can be Cloned 
-We show that encrypted cloning of unknown quantum states is possible. Any number of encrypted clones of a qubit can be created through a unitary transformation, and each of the encrypted clones can be decrypted through a unitary transformation. The decryption of an encrypted clone consumes the decryption key, i.e., only one decryption is possible, in agreement with the no-cloning theorem. A possible application of encrypted cloning is to enable encrypted quantum multi-cloud storage. Beyond applications in cryptography, encrypted cloning could provide a form of redundancy, parallelism, fault tolerance or scalability where direct duplication is forbidden by the no-cloning theorem.
-
-| Event | Speaker | Venue and Time | 
-|-|-|-|
-| Seminar | Achim Kempf |  TBA | 
-
-</details>
 
 <details open>
   <summary>
