@@ -38,7 +38,7 @@ We analyze bipartite matrices and linear maps between matrix algebras, which are
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | Online-only | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | Online-only | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [YouTube](https://youtu.be/sKBqA2ADfP8) | 
 
 
 <div style="clear: both;"></div>
@@ -202,7 +202,7 @@ In a proof of knowledge (PoK), a verifier becomes convinced that a prover posses
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nagisa Hara | University of Ottawa, Canada | TBA | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nagisa Hara | University of Ottawa, Canada | TBA | August 4, July, 2025 | 2:00 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
