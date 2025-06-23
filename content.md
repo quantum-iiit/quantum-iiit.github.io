@@ -26,27 +26,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Ion Nechita—[Diagonal unitary and orthogonal symmetries in quantum theory](https://quantum-journal.org/papers/q-2021-08-09-519/)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b0f1da84-8576-4b67-aee5-5488c01ccd1c" />
-
-<!-- ![image](https://github.com/user-attachments/assets/b0f1da84-8576-4b67-aee5-5488c01ccd1c) -->
-
-
-We analyze bipartite matrices and linear maps between matrix algebras, which are respectively, invariant and covariant, under the diagonal unitary and orthogonal groups' actions. By presenting an expansive list of examples from the literature, which includes notable entries like the Diagonal Symmetric states and the Choi-type maps, we show that this class of matrices (and maps) encompasses a wide variety of scenarios, thereby unifying their study. We examine their linear algebraic structure and investigate different notions of positivity through their convex conic manifestations. In particular, we generalize the well-known cone of completely positive matrices to that of triplewise completely positive matrices and connect it to the separability of the relevant invariant states (or the entanglement breaking property of the corresponding quantum channels). For linear maps, we provide explicit characterizations of the stated covariance in terms of their Kraus, Stinespring, and Choi representations, and systematically analyze the usual properties of positivity, decomposability, complete positivity, and the like. We also describe the invariant subspaces of these maps and use their structure to provide necessary and sufficient conditions for separability of the associated invariant bipartite states. 
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | Online-only | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [YouTube](https://youtu.be/sKBqA2ADfP8) | 
-
-
-<div style="clear: both;"></div>
-<br/>
-
-
-
-## Pipeline
 
 ### [Quantum Seminar] Rohit Chatterjee—[The Round Complexity of Black-Box Post-Quantum Secure Computation](https://eprint.iacr.org/2020/494.pdf)
 
@@ -63,11 +42,13 @@ En route, we obtain a black-box, constant-round post-quantum commitment achievin
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Rohit Chatterjee | National University of Singapore  | Online-only | Provisionally, Wed, June 25th, 2025 | 11 AM to 12:30 PM IST (1:30 PM to 3:00 PM SGT) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Rohit Chatterjee | National University of Singapore  | Online-only | Wed, June 25th, 2025 | 11 AM to 12:30 PM IST (1:30 PM to 3:00 PM SGT) | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <div style="clear: both;"></div>
 <br/>
 
+
+## Pipeline
 
 
 ### [Quantum Seminar] Benjamin Lovitz—Nearly tight bounds for testing tree tensor network states
@@ -278,6 +259,25 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
    </summary>
   
 
+<br/>
+
+
+### [Quantum Seminar] Ion Nechita—[Diagonal unitary and orthogonal symmetries in quantum theory](https://quantum-journal.org/papers/q-2021-08-09-519/)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b0f1da84-8576-4b67-aee5-5488c01ccd1c" />
+
+<!-- ![image](https://github.com/user-attachments/assets/b0f1da84-8576-4b67-aee5-5488c01ccd1c) -->
+
+
+We analyze bipartite matrices and linear maps between matrix algebras, which are respectively, invariant and covariant, under the diagonal unitary and orthogonal groups' actions. By presenting an expansive list of examples from the literature, which includes notable entries like the Diagonal Symmetric states and the Choi-type maps, we show that this class of matrices (and maps) encompasses a wide variety of scenarios, thereby unifying their study. We examine their linear algebraic structure and investigate different notions of positivity through their convex conic manifestations. In particular, we generalize the well-known cone of completely positive matrices to that of triplewise completely positive matrices and connect it to the separability of the relevant invariant states (or the entanglement breaking property of the corresponding quantum channels). For linear maps, we provide explicit characterizations of the stated covariance in terms of their Kraus, Stinespring, and Choi representations, and systematically analyze the usual properties of positivity, decomposability, complete positivity, and the like. We also describe the invariant subspaces of these maps and use their structure to provide necessary and sufficient conditions for separability of the associated invariant bipartite states. 
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | Online-only | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [YouTube](https://youtu.be/sKBqA2ADfP8) | 
+
+
+<div style="clear: both;"></div>
 <br/>
 
 
