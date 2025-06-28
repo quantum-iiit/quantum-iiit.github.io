@@ -72,34 +72,6 @@ Tree tensor network states (TTNS) form a class of physically motivated quantum s
 
 <!-- SKIP_START -->
 
-### [Quantum Seminar] Alexandru Cojocaru—TBA
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
-
-<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
-
-```
-
-
-
-
-   TBA
-
-
-
-
-```
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | Monday, 7 July, 2025 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
 
 ### [Quantum Seminar] Antariksha Das—TBA
 
@@ -236,6 +208,32 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 <br/>
 
+
+### [Quantum Seminar] Alexandru Cojocaru—TBA
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
+
+<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+
+```
+
+
+
+
+   TBA
+
+
+
+
+```
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | Monday, 1 Sep, 2025 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 <details open>
