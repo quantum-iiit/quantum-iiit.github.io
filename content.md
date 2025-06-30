@@ -83,6 +83,28 @@ Tree tensor network states (TTNS) form a class of physically motivated quantum s
 
 
 
+### [Quantum Seminar] Jackson Morris—[Quantum Threshold is Powerful](https://arxiv.org/abs/2411.04953)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87" /> 
+
+<!-- ![image](https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87) -->
+In 2005, Høyer and Špalek showed that constant-depth quantum circuits augmented with multi-qubit Fanout gates are quite powerful, able to compute a wide variety of Boolean functions as well as the quantum Fourier transform. They also asked what other multi-qubit gates could rival Fanout in terms of computational power, and suggested that the quantum Threshold gate might be one such candidate. Threshold is the gate that indicates if the Hamming weight of a classical basis state input is greater than some target value.
+
+We prove that Threshold is indeed powerful—there are polynomial-size constant-depth quantum circuits with Threshold gates that compute Fanout to high fidelity. Our proof is a generalization of a proof by Rosenthal that exponential-size constant-depth circuits with generalized Toffoli gates can compute Fanout. Our construction reveals that other quantum gates able to “weakly approximate” Parity can also be used as substitutes for Fanout.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Jackson Morris | UCSD | Online-only | Wednesday, 23 July | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 ### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016)
 
