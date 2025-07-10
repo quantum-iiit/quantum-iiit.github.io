@@ -96,7 +96,7 @@ Of potentially independent interest, we develop a progress bound for information
 
 <!-- SKIP_START -->
 
-### [Quantum Seminar] Mariano Lemus—[Quantum Kolmogorov complexity in deterministic-control quantum Turing machines]
+### [Quantum Seminar] Mariano Lemus—[Quantum Kolmogorov complexity in deterministic-control quantum Turing machines](https://arxiv.org/abs/2305.14252) (in-person)
 
 
 
@@ -118,7 +118,7 @@ This talk will present a study of Kolmogorov complexity for general quantum stat
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Mariano Lemus | University of Ottawa, Canada | TBA | TBA | TBA |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Mariano Lemus | Universidade de Lisboa | Kohli Research Block, Large Meeting Room (KRB LM 22), 2nd floor, IIIT Hyderabad | Friday, 1 August, 2025 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
