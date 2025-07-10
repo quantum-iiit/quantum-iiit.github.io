@@ -96,6 +96,34 @@ Of potentially independent interest, we develop a progress bound for information
 
 <!-- SKIP_START -->
 
+### [Quantum Seminar] Mariano Lemus—[Quantum Kolmogorov complexity in deterministic-control quantum Turing machines]
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d92b8998-b78a-43c1-9567-2411185100d8" />
+
+<!-- ![image](https://github.com/user-attachments/assets/70774111-fcb2-4332-8b38-0527d9a4066c) -->
+
+<!-- <img width="521" height="520" alt="image" src="https://github.com/user-attachments/assets/d92b8998-b78a-43c1-9567-2411185100d8" /> -->
+
+
+
+This talk will present a study of Kolmogorov complexity for general quantum states from the perspective of deterministic-control quantum Turing Machines (dcq-TM). We introduce the dcq-TM model and define dcq-computable states as those that can be approximated by a dcq-TM. Then, we introduce (conditional) Kolmogorov complexity of quantum states and use it to study three particular aspects of the algorithmic information contained in a quantum state: a comparison of the information in a quantum state with that of its classical representation as an array of real numbers, an exploration of the limits of quantum state copying in the context of algorithmic complexity, and study of the complexity of correlations in quantum systems, resulting in a correlation-aware definition for algorithmic mutual information that satisfies symmetry of information property.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Mariano Lemus | University of Ottawa, Canada | TBA | TBA | TBA |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 ### [Quantum Seminar] Nagisa Hara—[A classical proof of quantum knowledge for multi-prover interactive proof systems](https://arxiv.org/abs/2503.13699)
 
@@ -118,7 +146,7 @@ In a proof of knowledge (PoK), a verifier becomes convinced that a prover posses
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nagisa Hara | University of Ottawa, Canada | TBA | August 4, July, 2025 | 2:00 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nagisa Hara | University of Ottawa, Canada | TBA | August 4, 2025 | 2:00 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
