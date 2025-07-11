@@ -321,7 +321,7 @@ We analyze bipartite matrices and linear maps between matrix algebras, which are
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | Online-only | (Provisional) Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [YouTube](https://youtu.be/sKBqA2ADfP8) | 
+| Seminar | Ion Nechita | CNRS Researcher (chargé de recherche) at the Laboratoire de Physique Théorique in Toulouse, France | Online-only | Mon, June 16, 2025 | 4:00 PM to 5:30 PM IST | [YouTube](https://youtu.be/sKBqA2ADfP8) | 
 
 
 <div style="clear: both;"></div>
