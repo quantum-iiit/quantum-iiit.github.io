@@ -25,28 +25,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Seminar] Benjamin Lovitz—Nearly tight bounds for testing tree tensor network states
-
-<!-- ![image](https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476) -->
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476" />
-
-<!-- <img width="360" alt="image" src="https://github.com/user-attachments/assets/b2d5f132-b24e-4e4b-ba30-ca8779b784d5" /> -->
-
-Tree tensor network states (TTNS) form a class of physically motivated quantum states. We study the task of testing TTNS in the property testing framework, wherein one is handed multiple copies of an unknown quantum state, and performs measurements to determine whether the state forms a TTNS (of a given bond dimension) or is epsilon-far from TTNS. The minimum number of copies required is called the copy complexity of the task. We prove nearly tight bounds on the copy complexity of testing TTNS. This generalizes prior works on testing matrix product states (MPS), and closes a gap left in these works. No prior knowledge of quantum computing will be assumed. Based on joint work with Angus Lowe.
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Benjamin Lovitz | Northeastern University  | Online-only | Wednesday, 2 July, 2025 | 6:30 – 8:00pm | [YouTube](https://youtu.be/OlUAl2rRKzA) | 
-
-
-<br/>
-
-
-## Pipeline
-
 ### [Quantum Seminar] Jackson Morris—[Quantum Threshold is Powerful](https://arxiv.org/abs/2411.04953)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87" /> 
@@ -68,6 +46,32 @@ We prove that Threshold is indeed powerful—there are polynomial-size constant-
 
 <br/>
 
+
+
+
+### [Quantum Talk] Lalitha Vadlamani—Review of Quantum LDPC Codes
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e8577c8e-61f6-4bf4-aafa-6cc4b277c227" /> 
+
+<!-- <img width="791" height="729" alt="image" src="https://github.com/user-attachments/assets/e8577c8e-61f6-4bf4-aafa-6cc4b277c227" /> -->
+
+
+CSS codes are a class of quantum codes which are constructed based on pairs of dual-containing classical codes. In this talk, we will review CSS codes briefly. Then, we will discuss hypergraph product codes whose rate grows linearly and distance grows as square root of the block length. We will move on to a construction of QLDPC codes known as lifted product codes, whose rate grows as log(N) and distance grows as N/log(N). Finally, we will cover some details about quantum Tanner codes which are extensions of lifted product codes. Quantum Tanner codes themselves have linear rate and distance.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk (survey) | Lalitha Vadlamani | IIIT Hyderabad | In-person | Thursday, 24 July | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+## Pipeline
 
 
 ### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016)
@@ -94,7 +98,7 @@ Of potentially independent interest, we develop a progress bound for information
 <br/>
 
 
-<!-- SKIP_START -->
+
 
 ### [Quantum Seminar] Mariano Lemus—[Quantum Kolmogorov complexity in deterministic-control quantum Turing machines](https://arxiv.org/abs/2305.14252) (in-person)
 
@@ -124,6 +128,7 @@ This talk will present a study of Kolmogorov complexity for general quantum stat
 <br/>
 
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Nagisa Hara—[A classical proof of quantum knowledge for multi-prover interactive proof systems](https://arxiv.org/abs/2503.13699)
 
@@ -282,6 +287,25 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
    </summary>
   
+
+<br/>
+
+### [Quantum Seminar] Benjamin Lovitz—Nearly tight bounds for testing tree tensor network states
+
+<!-- ![image](https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476) -->
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4464a54f-33f0-450a-bc56-79af22e08476" />
+
+<!-- <img width="360" alt="image" src="https://github.com/user-attachments/assets/b2d5f132-b24e-4e4b-ba30-ca8779b784d5" /> -->
+
+Tree tensor network states (TTNS) form a class of physically motivated quantum states. We study the task of testing TTNS in the property testing framework, wherein one is handed multiple copies of an unknown quantum state, and performs measurements to determine whether the state forms a TTNS (of a given bond dimension) or is epsilon-far from TTNS. The minimum number of copies required is called the copy complexity of the task. We prove nearly tight bounds on the copy complexity of testing TTNS. This generalizes prior works on testing matrix product states (MPS), and closes a gap left in these works. No prior knowledge of quantum computing will be assumed. Based on joint work with Angus Lowe.
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Benjamin Lovitz | Northeastern University  | Online-only | Wednesday, 2 July, 2025 | 6:30 – 8:00pm | [YouTube](https://youtu.be/OlUAl2rRKzA) | 
+
 
 <br/>
 
