@@ -25,53 +25,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Seminar] Jackson Morris—[Quantum Threshold is Powerful](https://arxiv.org/abs/2411.04953)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87" /> 
-
-<!-- ![image](https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87) -->
-In 2005, Høyer and Špalek showed that constant-depth quantum circuits augmented with multi-qubit Fanout gates are quite powerful, able to compute a wide variety of Boolean functions as well as the quantum Fourier transform. They also asked what other multi-qubit gates could rival Fanout in terms of computational power, and suggested that the quantum Threshold gate might be one such candidate. Threshold is the gate that indicates if the Hamming weight of a classical basis state input is greater than some target value.
-
-We prove that Threshold is indeed powerful—there are polynomial-size constant-depth quantum circuits with Threshold gates that compute Fanout to high fidelity. Our proof is a generalization of a proof by Rosenthal that exponential-size constant-depth circuits with generalized Toffoli gates can compute Fanout. Our construction reveals that other quantum gates able to “weakly approximate” Parity can also be used as substitutes for Fanout.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Jackson Morris | UCSD | Online-only | Wednesday, 23 July | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-### [Quantum Talk] Lalitha Vadlamani—Review of Quantum LDPC Codes
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e8577c8e-61f6-4bf4-aafa-6cc4b277c227" /> 
-
-<!-- <img width="791" height="729" alt="image" src="https://github.com/user-attachments/assets/e8577c8e-61f6-4bf4-aafa-6cc4b277c227" /> -->
-
-
-CSS codes are a class of quantum codes which are constructed based on pairs of dual-containing classical codes. In this talk, we will review CSS codes briefly. Then, we will discuss hypergraph product codes whose rate grows linearly and distance grows as square root of the block length. We will move on to a construction of QLDPC codes known as lifted product codes, whose rate grows as log(N) and distance grows as N/log(N). Finally, we will cover some details about quantum Tanner codes which are extensions of lifted product codes. Quantum Tanner codes themselves have linear rate and distance.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk (survey) | Lalitha Vadlamani | IIIT Hyderabad | Vindhya, A3-117 | Thursday, 24 July | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-## Pipeline
 
 
 ### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016) (online-only)
@@ -128,7 +81,8 @@ This talk will present a study of Kolmogorov complexity for general quantum stat
 <br/>
 
 
-<!-- SKIP_START -->
+## Pipeline
+
 
 ### [Quantum Seminar] Nagisa Hara—[A classical proof of quantum knowledge for multi-prover interactive proof systems](https://arxiv.org/abs/2503.13699)
 
@@ -157,7 +111,7 @@ In a proof of knowledge (PoK), a verifier becomes convinced that a prover posses
 <br/>
 
 
-
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy
 
@@ -289,6 +243,53 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
   
 
 <br/>
+
+
+### [Quantum Seminar] Jackson Morris—[Quantum Threshold is Powerful](https://arxiv.org/abs/2411.04953)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87" /> 
+
+<!-- ![image](https://github.com/user-attachments/assets/db784d6e-a11f-41c2-b307-227ace6f2b87) -->
+In 2005, Høyer and Špalek showed that constant-depth quantum circuits augmented with multi-qubit Fanout gates are quite powerful, able to compute a wide variety of Boolean functions as well as the quantum Fourier transform. They also asked what other multi-qubit gates could rival Fanout in terms of computational power, and suggested that the quantum Threshold gate might be one such candidate. Threshold is the gate that indicates if the Hamming weight of a classical basis state input is greater than some target value.
+
+We prove that Threshold is indeed powerful—there are polynomial-size constant-depth quantum circuits with Threshold gates that compute Fanout to high fidelity. Our proof is a generalization of a proof by Rosenthal that exponential-size constant-depth circuits with generalized Toffoli gates can compute Fanout. Our construction reveals that other quantum gates able to “weakly approximate” Parity can also be used as substitutes for Fanout.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Jackson Morris | UCSD | Online-only | Wednesday, 23 July | 11:00am – 12:30pm |  [Raw Recording](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/ETnqf2TxLc9CmiRp0NbFxdgB2d40LHD_E9RLNMYoJDAmlw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F8sxFK) | 
+
+
+<br/>
+
+
+
+
+### [Quantum Talk] Lalitha Vadlamani—Review of Quantum LDPC Codes
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e8577c8e-61f6-4bf4-aafa-6cc4b277c227" /> 
+
+<!-- <img width="791" height="729" alt="image" src="https://github.com/user-attachments/assets/e8577c8e-61f6-4bf4-aafa-6cc4b277c227" /> -->
+
+
+CSS codes are a class of quantum codes which are constructed based on pairs of dual-containing classical codes. In this talk, we will review CSS codes briefly. Then, we will discuss hypergraph product codes whose rate grows linearly and distance grows as square root of the block length. We will move on to a construction of QLDPC codes known as lifted product codes, whose rate grows as log(N) and distance grows as N/log(N). Finally, we will cover some details about quantum Tanner codes which are extensions of lifted product codes. Quantum Tanner codes themselves have linear rate and distance.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk (survey) | Lalitha Vadlamani | IIIT Hyderabad | Vindhya, A3-117 | Thursday, 24 July | 11:00am – 12:30pm | Slides will be made available soon | 
+
+
+<br/>
+
 
 ### [Quantum Seminar] Benjamin Lovitz—Nearly tight bounds for testing tree tensor network states
 
