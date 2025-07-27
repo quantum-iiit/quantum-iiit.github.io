@@ -261,7 +261,7 @@ We prove that Threshold is indeed powerful—there are polynomial-size constant-
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Jackson Morris | UCSD | Online-only | Wednesday, 23 July | 11:00am – 12:30pm |  [Raw Recording](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/ETnqf2TxLc9CmiRp0NbFxdgB2d40LHD_E9RLNMYoJDAmlw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F8sxFK) | 
+| Seminar | Jackson Morris | UCSD | Online-only | Wednesday, 23 July | 11:00am – 12:30pm |  [YouTube](https://youtu.be/Kjj9DQwS1J0) | 
 
 
 <br/>
