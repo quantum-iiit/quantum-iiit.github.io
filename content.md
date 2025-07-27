@@ -74,7 +74,7 @@ CSS codes are a class of quantum codes which are constructed based on pairs of d
 ## Pipeline
 
 
-### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016)
+### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016) (online-only)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373" /> 
 
@@ -92,7 +92,7 @@ Of potentially independent interest, we develop a progress bound for information
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | TBA | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | Online-only | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
