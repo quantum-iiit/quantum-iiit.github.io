@@ -285,7 +285,7 @@ CSS codes are a class of quantum codes which are constructed based on pairs of d
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk (survey) | Lalitha Vadlamani | IIIT Hyderabad | Vindhya, A3-117 | Thursday, 24 July | 11:00am – 12:30pm | Slides will be made available soon | 
+| Talk (survey) | Lalitha Vadlamani | IIIT Hyderabad | Vindhya, A3-117 | Thursday, 24 July | 11:00am – 12:30pm | [slides](https://raw.githubusercontent.com/quantum-iiit/quantum-iiit.github.io/main/attachments/Review_QLDPC_Codes.pdf) | 
 
 
 <br/>
