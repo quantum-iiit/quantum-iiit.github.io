@@ -45,7 +45,7 @@ Of potentially independent interest, we develop a progress bound for information
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | Online-only | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/hPzlpcCfbzQ) | 
+| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | Online-only | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/no4VhfYO3XA) | 
 
 
 <br/>
