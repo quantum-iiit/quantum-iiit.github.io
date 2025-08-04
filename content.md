@@ -27,61 +27,8 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016) (online-only)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373" /> 
-
-<!-- ![image](https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373) -->
 
 
-We show how to construct simulation secure one-time memories, and thus one-time programs, without computational assumptions in the presence of constraints on quantum hardware. Specifically, we build one-time memories from random linear codes and quantum random access codes (QRACs) when constrained to non-adaptive, constant depth, and D-dimensional geometrically-local quantum circuit for some constant D. We place no restrictions on the adversary's classical computational power, number of qubits it can use, or the coherence time of its qubits. Notably, our construction can still be secure even in the presence of fault tolerant quantum computation as long as the input qubits are encoded in a non-fault tolerant manner (e.g. encoded as high energy states in non-ideal hardware). Unfortunately though, our construction requires decoding random linear codes and thus does not run in polynomial time. We leave open the question of whether one can construct a polynomial time information theoretically secure one-time memory from geometrically local quantum circuits.
-Of potentially independent interest, we develop a progress bound for information leakage via collision entropy (Renyi entropy of order 2) along with a few key technical lemmas for a "mutual information" for collision entropies. We also develop new bounds on how much information a specific 2↦1 QRAC can leak about its input, which may be of independent interest as well.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | Online-only | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/no4VhfYO3XA) | 
-
-
-<br/>
-
-
-
-
-### [Quantum Seminar] Mariano Lemus—[Quantum Kolmogorov complexity in deterministic-control quantum Turing machines](https://arxiv.org/abs/2305.14252) (in-person)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d92b8998-b78a-43c1-9567-2411185100d8" />
-
-<!-- ![image](https://github.com/user-attachments/assets/70774111-fcb2-4332-8b38-0527d9a4066c) -->
-
-<!-- <img width="521" height="520" alt="image" src="https://github.com/user-attachments/assets/d92b8998-b78a-43c1-9567-2411185100d8" /> -->
-
-
-
-This talk will present a study of Kolmogorov complexity for general quantum states from the perspective of deterministic-control quantum Turing Machines (dcq-TM). We introduce the dcq-TM model and define dcq-computable states as those that can be approximated by a dcq-TM. Then, we introduce (conditional) Kolmogorov complexity of quantum states and use it to study three particular aspects of the algorithmic information contained in a quantum state: a comparison of the information in a quantum state with that of its classical representation as an array of real numbers, an exploration of the limits of quantum state copying in the context of algorithmic complexity, and study of the complexity of correlations in quantum systems, resulting in a correlation-aware definition for algorithmic mutual information that satisfies symmetry of information property.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Mariano Lemus | Instituto de Telecomunicações | Kohli Research Block, Large Meeting Room (KRB LM 22), 2nd floor, IIIT Hyderabad | Friday, 1 August, 2025 | 11:00am – 12:30pm |  [YouTube](https://youtu.be/qstqF5Dh5fM) | 
-
-
-<br/>
-
-
-## Pipeline
 
 
 ### [Quantum Seminar] Nagisa Hara—[A classical proof of quantum knowledge for multi-prover interactive proof systems](https://arxiv.org/abs/2503.13699)
@@ -105,10 +52,12 @@ In a proof of knowledge (PoK), a verifier becomes convinced that a prover posses
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nagisa Hara | University of Ottawa, Canada | TBA | Monday, August 4, 2025 | 2:00 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nagisa Hara | University of Ottawa, Canada | Online-only | Monday, August 4, 2025 | 2:00 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
+
+## Pipeline
 
 
 <!-- SKIP_START -->
@@ -243,6 +192,61 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
   
 
 <br/>
+
+
+### [Quantum Seminar] Lev Stambler—[Information Theoretic One-Time Programs from Geometrically Local QNC0 Adversaries](https://arxiv.org/abs/2503.22016) (online-only)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373" /> 
+
+<!-- ![image](https://github.com/user-attachments/assets/4384e223-a6ec-425b-8e5f-70e5dc2ac373) -->
+
+
+We show how to construct simulation secure one-time memories, and thus one-time programs, without computational assumptions in the presence of constraints on quantum hardware. Specifically, we build one-time memories from random linear codes and quantum random access codes (QRACs) when constrained to non-adaptive, constant depth, and D-dimensional geometrically-local quantum circuit for some constant D. We place no restrictions on the adversary's classical computational power, number of qubits it can use, or the coherence time of its qubits. Notably, our construction can still be secure even in the presence of fault tolerant quantum computation as long as the input qubits are encoded in a non-fault tolerant manner (e.g. encoded as high energy states in non-ideal hardware). Unfortunately though, our construction requires decoding random linear codes and thus does not run in polynomial time. We leave open the question of whether one can construct a polynomial time information theoretically secure one-time memory from geometrically local quantum circuits.
+Of potentially independent interest, we develop a progress bound for information leakage via collision entropy (Renyi entropy of order 2) along with a few key technical lemmas for a "mutual information" for collision entropies. We also develop new bounds on how much information a specific 2↦1 QRAC can leak about its input, which may be of independent interest as well.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Lev Stambler | University of Maryland and NeverLocal Ltd. London | Online-only | Monday, 28 July, 2025 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/no4VhfYO3XA) | 
+
+
+<br/>
+
+
+
+
+### [Quantum Seminar] Mariano Lemus—[Quantum Kolmogorov complexity in deterministic-control quantum Turing machines](https://arxiv.org/abs/2305.14252) (in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d92b8998-b78a-43c1-9567-2411185100d8" />
+
+<!-- ![image](https://github.com/user-attachments/assets/70774111-fcb2-4332-8b38-0527d9a4066c) -->
+
+<!-- <img width="521" height="520" alt="image" src="https://github.com/user-attachments/assets/d92b8998-b78a-43c1-9567-2411185100d8" /> -->
+
+
+
+This talk will present a study of Kolmogorov complexity for general quantum states from the perspective of deterministic-control quantum Turing Machines (dcq-TM). We introduce the dcq-TM model and define dcq-computable states as those that can be approximated by a dcq-TM. Then, we introduce (conditional) Kolmogorov complexity of quantum states and use it to study three particular aspects of the algorithmic information contained in a quantum state: a comparison of the information in a quantum state with that of its classical representation as an array of real numbers, an exploration of the limits of quantum state copying in the context of algorithmic complexity, and study of the complexity of correlations in quantum systems, resulting in a correlation-aware definition for algorithmic mutual information that satisfies symmetry of information property.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Mariano Lemus | Instituto de Telecomunicações | Kohli Research Block, Large Meeting Room (KRB LM 22), 2nd floor, IIIT Hyderabad | Friday, 1 August, 2025 | 11:00am – 12:30pm |  [YouTube](https://youtu.be/qstqF5Dh5fM) | 
+
+
+<br/>
+
 
 
 ### [Quantum Seminar] Jackson Morris—[Quantum Threshold is Powerful](https://arxiv.org/abs/2411.04953)
