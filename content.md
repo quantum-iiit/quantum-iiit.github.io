@@ -69,7 +69,7 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | TBA | Wednesday, 27 August | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | TBA | Wednesday, 27 August, 2025| 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -78,34 +78,57 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 <!-- SKIP_START -->
 
 
-### [Quantum Seminar] Alexandru Cojocaru—TBA
+### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> 
 
-<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+<!-- <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> -->
 
-```
-
-
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
 
 
-   TBA
+In this Letter, we develop a panoramic schematic of quantum thermal analogs of electric circuits in the steady state regime. We establish the foundations of said premise by defining the analogs of Kirchhoff’s laws for heat currents and temperature gradients, as well as a quantum thermal step transformer. Using this, we develop two novel quantum thermal circuits, viz., quantum thermal super Wheatstone bridge and quantum thermal adder circuit, paving the way for the corresponding integrated circuits. We further show that our approach encompasses various circuits like thermal diode, transistor, and Wheatstone bridge. This sheds new light on the present architecture of quantum device engineering.
 
 
+<div style="clear: both;"></div>
+<br/>
+<br/>
 
-
-```
 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | Monday, 1 Sep, 2025 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad | TBA | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
 
 
 
+
+### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
+
+<!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
+
+
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
+
+
+Entanglement is a fundamental resource in quantum information processing, yet understanding its manipulation and transformation remains a challenge. Many tasks rely on highly entangled pure states, but obtaining such states is often challenging due to the presence of noise. Typically, entanglement manipulation procedures involving asymptotically many copies of a state are considered to overcome this problem. These procedures allow for distilling highly entangled pure states from noisy states, which enables a wide range of applications, such as quantum teleportation and quantum cryptography. When it comes to manipulating entangled quantum systems on a single copy level, using entangled states as catalysts can significantly broaden the range of achievable transformations. Similar to the concept of catalysis in chemistry, the entangled catalyst is returned unchanged at the end of the state manipulation procedure. Our results demonstrate that despite the apparent conceptual differences between the asymptotic and catalytic settings, they are actually strongly connected and fully equivalent for all distillable states. Our methods rely on the analysis of many-copy entanglement manipulation procedures which may establish correlations between different copies. As an important consequence, we demonstrate that using an entangled catalyst cannot enhance the asymptotic singlet distillation rate of a distillable quantum state. Our findings provide a comprehensive understanding of the capabilities and limitations of both catalytic and asymptotic state transformations of entangled states, and highlight the importance of correlations in these processes.
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | TBA | Thursday, 11 September, 2025 | 2:30 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
@@ -138,7 +161,41 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 <br/>
 
+
+
+
+### [Quantum Seminar] Alexandru Cojocaru—TBA
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
+
+<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+
+```
+
+
+
+
+   TBA
+
+
+
+
+```
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | Monday, 1 Sep, 2026 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
 <br/>
+
+
+
+
+<br/>
+
+
 
 <details open>
   <summary>
