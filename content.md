@@ -75,9 +75,6 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 <br/>
 
 
-<!-- SKIP_START -->
-
-
 ### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> 
@@ -104,7 +101,7 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 <br/>
 
 
-
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
 
