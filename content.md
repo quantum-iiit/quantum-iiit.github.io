@@ -27,7 +27,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy
+### [Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy (online-only)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
 
