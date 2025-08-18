@@ -27,7 +27,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy (online-only)
+### Cancelled ~[Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy (online-only)~
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
 
@@ -42,7 +42,7 @@ This talk presents two recent advances in single-shot quantum information theory
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Gilard Gour | Technion - Israel Institute of Technology  | Online-only | Wednesday, 20 August, 2025 | 11:00am – 1:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Gilard Gour | Technion - Israel Institute of Technology  | Online-only | ~Wednesday, 20 August, 2025~ | ~11:00am – 1:00pm~ | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
