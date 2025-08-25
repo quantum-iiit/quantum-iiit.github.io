@@ -84,7 +84,9 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 ### [Quantum Seminar] Justus Johannes Neumann—No quantum advantage without classical communication: fundamental limitations of quantum networks (visitor, in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> 
+
+<!-- <img width="378" height="498" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> -->
 
 <!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
 
