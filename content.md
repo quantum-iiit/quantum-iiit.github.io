@@ -26,31 +26,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-
-### Cancelled ~[Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy (online-only)~
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
-
-<!-- ![image](https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3) -->
-
-This talk presents two recent advances in single-shot quantum information theory that emphasize the fundamental role of the collision relative entropy in refining our understanding of quantum divergences and strengthening key tools for quantum communication and source coding beyond the i.i.d. regime. The first result is an equality-based reformulation of the convex split lemma, which traditionally involves inequalities with max mutual information; the new version replaces this with a tight equality using the collision mutual information (derived from the sandwiched Rényi relative entropy of order two), yielding stronger achievability results and an additive, dimension-independent upper bound on the smoothed max mutual information. The second development introduces the induced divergence, a smoothed quantum divergence that retains crucial properties like the data processing inequality and interpolates between the parent relative entropy and the min-relative entropy, offering a robust alternative to the hypothesis testing divergence. Applying this to the collision relative entropy produces an improved position-based decoding lemma, enhancing decoding success, broadening applicability, and reducing resource requirements, with significant implications for protocols such as quantum state redistribution and classical communication over quantum channels. Together, these results demonstrate how leveraging the collision relative entropy and its induced counterpart leads to tighter bounds and deeper structural insights into non-asymptotic quantum information processing.
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Gilard Gour | Technion - Israel Institute of Technology  | Online-only | ~Wednesday, 20 August, 2025~ | ~11:00am – 1:00pm~ | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-## Pipeline
-
-
 ### [Quantum Seminar] Nicolai Friis—[Activation of Genuine Multipartite Entanglement: state-space structures beyond the single-copy paradigm](https://arxiv.org/abs/2412.18331)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9" /> 
@@ -73,6 +48,11 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 
 <br/>
+
+
+
+## Pipeline
+
 
 
 ### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
@@ -100,8 +80,8 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 <br/>
 
-
 <!-- SKIP_START -->
+
 
 ### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
 
@@ -216,6 +196,28 @@ Entanglement is a fundamental resource in quantum information processing, yet un
   
 
 <br/>
+
+
+### Cancelled ~[Quantum Seminar] Gilad Gour—Advances in Single-Shot Quantum Information: The Role of Collision Relative Entropy (online-only)~
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3" />
+
+<!-- ![image](https://github.com/user-attachments/assets/bef5e1ba-9f7f-4a6d-8033-ed83579192b3) -->
+
+This talk presents two recent advances in single-shot quantum information theory that emphasize the fundamental role of the collision relative entropy in refining our understanding of quantum divergences and strengthening key tools for quantum communication and source coding beyond the i.i.d. regime. The first result is an equality-based reformulation of the convex split lemma, which traditionally involves inequalities with max mutual information; the new version replaces this with a tight equality using the collision mutual information (derived from the sandwiched Rényi relative entropy of order two), yielding stronger achievability results and an additive, dimension-independent upper bound on the smoothed max mutual information. The second development introduces the induced divergence, a smoothed quantum divergence that retains crucial properties like the data processing inequality and interpolates between the parent relative entropy and the min-relative entropy, offering a robust alternative to the hypothesis testing divergence. Applying this to the collision relative entropy produces an improved position-based decoding lemma, enhancing decoding success, broadening applicability, and reducing resource requirements, with significant implications for protocols such as quantum state redistribution and classical communication over quantum channels. Together, these results demonstrate how leveraging the collision relative entropy and its induced counterpart leads to tighter bounds and deeper structural insights into non-asymptotic quantum information processing.
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Gilard Gour | Technion - Israel Institute of Technology  | Online-only | ~Wednesday, 20 August, 2025~ | ~11:00am – 1:00pm~ | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 
 ### [Quantum Seminar] Yutong Luo—[Thermodynamic criteria for signaling in quantum channels](https://arxiv.org/abs/2506.20428)
