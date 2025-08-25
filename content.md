@@ -110,8 +110,6 @@ Quantum networks connect systems at separate locations via quantum links, enabli
 
 
 
-<!-- SKIP_START -->
-
 
 ### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
 
@@ -138,6 +136,7 @@ Entanglement is a fundamental resource in quantum information processing, yet un
 <br/>
 
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Antariksha Das—TBA
 
