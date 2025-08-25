@@ -80,6 +80,35 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 <br/>
 
+
+
+### [Quantum Seminar] Justus Johannes Neumann—No quantum advantage without classical communication: fundamental limitations of quantum networks (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
+
+<!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
+
+
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
+
+
+Quantum networks connect systems at separate locations via quantum links, enabling a wide range of quantum information tasks between distant parties. Large-scale networks have the potential to enable global secure communication, distributed quantum computation, enhanced clock synchronization, and high-precision multiparameter metrology. For the optimal development of these technologies, however, it is essential to identify the necessary resources and sub-routines that will lead to the quantum advantage, but this is demanding even for the simplest protocols in quantum information processing. Here we show that in the absence of classical communication, quantum networks relying on the long-distance distribution of bipartite entanglement, combined with local operations and shared randomness, cannot achieve a relevant quantum advantage. Specifically, we prove that these networks do not help in preparing resourceful quantum states such as Greenberger-Horne-Zeilinger states or cluster states, despite the free availability of long-distance entanglement. At an abstract level, our work points towards a fundamental difference between bipartite and multipartite entanglement. From a practical perspective, our results highlight the need for classical communication combined with quantum memories to fully harness the power of quantum networks.
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 2nd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm
+|  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 <!-- SKIP_START -->
 
 
@@ -102,7 +131,7 @@ Entanglement is a fundamental resource in quantum information processing, yet un
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | TBA | Thursday, 11 September, 2025 | 2:30 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
