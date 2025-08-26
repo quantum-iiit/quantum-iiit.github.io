@@ -26,7 +26,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Nicolai Friis—[Activation of Genuine Multipartite Entanglement: state-space structures beyond the single-copy paradigm](https://arxiv.org/abs/2412.18331)
+### [Quantum Seminar] Nicolai Friis—[Activation of Genuine Multipartite Entanglement: state-space structures beyond the single-copy paradigm](https://arxiv.org/abs/2412.18331) (online-only)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9" /> 
 
@@ -44,7 +44,7 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Wednesday, 27 August, 2025 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | Online-only | Wednesday, 27 August, 2025 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
