@@ -44,7 +44,7 @@ Quantum correlations in the form of entanglement, quantum steering or Bell nonlo
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | (Requested) Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Wednesday, 27 August, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nicolai Friis | Technische Universität Wien, Vienna, Austria | Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Wednesday, 27 August, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -75,7 +75,7 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad | TBA | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -103,7 +103,7 @@ Quantum networks connect systems at separate locations via quantum links, enabli
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 2nd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -130,11 +130,38 @@ Entanglement is a fundamental resource in quantum information processing, yet un
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
 
+
+### [Quantum Seminar] Simon Apers—Convex optimization with Schrödinger operators (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> 
+
+
+<!-- <img width="482" height="529" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> -->
+
+
+
+We study Schrödinger operators in the context of (constrained) convex optimization, and interior point methods more specifically. As our main result, we give non-asymptotic bounds on the spectral gap of these Schrödinger operators. Our analysis combines tools from quantum mechanics (semiclassical analysis) and convex optimization (self-concordant barriers). As an application, we combine these bounds with quantum annealing to design a quantum interior point method.
+
+Joint work with Brandon Augustino, Sander Gribling, Harold Nieuwboer and Michael Walter.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Simon Apers |  | (requested) Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 25 September | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 <!-- SKIP_START -->
 
