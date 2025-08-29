@@ -146,7 +146,7 @@ Joint work with Brandon Augustino, Sander Gribling, Harold Nieuwboer and Michael
 
 
 
-### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (in-person)
+### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> 
 
