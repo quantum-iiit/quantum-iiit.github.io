@@ -59,3 +59,8 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
 * **Video Editor.** 
   * *Load.* After familiarity with the tools, about twenty minutes (excluding export/upload/download) time.
   * *Task.* Blur out everyone except the speaker and the slides. Upload to YouTube with the correct metadata. (TODO: expand)
+ 
+
+## Contributors 
+
+
