@@ -146,15 +146,15 @@ Joint work with Brandon Augustino, Sander Gribling, Harold Nieuwboer and Michael
 
 
 
-### [Quantum Seminar] Manasi Shingane
+### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> 
 
 <!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
 
 
+In their seminal work, Gentry and Wichs (STOC'11) established an impossibility result for the task of constructing an adaptively-sound SNARG via black-box reduction from a falsifiable assumption.An exciting set of recent SNARG constructions demonstrated that, if one adopts a weaker but still quite meaningful notion of adaptive soundness, then impossibility no longer holds (Waters-Wu, Waters-Zhandry, Mathialagan-Peters-Vaikunthanathan ePrint'24). These fascinating new results raise an intriguing possibility: is there a way to remove this slight weakening of adaptive soundness, thereby completely circumventing the Gentry-Wichs impossibility?A natural route to closing this gap would be to use a quantum black-box reduction, i.e., a reduction that can query the SNARG adversary on superpositions of inputs. This would take advantage of the fact that Gentry-Wichs only consider classical reductions. In this work, we show that this approach cannot succeed. Specifically, we extend the Gentry-Wichs impossibility result to quantum black-box reductions, and thereby establish an important limit on the power of such reductions.
 
-TBA
 
 <div style="clear: both;"></div>
 <br/>
@@ -164,7 +164,7 @@ TBA
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Manasi Shingane |  | TBA  | Monday, 29 September | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Manasi Shingane | QuICS, University of Maryland  | TBA  | Monday, September 29 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
