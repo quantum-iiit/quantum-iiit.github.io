@@ -326,7 +326,7 @@ Signaling quantum channels are fundamental to quantum communication, enabling th
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Yutong Luo | School of Physics, Trinity College Dublin, Dublin 2, Ireland | Online-only | Monday, 11 August | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EV6Ysh531JJAswJAMPjd4BQBqkSj8dMwrxw2U0dlGP0oeA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rq23cj) | 
+| Seminar | Yutong Luo | School of Physics, Trinity College Dublin, Dublin 2, Ireland | Online-only | Monday, 11 August | 3:30 – 5:00pm |  [YouTube](https://www.youtube.com/watch?v=Wsbp36HlgR0) | 
 
 
 <br/>
