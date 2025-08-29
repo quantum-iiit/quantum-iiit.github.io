@@ -18,7 +18,8 @@ Here's an outline of how the system is structured, followed by a description of 
     * The phrase “Quantum Tea” (not case sensitive) and the emoji 🏫 are used to declare the event as in person only
     * Quantum Meets Ghost | Events here are treated as “busy” or “unavailable” when new events are scheduled
 * Calendly
-    * Send this link https://calendly.com/toatularora/quantum-seminar to speakers to select
+    * Send a calendly link to speakers to select a suitable slot
+       * This also asks the speaker to provide a title, abstract, pre-print etc.
     * Change available slots (signed in using toAtulArora@gmail.com)
 * GitHub webpage
     * The tags ```<!-- SKIP_START -->``` and ```<!-- SKIP_END -->``` are used to determine what is excluded from the email
@@ -49,18 +50,38 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
 ## Roles
 
 * **Coordinator.** 
-
-* **Web maintainer.**
+   * Broadly, responsible for ensuring the entire system runs fine.
+   * Specific tasks
+      * *Logistics.* Ensure the calendars are up to date, the venues are booked (and with help from the rest of the team when available), ensure the webpage and YouTube channel are up to date.
+      * *Academic programme.* Review arXiv regularly and invite speakers.
+* **GitHub maintainer.**
   * *Load.* About twenty minutes a week.
   * *Task.*
-    * Calendar. (when requested) Get the abstract and title from the link. Leave the venue as TBA.
-    * GitHub page. (every Fri or Saturday) 
+    * Calendar. (when requested) Get the abstract and title from the link. Leave the venue as TBA. Match the formatting.
+    * GitHub page. (every Friday or Saturday)
+       * Move "Upcoming" events that have already happened to "Past".
+          * Add a YouTube link if it is already available (check the YouTube channel).
+          * Otherwise, add a OneDrive link (check with the Coordinator if you don't have the link).
+       * Move relevant events from "Pipeline" to "Upcoming".
+       * Create new events as and when they are added on the public calendar.
 
-* **Video Editor.** 
+   *Caveats.*
+    * The formatting needs to be consistent (especially easy to forget: (in-person/online-only) etc.)
+    * The links from Calendly can be a bit messy (they sometimes reroute from calendly instead; so be careful to copy the correct link)
+    * Use TBA for venue when not known (and similarly for other fields)
+
+* **YouTube maintainer.** 
   * *Load.* After familiarity with the tools, about twenty minutes (excluding export/upload/download) time.
-  * *Task.* Blur out everyone except the speaker and the slides. Upload to YouTube with the correct metadata. (TODO: expand)
+  * *Task.*
+     * Bare. Add the metadata to videos uploaded to our YouTube channel 
+     * Video editing. Blur out everyone except the speaker and the slides. 
  
 
 ## Contributors 
 
+| Name | Role | Contribution period | 
+| - | - | - |
+| Arnab Ghorui | GitHub maintaner | Aug 2025–present | 
+| Himanshu | YouTube maintainer | May 2025–present | 
+| Atul Singh Arora | Coordinator | Feb 2025–present | 
 
