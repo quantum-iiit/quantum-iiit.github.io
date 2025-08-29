@@ -69,6 +69,7 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
     * The formatting needs to be consistent (especially easy to forget: (in-person/online-only) etc.)
     * The links from Calendly can be a bit messy (they sometimes reroute from calendly instead; so be careful to copy the correct link)
     * Use TBA for venue when not known (and similarly for other fields)
+    * Make sure ```<!-- SKIP_START -->``` is appropriately placed—ideally, only includes about three upcoming talks prior to this tag. 
 
 * **YouTube maintainer.** 
   * *Load.* After familiarity with the tools, about twenty minutes (excluding export/upload/download) time.
