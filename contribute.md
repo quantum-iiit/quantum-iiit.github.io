@@ -1,8 +1,17 @@
 # How to contribute
 
-(in progress)
+This page outlines how the system is structured, followed by a description of the various roles. But first, a huge thank you to our new contributors. 
 
-Here's an outline of how the system is structured, followed by a description of the various roles. 
+If you're interested in contributing, please feel free to reach out to any of us. 
+
+## Contributors 
+
+| Name | Role | Contribution period | 
+| - | - | - |
+| Arnab Ghorui | GitHub maintaner | Aug 2025–present | 
+| Himanshu | YouTube maintainer | May 2025–present | 
+| Atul Singh Arora | Coordinator | Feb 2025–present | 
+
 
 ## Current structure
 (updated: Sunday, April 6, 2025)
@@ -77,12 +86,4 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
      * Bare. Add the metadata to videos uploaded to our YouTube channel 
      * Video editing. Blur out everyone except the speaker and the slides. 
  
-
-## Contributors 
-
-| Name | Role | Contribution period | 
-| - | - | - |
-| Arnab Ghorui | GitHub maintaner | Aug 2025–present | 
-| Himanshu | YouTube maintainer | May 2025–present | 
-| Atul Singh Arora | Coordinator | Feb 2025–present | 
 
