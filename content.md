@@ -15,6 +15,7 @@ Welcome to our Quantum Meets page ([quantum-iiit.github.io](https://quantum-iiit
 
 If you would like to present your work, or have other related questions, please leave us a message on Teams. You can also [email us](mailto:atul.singh.arora@gmail.com) in case of technical difficulties. To contribute to the organisation of these events, visit our [*how to contribute*](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/contribute.md) page.
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKolkata&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showNav=0&showTitle=0&src=YjAyNDI5YjRkZWQ5Yzc2YTFlNWU2OTE2MjFkOWRhOTI2M2QzMzkzZDU1ZWZiYTc3MDg2ZjhiNjg4NDcwZDU4OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238e24aa" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming 
 <br/>
