@@ -144,7 +144,7 @@ Joint work with Brandon Augustino, Sander Gribling, Harold Nieuwboer and Michael
 
 <br/>
 
-
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (presented online)
 
@@ -170,8 +170,6 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 <br/>
 
 
-
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Antariksha Das—TBA
 
