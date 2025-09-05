@@ -23,7 +23,7 @@
 
 | Affiliation | From | To | Host | Institute |
 |:-:|:-:|:-:|:-:|:-:|
-| Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Wednesday, 10 September | Wednesday, 10 September | Indranil Chakrabarty | CQST, IIIT H | 
+| Heinrich Heine University Düsseldorf, Germany | Wednesday, 10 September | Wednesday, 10 September | Indranil Chakrabarty | CQST, IIIT H | 
 
 
 <div style="clear: both;"></div>
