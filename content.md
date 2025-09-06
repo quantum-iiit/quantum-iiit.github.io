@@ -54,22 +54,6 @@ Quantum networks connect systems at separate locations via quantum links, enabli
 
 
 
-
-
-
-
-
-## Pipeline
-
-
-
-
-
-
-
-
-
-
 ### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
@@ -93,6 +77,16 @@ Entanglement is a fundamental resource in quantum information processing, yet un
 
 
 <br/>
+
+
+
+
+
+
+
+## Pipeline
+
+
 
 
 ### [Quantum Seminar] Simon Apers—Convex optimization with Schrödinger operators (visitor, in-person)
@@ -255,7 +249,7 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EV2rIni-_XlCgAVGfP_BST4BiQmPfjYj7hd5-z9Prgh23w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Rl2SiN) | 
 
 
 <br/>
