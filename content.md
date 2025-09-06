@@ -837,7 +837,7 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
     
 </details>
 
-<details> <!-- open>
+<details> <!-- open -->
   <summary>
     
   ## Segments    
