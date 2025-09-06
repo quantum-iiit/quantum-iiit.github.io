@@ -25,44 +25,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> 
-
-<!-- <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> -->
-
-<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
-
-
-In this Letter, we develop a panoramic schematic of quantum thermal analogs of electric circuits in the steady state regime. We establish the foundations of said premise by defining the analogs of Kirchhoff’s laws for heat currents and temperature gradients, as well as a quantum thermal step transformer. Using this, we develop two novel quantum thermal circuits, viz., quantum thermal super Wheatstone bridge and quantum thermal adder circuit, paving the way for the corresponding integrated circuits. We further show that our approach encompasses various circuits like thermal diode, transistor, and Wheatstone bridge. This sheds new light on the present architecture of quantum device engineering.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-
-
-
-## Pipeline
-
-
-
-
-
-
 ### [Quantum Seminar] Justus Johannes Neumann—No quantum advantage without classical communication: fundamental limitations of quantum networks (visitor, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> 
@@ -88,6 +50,22 @@ Quantum networks connect systems at separate locations via quantum links, enabli
 
 
 <br/>
+
+
+
+
+
+
+
+
+
+## Pipeline
+
+
+
+
+
+
 
 
 
@@ -255,6 +233,32 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
   <br/>
 
    </summary>
+
+   
+### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> 
+
+<!-- <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> -->
+
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
+
+
+In this Letter, we develop a panoramic schematic of quantum thermal analogs of electric circuits in the steady state regime. We establish the foundations of said premise by defining the analogs of Kirchhoff’s laws for heat currents and temperature gradients, as well as a quantum thermal step transformer. Using this, we develop two novel quantum thermal circuits, viz., quantum thermal super Wheatstone bridge and quantum thermal adder circuit, paving the way for the corresponding integrated circuits. We further show that our approach encompasses various circuits like thermal diode, transistor, and Wheatstone bridge. This sheds new light on the present architecture of quantum device engineering.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
   
 
 <br/>
