@@ -222,13 +222,13 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 <details open>
    <summary>
 
-  ### May — August, 2025
+  ### September — December, 2025
 
   <br/>
 
+  
    </summary>
 
-   
 ### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aed3318b-429a-4bbf-a9d5-25d91642716a" /> 
@@ -253,6 +253,18 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 
 <br/>
+
+</details>
+
+
+<details> <!-- open -->
+   <summary>
+
+  ### May — August, 2025
+
+  <br/>
+
+   </summary>
   
 
 <br/>
@@ -825,7 +837,7 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
     
 </details>
 
-<details open>
+<details> <!-- open>
   <summary>
     
   ## Segments    
