@@ -249,7 +249,7 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EV2rIni-_XlCgAVGfP_BST4BiQmPfjYj7hd5-z9Prgh23w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Rl2SiN) | 
+| Talk | Samyadeb Bhattacharya | IIIT, Hyderabad |  Large Meeting Room (LM 22), 2nd floor, KRB, IIIT Hyderabad | Monday, 1 September, 2025 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/cNwMFi7PUao) | 
 
 
 <br/>
