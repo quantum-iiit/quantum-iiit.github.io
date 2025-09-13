@@ -25,69 +25,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <br/>
 
-### [Quantum Seminar] Justus Johannes Neumann—No quantum advantage without classical communication: fundamental limitations of quantum networks (visitor, in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> 
-
-<!-- <img width="378" height="498" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> -->
-
-<!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
-
-
-<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
-
-
-Quantum networks connect systems at separate locations via quantum links, enabling a wide range of quantum information tasks between distant parties. Large-scale networks have the potential to enable global secure communication, distributed quantum computation, enhanced clock synchronization, and high-precision multiparameter metrology. For the optimal development of these technologies, however, it is essential to identify the necessary resources and sub-routines that will lead to the quantum advantage, but this is demanding even for the simplest protocols in quantum information processing. Here we show that in the absence of classical communication, quantum networks relying on the long-distance distribution of bipartite entanglement, combined with local operations and shared randomness, cannot achieve a relevant quantum advantage. Specifically, we prove that these networks do not help in preparing resourceful quantum states such as Greenberger-Horne-Zeilinger states or cluster states, despite the free availability of long-distance entanglement. At an abstract level, our work points towards a fundamental difference between bipartite and multipartite entanglement. From a practical perspective, our results highlight the need for classical communication combined with quantum memories to fully harness the power of quantum networks.
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
-
-<!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
-
-
-<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
-
-
-Entanglement is a fundamental resource in quantum information processing, yet understanding its manipulation and transformation remains a challenge. Many tasks rely on highly entangled pure states, but obtaining such states is often challenging due to the presence of noise. Typically, entanglement manipulation procedures involving asymptotically many copies of a state are considered to overcome this problem. These procedures allow for distilling highly entangled pure states from noisy states, which enables a wide range of applications, such as quantum teleportation and quantum cryptography. When it comes to manipulating entangled quantum systems on a single copy level, using entangled states as catalysts can significantly broaden the range of achievable transformations. Similar to the concept of catalysis in chemistry, the entangled catalyst is returned unchanged at the end of the state manipulation procedure. Our results demonstrate that despite the apparent conceptual differences between the asymptotic and catalytic settings, they are actually strongly connected and fully equivalent for all distillable states. Our methods rely on the analysis of many-copy entanglement manipulation procedures which may establish correlations between different copies. As an important consequence, we demonstrate that using an entangled catalyst cannot enhance the asymptotic singlet distillation rate of a distillable quantum state. Our findings provide a comprehensive understanding of the capabilities and limitations of both catalytic and asymptotic state transformations of entangled states, and highlight the importance of correlations in these processes.
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-
-
-
-## Pipeline
-
-
-
 
 ### [Quantum Seminar] Simon Apers—Convex optimization with Schrödinger operators (visitor, in-person)
 
@@ -117,6 +54,18 @@ Joint work with Brandon Augustino, Sander Gribling, Harold Nieuwboer and Michael
 <br/>
 
 <!-- SKIP_START -->
+
+
+
+
+
+
+## Pipeline
+
+
+
+
+
 
 ### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (presented online)
 
@@ -227,7 +176,58 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
   <br/>
 
    </summary>
+### [Quantum Seminar] Justus Johannes Neumann—No quantum advantage without classical communication: fundamental limitations of quantum networks (visitor, in-person)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> 
+
+<!-- <img width="378" height="498" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> -->
+
+<!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
+
+
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
+
+
+Quantum networks connect systems at separate locations via quantum links, enabling a wide range of quantum information tasks between distant parties. Large-scale networks have the potential to enable global secure communication, distributed quantum computation, enhanced clock synchronization, and high-precision multiparameter metrology. For the optimal development of these technologies, however, it is essential to identify the necessary resources and sub-routines that will lead to the quantum advantage, but this is demanding even for the simplest protocols in quantum information processing. Here we show that in the absence of classical communication, quantum networks relying on the long-distance distribution of bipartite entanglement, combined with local operations and shared randomness, cannot achieve a relevant quantum advantage. Specifically, we prove that these networks do not help in preparing resourceful quantum states such as Greenberger-Horne-Zeilinger states or cluster states, despite the free availability of long-distance entanglement. At an abstract level, our work points towards a fundamental difference between bipartite and multipartite entanglement. From a practical perspective, our results highlight the need for classical communication combined with quantum memories to fully harness the power of quantum networks.
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+
+### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
+
+<!-- <img width="466" height="510" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> -->
+
+
+<!-- ![image](https://github.com/user-attachments/assets/73122720-4e8f-4fb6-bdd5-aa06d618cbc9) -->
+
+
+Entanglement is a fundamental resource in quantum information processing, yet understanding its manipulation and transformation remains a challenge. Many tasks rely on highly entangled pure states, but obtaining such states is often challenging due to the presence of noise. Typically, entanglement manipulation procedures involving asymptotically many copies of a state are considered to overcome this problem. These procedures allow for distilling highly entangled pure states from noisy states, which enables a wide range of applications, such as quantum teleportation and quantum cryptography. When it comes to manipulating entangled quantum systems on a single copy level, using entangled states as catalysts can significantly broaden the range of achievable transformations. Similar to the concept of catalysis in chemistry, the entangled catalyst is returned unchanged at the end of the state manipulation procedure. Our results demonstrate that despite the apparent conceptual differences between the asymptotic and catalytic settings, they are actually strongly connected and fully equivalent for all distillable states. Our methods rely on the analysis of many-copy entanglement manipulation procedures which may establish correlations between different copies. As an important consequence, we demonstrate that using an entangled catalyst cannot enhance the asymptotic singlet distillation rate of a distillable quantum state. Our findings provide a comprehensive understanding of the capabilities and limitations of both catalytic and asymptotic state transformations of entangled states, and highlight the importance of correlations in these processes.
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
    
 ### [Quantum Talk] Samyadeb Bhattacharya—[Quantum Thermal Analogs of Electric Circuits: A Universal Approach](https://link.aps.org/doi/10.1103/5x8m-bhgd) (in-person)
 
