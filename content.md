@@ -195,7 +195,7 @@ Entanglement is a fundamental resource in quantum information processing, yet un
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EXOMQjEl4o5MuhSVJ49s0nIBjEtIPVT-nNSZf6YQz2zSgQ?e=BbuKoE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Seminar | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad  | Thursday, 11 September, 2025 | 2:30 – 4:00pm |  [YouTube](https://www.youtube.com/watch?v=oz9Zr5qTFco) | 
 
 
 <br/>
@@ -224,7 +224,7 @@ Quantum networks connect systems at separate locations via quantum links, enabli
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Justus Johannes Neumann | Heinrich Heine University Düsseldorf, Germany | Large Meeting Room 34 (LM 34), 3rd floor, KRB, IIIT Hyderabad | Wednesday, 10 September | 2:30 – 4:00pm |  [OneDrive](https://iiithydresearch-my.sharepoint.com/:v:/g/personal/soumit_roy_research_iiit_ac_in/EUH2r7vA14tPlyyXxSrApCkB_vIOzfl9yTILTDyOmAFnLA?e=qTnrfZ) | 
 
 
 <br/>
