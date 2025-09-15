@@ -38,7 +38,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 We study Schrödinger operators in the context of (constrained) convex optimization, and interior point methods more specifically. As our main result, we give non-asymptotic bounds on the spectral gap of these Schrödinger operators. Our analysis combines tools from quantum mechanics (semiclassical analysis) and convex optimization (self-concordant barriers). As an application, we combine these bounds with quantum annealing to design a quantum interior point method.
 
-Joint work with Brandon Augustino, Sander Gribling, Harold Nieuwboer and Michael Walter.
+Joint work with Sander Gribling, Harold Nieuwboer and Michael Walter.
 
 
 <div style="clear: both;"></div>
