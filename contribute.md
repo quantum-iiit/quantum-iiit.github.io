@@ -2,7 +2,7 @@
 
 This page outlines how the system is structured, followed by a description of the various roles. But first, a huge thank you to our new contributors. 
 
-If you're interested in contributing, please feel free to reach out to any of us. 
+If you're interested in contributing, please feel free to [write to us](atul.singh.arora@gmail.com). 
 
 ## Contributors 
 
