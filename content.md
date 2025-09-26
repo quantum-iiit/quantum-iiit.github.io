@@ -15,7 +15,7 @@ Welcome to our Quantum Meets page ([quantum-meets.github.io](https://quantum-mee
     * Teams channel for [all](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/%5Bpublic%5D%20Quantum%20Meets?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) events. <sup><sub> (including internal in-person events) </sub></sup>
     * Teams channel for [seminar only](https://teams.microsoft.com/l/channel/19%3AFu0FGRP0lQ4unlqHZPcv557kmoXIkUyyXSTvl7gY6XU1%40thread.tacv2/Announcements%20(Quantum%E2%80%94IIIT)?groupId=705d7ace-b273-489c-8bcc-f5c3a210d7e4&tenantId=031a3bbc-cf7c-4e2b-96ec-867555540a1c&ngc=true&allowXTenantAccess=true) announcements. -->
 
-If you would like to present your work, or have other related questions, please don't hesitate to [email us](mailto:atul.singh.arora@gmail.com). To contribute to the organisation of these events, visit our [*how to contribute*](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/contribute.md) page.
+If you would like to present your work, or have other related questions, please don't hesitate to [email us](mailto:atul.singh.arora@gmail.com). To contribute to the more academic aspects of organising these events, please get in touch. If you wish to help with the logistics aspects, please visit our [*how to contribute*](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/contribute.md) page.
 
 At present, this effort is being driven by volunteers from IIIT Hyderabad, the University of Maryland and the University of Edinburgh. 
 
