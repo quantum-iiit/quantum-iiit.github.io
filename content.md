@@ -17,7 +17,7 @@ Welcome to our Quantum Meets page ([quantum-meets.github.io](https://quantum-mee
 
 If you would like to present your work, or have other related questions, please don't hesitate to [email us](mailto:atul.singh.arora@gmail.com). To contribute to the organisation of these events, visit our [*how to contribute*](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/contribute.md) page.
 
-At present, this effort is being powered by volunteers from IIIT Hyderabad, University of Maryland and University of Edinburgh. 
+At present, this effort is being driven by volunteers from IIIT Hyderabad, University of Maryland and University of Edinburgh. 
 
 
 ## Upcoming 
