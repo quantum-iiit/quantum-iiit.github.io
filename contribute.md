@@ -1,8 +1,8 @@
-# How to contribute
+# How to contribute | Logistics
 
 This page outlines how the system is structured, followed by a description of the various roles. But first, a huge thank you to our new contributors. 
 
-If you're interested in contributing, please feel free to [write to us](atul.singh.arora@gmail.com). 
+If you're interested in contributing to this effort, please feel free to [write to us](atul.singh.arora@gmail.com). 
 
 ## Contributors 
 
