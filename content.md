@@ -28,42 +28,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <!-- <br/> -->
 
-### [Quantum Seminar] Simon Apers—Convex optimization with Schrödinger operators (visitor, in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> 
-
-
-<!-- <img width="482" height="529" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> -->
-
-
-
-We study Schrödinger operators in the context of (constrained) convex optimization, and interior point methods more specifically. As our main result, we give non-asymptotic bounds on the spectral gap of these Schrödinger operators. Our analysis combines tools from quantum mechanics (semiclassical analysis) and convex optimization (self-concordant barriers). As an application, we combine these bounds with quantum annealing to design a quantum interior point method.
-
-Joint work with Sander Gribling, Harold Nieuwboer and Michael Walter.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Simon Apers | IRIF and CNRS, Paris, France | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 25 September | 11:00am – 12:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/Easquv6fD8lBvhbsljyRCSEBipwoFYb2KGhreOAnwjGWQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=k3OCo3) | 
-
-
-<br/>
-
-
-
-
-
-## Pipeline
-
-
-
-
 
 ### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (presented online)
 
@@ -87,6 +51,18 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 
 
 <br/>
+
+
+
+
+
+
+## Pipeline
+
+
+
+
+
 
 
 <!-- SKIP_START -->
@@ -150,6 +126,55 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 <br/>
 
 
+### [Quantum Seminar] Zhiyan DING—[End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/42eaa3ca-7690-49d7-a016-729b68ccf360" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+We propose new quantum algorithms for thermal and ground state preparation based on system-bath interactions. These algorithms require only forward evolution under a system-bath Hamiltonian in which the bath is a single reusable ancilla qubit, making them especially well-suited for early fault-tolerant quantum devices. By carefully designing the bath and interaction Hamiltonians, we prove that the fixed point of the dynamics accurately approximates the desired quantum state. Furthermore, we establish theoretical guarantees on the mixing time for several physically relevant models, thereby providing a rigorous justification for the end-to-end efficiency of system-bath interaction models in thermal and ground state preparation.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Zhiyan Ding | Department of Mathematics, University of Michigan, US  | TBA  | Monday, October 27 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Pedro Barrios—[Quantum mechanics based on real numbers: A consistent description](https://arxiv.org/abs/2503.17307) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/26cf835d-594a-4e8c-a0b5-6752e2faa030" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+
+Complex numbers play a crucial role in quantum mechanics. However, their necessity remains debated: whether they are fundamental or merely convenient.
+Recently, it was claimed that quantum mechanics based on real numbers can be experimentally falsified in the sense that any real-number formulation of quantum mechanics either becomes inconsistent with multipartite experiments or violates certain postulates. In this article we show that a physically motivated postulate about composite quantum systems allows to construct quantum mechanics based on real numbers that reproduces predictions for all multipartite quantum experiments. Thus, we argue that real-valued quantum mechanics cannot be falsified, and therefore the use of complex numbers is a matter of convenience.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Pedro Barrios | Heinrich Heine University Düsseldorf, Germany  | TBA  | Wednesday, December 3 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 
 <br/>
@@ -176,6 +201,32 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 
   
    </summary>
+
+### [Quantum Seminar] Simon Apers—Convex optimization with Schrödinger operators (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> 
+
+
+<!-- <img width="482" height="529" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> -->
+
+
+
+We study Schrödinger operators in the context of (constrained) convex optimization, and interior point methods more specifically. As our main result, we give non-asymptotic bounds on the spectral gap of these Schrödinger operators. Our analysis combines tools from quantum mechanics (semiclassical analysis) and convex optimization (self-concordant barriers). As an application, we combine these bounds with quantum annealing to design a quantum interior point method.
+
+Joint work with Sander Gribling, Harold Nieuwboer and Michael Walter.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Simon Apers | IRIF and CNRS, Paris, France | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 25 September | 11:00am – 12:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/Easquv6fD8lBvhbsljyRCSEBipwoFYb2KGhreOAnwjGWQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=k3OCo3) | 
+
+<br/>
 
 ### [Quantum Seminar] Tulja Varun Kondra—Catalytic and Asymptotic Equivalence for Quantum Entanglement (visitor, in-person)
 
