@@ -219,7 +219,7 @@ Joint work with Sander Gribling, Harold Nieuwboer and Michael Walter.
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Simon Apers | IRIF and CNRS, Paris, France | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 25 September | 11:00am – 12:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/Easquv6fD8lBvhbsljyRCSEBipwoFYb2KGhreOAnwjGWQg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=k3OCo3) | 
+| Seminar | Simon Apers | IRIF and CNRS, Paris, France | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Thursday, 25 September | 11:00am – 12:30pm |  [YouTube](https://www.youtube.com/watch?v=4fYEYc8d7yo) | 
 
 <br/>
 
