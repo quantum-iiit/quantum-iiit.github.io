@@ -29,14 +29,14 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- <br/> -->
 
 
-### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (presented online)
+### [Quantum Seminar] Sebastian Zur—[The compressed oracle is a (worthy) adversary](https://arxiv.org/abs/2509.07876) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1a944eca-4930-4373-9122-473d17273369" /> 
 
 <!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
 
 
-In their seminal work, Gentry and Wichs (STOC'11) established an impossibility result for the task of constructing an adaptively-sound SNARG via black-box reduction from a falsifiable assumption. An exciting set of recent SNARG constructions demonstrated that, if one adopts a weaker but still quite meaningful notion of adaptive soundness, then impossibility no longer holds (Waters-Wu, Waters-Zhandry, Mathialagan-Peters-Vaikunthanathan ePrint'24). These fascinating new results raise an intriguing possibility: is there a way to remove this slight weakening of adaptive soundness, thereby completely circumventing the Gentry-Wichs impossibility? A natural route to closing this gap would be to use a quantum black-box reduction, i.e., a reduction that can query the SNARG adversary on superpositions of inputs. This would take advantage of the fact that Gentry-Wichs only consider classical reductions. In this work, we show that this approach cannot succeed. Specifically, we extend the Gentry-Wichs impossibility result to quantum black-box reductions, and thereby establish an important limit on the power of such reductions.
+The compressed oracle technique, introduced in the context of quantum cryptanalysis, is the latest method for proving quantum query lower bounds, and has had an impressive number of applications since its introduction, due in part to the ease of importing classical lower bound intuition into the quantum setting via this method. Previously, the main quantum query lower bound methods were the polynomial method, the adversary method, and the multiplicative adversary method, and their relative powers were well understood. In this work, we situate the compressed oracle technique within this established landscape, by showing that it is a special case of the multiplicative adversary method. To accomplish this, we introduce a simplified restriction of the multiplicative adversary method, the MLADV method, that remains powerful enough to capture the polynomial method and exhibit a strong direct product theorem, but is much simpler to reason about. We show that the compressed oracle technique is also captured by the MLADV method. This might make the MLADV method a promising direction in the current quest to extend the compressed oracle technique to non-product distributions.
 
 
 <div style="clear: both;"></div>
@@ -47,18 +47,13 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Manasi Shingane | QuICS, University of Maryland  | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Monday, September 29 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/ywKjOBtKulI) | 
+| Seminar | Sebastian Zur | Centrum Wiskunde & Informatica (CWI), Netherlands  | TBA  | Wednesday, October 15 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
 
 
-
-
-
-
 ## Pipeline
-
 
 
 ### [Quantum Seminar] Zhiyan DING—[End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) (presented online)
@@ -80,6 +75,78 @@ We propose new quantum algorithms for thermal and ground state preparation based
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Zhiyan Ding | Department of Mathematics, University of Michigan, US  | TBA  | Monday, October 27 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/14ffdf8a-29fc-4d74-8a07-ac03c059e649" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+In this work, we propose a new way to (non-interactively, verifiably) demonstrate quantum advantage by solving the average-case 𝖭𝖯 search problem of finding a solution to a system of (underdetermined) constant degree multivariate equations over the finite field 𝔽2 drawn from a specified distribution. In particular, for any d≥2, we design a distribution of degree up to d polynomials {pi(x1,…,xn)}i∈[m] for m<n over 𝔽2 for which we show that there is a expected polynomial-time quantum algorithm that provably simultaneously solves {pi(x1,…,xn)=yi}i∈[m] for a random vector (y1,…,ym). On the other hand, while solutions exist with high probability, we conjecture that for constant d>2, it is classically hard to find one based on a thorough review of existing classical cryptanalysis. Our work thus posits that degree three functions are enough to instantiate the random oracle to obtain non-relativized quantum advantage.
+Our approach begins with the breakthrough Yamakawa-Zhandry (FOCS 2022) quantum algorithmic framework. In our work, we demonstrate that this quantum algorithmic framework extends to the setting of multivariate polynomial systems.
+Our key technical contribution is a new analysis on the Fourier spectra of distributions induced by a general family of distributions over 𝔽2 multivariate polynomials -- those that satisfy 2-wise independence and shift-invariance. This family of distributions includes the distribution of uniform random degree at most d polynomials for any constant d≥2. Our analysis opens up potentially new directions for quantum cryptanalysis of other multivariate systems.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Riddhi Ghosal | UCLA, US  | TBA  | Tuesday, November 4 | 9:30 – 11:00am |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+Gate-based quantum computers hold enormous potential to accelerate classically intractable computational tasks. Random circuit sampling (RCS) is the only known task that has been able to be experimentally demonstrated using current-day NISQ devices. However, for a long time, it remained challenging to demonstrate the quantum utility of RCS on practical problems. Recently, leveraging RCS, an interactive protocol generating certified randomness was demonstrated using a trapped ion quantum computer, advancing the practical utility of near-term gate-based quantum computers. In this work, we establish a strong connection between certified randomness and another quantum computation classical communication primitive, classically verifiable position verification (CVPV), which circumvents the practical challenges that may arise from long-distance quantum communications. We provide a new generic compiler that can convert any single-round proof of quantumness based certified randomness protocol into a secure classical communication-based position verification scheme. Later, we extend our compiler to different types of multi-round protocols. Notably, our compiler can be applied to any multi-round certified randomness protocol that can be analyzed using the entropy accumulation theorem, making its applicability very general. Moreover, we show that CVPV is equivalent to a relaxed variant of certified randomness that we define. We instantiate each of our compilers using existing certified randomness protocols. In particular, building on the work of Aaronson and Hung (STOC '23), we give a NISQ-friendly instantiation based on RCS, which was experimentally demonstrated by Liu et al.. Hence, we show that CVPV is another application within reach of NISQ devices.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | TBA  | Wednesday, November 12 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Seminar] Kunal Marwaha—[Superposition detection and QMA with non-collapsing measurements](https://quantum-journal.org/papers/q-2025-08-28-1839/) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/17edb361-4bc6-4a69-a27a-2a6933078b1b" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+We prove that QMA where the verifier may also make a single non−collapsing measurement is equal to NEXP, resolving an open question of Aaronson. We show this is a corollary to a modified proof of QMA+=NEXP. At the core of many results inspired by Blier and Tapp is an unphysical property testing problem deciding whether a quantum state is close to an element of a fixed basis.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Kunal Marwaha | University of Chicago, US  | TBA  | Wednesday, November 19 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -196,6 +263,29 @@ Recently, it was claimed that quantum mechanics based on real numbers can be exp
 
   
    </summary>
+
+### [Quantum Seminar] Manasi Shingane—[Quantum Black-Box Separations: Succinct Non-Interactive Arguments from Falsifiable Assumptions](https://eprint.iacr.org/2024/1763) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+In their seminal work, Gentry and Wichs (STOC'11) established an impossibility result for the task of constructing an adaptively-sound SNARG via black-box reduction from a falsifiable assumption. An exciting set of recent SNARG constructions demonstrated that, if one adopts a weaker but still quite meaningful notion of adaptive soundness, then impossibility no longer holds (Waters-Wu, Waters-Zhandry, Mathialagan-Peters-Vaikunthanathan ePrint'24). These fascinating new results raise an intriguing possibility: is there a way to remove this slight weakening of adaptive soundness, thereby completely circumventing the Gentry-Wichs impossibility? A natural route to closing this gap would be to use a quantum black-box reduction, i.e., a reduction that can query the SNARG adversary on superpositions of inputs. This would take advantage of the fact that Gentry-Wichs only consider classical reductions. In this work, we show that this approach cannot succeed. Specifically, we extend the Gentry-Wichs impossibility result to quantum black-box reductions, and thereby establish an important limit on the power of such reductions.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Manasi Shingane | QuICS, University of Maryland  | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Monday, September 29 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/ywKjOBtKulI) | 
+
+
+<br/>
 
 ### [Quantum Seminar] Simon Apers—Convex optimization with Schrödinger operators (visitor, in-person)
 
