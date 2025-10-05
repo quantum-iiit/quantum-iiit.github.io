@@ -47,7 +47,7 @@ In their seminal work, Gentry and Wichs (STOC'11) established an impossibility r
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Manasi Shingane | QuICS, University of Maryland  | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Monday, September 29 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EVjQgwuPUl1JqixwZG-UUgoB71hZrA2dhezQF4AX4rXs-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pxZt8R) | 
+| Seminar | Manasi Shingane | QuICS, University of Maryland  | Large Meeting Room 22 (LM 22), 2nd floor, KRB, IIIT Hyderabad  | Monday, September 29 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/ywKjOBtKulI) | 
 
 
 <br/>
