@@ -182,6 +182,27 @@ Recently, it was claimed that quantum mechanics based on real numbers can be exp
 
 
 
+
+### [Quantum Seminar] Alexandru Cojocaru—[Quantum Lifting Theorems in QROM and QRPM](https://arxiv.org/html/2509.09896v1)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
+
+<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+
+We give novel and tighter lifting theorems for security games in the quantum random oracle model (QROM), as well as in Noisy Intermediate-Scale Quantum (NISQ) settings such as the hybrid query model, the noisy oracle and the bounded-depth models. At the core of our main results lies a novel measure-and-reprogram framework that we call coherent reprogramming. This framework gives a tighter lifting theorem for query complexity problems.
+Secondly, we provide a hybrid lifting theorem for hybrid algorithms that can perform both quantum and classical queries, as well as a lifting theorem for quantum algorithms with access to noisy oracles or bounded quantum depth.
+Thirdly, we derive lifting theorems for establishing security in the quantum random permutation and ideal cipher models.
+These theorems relate the success probability of an arbitrary quantum adversary to that of a classical algorithm making only a small number of classical queries.
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | TBA | Monday, 8 December, 2026 | 6:30 – 8:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 ### [Quantum Seminar] Antariksha Das—TBA
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/639ce1f9-cce4-4e63-9930-3f1db7c831e3" />
@@ -213,32 +234,6 @@ Recently, it was claimed that quantum mechanics based on real numbers can be exp
 
 
 
-
-### [Quantum Seminar] Alexandru Cojocaru—TBA
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
-
-<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
-
-```
-
-
-
-
-   TBA
-
-
-
-
-```
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh (UK)  | TBA | Monday, 1 Sep, 2026 | 4:00 – 5:30pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 <br/>
