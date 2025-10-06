@@ -104,6 +104,10 @@ Our key technical contribution is a new analysis on the Fourier spectra of distr
 
 <br/>
 
+
+
+<!-- SKIP_START -->
+
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
@@ -177,8 +181,6 @@ Recently, it was claimed that quantum mechanics based on real numbers can be exp
 <br/>
 
 
-
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Antariksha Das—TBA
 
