@@ -8,7 +8,7 @@ If you're interested in contributing to this effort, please feel free to [write 
 
 | Name | Role | Contribution period | 
 | - | - | - |
-| Arnab Ghorui | GitHub maintaner | Aug 2025–present | 
+| Arnab Ghorui | GitHub maintainer | Aug 2025–present | 
 | Himanshu | YouTube maintainer | May 2025–present | 
 | Atul Singh Arora | Coordinator | Feb 2025–present | 
 

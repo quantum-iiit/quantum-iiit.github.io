@@ -28,6 +28,32 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <!-- <br/> -->
 
+### [Quantum Seminar] Dominik Leichtle—[Bounding the asymptotic quantum value of all multipartite compiled non-local games](https://arxiv.org/abs/2507.12408) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/ec1b6262-3b76-4de0-a3c8-763bf8411f3d" /> 
+
+<!-- <img width="385" height="436" alt="image" src="https://github.com/user-attachments/assets/ec1b6262-3b76-4de0-a3c8-763bf8411f3d" /> -->
+
+
+
+Non-local games are a powerful tool to distinguish between correlations possible in classical and quantum worlds. Kalai et al. (STOC'23) proposed a compiler that converts multipartite non-local games into interactive protocols with a single prover, relying on cryptographic tools to remove the assumption of physical separation of the players. While quantum completeness and classical soundness of the construction have been established for all multipartite games, quantum soundness is known only in the special case of bipartite games.
+In this paper, we prove that the Kalai et al.'s compiler indeed achieves quantum soundness for all multipartite compiled non-local games, by showing that any correlations that can be generated in the asymptotic case correspond to quantum commuting strategies.
+Our proof uses techniques from the theory of operator algebras, and relies on a characterisation of sequential operationally no-signalling strategies as quantum commuting operator strategies in the multipartite case, thereby generalising several previous results. On the way, we construct universal C*-algebras of sequential PVMs and prove a new chain rule for Radon-Nikodym derivatives of completely positive maps on C*-algebras which may be of independent interest.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Dominik Leichtle | School of Informatics, University of Edinburgh, UK  | KRB Large Meeting-LM 22 (2nd floor)  | Tuesday, October 14 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 ### [Quantum Seminar] Sebastian Zur—[The compressed oracle is a (worthy) adversary](https://arxiv.org/abs/2509.07876) (presented online)
 
