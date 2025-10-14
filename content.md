@@ -105,6 +105,31 @@ We propose new quantum algorithms for thermal and ground state preparation based
 
 <br/>
 
+### [Quantum Seminar] Tanuj Khattar—[How to efficiently compile the Extended Euclidean Algorithm?]() (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> 
+
+<!-- <img width="327" height="363" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> -->
+
+
+The Extended Euclidean Algorithm (EEA) is a fundamental building block in number theory and computer algebra. It is the standard method for computing modular inverses and the Bézout coefficients for a pair of inputs (f,g) such that f⋅u+g⋅v=gcd(f,g). The EEA is a key subroutine for many quantum algorithms, most notably to calculate modular inverses in Shor's algorithm for discrete log and factoring and for decoding Reed Solomon codes in Decoded Quantum Interferometry (DQI). In this talk, we will talk about how to compile efficient quantum circuits for EEA in two different regimes—one where Implicit access to Bézout coefficients is sufficient and second when explicit access to Bézout coefficients is needed.
+
+I will try to structure the talk such that very little background in Quantum Computing is expected; and would encourage all students who enjoy computer science and competitive programming to attend the seminar.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Tanuj Khattar | Quantum AI, Google  | TBA  | Tuesday, October 28 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 ### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/14ffdf8a-29fc-4d74-8a07-ac03c059e649" /> 
@@ -177,6 +202,29 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Kunal Marwaha | University of Chicago, US  | TBA  | Wednesday, November 19 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> 
+
+<!-- <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> -->
+
+
+Compiled nonlocal games transfer the power of Bell-type multi-prover tests into a single-device setting by replacing spatial separation with cryptography. Concretely, the KLVY compiler (STOC'23) maps any multi-prover game to an interactive single-prover protocol, using quantum homomorphic encryption. A crucial security property of such compilers is quantum soundness, which ensures that a dishonest quantum prover cannot exceed the original game's quantum value. For practical cryptographic implementations, this soundness must be quantitative, providing concrete bounds, rather than merely asymptotic. While quantitative quantum soundness has been established for the KLVY compiler in the bipartite case, it has only been shown asymptotically for multipartite games. This is a significant gap, as multipartite nonlocality exhibits phenomena with no bipartite analogue, and the difficulty of enforcing space-like separation makes single-device compilation especially compelling. This work closes this gap by showing the quantitative quantum soundness of the KLVY compiler for all multipartite nonlocal games. On the way, we introduce an NPA-like hierarchy for quantum instruments and prove its completeness, thereby characterizing correlations from operationally-non-signaling sequential strategies. We further develop novel geometric arguments for the decomposition of sequential strategies into their signaling and non-signaling parts, which might be of independent interest.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Monday, December 1 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
