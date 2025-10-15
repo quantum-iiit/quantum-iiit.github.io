@@ -29,29 +29,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- <br/> -->
 
 
-### [Quantum Seminar] Sebastian Zur—[The compressed oracle is a (worthy) adversary](https://arxiv.org/abs/2509.07876) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1a944eca-4930-4373-9122-473d17273369" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
-
-
-The compressed oracle technique, introduced in the context of quantum cryptanalysis, is the latest method for proving quantum query lower bounds, and has had an impressive number of applications since its introduction, due in part to the ease of importing classical lower bound intuition into the quantum setting via this method. Previously, the main quantum query lower bound methods were the polynomial method, the adversary method, and the multiplicative adversary method, and their relative powers were well understood. In this work, we situate the compressed oracle technique within this established landscape, by showing that it is a special case of the multiplicative adversary method. To accomplish this, we introduce a simplified restriction of the multiplicative adversary method, the MLADV method, that remains powerful enough to capture the polynomial method and exhibit a strong direct product theorem, but is much simpler to reason about. We show that the compressed oracle technique is also captured by the MLADV method. This might make the MLADV method a promising direction in the current quest to extend the compressed oracle technique to non-product distributions.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Sebastian Zur | Centrum Wiskunde & Informatica (CWI), Netherlands  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, October 15 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
 ### [Quantum Talk] Indranil Chakrabarty—[A new global measure of teleportation in Quantum Networks](https://arxiv.org/abs/2409.20304) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15886e1b-df93-4ef7-b716-e0a2a5c90040" /> 
@@ -330,6 +307,33 @@ These theorems relate the success probability of an arbitrary quantum adversary 
 
   
    </summary>
+
+
+### [Quantum Seminar] Sebastian Zur—[The compressed oracle is a (worthy) adversary](https://arxiv.org/abs/2509.07876) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1a944eca-4930-4373-9122-473d17273369" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+The compressed oracle technique, introduced in the context of quantum cryptanalysis, is the latest method for proving quantum query lower bounds, and has had an impressive number of applications since its introduction, due in part to the ease of importing classical lower bound intuition into the quantum setting via this method. Previously, the main quantum query lower bound methods were the polynomial method, the adversary method, and the multiplicative adversary method, and their relative powers were well understood. In this work, we situate the compressed oracle technique within this established landscape, by showing that it is a special case of the multiplicative adversary method. To accomplish this, we introduce a simplified restriction of the multiplicative adversary method, the MLADV method, that remains powerful enough to capture the polynomial method and exhibit a strong direct product theorem, but is much simpler to reason about. We show that the compressed oracle technique is also captured by the MLADV method. This might make the MLADV method a promising direction in the current quest to extend the compressed oracle technique to non-product distributions.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Sebastian Zur | Centrum Wiskunde & Informatica (CWI), Netherlands  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, October 15 | 6:00 – 7:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EQazk3jaZR5LvlteQRXq_f0Bo90bxBTZzZNxuuDAu147Vg?e=8giy4M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+
+<br/>
+
+
+
 
 ### [Quantum Seminar] Dominik Leichtle—[Bounding the asymptotic quantum value of all multipartite compiled non-local games](https://arxiv.org/abs/2507.12408) (presented online)
 
