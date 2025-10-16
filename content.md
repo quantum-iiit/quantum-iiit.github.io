@@ -356,7 +356,7 @@ Our proof uses techniques from the theory of operator algebras, and relies on a 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Dominik Leichtle | School of Informatics, University of Edinburgh, UK  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, October 14 | 8:30 – 10:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/Ed_1vKuigR5CnSMFZeWG4KIBHfQtw4YCsddz0eDw2r4U1w?e=y5TDB3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Seminar | Dominik Leichtle | School of Informatics, University of Edinburgh, UK  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, October 14 | 8:30 – 10:00pm |  [YouTube](https://youtu.be/CYMvUdlg7gs) | 
 
 
 <br/>
