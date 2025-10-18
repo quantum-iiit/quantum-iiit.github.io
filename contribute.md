@@ -90,6 +90,6 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
   * *Load.* About thirty five minutes per seminar
   * *Task.*
      * Day before the event. Make sure the bluetooth speaker/mic and related equipment is charged. The laser pointer uses external batteries, so replace them if needed. Ensure we have a spare set.
-     * Thirty minutes prior to the event. Arrive at the venue, setup the camera, the projector and try to use ethernet for a stable connection. Join on Teams and do a quick audio/video test.
+     * Thirty minutes prior to the event. Arrive at the venue, setup the camera, the projector and try to use ethernet for a stable connection. Join on Teams and do a quick audio/video test. Inform the speaker to be careful to **not shine the laser into the camera**. You would be surprised how easy it is to do that accidentally.
      * During the event. Enjoy it! Occassionally make sure Teams is working fine—especially that the talk is getting recorded (unless the speaker doesn't want it recorded). And that the speaker is on "spotlight". Makes it much easier to edit videos later.
      * Equipment. If you are not going to be available for upcoming events, be sure to hand over the equipment to me or to another volunteer, before you leave. There is a checklist in the box, please use it to ensure we don't lose anything. 
