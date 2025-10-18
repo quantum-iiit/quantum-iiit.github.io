@@ -306,7 +306,7 @@ Can you infer the capability of a network in distributed teleportation by just c
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Indranil Chakrabarty | IIIT Hyderabad, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Saturday, October 18 | 2:00 – 3:30pm |  [OneDrive]() | 
+| Talk | Indranil Chakrabarty | IIIT Hyderabad, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Saturday, October 18 | 2:00 – 3:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EY08O-4phx9CtPcax5JFMn0BCQO7SZnMkp2Nvx-X5CDnvg?e=jghDrc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
 
 
 <br/>
