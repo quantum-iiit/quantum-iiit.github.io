@@ -28,33 +28,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <!-- <br/> -->
 
-
-### [Quantum Talk] Indranil Chakrabarty—[A new global measure of teleportation in Quantum Networks](https://arxiv.org/abs/2409.20304) (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15886e1b-df93-4ef7-b716-e0a2a5c90040" /> 
-<!-- <img width="1440" height="1440" alt="image" src="https://github.com/user-attachments/assets/15886e1b-df93-4ef7-b716-e0a2a5c90040" /> -->
-
-
-
-Can you infer the capability of a network in distributed teleportation by just counting the path length? Yes you can. You may understand the capability of a  quantum network in distributed teleportation globally by a single metric. We show that the average of the maximum teleportation fidelities between all pairs of nodes in a large quantum repeater network is a measure of the resourcefulness of the network . It can be used for arbitrary topologies, with and without loops. As  examples,  we consider  topologies (the star, the chain, some trees, and also the ring and the complete graph) with links being simple Werner state-based models. We consider three (semi)realistic scenarios for our analysis. In addition to identifying the parameter ranges for quantum advantages that can be achieved by the network, we also show the large-𝑁 behaviors.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Indranil Chakrabarty | IIIT Hyderabad, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Saturday, October 18 | 2:00 – 3:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-## Pipeline
-
-
 ### [Quantum Seminar] Zhiyan DING—[End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/42eaa3ca-7690-49d7-a016-729b68ccf360" /> 
@@ -77,6 +50,8 @@ We propose new quantum algorithms for thermal and ground state preparation based
 
 
 <br/>
+
+
 
 ### [Quantum Seminar] Tanuj Khattar—[How to efficiently compile the Extended Euclidean Algorithm?]() (presented online)
 
@@ -102,6 +77,11 @@ I will try to structure the talk such that very little background in Quantum Com
 
 
 <br/>
+
+
+
+## Pipeline
+
 
 ### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
 
@@ -309,6 +289,29 @@ These theorems relate the success probability of an arbitrary quantum adversary 
    </summary>
 
 
+### [Quantum Talk] Indranil Chakrabarty—[A new global measure of teleportation in Quantum Networks](https://arxiv.org/abs/2409.20304) (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/15886e1b-df93-4ef7-b716-e0a2a5c90040" /> 
+<!-- <img width="1440" height="1440" alt="image" src="https://github.com/user-attachments/assets/15886e1b-df93-4ef7-b716-e0a2a5c90040" /> -->
+
+
+
+Can you infer the capability of a network in distributed teleportation by just counting the path length? Yes you can. You may understand the capability of a  quantum network in distributed teleportation globally by a single metric. We show that the average of the maximum teleportation fidelities between all pairs of nodes in a large quantum repeater network is a measure of the resourcefulness of the network . It can be used for arbitrary topologies, with and without loops. As  examples,  we consider  topologies (the star, the chain, some trees, and also the ring and the complete graph) with links being simple Werner state-based models. We consider three (semi)realistic scenarios for our analysis. In addition to identifying the parameter ranges for quantum advantages that can be achieved by the network, we also show the large-𝑁 behaviors.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Indranil Chakrabarty | IIIT Hyderabad, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Saturday, October 18 | 2:00 – 3:30pm |  [OneDrive]() | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Sebastian Zur—[The compressed oracle is a (worthy) adversary](https://arxiv.org/abs/2509.07876) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1a944eca-4930-4373-9122-473d17273369" /> 
@@ -327,7 +330,7 @@ The compressed oracle technique, introduced in the context of quantum cryptanaly
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Sebastian Zur | Centrum Wiskunde & Informatica (CWI), Netherlands  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, October 15 | 6:00 – 7:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EQazk3jaZR5LvlteQRXq_f0Bo90bxBTZzZNxuuDAu147Vg?e=8giy4M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Seminar | Sebastian Zur | Centrum Wiskunde & Informatica (CWI), Netherlands  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, October 15 | 6:00 – 7:30pm |  [YouTube](https://youtu.be/eCamtO5opMY) | 
 
 
 <br/>
