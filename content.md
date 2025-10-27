@@ -28,31 +28,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <!-- <br/> -->
 
-### [Quantum Seminar] Zhiyan DING—[End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/42eaa3ca-7690-49d7-a016-729b68ccf360" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
-
-
-We propose new quantum algorithms for thermal and ground state preparation based on system-bath interactions. These algorithms require only forward evolution under a system-bath Hamiltonian in which the bath is a single reusable ancilla qubit, making them especially well-suited for early fault-tolerant quantum devices. By carefully designing the bath and interaction Hamiltonians, we prove that the fixed point of the dynamics accurately approximates the desired quantum state. Furthermore, we establish theoretical guarantees on the mixing time for several physically relevant models, thereby providing a rigorous justification for the end-to-end efficiency of system-bath interaction models in thermal and ground state preparation.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Zhiyan Ding | Department of Mathematics, University of Michigan, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, October 27 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
 ### [Quantum Seminar] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> 
@@ -329,6 +304,29 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
   
    </summary>
+
+### [Quantum Seminar] Zhiyan DING—[End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/42eaa3ca-7690-49d7-a016-729b68ccf360" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+We propose new quantum algorithms for thermal and ground state preparation based on system-bath interactions. These algorithms require only forward evolution under a system-bath Hamiltonian in which the bath is a single reusable ancilla qubit, making them especially well-suited for early fault-tolerant quantum devices. By carefully designing the bath and interaction Hamiltonians, we prove that the fixed point of the dynamics accurately approximates the desired quantum state. Furthermore, we establish theoretical guarantees on the mixing time for several physically relevant models, thereby providing a rigorous justification for the end-to-end efficiency of system-bath interaction models in thermal and ground state preparation.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Zhiyan Ding | Department of Mathematics, University of Michigan, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, October 27 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EWh3q0fy_r9PnvsOa0-w4qMBXVihXMcOp7dYebe6INyE3Q?e=GU2BkH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+
+<br/>
 
 
 ### [Quantum Talk] Indranil Chakrabarty—[A new global measure of teleportation in Quantum Networks](https://arxiv.org/abs/2409.20304) (in-person)
