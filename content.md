@@ -351,7 +351,7 @@ We propose new quantum algorithms for thermal and ground state preparation based
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Zhiyan Ding | Department of Mathematics, University of Michigan, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, October 27 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/1gczoez00aM) | 
+| Seminar | Zhiyan Ding | Department of Mathematics, University of Michigan, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, October 27 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/1gczoez00aM) [Slides](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/attachments/Zhiyan_Oct_2025.pdf) | 
 
 
 <br/>
