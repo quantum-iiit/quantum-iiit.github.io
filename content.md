@@ -28,7 +28,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <div style="clear: both;"></div>
 <!-- <br/> -->
 
-### [Quantum Seminar] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
+### [Quantum Talk] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> 
 
