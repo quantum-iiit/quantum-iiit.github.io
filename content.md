@@ -326,7 +326,7 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 <details open>
    <summary>
 
-  **September – December, 2025**
+  ### September – December, 2025
 
   <br/>
 
@@ -570,7 +570,7 @@ In this Letter, we develop a panoramic schematic of quantum thermal analogs of e
 <details> <!-- open -->
    <summary>
 
-  **May – August, 2025**
+  ### May – August, 2025
 
   <br/>
 
@@ -953,7 +953,7 @@ We develop new algorithms for Quantum Singular Value Transformation (QSVT), a un
 <details>
    <summary>
 
-  **January – April, 2025**
+  ### January – April, 2025
 
   <br/>
 
