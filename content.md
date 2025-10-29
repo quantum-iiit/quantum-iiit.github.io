@@ -312,16 +312,16 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
 
 
-<details open>
-  <summary>
+<!-- <details open>
+  <summary> -->
 
 
     
-  ## Past    
+## Past    
 
 <br />
 
-</summary> 
+<!-- </summary>  -->
 
 <details open>
    <summary>
@@ -1128,7 +1128,7 @@ I will briefly discuss how these properties can achieved in the classical settin
 <br/>
 
 
-</details>
+<!-- </details> -->
 
 
 
