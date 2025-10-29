@@ -253,7 +253,7 @@ These theorems relate the success probability of an arbitrary quantum adversary 
 
 <br/>
 
-### [Quantum Seminar] Sayantan Chakraborty—[A robust and composable device-independent protocol for oblivious transfer using (fully) untrusted quantum devices in the bounded storage model](https://arxiv.org/abs/2404.11283)
+### [Quantum Seminar] Sayantan Chakraborty—[A robust and composable device-independent protocol for oblivious transfer using (fully) untrusted quantum devices in the bounded storage model](https://arxiv.org/abs/2404.11283) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
 
