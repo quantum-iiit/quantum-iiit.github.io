@@ -108,6 +108,34 @@ Our key technical contribution is a new analysis on the Fourier spectra of distr
 
 
 <!-- SKIP_START -->
+### [Quantum Colloquium] Rajamani Vijayaraghavan—Observing quantum effects in a “macroscopic” electrical circuit (presented online)
+
+**Colloquium on the Nobel Prize in Physics, 2025**
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9207b298-9bd8-4adb-b047-0f52ec706cc5" /> 
+
+<!-- <img width="520" height="630" alt="image" src="https://github.com/user-attachments/assets/9207b298-9bd8-4adb-b047-0f52ec706cc5" /> -->
+
+The Nobel Prize in Physics for 2025 has been awarded to John Clarke, Michel Devoret, and John Martinis for conducting a series of experiments that demonstrated quantum tunneling and energy quantization in a “macroscopic” electrical circuit for the first time. In this talk, I will explain the experiments they conducted using a superconducting electrical circuit element called a Josephson junction. I will illustrate how this experiment was a master stroke in both the choice of the system and the clever engineering used to sufficiently isolate it from its environment, enabling the observation of quantum effects.
+
+These early experiments set the stage for the development of quantum bits using superconducting circuits, a leading architecture for building practical quantum computers. Since one of the laureates, Michel Devoret, is also my PhD advisor, I hope to share some anecdotes and my own experience working with him, including an experiment very closely related to the one recognized by this year’s Nobel Prize in Physics.
+
+**About.** Dr. Vijayaraghavan carried out his doctoral research at Yale University with Prof. Michel Devoret, who is one of the recipients of the Nobel Prize in Physics in 2025. This was followed by postdoctoral work at the University of California, Berkeley. At both these places he worked on problems related to the measurement of superconducting quantum bits.
+
+He is currently an Associate Professor at the Tata Institute of Fundamental Research, Mumbai and heads the Quantum Measurement and Control Laboratory where the research focuses on superconducting quantum circuits. He is currently leading several projects to build small to medium scale quantum processors with funding from DAE, DRDO, TCS and DST. He is also the Lead PI for the Technical Group working on building superconducting quantum computers under the National Quantum Mission. He is a recipient of the Ramanujan Fellowship (2013-18) awarded by the Department of Science and Technology of the Government of India, and a Fellow of the Indian Academy of Sciences, Bangalore since January 2024. He was awarded the Pancharatnam prize for excellence in quantum science and technology by the Government of Karnataka in July 2025.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Rajamani Vijayaraghavan | TIFR  | TBA  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
 
