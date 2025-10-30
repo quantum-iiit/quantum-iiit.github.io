@@ -10,8 +10,22 @@ If you're interested in contributing to this effort, please feel free to [write 
 | - | - | - |
 | Arnab Ghorui | GitHub maintainer | Aug 2025–present | 
 | Himanshu | YouTube maintainer | May 2025–present | 
+| Niranjan | YouTube maintainer | Oct 2025–present | 
 | Atul Singh Arora | Coordinator | Feb 2025–present | 
 | Sreyas and Aryaman | (in-person) Equipment Coordinator | Oct 2025–present |
+| Prerna (Niranjan backup) | Quantum Talks Coordinator | Oct 2025–present | 
+
+
+## Video Editing Contributions (post Oct, 2025)
+
+This is for YouTube maintainers. Please update the following (descending order) and send a pull-request when you edit a video for a speaker.
+
+| Speaker | Edited By | Event held on |
+| - | - | - |
+| Zhiyan Ding | Himanshu | 27 October, 2025 |
+| Indranil Chakraborty | Himanshu | 18 October, 2025 |
+| Sebastian Zur | Himanshu | 15 October, 2025 | 
+| Domink Leichtle | Himanshu | 14 October, 2025 |
 
 ## Current structure
 (updated: Sunday, April 6, 2025)
