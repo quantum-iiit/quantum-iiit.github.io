@@ -79,6 +79,11 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
    * Specific tasks
       * *Logistics.* Ensure the calendars are up to date, the venues are booked (and with help from the rest of the team when available), ensure the webpage and YouTube channel are up to date.
       * *Academic programme.* Review arXiv regularly and invite speakers.
+* **Quantum Talks Coordinator.**
+   * Broadly, responsible for ensuring internal members present weekly.
+   * Specific tasks
+      * Maintaining a spreadsheet with all the members and the tentative week in which they intend to present.
+      * Ensuring that they schedule a talk on the system at least a week prior (and at most two weeks prior) to their target presentation week.
 * **GitHub maintainer.**
   * *Load.* About twenty minutes a week.
   * *Task.*
