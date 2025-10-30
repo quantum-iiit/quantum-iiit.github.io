@@ -20,6 +20,8 @@ If you're interested in contributing to this effort, please feel free to [write 
 
 This is for YouTube maintainers. Please update the following (descending order) and send a pull-request when you edit a video for a speaker.
 
+NB. These records start October, 2025 onwards. Prior to this, Himanshu edited most videos.
+
 | Speaker | Edited By | Event held on |
 | - | - | - |
 | Zhiyan Ding | Himanshu | 27 October, 2025 |
