@@ -27,6 +27,8 @@ Here are the confirmed upcoming [Quantum Meets](https://quantum-meets.github.io/
 Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
 <div style="clear: both;"></div>
 <!-- <br/> -->
+<!-- No image -->
+<!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
 ### [Quantum Seminar] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
 
@@ -159,6 +161,38 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 
 <br/>
+
+### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+```
+
+
+
+TBA
+
+
+
+```
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Arnab Ghorui | IIIT, Hyderabad  | TBA  | Monday, 17 November, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 
 ### [Quantum Seminar] Kunal Marwaha—[Superposition detection and QMA with non-collapsing measurements](https://quantum-journal.org/papers/q-2025-08-28-1839/) (presented online)
