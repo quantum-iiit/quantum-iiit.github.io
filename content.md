@@ -30,34 +30,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- No image -->
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
-### [Quantum Seminar] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> 
-
-<!-- <img width="327" height="363" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> -->
-
-
-The Extended Euclidean Algorithm (EEA) is a fundamental building block in number theory and computer algebra. It is the standard method for computing modular inverses and the Bézout coefficients for a pair of inputs (f,g) such that f⋅u+g⋅v=gcd(f,g). The EEA is a key subroutine for many quantum algorithms, most notably to calculate modular inverses in Shor's algorithm for discrete log and factoring and for decoding Reed Solomon codes in Decoded Quantum Interferometry (DQI). In this talk, we will talk about how to compile efficient quantum circuits for EEA in two different regimes—one where Implicit access to Bézout coefficients is sufficient and second when explicit access to Bézout coefficients is needed.
-
-I will try to structure the talk such that very little background in Quantum Computing is expected; and would encourage all students who enjoy computer science and competitive programming to attend the seminar.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Tanuj Khattar | Quantum AI, Google  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, October 28 | 8:30 – 10:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/Ed-itrrs4ahKlEX-H_Id3oMBubv_V8bywy93w4vcHYI48g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=L0cNjS) | 
-
-
-<br/>
-
-
-
-## Pipeline
 
 ### [Quantum Seminar] Timothée Hoffreumon—Has real quantum theory truly been falsified? (presented online)
 
@@ -77,7 +49,7 @@ Renou et al. (2021) argued that quantum theory based on real Hilbert spaces cann
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Timothée Hoffreumon | Université Libre de Bruxelles (ULB)  | TBA  | Monday, November 3 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Timothée Hoffreumon | Université Libre de Bruxelles (ULB)  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, November 3 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -102,14 +74,15 @@ Our key technical contribution is a new analysis on the Fourier spectra of distr
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Riddhi Ghosal | UCLA, US  | TBA  | Tuesday, November 4 | 9:30 – 11:00am |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Riddhi Ghosal | UCLA, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, November 4 | 9:30 – 11:00am |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
 
 
 
-<!-- SKIP_START -->
+## Pipeline
+
 ### [Quantum Colloquium] Rajamani Vijayaraghavan—Observing quantum effects in a “macroscopic” electrical circuit (presented online)
 
 **Colloquium on the Nobel Prize in Physics, 2025**
@@ -162,6 +135,7 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 <br/>
 
+<!-- SKIP_START -->
 ### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
@@ -335,6 +309,31 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
   
    </summary>
+
+### [Quantum Seminar] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> 
+
+<!-- <img width="327" height="363" alt="image" src="https://github.com/user-attachments/assets/20a625ec-59fc-41d8-a229-bc925a4031c5" /> -->
+
+
+The Extended Euclidean Algorithm (EEA) is a fundamental building block in number theory and computer algebra. It is the standard method for computing modular inverses and the Bézout coefficients for a pair of inputs (f,g) such that f⋅u+g⋅v=gcd(f,g). The EEA is a key subroutine for many quantum algorithms, most notably to calculate modular inverses in Shor's algorithm for discrete log and factoring and for decoding Reed Solomon codes in Decoded Quantum Interferometry (DQI). In this talk, we will talk about how to compile efficient quantum circuits for EEA in two different regimes—one where Implicit access to Bézout coefficients is sufficient and second when explicit access to Bézout coefficients is needed.
+
+I will try to structure the talk such that very little background in Quantum Computing is expected; and would encourage all students who enjoy computer science and competitive programming to attend the seminar.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Tanuj Khattar | Quantum AI, Google  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, October 28 | 8:30 – 10:00pm |  [YouTube](https://www.youtube.com/watch?v=_MstPa9RSbg) | 
+
+
+<br/>
 
 ### [Quantum Seminar] Zhiyan DING—[End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple](https://arxiv.org/abs/2508.05703) (presented online)
 
