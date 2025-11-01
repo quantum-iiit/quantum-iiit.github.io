@@ -24,11 +24,11 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+| Tanuj Khattar | Himanshu | 28 October, 2025 |
 | Zhiyan Ding | Himanshu | 27 October, 2025 |
 | Indranil Chakraborty | Himanshu | 18 October, 2025 |
 | Sebastian Zur | Himanshu | 15 October, 2025 | 
 | Dominik Leichtle | Himanshu | 14 October, 2025 |
-| Tanuj Khattar | Himanshu | 28 October, 2025 |
 
 ## Current structure
 (updated: Sunday, April 6, 2025)
