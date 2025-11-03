@@ -31,28 +31,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
 
-### [Quantum Seminar] Timothée Hoffreumon—Has real quantum theory truly been falsified? (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1c077c99-3dd0-43c0-b1d9-5fc328845dfb" /> 
-
-<!-- <img width="378" height="436" alt="image" src="https://github.com/user-attachments/assets/1c077c99-3dd0-43c0-b1d9-5fc328845dfb" /> -->
-
-
-Renou et al. (2021) argued that quantum theory based on real Hilbert spaces cannot reproduce all predictions of complex quantum theory, identifying a testable discrepancy via a Bell inequality in the bilocal (entanglement-swapping) scenario. While this result suggested real quantum theory is falsifiable, it has since faced criticism, with several groups questioning its assumptions. In this talk, we first present our critique, then situate it within broader discussions by other groups. Our analysis traces the discrepancy to assuming the Kronecker product as the universal tensor product, despite its bilinearity depending on the chosen number field. We propose two consistent alternatives: 1) relaxing the state postulate, or 2) adopting a non-Kronecker tensor product, both of which recover standard quantum predictions. The latter connects to generalized composition rules in Operational Probabilistic Theories and interpretations in terms of Quantum Reference Frames and time-reversal symmetry. Since Renou et al.’s experiment relies on assuming, rather than certifying, the Kronecker representation of the tensor product, we raise the question: has real quantum theory truly been falsified?
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Timothée Hoffreumon | Université Libre de Bruxelles (ULB)  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, November 3 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 ### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
 
@@ -309,6 +287,31 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
   
    </summary>
+
+
+### [Quantum Seminar] Timothée Hoffreumon—Has real quantum theory truly been falsified? (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1c077c99-3dd0-43c0-b1d9-5fc328845dfb" /> 
+
+<!-- <img width="378" height="436" alt="image" src="https://github.com/user-attachments/assets/1c077c99-3dd0-43c0-b1d9-5fc328845dfb" /> -->
+
+
+Renou et al. (2021) argued that quantum theory based on real Hilbert spaces cannot reproduce all predictions of complex quantum theory, identifying a testable discrepancy via a Bell inequality in the bilocal (entanglement-swapping) scenario. While this result suggested real quantum theory is falsifiable, it has since faced criticism, with several groups questioning its assumptions. In this talk, we first present our critique, then situate it within broader discussions by other groups. Our analysis traces the discrepancy to assuming the Kronecker product as the universal tensor product, despite its bilinearity depending on the chosen number field. We propose two consistent alternatives: 1) relaxing the state postulate, or 2) adopting a non-Kronecker tensor product, both of which recover standard quantum predictions. The latter connects to generalized composition rules in Operational Probabilistic Theories and interpretations in terms of Quantum Reference Frames and time-reversal symmetry. Since Renou et al.’s experiment relies on assuming, rather than certifying, the Kronecker representation of the tensor product, we raise the question: has real quantum theory truly been falsified?
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Timothée Hoffreumon | Université Libre de Bruxelles (ULB)  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, November 3 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EaCWjhJ2dVRMr6kd6YaZLOEBa3NUX5aJaAlY4xwWwO7VHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dz4eBp) | 
+
+
+<br/>
+
 
 ### [Quantum Seminar] Tanuj Khattar—How to efficiently compile the Extended Euclidean Algorithm? (presented online)
 
