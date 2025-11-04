@@ -12,8 +12,8 @@ If you're interested in contributing to this effort, please feel free to [write 
 | Himanshu | YouTube maintainer | May 2025–present | 
 | Niranjan | YouTube maintainer | Oct 2025–present | 
 | Atul Singh Arora | Coordinator | Feb 2025–present | 
-| Sreyas and Aryaman | (in-person) Equipment Coordinator | Oct 2025–present |
-| Prerna (Niranjan backup) | Quantum Talks Coordinator | Oct 2025–present | 
+| Sreyas (Aryaman reserve) | (in-person) Equipment Coordinator | Oct 2025–present |
+| Prerna (Niranjan reserve) | Quantum Talks Coordinator | Oct 2025–present | 
 
 
 ## Video Editing Contributions (post Oct, 2025)
