@@ -341,7 +341,7 @@ Renou et al. (2021) argued that quantum theory based on real Hilbert spaces cann
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Timothée Hoffreumon | Université Libre de Bruxelles (ULB)  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, November 3 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/IDAU1zIwExg?si=p5pL--E5WYzPc7HL) | 
+| Seminar | Timothée Hoffreumon | Université Libre de Bruxelles (ULB)  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, November 3 | 6:30 – 8:00pm | [YouTube](https://youtu.be/IDAU1zIwExg?si=nmICQt1M_-g_q4zL) | 
 
 
 <br/>
