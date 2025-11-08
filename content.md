@@ -31,36 +31,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
 
-
-### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/14ffdf8a-29fc-4d74-8a07-ac03c059e649" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
-
-
-In this work, we propose a new way to (non-interactively, verifiably) demonstrate quantum advantage by solving the average-case 𝖭𝖯 search problem of finding a solution to a system of (underdetermined) constant degree multivariate equations over the finite field 𝔽2 drawn from a specified distribution. In particular, for any d≥2, we design a distribution of degree up to d polynomials {pi(x1,…,xn)}i∈[m] for m<n over 𝔽2 for which we show that there is a expected polynomial-time quantum algorithm that provably simultaneously solves {pi(x1,…,xn)=yi}i∈[m] for a random vector (y1,…,ym). On the other hand, while solutions exist with high probability, we conjecture that for constant d>2, it is classically hard to find one based on a thorough review of existing classical cryptanalysis. Our work thus posits that degree three functions are enough to instantiate the random oracle to obtain non-relativized quantum advantage.
-Our approach begins with the breakthrough Yamakawa-Zhandry (FOCS 2022) quantum algorithmic framework. In our work, we demonstrate that this quantum algorithmic framework extends to the setting of multivariate polynomial systems.
-Our key technical contribution is a new analysis on the Fourier spectra of distributions induced by a general family of distributions over 𝔽2 multivariate polynomials -- those that satisfy 2-wise independence and shift-invariance. This family of distributions includes the distribution of uniform random degree at most d polynomials for any constant d≥2. Our analysis opens up potentially new directions for quantum cryptanalysis of other multivariate systems.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Riddhi Ghosal | UCLA, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, November 4 | 9:30 – 11:00am |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EXuG5ZKshcFJg46GBZu9UfsBju8gvZCuUIA1Y-Zi13wyKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QfNVOp) | 
-
-
-<br/>
-
-
-
-## Pipeline
-
 ### [Quantum Colloquium] Rajamani Vijayaraghavan—Observing quantum effects in a “macroscopic” electrical circuit (presented online)
 
 **Colloquium on the Nobel Prize in Physics, 2025**
@@ -113,7 +83,44 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 <br/>
 
-<!-- SKIP_START -->
+### [Quantum Talk] Krishnakumar Sabapathy—[Generative Modeling, Thermal State preparation, and improved training of Variational algorithms](https://arxiv.org/abs/2509.16186) (visitor, in-person)
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> 
+
+<!-- <img width="884" height="967" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> -->
+
+
+In this talk, we explore three contributions in QML relevant for near-term quantum devices. First, we introduce the Quantum Generative Adversarial Autoencoder (QGAA), a novel architecture that fuses quantum autoencoders with adversarial training to learn compact latent representations of quantum states. We use the model to generate energy profiles of simple molecules.
+
+Next, we shift to the problem of thermal state preparation with Meta-VQT and NN-Meta VQT—two meta-learning variational algorithms that generalize across many-body Hamiltonians. We achieve up to 30× speedups over traditional methods such as VarQITE in few qubit systems simulation.
+
+Finally, we present HELIA, a hardware-efficient ansatz grounded in Lie algebra dynamics, paired with a dual training strategy that combines classical simulation and quantum gradients. This hybrid approach mitigates barren plateaus and reduces quantum resource usage by up to 60%, while maintaining high accuracy in ground-state estimation and phase classification tasks.
+
+These works lay the groundwork towards next milestones of QML that is deployment at scale, is HW tested, and has a potential for quantum advantage. 
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Quantum Talk | Krishnakumar Sabapathy | Fujitsu Quantum Research, India  | (provisional) KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+
+
+
+
+## Pipeline
+
+
 ### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
@@ -169,6 +176,8 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 
 
 <br/>
+
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
 
@@ -287,6 +296,31 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
   
    </summary>
+
+### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/14ffdf8a-29fc-4d74-8a07-ac03c059e649" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+In this work, we propose a new way to (non-interactively, verifiably) demonstrate quantum advantage by solving the average-case 𝖭𝖯 search problem of finding a solution to a system of (underdetermined) constant degree multivariate equations over the finite field 𝔽2 drawn from a specified distribution. In particular, for any d≥2, we design a distribution of degree up to d polynomials {pi(x1,…,xn)}i∈[m] for m<n over 𝔽2 for which we show that there is a expected polynomial-time quantum algorithm that provably simultaneously solves {pi(x1,…,xn)=yi}i∈[m] for a random vector (y1,…,ym). On the other hand, while solutions exist with high probability, we conjecture that for constant d>2, it is classically hard to find one based on a thorough review of existing classical cryptanalysis. Our work thus posits that degree three functions are enough to instantiate the random oracle to obtain non-relativized quantum advantage.
+Our approach begins with the breakthrough Yamakawa-Zhandry (FOCS 2022) quantum algorithmic framework. In our work, we demonstrate that this quantum algorithmic framework extends to the setting of multivariate polynomial systems.
+Our key technical contribution is a new analysis on the Fourier spectra of distributions induced by a general family of distributions over 𝔽2 multivariate polynomials -- those that satisfy 2-wise independence and shift-invariance. This family of distributions includes the distribution of uniform random degree at most d polynomials for any constant d≥2. Our analysis opens up potentially new directions for quantum cryptanalysis of other multivariate systems.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Riddhi Ghosal | UCLA, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, November 4 | 9:30 – 11:00am |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EXuG5ZKshcFJg46GBZu9UfsBju8gvZCuUIA1Y-Zi13wyKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QfNVOp) | 
+
+
+<br/>
 
 
 ### [Quantum Seminar] Timothée Hoffreumon—Has real quantum theory truly been falsified? (presented online)
