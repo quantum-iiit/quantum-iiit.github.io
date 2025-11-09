@@ -55,7 +55,7 @@ He is currently an Associate Professor at the Tata Institute of Fundamental Rese
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Colloquium | Rajamani Vijayaraghavan | TIFR  | TBA  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Colloquium | Rajamani Vijayaraghavan | TIFR  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -78,7 +78,32 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | TBA  | Wednesday, November 12 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, November 12 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Talk] Sreetama Das—Quantum reservoir computing in Jaynes-Cummings models (visitor, in-person)
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
+
+
+<!-- <img width="884" height="967" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> -->
+
+
+Quantum reservoir computing (QRC) is a supervised machine learning algorithm that harnesses the input-driven dynamics of a complex quantum system (viz. `reservoir') to solve temporal tasks, by leveraging the system's intrinsic memory of a few past inputs. Compared to conventional neural networks, reservoir computing provides much simpler and faster training. In this talk, following a brief outline of QRC, I will present some intriguing aspects of QRC using a hybrid qubit-boson system governed by the Jaynes–Cummings Hamiltonian and its dispersive limit. This includes an analysis of their memory capacity across parameter regimes, and their performance in predicting chaotic time-series data.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Quantum Talk | Krishnakumar Sabapathy | Fujitsu Quantum Research, India  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -107,7 +132,7 @@ These works lay the groundwork towards next milestones of QML that is deployment
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Quantum Talk | Krishnakumar Sabapathy | Fujitsu Quantum Research, India  | (provisional) KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Quantum Talk | Krishnakumar Sabapathy | Fujitsu Quantum Research, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
