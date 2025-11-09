@@ -10,27 +10,44 @@
 
 <div align="center">
 
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> 
 
-  <img width="140" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> 
+  ### Krishnakumar Sabapathy
   
-  ### Justus Johannes Neumann
 </div>
-
-
-
-
-
 
 | Affiliation | From | To | Host | Institute |
 |:-:|:-:|:-:|:-:|:-:|
-| Heinrich Heine University Düsseldorf, Germany | Wednesday, 10 September | Wednesday, 10 September | Indranil Chakrabarty | CQST, IIIT H | 
-
+| Fujitsu Quantum Research, India | Tuesday, 11 November | Monday, 17 November | Shantanav Chakraborty | CQST, IIIT H | 
 
 <div style="clear: both;"></div>
 <br/>
-<br/>
+<br/> 
 
+
+
+
+
+## Past
+
+<div align="center">
+
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> 
+
+  ### Simon Apers
   
+</div>
+
+| Affiliation | From | To | Host | Institute |
+|:-:|:-:|:-:|:-:|:-:|
+| IRIF and CNRS, Paris, France | Thursday, 25 September | Thursday, 25 September | Shantanav Chakraborty | CQST, IIIT H | 
+
+<div style="clear: both;"></div>
+<br/>
+<br/> 
+
+
+
 <div align="center">
   
 
@@ -55,20 +72,23 @@
 
 <div align="center">
 
-<img width="140" alt="image" src="https://github.com/user-attachments/assets/11d708a5-45df-46cd-9f6c-a9cd16869397" /> 
 
-  ### Simon Apers
+  <img width="140" alt="image" src="https://github.com/user-attachments/assets/de412991-42a8-4ed2-9f25-74b2bcd41412" /> 
   
+  ### Justus Johannes Neumann
 </div>
+
+
+
+
+
 
 | Affiliation | From | To | Host | Institute |
 |:-:|:-:|:-:|:-:|:-:|
-| IRIF and CNRS, Paris, France | Thursday, 25 September | Thursday, 25 September | Shantanav Chakraborty | CQST, IIIT H | 
+| Heinrich Heine University Düsseldorf, Germany | Wednesday, 10 September | Wednesday, 10 September | Indranil Chakrabarty | CQST, IIIT H | 
+
 
 <div style="clear: both;"></div>
 <br/>
-<br/> 
+<br/>
 
-
-
-## Past
