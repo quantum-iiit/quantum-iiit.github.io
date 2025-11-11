@@ -31,66 +31,17 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
 
-### [Quantum Colloquium] Rajamani Vijayaraghavan—Observing quantum effects in a “macroscopic” electrical circuit (presented online)
-
-**Colloquium on the Nobel Prize in Physics, 2025**
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9207b298-9bd8-4adb-b047-0f52ec706cc5" /> 
-
-<!-- <img width="520" height="630" alt="image" src="https://github.com/user-attachments/assets/9207b298-9bd8-4adb-b047-0f52ec706cc5" /> -->
-
-The Nobel Prize in Physics for 2025 has been awarded to John Clarke, Michel Devoret, and John Martinis for conducting a series of experiments that demonstrated quantum tunneling and energy quantization in a “macroscopic” electrical circuit for the first time. In this talk, I will explain the experiments they conducted using a superconducting electrical circuit element called a Josephson junction. I will illustrate how this experiment was a master stroke in both the choice of the system and the clever engineering used to sufficiently isolate it from its environment, enabling the observation of quantum effects.
-
-These early experiments set the stage for the development of quantum bits using superconducting circuits, a leading architecture for building practical quantum computers. Since one of the laureates, Michel Devoret, is also my PhD advisor, I hope to share some anecdotes and my own experience working with him, including an experiment very closely related to the one recognized by this year’s Nobel Prize in Physics.
-
-**About.** Dr. Vijayaraghavan carried out his doctoral research at Yale University with Prof. Michel Devoret, who is one of the recipients of the Nobel Prize in Physics in 2025. This was followed by postdoctoral work at the University of California, Berkeley. At both these places he worked on problems related to the measurement of superconducting quantum bits.
-
-He is currently an Associate Professor at the Tata Institute of Fundamental Research, Mumbai and heads the Quantum Measurement and Control Laboratory where the research focuses on superconducting quantum circuits. He is currently leading several projects to build small to medium scale quantum processors with funding from DAE, DRDO, TCS and DST. He is also the Lead PI for the Technical Group working on building superconducting quantum computers under the National Quantum Mission. He is a recipient of the Ramanujan Fellowship (2013-18) awarded by the Department of Science and Technology of the Government of India, and a Fellow of the Indian Academy of Sciences, Bangalore since January 2024. He was awarded the Pancharatnam prize for excellence in quantum science and technology by the Government of Karnataka in July 2025.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
 
 
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Colloquium | Rajamani Vijayaraghavan | TIFR  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
-
-
-Gate-based quantum computers hold enormous potential to accelerate classically intractable computational tasks. Random circuit sampling (RCS) is the only known task that has been able to be experimentally demonstrated using current-day NISQ devices. However, for a long time, it remained challenging to demonstrate the quantum utility of RCS on practical problems. Recently, leveraging RCS, an interactive protocol generating certified randomness was demonstrated using a trapped ion quantum computer, advancing the practical utility of near-term gate-based quantum computers. In this work, we establish a strong connection between certified randomness and another quantum computation classical communication primitive, classically verifiable position verification (CVPV), which circumvents the practical challenges that may arise from long-distance quantum communications. We provide a new generic compiler that can convert any single-round proof of quantumness based certified randomness protocol into a secure classical communication-based position verification scheme. Later, we extend our compiler to different types of multi-round protocols. Notably, our compiler can be applied to any multi-round certified randomness protocol that can be analyzed using the entropy accumulation theorem, making its applicability very general. Moreover, we show that CVPV is equivalent to a relaxed variant of certified randomness that we define. We instantiate each of our compilers using existing certified randomness protocols. In particular, building on the work of Aaronson and Hung (STOC '23), we give a NISQ-friendly instantiation based on RCS, which was experimentally demonstrated by Liu et al.. Hence, we show that CVPV is another application within reach of NISQ devices.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, November 12 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 ### [Quantum Talk] Sreetama Das—Quantum reservoir computing in Jaynes-Cummings models (visitor, in-person)
 
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" />
 
+<!-- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" /> -->
 
-<!-- <img width="884" height="967" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> -->
 
 
 Quantum reservoir computing (QRC) is a supervised machine learning algorithm that harnesses the input-driven dynamics of a complex quantum system (viz. `reservoir') to solve temporal tasks, by leveraging the system's intrinsic memory of a few past inputs. Compared to conventional neural networks, reservoir computing provides much simpler and faster training. In this talk, following a brief outline of QRC, I will present some intriguing aspects of QRC using a hybrid qubit-boson system governed by the Jaynes–Cummings Hamiltonian and its dispersive limit. This includes an analysis of their memory capacity across parameter regimes, and their performance in predicting chaotic time-series data.
@@ -292,6 +243,28 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
 <br/>
 
+### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+Gate-based quantum computers hold enormous potential to accelerate classically intractable computational tasks. Random circuit sampling (RCS) is the only known task that has been able to be experimentally demonstrated using current-day NISQ devices. However, for a long time, it remained challenging to demonstrate the quantum utility of RCS on practical problems. Recently, leveraging RCS, an interactive protocol generating certified randomness was demonstrated using a trapped ion quantum computer, advancing the practical utility of near-term gate-based quantum computers. In this work, we establish a strong connection between certified randomness and another quantum computation classical communication primitive, classically verifiable position verification (CVPV), which circumvents the practical challenges that may arise from long-distance quantum communications. We provide a new generic compiler that can convert any single-round proof of quantumness based certified randomness protocol into a secure classical communication-based position verification scheme. Later, we extend our compiler to different types of multi-round protocols. Notably, our compiler can be applied to any multi-round certified randomness protocol that can be analyzed using the entropy accumulation theorem, making its applicability very general. Moreover, we show that CVPV is equivalent to a relaxed variant of certified randomness that we define. We instantiate each of our compilers using existing certified randomness protocols. In particular, building on the work of Aaronson and Hung (STOC '23), we give a NISQ-friendly instantiation based on RCS, which was experimentally demonstrated by Liu et al.. Hence, we show that CVPV is another application within reach of NISQ devices.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
@@ -321,6 +294,35 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
   
    </summary>
+
+### [Quantum Colloquium] Rajamani Vijayaraghavan—Observing quantum effects in a “macroscopic” electrical circuit (presented online)
+
+**Colloquium on the Nobel Prize in Physics, 2025**
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9207b298-9bd8-4adb-b047-0f52ec706cc5" /> 
+
+<!-- <img width="520" height="630" alt="image" src="https://github.com/user-attachments/assets/9207b298-9bd8-4adb-b047-0f52ec706cc5" /> -->
+
+The Nobel Prize in Physics for 2025 has been awarded to John Clarke, Michel Devoret, and John Martinis for conducting a series of experiments that demonstrated quantum tunneling and energy quantization in a “macroscopic” electrical circuit for the first time. In this talk, I will explain the experiments they conducted using a superconducting electrical circuit element called a Josephson junction. I will illustrate how this experiment was a master stroke in both the choice of the system and the clever engineering used to sufficiently isolate it from its environment, enabling the observation of quantum effects.
+
+These early experiments set the stage for the development of quantum bits using superconducting circuits, a leading architecture for building practical quantum computers. Since one of the laureates, Michel Devoret, is also my PhD advisor, I hope to share some anecdotes and my own experience working with him, including an experiment very closely related to the one recognized by this year’s Nobel Prize in Physics.
+
+**About.** Dr. Vijayaraghavan carried out his doctoral research at Yale University with Prof. Michel Devoret, who is one of the recipients of the Nobel Prize in Physics in 2025. This was followed by postdoctoral work at the University of California, Berkeley. At both these places he worked on problems related to the measurement of superconducting quantum bits.
+
+He is currently an Associate Professor at the Tata Institute of Fundamental Research, Mumbai and heads the Quantum Measurement and Control Laboratory where the research focuses on superconducting quantum circuits. He is currently leading several projects to build small to medium scale quantum processors with funding from DAE, DRDO, TCS and DST. He is also the Lead PI for the Technical Group working on building superconducting quantum computers under the National Quantum Mission. He is a recipient of the Ramanujan Fellowship (2013-18) awarded by the Department of Science and Technology of the Government of India, and a Fellow of the Indian Academy of Sciences, Bangalore since January 2024. He was awarded the Pancharatnam prize for excellence in quantum science and technology by the Government of Karnataka in July 2025.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Rajamani Vijayaraghavan | TIFR  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 ### [Quantum Seminar] Riddhi Ghosal—[Quantum Advantage via Solving Multivariate Polynomials](https://arxiv.org/abs/2509.07276) (presented online)
 
