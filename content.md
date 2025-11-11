@@ -87,10 +87,10 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 ### [Quantum Talk] Sreetama Das—Quantum reservoir computing in Jaynes-Cummings models (visitor, in-person)
 
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" />
 
+<!-- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" /> -->
 
-<!-- <img width="884" height="967" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> -->
 
 
 Quantum reservoir computing (QRC) is a supervised machine learning algorithm that harnesses the input-driven dynamics of a complex quantum system (viz. `reservoir') to solve temporal tasks, by leveraging the system's intrinsic memory of a few past inputs. Compared to conventional neural networks, reservoir computing provides much simpler and faster training. In this talk, following a brief outline of QRC, I will present some intriguing aspects of QRC using a hybrid qubit-boson system governed by the Jaynes–Cummings Hamiltonian and its dispersive limit. This includes an analysis of their memory capacity across parameter regimes, and their performance in predicting chaotic time-series data.
