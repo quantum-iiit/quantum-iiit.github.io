@@ -344,7 +344,7 @@ Our key technical contribution is a new analysis on the Fourier spectra of distr
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Riddhi Ghosal | UCLA, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, November 4 | 9:30 – 11:00am |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EXuG5ZKshcFJg46GBZu9UfsBju8gvZCuUIA1Y-Zi13wyKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QfNVOp) | 
+| Seminar | Riddhi Ghosal | UCLA, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, November 4 | 9:30 – 11:00am |  [YouTube](https://youtu.be/_2qQyc3vpvo) | 
 
 
 <br/>
