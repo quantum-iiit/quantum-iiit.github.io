@@ -319,7 +319,7 @@ He is currently an Associate Professor at the Tata Institute of Fundamental Rese
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Colloquium | Rajamani Vijayaraghavan | TIFR  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/Eam1nqKFJYdGqR-cMvj-hFYBrueb6_NAVtYLjnkxlYlR0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cdfOTs) | 
+| Colloquium | Rajamani Vijayaraghavan | TIFR  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Tuesday, 11 November, 2025 | 3:30 – 5:00pm |  [YouTube](https://youtu.be/TFYYzZCn0MY) | 
 
 
 <br/>
