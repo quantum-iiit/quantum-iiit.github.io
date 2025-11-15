@@ -31,7 +31,28 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
 
+### [Quantum Seminar] Kunal Marwaha—[Superposition detection and QMA with non-collapsing measurements](https://quantum-journal.org/papers/q-2025-08-28-1839/) (presented online)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/17edb361-4bc6-4a69-a27a-2a6933078b1b" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+We prove that QMA where the verifier may also make a single non−collapsing measurement is equal to NEXP, resolving an open question of Aaronson. We show this is a corollary to a modified proof of QMA+=NEXP. At the core of many results inspired by Blier and Tapp is an unphysical property testing problem deciding whether a quantum state is close to an element of a fixed basis.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Kunal Marwaha | University of Chicago, US  | TBA  | Wednesday, November 19 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
@@ -45,11 +66,11 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 ## Pipeline
 
 
-### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
+<!-- ### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
 
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
 
 
 ```
@@ -73,33 +94,12 @@ TBA
 | Talk | Arnab Ghorui | IIIT, Hyderabad  | TBA  | Monday, 17 November, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
-<br/>
+<br/> -->
 
 
 
 
-### [Quantum Seminar] Kunal Marwaha—[Superposition detection and QMA with non-collapsing measurements](https://quantum-journal.org/papers/q-2025-08-28-1839/) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/17edb361-4bc6-4a69-a27a-2a6933078b1b" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
-
-
-We prove that QMA where the verifier may also make a single non−collapsing measurement is equal to NEXP, resolving an open question of Aaronson. We show this is a corollary to a modified proof of QMA+=NEXP. At the core of many results inspired by Blier and Tapp is an unphysical property testing problem deciding whether a quantum state is close to an element of a fixed basis.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Kunal Marwaha | University of Chicago, US  | TBA  | Wednesday, November 19 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 <!-- SKIP_START -->
 
