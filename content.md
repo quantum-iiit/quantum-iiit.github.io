@@ -35,58 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Talk] Sreetama Das—Quantum reservoir computing in Jaynes-Cummings models (visitor, in-person)
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" />
-
-<!-- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" /> -->
-
-
-
-Quantum reservoir computing (QRC) is a supervised machine learning algorithm that harnesses the input-driven dynamics of a complex quantum system (viz. `reservoir') to solve temporal tasks, by leveraging the system's intrinsic memory of a few past inputs. Compared to conventional neural networks, reservoir computing provides much simpler and faster training. In this talk, following a brief outline of QRC, I will present some intriguing aspects of QRC using a hybrid qubit-boson system governed by the Jaynes–Cummings Hamiltonian and its dispersive limit. This includes an analysis of their memory capacity across parameter regimes, and their performance in predicting chaotic time-series data.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Quantum Talk | Sreetama Das | Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Spain  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 11:00am – 12:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EecDcKt3IOBHqyeq7y_gOd8BupCyfV39vr55Om8vzQx6pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6mtrQQ) | 
-
-
-<br/>
-
-### [Quantum Talk] Krishnakumar Sabapathy—[Generative Modeling, Thermal State preparation, and improved training of Variational algorithms](https://arxiv.org/abs/2509.16186) (visitor, in-person)
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> 
-
-<!-- <img width="884" height="967" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> -->
-
-
-In this talk, we explore three contributions in QML relevant for near-term quantum devices. First, we introduce the Quantum Generative Adversarial Autoencoder (QGAA), a novel architecture that fuses quantum autoencoders with adversarial training to learn compact latent representations of quantum states. We use the model to generate energy profiles of simple molecules.
-
-Next, we shift to the problem of thermal state preparation with Meta-VQT and NN-Meta VQT—two meta-learning variational algorithms that generalize across many-body Hamiltonians. We achieve up to 30× speedups over traditional methods such as VarQITE in few qubit systems simulation.
-
-Finally, we present HELIA, a hardware-efficient ansatz grounded in Lie algebra dynamics, paired with a dual training strategy that combines classical simulation and quantum gradients. This hybrid approach mitigates barren plateaus and reduces quantum resource usage by up to 60%, while maintaining high accuracy in ground-state estimation and phase classification tasks.
-
-These works lay the groundwork towards next milestones of QML that is deployment at scale, is HW tested, and has a potential for quantum advantage. 
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Quantum Talk | Krishnakumar Sabapathy | Fujitsu Quantum Research, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 4:00 – 5:30pm | — | 
-
-
-<br/>
 
 
 
@@ -294,6 +242,62 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
   
    </summary>
+
+### [Quantum Talk] Krishnakumar Sabapathy—[Generative Modeling, Thermal State preparation, and improved training of Variational algorithms](https://arxiv.org/abs/2509.16186) (visitor, in-person)
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> 
+
+<!-- <img width="884" height="967" alt="image" src="https://github.com/user-attachments/assets/4d4e654c-07fb-4b3a-beb4-9d3f9a063322" /> -->
+
+
+In this talk, we explore three contributions in QML relevant for near-term quantum devices. First, we introduce the Quantum Generative Adversarial Autoencoder (QGAA), a novel architecture that fuses quantum autoencoders with adversarial training to learn compact latent representations of quantum states. We use the model to generate energy profiles of simple molecules.
+
+Next, we shift to the problem of thermal state preparation with Meta-VQT and NN-Meta VQT—two meta-learning variational algorithms that generalize across many-body Hamiltonians. We achieve up to 30× speedups over traditional methods such as VarQITE in few qubit systems simulation.
+
+Finally, we present HELIA, a hardware-efficient ansatz grounded in Lie algebra dynamics, paired with a dual training strategy that combines classical simulation and quantum gradients. This hybrid approach mitigates barren plateaus and reduces quantum resource usage by up to 60%, while maintaining high accuracy in ground-state estimation and phase classification tasks.
+
+These works lay the groundwork towards next milestones of QML that is deployment at scale, is HW tested, and has a potential for quantum advantage. 
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Quantum Talk | Krishnakumar Sabapathy | Fujitsu Quantum Research, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 4:00 – 5:30pm | — | 
+
+
+<br/>
+
+### [Quantum Talk] Sreetama Das—Quantum reservoir computing in Jaynes-Cummings models (visitor, in-person)
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" />
+
+<!-- <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e1ab0e94-b640-4e93-b1ff-f8649e523941" /> -->
+
+
+
+Quantum reservoir computing (QRC) is a supervised machine learning algorithm that harnesses the input-driven dynamics of a complex quantum system (viz. `reservoir') to solve temporal tasks, by leveraging the system's intrinsic memory of a few past inputs. Compared to conventional neural networks, reservoir computing provides much simpler and faster training. In this talk, following a brief outline of QRC, I will present some intriguing aspects of QRC using a hybrid qubit-boson system governed by the Jaynes–Cummings Hamiltonian and its dispersive limit. This includes an analysis of their memory capacity across parameter regimes, and their performance in predicting chaotic time-series data.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Quantum Talk | Sreetama Das | Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Spain  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 11:00am – 12:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EecDcKt3IOBHqyeq7y_gOd8BupCyfV39vr55Om8vzQx6pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6mtrQQ) | 
+
+
+<br/>
+
+
+
 
 ### [Quantum Colloquium] Rajamani Vijayaraghavan—Observing quantum effects in a “macroscopic” electrical circuit (presented online)
 
