@@ -57,7 +57,32 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 
 
 
+### [Quantum Talk] Kushagra Garg—[Early Fault-Tolerant Simulation of Open Quantum Systems](https://arxiv.org/abs/2504.21564) (in-person)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> 
+
+<!-- <img width="398" height="417" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> -->
+
+
+
+
+
+We develop randomized quantum algorithms to simulate quantum collision models, also known as repeated interaction schemes, which provide a rich framework to model various open-system dynamics. The underlying technique involves composing time evolutions of simple Hamiltonians on a joint system environment space and intermittent tracing out of the environment degrees of freedom. This results in a unified framework where any near-term Hamiltonian simulation algorithm can be incorporated to implement an arbitrary number of such collisions on early fault-tolerant quantum computers.  In particular, using the correspondence between Lindbladian evolution and completely positive trace-preserving maps arising out of memoryless collisions, we provide an end-to-end quantum algorithm for simulating Lindbladian dynamics. Finally, we also develop a framework to efficiently simulate an arbitrary number of memory retaining collisions, i.e., where environments interact, leading to non-Markovian dynamics. Overall, our methods can leverage quantum collision models for both Markovian and non-Markovian dynamics on early fault-tolerant quantum computers, shedding light on the advantages and limitations of this framework.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Kushagra Garg | Fujitsu Research, India   | (provisional) KRB Large Meeting-LM 22 (2nd floor)  | Friday, November 21 | 5:00 – 6:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
