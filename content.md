@@ -126,7 +126,7 @@ TBA
 
 
 
-<!-- SKIP_START -->
+
 
 ### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
 
@@ -176,7 +176,7 @@ Recently, it was claimed that quantum mechanics based on real numbers can be exp
 
 <br/>
 
-
+<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Alexandru Cojocaru—[Quantum Lifting Theorems in QROM and QRPM](https://arxiv.org/html/2509.09896v1) (presented online)
