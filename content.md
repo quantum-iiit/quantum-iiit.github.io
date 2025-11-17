@@ -244,7 +244,9 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
 ### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" /> 
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
 
 <!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
  -->
