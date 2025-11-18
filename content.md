@@ -58,8 +58,7 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> 
 
-<!-- <img width="236" height="256" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" />
-->
+<!-- <img width="236" height="256" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> -->
 
 
 
