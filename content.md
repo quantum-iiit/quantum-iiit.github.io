@@ -56,9 +56,10 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 
 ### [Quantum Talk] Pratibha Hegde—Classical-Quantum hybrid algorithms for optimization and differential equation solving (in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/db8a1dad-904a-4660-95fb-69e664fa0310" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> 
 
-<!-- <img width="398" height="417" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> -->
+<!-- <img width="236" height="256" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" />
+->
 
 
 
