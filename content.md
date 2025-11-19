@@ -83,7 +83,7 @@ The emerging quantum computing techniques are heavily assisted by classical comp
 
 
 
-### [Quantum Talk] Kushagra Garg—[Early Fault-Tolerant Simulation of Open Quantum Systems](https://arxiv.org/abs/2504.21564) (in-person)
+### [Quantum Talk] Kushagra Garg—[Early Fault-Tolerant Simulation of Open Quantum Systems](https://arxiv.org/abs/2504.21564) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> 
 
