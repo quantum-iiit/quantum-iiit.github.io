@@ -368,7 +368,7 @@ Quantum reservoir computing (QRC) is a supervised machine learning algorithm tha
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Quantum Talk | Sreetama Das | Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Spain  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 11:00am – 12:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/EecDcKt3IOBHqyeq7y_gOd8BupCyfV39vr55Om8vzQx6pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6mtrQQ) | 
+| Quantum Talk | Sreetama Das | Institute for Cross-Disciplinary Physics and Complex Systems (IFISC), Spain  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Thursday, November 13, 2025 | 11:00am – 12:30pm |  [YouTube](https://youtu.be/6GFl1OKLwgM) | 
 
 
 <br/>
