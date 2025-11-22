@@ -24,6 +24,9 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+| Kunal Marwaha | Himanshu | 19 November, 2025 |
+| Sreetama Das | Niranjan | 13 November, 2025 |
+| Rajamani Vijayaraghavan | Himanshu | 11 November, 2025 |
 | Riddhi Ghosal | Sreyas and Niranjan | 4 November, 2025 |  
 | Timothée Hoffreumon | Niranjan | 3 November, 2025 |
 | Tanuj Khattar | Himanshu | 28 October, 2025 |
