@@ -49,7 +49,7 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kunal Marwaha | University of Chicago, US  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Wednesday, November 19, 2025 | 10:30am – 12:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDcuHZLw-zPTYtTLYpIfPjvAVj1mJY3B3NBObC1IpLwyA0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cc9YMH) | 
+| Seminar | Kunal Marwaha | University of Chicago, US  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Wednesday, November 19, 2025 | 10:30am – 12:00pm |  [YouTube](https://www.youtube.com/watch?v=Yut9BOfJ85s) | 
 
 
 <br/>
