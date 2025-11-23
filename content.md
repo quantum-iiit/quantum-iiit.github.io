@@ -30,15 +30,39 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- No image -->
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
+### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
 
-### [Quantum Seminar] Kunal Marwaha—[Superposition detection and QMA with non-collapsing measurements](https://quantum-journal.org/papers/q-2025-08-28-1839/) (presented online)
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> 
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/17edb361-4bc6-4a69-a27a-2a6933078b1b" /> 
+<!-- <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> -->
+
+
+Compiled nonlocal games transfer the power of Bell-type multi-prover tests into a single-device setting by replacing spatial separation with cryptography. Concretely, the KLVY compiler (STOC'23) maps any multi-prover game to an interactive single-prover protocol, using quantum homomorphic encryption. A crucial security property of such compilers is quantum soundness, which ensures that a dishonest quantum prover cannot exceed the original game's quantum value. For practical cryptographic implementations, this soundness must be quantitative, providing concrete bounds, rather than merely asymptotic. While quantitative quantum soundness has been established for the KLVY compiler in the bipartite case, it has only been shown asymptotically for multipartite games. This is a significant gap, as multipartite nonlocality exhibits phenomena with no bipartite analogue, and the difficulty of enforcing space-like separation makes single-device compilation especially compelling. This work closes this gap by showing the quantitative quantum soundness of the KLVY compiler for all multipartite nonlocal games. On the way, we introduce an NPA-like hierarchy for quantum instruments and prove its completeness, thereby characterizing correlations from operationally-non-signaling sequential strategies. We further develop novel geometric arguments for the decomposition of sequential strategies into their signaling and non-signaling parts, which might be of independent interest.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Monday, December 1, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Pedro Barrios—[Quantum mechanics based on real numbers: A consistent description](https://arxiv.org/abs/2503.17307) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2f81695a-1b29-4e82-8fd9-60b38bb0e72a" /> 
 
 <!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
 
 
-We prove that QMA where the verifier may also make a single non−collapsing measurement is equal to NEXP, resolving an open question of Aaronson. We show this is a corollary to a modified proof of QMA+=NEXP. At the core of many results inspired by Blier and Tapp is an unphysical property testing problem deciding whether a quantum state is close to an element of a fixed basis.
+
+Complex numbers play a crucial role in quantum mechanics. However, their necessity remains debated: whether they are fundamental or merely convenient.
+Recently, it was claimed that quantum mechanics based on real numbers can be experimentally falsified in the sense that any real-number formulation of quantum mechanics either becomes inconsistent with multipartite experiments or violates certain postulates. In this article we show that a physically motivated postulate about composite quantum systems allows to construct quantum mechanics based on real numbers that reproduces predictions for all multipartite quantum experiments. Thus, we argue that real-valued quantum mechanics cannot be falsified, and therefore the use of complex numbers is a matter of convenience.
 
 
 <div style="clear: both;"></div>
@@ -49,63 +73,7 @@ We prove that QMA where the verifier may also make a single non−collapsing mea
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kunal Marwaha | University of Chicago, US  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Wednesday, November 19, 2025 | 10:30am – 12:00pm |  [YouTube](https://www.youtube.com/watch?v=Yut9BOfJ85s) | 
-
-
-<br/>
-
-### [Quantum Talk] Pratibha Hegde—Classical-Quantum hybrid algorithms for optimization and differential equation solving (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> 
-
-<!-- <img width="236" height="256" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> -->
-
-
-
-
-
-The emerging quantum computing techniques are heavily assisted by classical computers and algorithms for their functioning. At the same time, there is a strong and growing interest in whether quantum effects can enhance the efficiency of already existing classical algorithms, such as deep learning. In this talk, I will discuss the quantum optimization technique called quantum annealing and how some of the problems within the field can be tackled using genetic algorithms and deep learning. I will also talk about applying classical-quantum hybrid neural networks to solve differential equations, with an example from the field of plasma simulations.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Pratibha Hegde |  —  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-### [Quantum Talk] Kushagra Garg—[Early Fault-Tolerant Simulation of Open Quantum Systems](https://arxiv.org/abs/2504.21564) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> 
-
-<!-- <img width="398" height="417" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> -->
-
-
-
-
-
-We develop randomized quantum algorithms to simulate quantum collision models, also known as repeated interaction schemes, which provide a rich framework to model various open-system dynamics. The underlying technique involves composing time evolutions of simple Hamiltonians on a joint system environment space and intermittent tracing out of the environment degrees of freedom. This results in a unified framework where any near-term Hamiltonian simulation algorithm can be incorporated to implement an arbitrary number of such collisions on early fault-tolerant quantum computers.  In particular, using the correspondence between Lindbladian evolution and completely positive trace-preserving maps arising out of memoryless collisions, we provide an end-to-end quantum algorithm for simulating Lindbladian dynamics. Finally, we also develop a framework to efficiently simulate an arbitrary number of memory retaining collisions, i.e., where environments interact, leading to non-Markovian dynamics. Overall, our methods can leverage quantum collision models for both Markovian and non-Markovian dynamics on early fault-tolerant quantum computers, shedding light on the advantages and limitations of this framework.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Kushagra Garg | Fujitsu Research, India   | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 5:00 – 6:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Pedro Barrios | Heinrich Heine University Düsseldorf, Germany  | TBA  | Wednesday, December 3, 2025 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -154,53 +122,7 @@ TBA
 
 
 
-### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> 
-
-<!-- <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> -->
-
-
-Compiled nonlocal games transfer the power of Bell-type multi-prover tests into a single-device setting by replacing spatial separation with cryptography. Concretely, the KLVY compiler (STOC'23) maps any multi-prover game to an interactive single-prover protocol, using quantum homomorphic encryption. A crucial security property of such compilers is quantum soundness, which ensures that a dishonest quantum prover cannot exceed the original game's quantum value. For practical cryptographic implementations, this soundness must be quantitative, providing concrete bounds, rather than merely asymptotic. While quantitative quantum soundness has been established for the KLVY compiler in the bipartite case, it has only been shown asymptotically for multipartite games. This is a significant gap, as multipartite nonlocality exhibits phenomena with no bipartite analogue, and the difficulty of enforcing space-like separation makes single-device compilation especially compelling. This work closes this gap by showing the quantitative quantum soundness of the KLVY compiler for all multipartite nonlocal games. On the way, we introduce an NPA-like hierarchy for quantum instruments and prove its completeness, thereby characterizing correlations from operationally-non-signaling sequential strategies. We further develop novel geometric arguments for the decomposition of sequential strategies into their signaling and non-signaling parts, which might be of independent interest.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Monday, December 1, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-### [Quantum Seminar] Pedro Barrios—[Quantum mechanics based on real numbers: A consistent description](https://arxiv.org/abs/2503.17307) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2f81695a-1b29-4e82-8fd9-60b38bb0e72a" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
-
-
-
-Complex numbers play a crucial role in quantum mechanics. However, their necessity remains debated: whether they are fundamental or merely convenient.
-Recently, it was claimed that quantum mechanics based on real numbers can be experimentally falsified in the sense that any real-number formulation of quantum mechanics either becomes inconsistent with multipartite experiments or violates certain postulates. In this article we show that a physically motivated postulate about composite quantum systems allows to construct quantum mechanics based on real numbers that reproduces predictions for all multipartite quantum experiments. Thus, we argue that real-valued quantum mechanics cannot be falsified, and therefore the use of complex numbers is a matter of convenience.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Pedro Barrios | Heinrich Heine University Düsseldorf, Germany  | TBA  | Wednesday, December 3, 2025 | 6:00 – 7:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 <!-- SKIP_START -->
 
@@ -319,6 +241,88 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
   
    </summary>
+
+
+### [Quantum Talk] Kushagra Garg—[Early Fault-Tolerant Simulation of Open Quantum Systems](https://arxiv.org/abs/2504.21564) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> 
+
+<!-- <img width="398" height="417" alt="image" src="https://github.com/user-attachments/assets/294b9724-b772-44ec-a62a-0b23799d2890" /> -->
+
+
+
+
+
+We develop randomized quantum algorithms to simulate quantum collision models, also known as repeated interaction schemes, which provide a rich framework to model various open-system dynamics. The underlying technique involves composing time evolutions of simple Hamiltonians on a joint system environment space and intermittent tracing out of the environment degrees of freedom. This results in a unified framework where any near-term Hamiltonian simulation algorithm can be incorporated to implement an arbitrary number of such collisions on early fault-tolerant quantum computers.  In particular, using the correspondence between Lindbladian evolution and completely positive trace-preserving maps arising out of memoryless collisions, we provide an end-to-end quantum algorithm for simulating Lindbladian dynamics. Finally, we also develop a framework to efficiently simulate an arbitrary number of memory retaining collisions, i.e., where environments interact, leading to non-Markovian dynamics. Overall, our methods can leverage quantum collision models for both Markovian and non-Markovian dynamics on early fault-tolerant quantum computers, shedding light on the advantages and limitations of this framework.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Kushagra Garg | Fujitsu Research, India   | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 5:00 – 6:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Talk] Pratibha Hegde—Classical-Quantum hybrid algorithms for optimization and differential equation solving (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> 
+
+<!-- <img width="236" height="256" alt="image" src="https://github.com/user-attachments/assets/1fe2f02e-c653-4a04-8468-97efb181e60a" /> -->
+
+
+
+
+
+The emerging quantum computing techniques are heavily assisted by classical computers and algorithms for their functioning. At the same time, there is a strong and growing interest in whether quantum effects can enhance the efficiency of already existing classical algorithms, such as deep learning. In this talk, I will discuss the quantum optimization technique called quantum annealing and how some of the problems within the field can be tackled using genetic algorithms and deep learning. I will also talk about applying classical-quantum hybrid neural networks to solve differential equations, with an example from the field of plasma simulations.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Pratibha Hegde |  —  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+### [Quantum Seminar] Kunal Marwaha—[Superposition detection and QMA with non-collapsing measurements](https://quantum-journal.org/papers/q-2025-08-28-1839/) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/17edb361-4bc6-4a69-a27a-2a6933078b1b" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+We prove that QMA where the verifier may also make a single non−collapsing measurement is equal to NEXP, resolving an open question of Aaronson. We show this is a corollary to a modified proof of QMA+=NEXP. At the core of many results inspired by Blier and Tapp is an unphysical property testing problem deciding whether a quantum state is close to an element of a fixed basis.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Kunal Marwaha | University of Chicago, US  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Wednesday, November 19, 2025 | 10:30am – 12:00pm |  [YouTube](https://www.youtube.com/watch?v=Yut9BOfJ85s) | 
+
+
+<br/>
+
 
 ### [Quantum Talk] Krishnakumar Sabapathy—[Generative Modeling, Thermal State preparation, and improved training of Variational algorithms](https://arxiv.org/abs/2509.16186) (visitor, in-person)
 
