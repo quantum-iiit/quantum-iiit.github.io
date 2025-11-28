@@ -30,28 +30,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- No image -->
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
-### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> 
-
-<!-- <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> -->
-
-
-Compiled nonlocal games transfer the power of Bell-type multi-prover tests into a single-device setting by replacing spatial separation with cryptography. Concretely, the KLVY compiler (STOC'23) maps any multi-prover game to an interactive single-prover protocol, using quantum homomorphic encryption. A crucial security property of such compilers is quantum soundness, which ensures that a dishonest quantum prover cannot exceed the original game's quantum value. For practical cryptographic implementations, this soundness must be quantitative, providing concrete bounds, rather than merely asymptotic. While quantitative quantum soundness has been established for the KLVY compiler in the bipartite case, it has only been shown asymptotically for multipartite games. This is a significant gap, as multipartite nonlocality exhibits phenomena with no bipartite analogue, and the difficulty of enforcing space-like separation makes single-device compilation especially compelling. This work closes this gap by showing the quantitative quantum soundness of the KLVY compiler for all multipartite nonlocal games. On the way, we introduce an NPA-like hierarchy for quantum instruments and prove its completeness, thereby characterizing correlations from operationally-non-signaling sequential strategies. We further develop novel geometric arguments for the decomposition of sequential strategies into their signaling and non-signaling parts, which might be of independent interest.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Monday, December 1, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 ### [Quantum Seminar] Pedro Barrios—[Quantum mechanics based on real numbers: A consistent description](https://arxiv.org/abs/2503.17307) (presented online)
 
@@ -160,6 +139,29 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Sayantan Chakraborty | Département d’informatique et de recherche opérationnelle (DIRO), Université de Montréal  | TBA | Tuesday, December 9, 2025 | 3:30 – 5:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> 
+
+<!-- <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/d06667aa-b17b-45df-8bc4-f945d45ac943" /> -->
+
+
+Compiled nonlocal games transfer the power of Bell-type multi-prover tests into a single-device setting by replacing spatial separation with cryptography. Concretely, the KLVY compiler (STOC'23) maps any multi-prover game to an interactive single-prover protocol, using quantum homomorphic encryption. A crucial security property of such compilers is quantum soundness, which ensures that a dishonest quantum prover cannot exceed the original game's quantum value. For practical cryptographic implementations, this soundness must be quantitative, providing concrete bounds, rather than merely asymptotic. While quantitative quantum soundness has been established for the KLVY compiler in the bipartite case, it has only been shown asymptotically for multipartite games. This is a significant gap, as multipartite nonlocality exhibits phenomena with no bipartite analogue, and the difficulty of enforcing space-like separation makes single-device compilation especially compelling. This work closes this gap by showing the quantitative quantum soundness of the KLVY compiler for all multipartite nonlocal games. On the way, we introduce an NPA-like hierarchy for quantum instruments and prove its completeness, thereby characterizing correlations from operationally-non-signaling sequential strategies. We further develop novel geometric arguments for the decomposition of sequential strategies into their signaling and non-signaling parts, which might be of independent interest.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Monday, December 10, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
