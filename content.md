@@ -103,7 +103,7 @@ TBA
 
 
 
-<!-- SKIP_START -->
+
 
 
 ### [Quantum Seminar] Alexandru Cojocaru—[Quantum Lifting Theorems in QROM and QRPM](https://arxiv.org/html/2509.09896v1) (presented online)
@@ -192,6 +192,9 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 <br/>
 
 
+<!-- SKIP_START -->
+
+
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
@@ -210,7 +213,7 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Small Meeting-SM 24 (2nd floor), IIIT Hyderabad  | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | TBA | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
