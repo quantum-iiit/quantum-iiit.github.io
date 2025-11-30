@@ -270,7 +270,7 @@ We develop randomized quantum algorithms to simulate quantum collision models, a
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Kushagra Garg | Fujitsu Research, India   | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 5:00 – 6:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Kushagra Garg | Fujitsu Research, India   | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 5:00 – 6:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCbHuUn6LOdQJ2scr7zN_BMAVW6v3TTBmOaZ14lFuBreus?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3qNAGc) | 
 
 
 <br/>
@@ -298,7 +298,7 @@ The emerging quantum computing techniques are heavily assisted by classical comp
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Pratibha Hegde |  —  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Pratibha Hegde |  —  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDha93bsjM_RaQu9jFPa2zpAc4BVQ9UzY8lhsl25XQViPM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6gCMml) | 
 
 
 <br/>
