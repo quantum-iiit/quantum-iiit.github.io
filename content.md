@@ -161,7 +161,74 @@ Compiled nonlocal games transfer the power of Bell-type multi-prover tests into 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Monday, December 10, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Wednesday, December 10, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Talk] Sreyas Saminathan—Bounder Thermodynamics (Wavefront, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> 
+
+<!-- <img width="1313" height="1686" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> -->
+
+
+
+```
+
+
+
+TBA
+
+
+
+```
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Sreyas Saminathan | IIIT, Hyderabad | TBA  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Talk] Aryaman Kolhe—C* Algebras and Nonlocal Games (Wavefront, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="1313" height="1686" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> -->
+
+
+
+```
+
+
+
+TBA
+
+
+
+```
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Aryaman Kolhe | IIIT, Hyderabad | TBA  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -218,8 +285,93 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 <br/>
 
+### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> 
+
+<!-- <img width="455" height="483" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> -->
 
 
+
+A classical obfuscator for quantum circuits is a classical program that, given the classical description of a quantum circuit Q, outputs the classical description of a functionally equivalent quantum circuit Q' that hides as much as possible about Q. Previously, the only known feasibility result for classical obfuscation of quantum circuits (Bartusek and Malavolta, ITCS 2022) was limited to "nul" security, which is only meaningful for circuits that always reject. On the other hand, if the obfuscator is allowed to compile the quantum circuit Q into a quantum state |Q'>, there exist feasibility results for obfuscating much more expressive classes of circuits: All pseudo-deterministic quantum circuits (Bartusek, Kitagawa, Nishimaki and Yamakawa, STOC 2023, Bartusek, Brakerski and Vaikuntanathan, STOC 2024), and even all unitaries (Huang and Tang, FOCS 2025).
+
+We show that (relative to a classical oracle) there exists a classical obfuscator for all pseudo-deterministic quantum circuits. As our main technical step, we give the first construction of a compact quantum fully-homomorphic encryption (QFHE) scheme that supports public verification of (pseudo-deterministic) quantum evaluation, relative to a classical oracle.
+
+To construct our QFHE scheme, we improve on an approach introduced by Bartusek, Kitagawa, Nishimaki and Yamakawa (STOC 2023), which previously required ciphertexts that are both quantum and non-compact due to a heavy use of quantum coset states and their publicly-verifiable properties. As part of our core technical contribution, we introduce new techniques for analyzing coset states that can be generated "on the fly", by proving new cryptographic properties of the one-shot signature scheme of Shmueli and Zhandry (CRYPTO 2025). Our techniques allow us to produce QFHE ciphertexts that are purely classical, compact, and publicly-verifiable. This additionally yields the first classical verification of quantum computation protocol for BQP that simultaneously satisfies blindness and public-verifiability.
+
+This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli. 
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Aparna Gupte | MIT  | TBA | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry
+](https://arxiv.org/abs/2510.07913) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" /> 
+
+<!-- <img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" />
+ -->
+
+
+
+We introduce Hamiltonian Decoded Quantum Interferometry (HDQI), a quantum algorithm that utilizes coherent Bell measurements and the symplectic representation of the Pauli group to reduce Gibbs sampling and Hamiltonian optimization to classical decoding. For a signed Pauli Hamiltonian H and any degree-ℓ polynomial P, HDQI prepares a purification of the density matrix ρP(H)∝P2(H) by solving a combination of two tasks: decoding ℓ errors on a classical code defined by H, and preparing a pilot state that encodes the anti-commutation structure of H. Choosing P(x) to approximate exp(−βx/2) yields Gibbs states at inverse temperature β; other choices prepare approximate ground states, microcanonical ensembles, and other spectral filters.
+For local Hamiltonians, the corresponding decoding problem is that of LDPC codes. Preparing the pilot state is always efficient for commuting Hamiltonians, but highly non-trivial for non-commuting Hamiltonians. Nevertheless, we prove that this state admits an efficient matrix product state representation for Hamiltonians whose anti-commutation graph decomposes into connected components of logarithmic size.
+We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures for a class of physically motivated commuting Hamiltonians -- including the toric code and Haah's cubic code -- but we also develop a matching efficient classical algorithm for this task. For a non-commuting semiclassical spin glass and commuting stabilizer Hamiltonians with quantum defects, HDQI prepares Gibbs states up to a constant inverse-temperature threshold using polynomial quantum resources and quasi-polynomial classical pre-processing. These results position HDQI as a versatile algorithmic primitive and the first extension of Regev's reduction to non-abelian groups.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexander Schmidhuber | MIT  | TBA | Wednesday, February 18, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography
+](https://arxiv.org/abs/2510.12626) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Unclonable cryptography leverages the quantum no-cloning principle to copy-protect cryptographic functionalities. While most existing works address the basic single-copy security, the stronger notion of multi-copy security remains largely unexplored.
+We introduce a generic compiler that upgrades collusion-resistant unclonable primitives to achieve multi-copy security, assuming only one-way functions. Using this framework, we obtain the first multi-copy secure constructions of public-key quantum money (termed quantum coins), single-decryptor encryption, unclonable encryption, and more. We also introduce an extended notion of quantum coins, called upgradable quantum coins, which allow weak (almost-public) verification under weaker assumptions and can be upgraded to full public verification under stronger assumptions by the bank simply publishing additional classical information.
+Along the way, we give a generic compiler that upgrades single-copy secure single-decryptor encryption to a collusion-resistant one, assuming the existence of functional encryption, and construct the first multi-challenge secure unclonable encryption scheme, which we believe are of independent interest.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alper Cakan | Carnegie Mellon University  | TBA | Wednesday, February 25, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 <br/>
