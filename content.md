@@ -314,8 +314,7 @@ This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli
 
 <br/>
 
-### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry
-](https://arxiv.org/abs/2510.07913) (presented online)
+### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" /> 
 
@@ -343,8 +342,7 @@ We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures fo
 <br/>
 
 
-### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography
-](https://arxiv.org/abs/2510.12626) (presented online)
+### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
 
