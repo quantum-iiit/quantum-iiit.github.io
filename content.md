@@ -175,15 +175,10 @@ Compiled nonlocal games transfer the power of Bell-type multi-prover tests into 
 
 
 
-```
+Resource theory provides a framework to quantitatively understand the amount of resource in a system and how it changes based on the operations performed on it. Standard resource theories in quantum information theory and thermodynamics typically assume unbounded computational capabilities for retrieving those resources. While this holds in theory, practical quantum devices are limited to efficient (poly-time) computation, which may significantly restrict the resources that can be obtained.
+In this talk, we focus on the thermodynamic resource called ergotropy (erg), the maximum amount of work that can be extracted from a system. We introduce the notion of computational ergotropy and show how imposing these computational constraints would restrict the amount of work that can be extracted significantly (exponential separation).
+Inspired by the concept of pseudo-entanglement, we introduce the notion of pseudo-ergotropy, where states that look like they yield maximal work to a computationally bounded observer are, in fact, easier to prepare. This work highlights that computational complexity is a critical resource that influences the operational capabilities of physical systems.
 
-
-
-TBA
-
-
-
-```
 
 
 
@@ -208,15 +203,7 @@ TBA
 
 
 
-```
-
-
-
-TBA
-
-
-
-```
+Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set {X,R_z(\theta),CNOT,CCNOT}, where \theta is any irrational multiple of 2\pi. (3) We prove, by drawing a connection with coherence resource theory, that any Z-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying Z-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that Z-bias-preserving gates are far from being universal for quantum computation.
 
 
 
