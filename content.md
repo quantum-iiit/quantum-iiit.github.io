@@ -44,7 +44,7 @@ These theorems relate the success probability of an arbitrary quantum adversary 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | TBA | Monday, 8 December, 2025 | 5:30 – 7:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Monday, 8 December, 2025 | 5:30 – 7:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -63,7 +63,7 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Sayantan Chakraborty | Département d’informatique et de recherche opérationnelle (DIRO), Université de Montréal  | TBA | Tuesday, December 9, 2025 | 3:30 – 5:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Sayantan Chakraborty | Département d’informatique et de recherche opérationnelle (DIRO), Université de Montréal  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Tuesday, December 9, 2025 | 3:30 – 5:00pm | [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -86,7 +86,7 @@ Compiled nonlocal games transfer the power of Bell-type multi-prover tests into 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | TBA  | Wednesday, December 10, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad  | Wednesday, December 10, 2025 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -115,7 +115,7 @@ Inspired by the concept of pseudo-entanglement, we introduce the notion of pseud
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Sreyas Saminathan | IIIT, Hyderabad | TBA  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Sreyas Saminathan | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -170,7 +170,7 @@ TBA
 
 
 
-### [Quantum Talk] Aryaman Kolhe—C* Algebras and Nonlocal Games (in-person)
+### [Quantum Talk] Aryaman Kolhe—On Quantum Computation Using Bias-Preserving Gates (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
@@ -178,7 +178,7 @@ TBA
 
 
 
-Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set {X,R_z(\theta),CNOT,CCNOT}, where \theta is any irrational multiple of 2\pi. (3) We prove, by drawing a connection with coherence resource theory, that any Z-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying Z-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that Z-bias-preserving gates are far from being universal for quantum computation.
+Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set {$X$,$R_z(\theta)$,CNOT,CCNOT}, where $\theta$ is any irrational multiple of $2\pi$. (3) We prove, by drawing a connection with coherence resource theory, that any $Z$-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying $Z$-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that $Z$-bias-preserving gates are far from being universal for quantum computation.
 
 
 
@@ -190,7 +190,7 @@ Certain types of quantum computing platforms, such as those realized using Rydbe
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Aryaman Kolhe | IIIT, Hyderabad | TBA  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -221,7 +221,7 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 <br/>
 
 
-<!-- SKIP_START -->
+
 
 
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
@@ -246,6 +246,8 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 
 <br/>
+
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
 
