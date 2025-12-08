@@ -30,6 +30,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- No image -->
 <!-- <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> -->
 
+*NB. The default timezone is India/Kolkata GMT+5:30*
 
 ### [Quantum Seminar] Alexandru Cojocaru—[Quantum Lifting Theorems in QROM and QRPM](https://arxiv.org/html/2509.09896v1) (presented online)
 
