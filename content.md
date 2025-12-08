@@ -92,7 +92,7 @@ Compiled nonlocal games transfer the power of Bell-type multi-prover tests into 
 <br/>
 
 
-### [Quantum Talk] Sreyas Saminathan—Bounder Thermodynamics (Wavefront, in-person)
+### [Quantum Talk] Sreyas Saminathan—Bounded Thermodynamics (Wavefront, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> 
 
