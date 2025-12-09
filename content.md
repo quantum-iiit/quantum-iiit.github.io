@@ -32,23 +32,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 *NB. The default timezone below is India/Kolkata GMT+5:30*
 
-### [Quantum Seminar] Alexandru Cojocaru—[Quantum Lifting Theorems in QROM and QRPM](https://arxiv.org/html/2509.09896v1) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
-
-<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
-
-We give novel and tighter lifting theorems for security games in the quantum random oracle model (QROM), as well as in Noisy Intermediate-Scale Quantum (NISQ) settings such as the hybrid query model, the noisy oracle and the bounded-depth models. At the core of our main results lies a novel measure-and-reprogram framework that we call coherent reprogramming. This framework gives a tighter lifting theorem for query complexity problems.
-Secondly, we provide a hybrid lifting theorem for hybrid algorithms that can perform both quantum and classical queries, as well as a lifting theorem for quantum algorithms with access to noisy oracles or bounded quantum depth.
-Thirdly, we derive lifting theorems for establishing security in the quantum random permutation and ideal cipher models.
-These theorems relate the success probability of an arbitrary quantum adversary to that of a classical algorithm making only a small number of classical queries.
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Monday, 8 December, 2025 | 5:30 – 7:00pm | [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCS8fqptnWsQpFDSuoaqNfKAdCJ6H_VZRjya3NpgFvP4Ss?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dy35py) | 
-
-
-<br/>
 
 ### [Quantum Seminar] Sayantan Chakraborty—[A robust and composable device-independent protocol for oblivious transfer using (fully) untrusted quantum devices in the bounded storage model](https://arxiv.org/abs/2404.11283) (presented online)
 
@@ -116,7 +99,7 @@ Inspired by the concept of pseudo-entanglement, we introduce the notion of pseud
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Sreyas Saminathan | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Sreyas Saminathan | IIIT, Hyderabad | A3 117 (ground floor), Vindhya, IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -361,6 +344,26 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
   
    </summary>
+
+### [Quantum Seminar] Alexandru Cojocaru—[Quantum Lifting Theorems in QROM and QRPM](https://arxiv.org/html/2509.09896v1) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5" />
+
+<!-- ![image](https://github.com/user-attachments/assets/c4ec3062-0d9e-4c90-9a4a-c0568339d0d5) -->
+
+We give novel and tighter lifting theorems for security games in the quantum random oracle model (QROM), as well as in Noisy Intermediate-Scale Quantum (NISQ) settings such as the hybrid query model, the noisy oracle and the bounded-depth models. At the core of our main results lies a novel measure-and-reprogram framework that we call coherent reprogramming. This framework gives a tighter lifting theorem for query complexity problems.
+Secondly, we provide a hybrid lifting theorem for hybrid algorithms that can perform both quantum and classical queries, as well as a lifting theorem for quantum algorithms with access to noisy oracles or bounded quantum depth.
+Thirdly, we derive lifting theorems for establishing security in the quantum random permutation and ideal cipher models.
+These theorems relate the success probability of an arbitrary quantum adversary to that of a classical algorithm making only a small number of classical queries.
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Monday, 8 December, 2025 | 5:30 – 7:00pm | [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCS8fqptnWsQpFDSuoaqNfKAdCJ6H_VZRjya3NpgFvP4Ss?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dy35py) | 
+
+
+<br/>
+
+
 
 ### [Quantum Seminar] Pedro Barrios—[Quantum mechanics based on real numbers: A consistent description](https://arxiv.org/abs/2503.17307) (presented online)
 
