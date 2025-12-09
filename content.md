@@ -442,7 +442,7 @@ The emerging quantum computing techniques are heavily assisted by classical comp
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Pratibha Hegde |  —  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDha93bsjM_RaQu9jFPa2zpAc4BVQ9UzY8lhsl25XQViPM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6gCMml) | 
+| Talk | Pratibha Hegde |  —  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 2:30 – 4:00pm |  [YouTube](https://youtu.be/IA-g9o5jAaY) | 
 
 
 <br/>
