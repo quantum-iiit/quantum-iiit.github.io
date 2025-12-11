@@ -33,18 +33,15 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 *NB. The default timezone below is India/Kolkata GMT+5:30*
 
 
-### [Quantum Talk] Sreyas Saminathan—Bounded Thermodynamics (Wavefront, in-person)
+### [Quantum Talk] Aryaman Kolhe—On Quantum Computation Using Bias-Preserving Gates (in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
 <!-- <img width="1313" height="1686" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> -->
 
 
 
-Resource theory provides a framework to quantitatively understand the amount of resource in a system and how it changes based on the operations performed on it. Standard resource theories in quantum information theory and thermodynamics typically assume unbounded computational capabilities for retrieving those resources. While this holds in theory, practical quantum devices are limited to efficient (poly-time) computation, which may significantly restrict the resources that can be obtained.
-In this talk, we focus on the thermodynamic resource called ergotropy (erg), the maximum amount of work that can be extracted from a system. We introduce the notion of computational ergotropy and show how imposing these computational constraints would restrict the amount of work that can be extracted significantly (exponential separation).
-Inspired by the concept of pseudo-entanglement, we introduce the notion of pseudo-ergotropy, where states that look like they yield maximal work to a computationally bounded observer are, in fact, easier to prepare. This work highlights that computational complexity is a critical resource that influences the operational capabilities of physical systems.
-
+Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set ${X,R_z(\theta),\mathsf{CNOT},\mathsf{CCNOT}}$, where $\theta$ is any irrational multiple of $2\pi$. (3) We prove, by drawing a connection with coherence resource theory, that any $Z$-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying $Z$-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that $Z$-bias-preserving gates are far from being universal for quantum computation.
 
 
 
@@ -56,10 +53,11 @@ Inspired by the concept of pseudo-entanglement, we introduce the notion of pseud
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Sreyas Saminathan | IIIT, Hyderabad | A3 117 (ground floor), Vindhya, IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDWydio4gKdT7WV1w4tubf4AU7paos4R8aoo2GCSthUQ3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1B3dH4) | 
+| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
+
 
 
 
@@ -111,30 +109,6 @@ TBA
 
 
 
-### [Quantum Talk] Aryaman Kolhe—On Quantum Computation Using Bias-Preserving Gates (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
-
-<!-- <img width="1313" height="1686" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> -->
-
-
-
-Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set ${X,R_z(\theta),\mathsf{CNOT},\mathsf{CCNOT}}$, where $\theta$ is any irrational multiple of $2\pi$. (3) We prove, by drawing a connection with coherence resource theory, that any $Z$-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying $Z$-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that $Z$-bias-preserving gates are far from being universal for quantum computation.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 ### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
 
@@ -189,6 +163,33 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 <br/>
 
 <!-- SKIP_START -->
+
+
+### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" /> 
+
+<!-- <img width="368" height="410" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" />
+ -->
+
+
+Secure key leasing allows a cryptographic key to be leased as a quantum state in such a way that the key can later be revoked in a verifiable manner. In this work, we propose a modular framework for constructing secure key leasing with a classical-lessor, where the lessor is entirely classical and, in particular, the quantum secret key can be both leased and revoked using only classical communication. Based on this framework, we obtain classical-lessor secure key leasing schemes for public-key encryption (PKE), pseudorandom function (PRF), and digital signature. We adopt the strong security notion known as security against verification key revealing attacks (VRA security) proposed by Kitagawa et al. (Eurocrypt 2025) into the classical-lessor setting, and we prove that all three of our schemes satisfy this notion under the learning with errors assumption. Our PKE scheme improves upon the previous construction by Goyal et al. (Eurocrypt 2025), and our PRF and digital signature schemes are respectively the first PRF and digital signature with classical-lessor secure key leasing property.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | TBA | Wednesday, January 21, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 ### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
 
@@ -277,6 +278,34 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 <br/>
 
 
+### [Quantum Seminar] Liang Mao—[Random unitaries that conserve energy](https://arxiv.org/abs/2510.08448) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3ac9c59b-2c04-43fe-85f3-aab40a4ff9fb" />
+
+<!-- <img width="292" height="319" alt="image" src="https://github.com/user-attachments/assets/3ac9c59b-2c04-43fe-85f3-aab40a4ff9fb" />
+ -->
+
+
+
+Random unitaries sampled from the Haar measure serve as fundamental models for generic quantum many-body dynamics. Under standard cryptographic assumptions, recent works have constructed polynomial-size quantum circuits that are computationally indistinguishable from Haar-random unitaries, establishing the concept of pseudorandom unitaries (PRUs). While PRUs have found broad implications in many-body physics, they fail to capture the energy conservation that governs physical systems. In this work, we investigate the computational complexity of generating PRUs that conserve energy under a fixed and known Hamiltonian H. We provide an efficient construction of energy-conserving PRUs when H is local and commuting with random coefficients. Conversely, we prove that for certain translationally invariant one-dimensional H, there exists an efficient quantum algorithm that can distinguish truly random energy-conserving unitaries from any polynomial-size quantum circuit. This establishes that energy-conserving PRUs cannot exist for these Hamiltonians. Furthermore, we prove that determining whether energy-conserving PRUs exist for a given family of one-dimensional local Hamiltonians is an undecidable problem. Our results reveal an unexpected computational barrier that fundamentally separates the generation of generic random unitaries from those obeying the basic physical constraint of energy conservation.
+
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Liang Mao | Tsinghua University, China  | TBA | Wednesday, March 11, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 <br/>
 
 
@@ -301,6 +330,34 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
   
    </summary>
+
+### [Quantum Talk] Sreyas Saminathan—Bounded Thermodynamics (Wavefront, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> 
+
+<!-- <img width="1313" height="1686" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> -->
+
+
+
+Resource theory provides a framework to quantitatively understand the amount of resource in a system and how it changes based on the operations performed on it. Standard resource theories in quantum information theory and thermodynamics typically assume unbounded computational capabilities for retrieving those resources. While this holds in theory, practical quantum devices are limited to efficient (poly-time) computation, which may significantly restrict the resources that can be obtained.
+In this talk, we focus on the thermodynamic resource called ergotropy (erg), the maximum amount of work that can be extracted from a system. We introduce the notion of computational ergotropy and show how imposing these computational constraints would restrict the amount of work that can be extracted significantly (exponential separation).
+Inspired by the concept of pseudo-entanglement, we introduce the notion of pseudo-ergotropy, where states that look like they yield maximal work to a computationally bounded observer are, in fact, easier to prepare. This work highlights that computational complexity is a critical resource that influences the operational capabilities of physical systems.
+
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Sreyas Saminathan | IIIT, Hyderabad | A3 117 (ground floor), Vindhya, IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDWydio4gKdT7WV1w4tubf4AU7paos4R8aoo2GCSthUQ3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1B3dH4) | 
+
+
+<br/>
 
 ### [Quantum Seminar] Xiangling Xu—[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145/) (presented online)
 
