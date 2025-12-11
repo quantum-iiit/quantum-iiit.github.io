@@ -415,7 +415,7 @@ We develop randomized quantum algorithms to simulate quantum collision models, a
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Kushagra Garg | Fujitsu Research, India   | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 5:00 – 6:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCbHuUn6LOdQJ2scr7zN_BMAVW6v3TTBmOaZ14lFuBreus?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3qNAGc) | 
+| Talk | Kushagra Garg | Fujitsu Research, India   | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Friday, November 21, 2025 | 5:00 – 6:30pm |  [YouTube](https://youtu.be/WjPdi--u3so) | 
 
 
 <br/>
