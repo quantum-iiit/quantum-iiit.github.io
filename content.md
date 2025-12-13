@@ -416,7 +416,7 @@ These theorems relate the success probability of an arbitrary quantum adversary 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Monday, 8 December, 2025 | 5:30 – 7:00pm | [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCS8fqptnWsQpFDSuoaqNfKAdCJ6H_VZRjya3NpgFvP4Ss?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dy35py) | 
+| Seminar | Alexandru Cojocaru | The University of Edinburgh, UK  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Monday, 8 December, 2025 | 5:30 – 7:00pm | [YouTube](https://www.youtube.com/watch?v=bwtzMtqwLJ8) | 
 
 
 <br/>
