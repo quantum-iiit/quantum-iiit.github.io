@@ -443,7 +443,7 @@ Recently, it was claimed that quantum mechanics based on real numbers can be exp
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Pedro Barrios | Heinrich Heine University Düsseldorf, Germany  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, December 3, 2025 | 6:00 – 7:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQA-fYxlRvRmRoxOHLc6Ubs6Ac-HGZliJRCcbkcXDAYQFk0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mdFTyL) | 
+| Seminar | Pedro Barrios | Heinrich Heine University Düsseldorf, Germany  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, December 3, 2025 | 6:00 – 7:30pm |  [YouTube](https://youtu.be/b5aL5VVmh1E) | 
 
 
 <br/>
