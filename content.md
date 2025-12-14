@@ -377,7 +377,7 @@ Compiled nonlocal games transfer the power of Bell-type multi-prover tests into 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad  | Wednesday, December 10, 2025 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQBD5PFj3qIDRKhmrrGfybTqAReoZtFPBU-qilKj1GYpblM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=u81VCH) | 
+| Seminar | Xiangling Xu | PhiQus, Inria Paris-Saclay, France | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad  | Wednesday, December 10, 2025 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/a4y-ABAqlvI) | 
 
 
 <br/>
@@ -397,7 +397,7 @@ We prove a parallel repetition theorem for a certain class of entangled games wi
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Sayantan Chakraborty | Département d’informatique et de recherche opérationnelle (DIRO), Université de Montréal  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Tuesday, December 9, 2025 | 3:30 – 5:00pm | [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQBYosHveItFQpSircN0v2sdAdqyV9rPam1EKLhMMDm7oVo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4T0FDP) | 
+| Seminar | Sayantan Chakraborty | Département d’informatique et de recherche opérationnelle (DIRO), Université de Montréal  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Tuesday, December 9, 2025 | 3:30 – 5:00pm | [YouTube](https://youtu.be/ond5ul2ysIw) | 
 
 
 <br/>
