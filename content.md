@@ -162,8 +162,6 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 <br/>
 
-<!-- SKIP_START -->
-
 
 ### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
 
@@ -189,6 +187,7 @@ Secure key leasing allows a cryptographic key to be leased as a quantum state in
 
 <br/>
 
+<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
