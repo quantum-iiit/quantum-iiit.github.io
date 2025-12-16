@@ -33,17 +33,22 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 *NB. The default timezone below is India/Kolkata GMT+5:30*
 
 
-### [Quantum Talk] Aryaman Kolhe—On Quantum Computation Using Bias-Preserving Gates (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
-
-<!-- <img width="1313" height="1686" alt="image" src="https://github.com/user-attachments/assets/6c6ce63a-702a-4f5f-9c03-a0359a91296f" /> -->
 
 
 
-Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set ${X,R_z(\theta),\mathsf{CNOT},\mathsf{CCNOT}}$, where $\theta$ is any irrational multiple of $2\pi$. (3) We prove, by drawing a connection with coherence resource theory, that any $Z$-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying $Z$-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that $Z$-bias-preserving gates are far from being universal for quantum computation.
 
 
+### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
+
+<!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
+ -->
+
+
+We construct a classical oracle proving that, in a relativized setting, the set of languages decidable by an efficient quantum verifier with a quantum witness (QMA) is strictly bigger than those decidable with access only to a classical witness (QCMA). The separating classical oracle we construct is for a decision problem we coin spectral Forrelation -- the oracle describes two subsets of the boolean hypercube, and the computational task is to decide if there exists a quantum state whose standard basis measurement distribution is well supported on one subset while its Fourier basis measurement distribution is well supported on the other subset. This is equivalent to estimating the spectral norm of a "Forrelation" matrix between two sets that are accessible through membership queries.Our lower bound derives from a simple observation that a query algorithm with a classical witness can be run multiple times to generate many samples from a distribution, while a quantum witness is a "use once" object. This observation allows us to reduce proving a QCMA lower bound to proving a sampling hardness result which does not simultaneously prove a QMA lower bound. To prove said sampling hardness result for QCMA, we observe that quantum access to the oracle can be compressed by expressing the problem in terms of bosons -- a novel "second quantization" perspective on compressed oracle techniques, which may be of independent interest. Using this compressed perspective on the sampling problem, we prove the sampling hardness result, completing the proof.
 
 <div style="clear: both;"></div>
 <br/>
@@ -53,12 +58,10 @@ Certain types of quantum computing platforms, such as those realized using Rydbe
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Chinmay Nirkhe | University of Washington, US  | TBA  | Wednesday, January 7, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
-
-
 
 
 
@@ -108,32 +111,6 @@ TBA
 
 
 
-
-
-### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
-
-<!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
- -->
-
-
-We construct a classical oracle proving that, in a relativized setting, the set of languages decidable by an efficient quantum verifier with a quantum witness (QMA) is strictly bigger than those decidable with access only to a classical witness (QCMA). The separating classical oracle we construct is for a decision problem we coin spectral Forrelation -- the oracle describes two subsets of the boolean hypercube, and the computational task is to decide if there exists a quantum state whose standard basis measurement distribution is well supported on one subset while its Fourier basis measurement distribution is well supported on the other subset. This is equivalent to estimating the spectral norm of a "Forrelation" matrix between two sets that are accessible through membership queries.Our lower bound derives from a simple observation that a query algorithm with a classical witness can be run multiple times to generate many samples from a distribution, while a quantum witness is a "use once" object. This observation allows us to reduce proving a QCMA lower bound to proving a sampling hardness result which does not simultaneously prove a QMA lower bound. To prove said sampling hardness result for QCMA, we observe that quantum access to the oracle can be compressed by expressing the problem in terms of bosons -- a novel "second quantization" perspective on compressed oracle techniques, which may be of independent interest. Using this compressed perspective on the sampling problem, we prove the sampling hardness result, completing the proof.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Chinmay Nirkhe | University of Washington, US  | TBA  | Wednesday, January 7, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 
@@ -330,6 +307,32 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
   
    </summary>
+
+### [Quantum Talk] Aryaman Kolhe—On Quantum Computation Using Bias-Preserving Gates (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/fae8cd7c-d7c7-4984-aeb3-df151ccdc735" /> 
+
+<!-- <img width="165" height="172" alt="image" src="https://github.com/user-attachments/assets/fae8cd7c-d7c7-4984-aeb3-df151ccdc735" />
+ -->
+
+
+
+Certain types of quantum computing platforms, such as those realized using Rydberg atoms or Kerr-cat qubits, are natively more susceptible to Pauli-Z noise than Pauli-X noise, or vice versa. On such hardware, it is useful to ensure that computations use only gates that maintain the Z-bias (or X-bias) in the noise. This is so that quantum error-correcting codes tailored for biased-noise models can be used to provide fault-tolerance on these platforms. In this paper, we follow up on the recent work of Fellous-Asiani et al. (npj Quantum Inf., 2025) in studying the structure and properties of bias-preserving gates. Our main contributions are threefold: (1) We give a novel characterization of Z-bias-preserving gates based on their decomposition as a linear combination of Pauli operators. (2) We show that any Z-bias-preserving gate can be approximated arbitrarily well using only gates from the set ${X,R_z(\theta),\mathsf{CNOT},\mathsf{CCNOT}}$, where $\theta$ is any irrational multiple of $2\pi$. (3) We prove, by drawing a connection with coherence resource theory, that any $Z$-bias-preserving logical operator acting on the logical qubits of a Calderbank-Shor-Steane (CSS) code can be realized by applying $Z$-bias-preserving gates on the physical qubits. Along the way, we also demonstrate that $Z$-bias-preserving gates are far from being universal for quantum computation.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 ### [Quantum Talk] Sreyas Saminathan—Bounded Thermodynamics (Wavefront, in-person)
 
