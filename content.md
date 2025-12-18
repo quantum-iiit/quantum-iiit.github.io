@@ -141,6 +141,30 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 <!-- SKIP_START -->
 
+### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" /> 
+
+<!-- <img width="389" height="450" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" />
+ -->
+
+
+I will show how basic aspects of the Riemannian geometry of the unitary group such as its curvature, tangent space and dense covering can guide the design of quantum algorithms. For this, we will derive an explicit formula for tangential gradients of linear cost functions which will show that corresponding state updates are in form of exponentials of commutators. Such unitary operations can be systematically implemented on quantum computers using the framework of double-bracket quantum algorithms which recently resulted in generalizations of the paradigmatic Grover's algorithm and new unitary synthesis formulas for implementing quantum signal processing. I will summarize the results of an ongoing collaboration developing this approach and I hope that at the end of the talk you will feel that knowing linear algebra is enough to take up designing quantum algorithms yourself.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Thursday, January 15, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" /> 
