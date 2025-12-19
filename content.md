@@ -34,6 +34,30 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
+### [Quantum Colloquium] Anirban Pathak—Experience of playing with different aspects of quantum cryptography (in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3c2a4d42-5aad-4666-96ff-9ab056070c38" /> 
+
+<!-- <img width="610" height="703" alt="image" src="https://github.com/user-attachments/assets/3c2a4d42-5aad-4666-96ff-9ab056070c38" />
+ -->
+
+
+Quantum Cryptography is essentially a non-cooperative game where Alice and Bob form a team, and Eve is another team. We will discuss how to view the security and key rate for a specific protocol for quantum secure direct communication from the perspective of game theory. However, our version of playing with different aspects of quantum cryptography will not be restricted to that. We will actually discuss various aspects of secure quantum communication that have been explored by us in the recent past.  For example, we will discuss orthogonal state-based schemes for various cryptographic tasks, modelling of the impact of the environment in the satellite-assisted quantum cryptography, quantum or semi-quantum versions of the schemes for identity authentication and error correction, finite key analysis, and the need for an efficient solution of the entanglement routing problem. Each of the issues mentioned will be briefly discussed without going into the detailed mathematical analysis, as the talk will aim to provide only an introduction to the associated challenges and the fun involved in revealing the intrinsic symmetry among various protocols.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Anirban Pathak | JIIT, Noida  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Saturday, December 20, 2025 | 11:30am – 1:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
@@ -58,7 +82,7 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Chinmay Nirkhe | University of Washington, US  | TBA  | Wednesday, January 7, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Chinmay Nirkhe | University of Washington, US  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Wednesday, January 7, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -134,7 +158,7 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | TBA | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -184,7 +208,7 @@ Secure key leasing allows a cryptographic key to be leased as a quantum state in
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | TBA | Wednesday, January 21, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 21, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
