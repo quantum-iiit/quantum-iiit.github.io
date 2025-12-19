@@ -34,7 +34,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Colloquium] Anirban Pathak—Experience of playing with different aspects of quantum cryptography (in-person)
+### [Quantum Talk] Anirban Pathak—Experience of playing with different aspects of quantum cryptography (in-person)
 
 
 
