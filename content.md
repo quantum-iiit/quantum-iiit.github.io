@@ -32,19 +32,24 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 *NB. The default timezone below is India/Kolkata GMT+5:30*
 
+### [Quantum Talk] Pranab Sen—TBA (in-person)
 
 
-### [Quantum Talk] Anirban Pathak—Experience of playing with different aspects of quantum cryptography (in-person)
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8048ce54-19a3-45a5-9c86-a11959f4fa9b" /> 
+
+<!-- <img width="641" height="672" alt="image" src="https://github.com/user-attachments/assets/8048ce54-19a3-45a5-9c86-a11959f4fa9b" /> -->
+
+```
 
 
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3c2a4d42-5aad-4666-96ff-9ab056070c38" /> 
-
-<!-- <img width="610" height="703" alt="image" src="https://github.com/user-attachments/assets/3c2a4d42-5aad-4666-96ff-9ab056070c38" />
- -->
+TBA
 
 
-Quantum Cryptography is essentially a non-cooperative game where Alice and Bob form a team, and Eve is another team. We will discuss how to view the security and key rate for a specific protocol for quantum secure direct communication from the perspective of game theory. However, our version of playing with different aspects of quantum cryptography will not be restricted to that. We will actually discuss various aspects of secure quantum communication that have been explored by us in the recent past.  For example, we will discuss orthogonal state-based schemes for various cryptographic tasks, modelling of the impact of the environment in the satellite-assisted quantum cryptography, quantum or semi-quantum versions of the schemes for identity authentication and error correction, finite key analysis, and the need for an efficient solution of the entanglement routing problem. Each of the issues mentioned will be briefly discussed without going into the detailed mathematical analysis, as the talk will aim to provide only an introduction to the associated challenges and the fun involved in revealing the intrinsic symmetry among various protocols.
+
+
+```
+
 
 <div style="clear: both;"></div>
 <br/>
@@ -54,11 +59,9 @@ Quantum Cryptography is essentially a non-cooperative game where Alice and Bob f
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Anirban Pathak | JIIT, Noida  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Saturday, December 20, 2025 | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQD2CmT4DezHTo7K-oZT8vUSASDZL5STBr8PII0PcFTZneU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iWfvCA) | 
-
+| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [Teams](https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%2522031a3bbc-cf7c-4e2b-96ec-867555540a1c%2522%252c%2522Oid%2522%253a%25227a4a124e-e79f-4645-a13d-e0c802a8b77b%2522%257d&sa=D&source=calendar&usd=2&usg=AOvVaw1ClkceEo24rNZryp-INDUA) | 
 
 <br/>
-
 
 
 
@@ -355,6 +358,34 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
   
    </summary>
+
+
+### [Quantum Talk] Anirban Pathak—Experience of playing with different aspects of quantum cryptography (in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3c2a4d42-5aad-4666-96ff-9ab056070c38" /> 
+
+<!-- <img width="610" height="703" alt="image" src="https://github.com/user-attachments/assets/3c2a4d42-5aad-4666-96ff-9ab056070c38" />
+ -->
+
+
+Quantum Cryptography is essentially a non-cooperative game where Alice and Bob form a team, and Eve is another team. We will discuss how to view the security and key rate for a specific protocol for quantum secure direct communication from the perspective of game theory. However, our version of playing with different aspects of quantum cryptography will not be restricted to that. We will actually discuss various aspects of secure quantum communication that have been explored by us in the recent past.  For example, we will discuss orthogonal state-based schemes for various cryptographic tasks, modelling of the impact of the environment in the satellite-assisted quantum cryptography, quantum or semi-quantum versions of the schemes for identity authentication and error correction, finite key analysis, and the need for an efficient solution of the entanglement routing problem. Each of the issues mentioned will be briefly discussed without going into the detailed mathematical analysis, as the talk will aim to provide only an introduction to the associated challenges and the fun involved in revealing the intrinsic symmetry among various protocols.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Anirban Pathak | JIIT, Noida  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Saturday, December 20, 2025 | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQD2CmT4DezHTo7K-oZT8vUSASDZL5STBr8PII0PcFTZneU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iWfvCA) | 
+
+
+<br/>
+
+
 
 ### [Quantum Talk] Aryaman Kolhe—On Quantum Computation Using Bias-Preserving Gates (in-person)
 
