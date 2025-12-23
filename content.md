@@ -78,7 +78,7 @@ in the original BB84.
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [Teams](https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%2522031a3bbc-cf7c-4e2b-96ec-867555540a1c%2522%252c%2522Oid%2522%253a%25227a4a124e-e79f-4645-a13d-e0c802a8b77b%2522%257d&sa=D&source=calendar&usd=2&usg=AOvVaw1ClkceEo24rNZryp-INDUA) | 
+| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCC650UVUqRTrLw_bE51ZdzATiZipaUsSw4XZUTNSqquAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vzy2lB) | 
 
 <br/>
 
