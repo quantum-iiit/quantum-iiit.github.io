@@ -3,11 +3,6 @@
 
 ## Active
 <!-- (No visitors at present) -->
-(No visitors at present) 
-
-
-## Upcoming
-
 <div align="center">
 
 <img width="140" alt="image" src="https://github.com/user-attachments/assets/f0e6f461-6a4f-42f2-8f99-6d14cc524d93" /> 
@@ -25,27 +20,13 @@
 
 <div style="clear: both;"></div>
 <br/>
-<br/> 
-
-<div align="center">
-
-<img width="140" alt="image" src="https://github.com/user-attachments/assets/c0b74020-3854-4de6-b6fc-ca51d6e8ebc3" /> 
-
-<!-- <img width="366" height="495" alt="image" src="https://github.com/user-attachments/assets/c0b74020-3854-4de6-b6fc-ca51d6e8ebc3" />
- -->
-
-
-  ### Pranab Sen
-  
-</div>
-
-| Affiliation | From | To | Host | Institute |
-|:-:|:-:|:-:|:-:|:-:|
-| TIFR, Mumbai | 21 December 2025 | 22 December 2025 | Siddhartha Das | CQST, IIIT H | 
-
-<div style="clear: both;"></div>
 <br/>
-<br/> 
+
+
+## Upcoming
+
+ 
+
 
 <div align="center">
 
@@ -88,8 +69,30 @@
 <br/>
 <br/> 
 
+<!--#####################################################################################################################-->
 
 ## Past
+
+
+<div align="center">
+
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/c0b74020-3854-4de6-b6fc-ca51d6e8ebc3" /> 
+
+<!-- <img width="366" height="495" alt="image" src="https://github.com/user-attachments/assets/c0b74020-3854-4de6-b6fc-ca51d6e8ebc3" />
+ -->
+
+
+  ### Pranab Sen
+  
+</div>
+
+| Affiliation | From | To | Host | Institute |
+|:-:|:-:|:-:|:-:|:-:|
+| TIFR, Mumbai | 21 December 2025 | 22 December 2025 | Siddhartha Das | CQST, IIIT H | 
+
+<div style="clear: both;"></div>
+<br/>
+<br/> 
 
 <div align="center">
 
