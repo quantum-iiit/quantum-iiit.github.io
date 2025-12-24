@@ -32,55 +32,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 *NB. The default timezone below is India/Kolkata GMT+5:30*
 
-### [Quantum Talk] Pranab Sen—Practical resilient efficient Quantum Key Distribution (in-person)
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8048ce54-19a3-45a5-9c86-a11959f4fa9b" /> 
-
-<!-- <img width="641" height="672" alt="image" src="https://github.com/user-attachments/assets/8048ce54-19a3-45a5-9c86-a11959f4fa9b" /> -->
-
-In 1984, Bennett and Brassard came up with the revolutionary idea of quantum
-key distribution that we now know as the BB84 protocol. Rigorous proofs of
-correctness and tolerable error rates were given 12 years later by Shor
-and Preskill. Many other QKD protocols have since been proposed; and
-some of them also come with correctness proofs of varying rigour.
-
-However, most of these protocols are designed for ideal single photon
-sources and detectors. Real devices are far from the ideal. So already
-it is unclear whether QKD implementations on real devices are secure
-enough. Another issue that is often overlooked is the efficiency of
-the classical postprocessing in a QKD protocol. One postprocessing step
-called information reconciliation has never been rigorously proved to
-be both correct and optimal for a malicious unbounded eavesdropper, as
-well as efficient.
-
-In this work we mathematically model real devices and come up with
-new QKD protocols, all variants of BB84 but for real devices. Our protocols
-are practical in that they are designed to correctly work with the
-limitations of existing devices. They are resilient in that they
-can tolerate some amounts photon erasures and loss of purity of
-single photon sources. They are computationally efficient. On the way,
-we achieve optimal and efficient information reconciliation for QKD for
-the first time. We obtain new elementary proofs of security which allows
-to obtain three new variants of BB84:
-1. A strictly one way variant where all communication is from Alice to Bob
-2. An almost one way variant with only constant amount of back
-communication from Bob to Alice.
-3. A two way variant where the basis sifting step sends only
-$\sqrt{n} \mathsf{polylog}(n)$ bits of basis information instead of n bits used
-in the original BB84.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCC650UVUqRTrLw_bE51ZdzATiZipaUsSw4XZUTNSqquAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vzy2lB) | 
-
-<br/>
 
 
 
@@ -377,6 +328,57 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
   
    </summary>
+
+### [Quantum Talk] Pranab Sen—Practical resilient efficient Quantum Key Distribution (in-person)
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8048ce54-19a3-45a5-9c86-a11959f4fa9b" /> 
+
+<!-- <img width="641" height="672" alt="image" src="https://github.com/user-attachments/assets/8048ce54-19a3-45a5-9c86-a11959f4fa9b" /> -->
+
+In 1984, Bennett and Brassard came up with the revolutionary idea of quantum
+key distribution that we now know as the BB84 protocol. Rigorous proofs of
+correctness and tolerable error rates were given 12 years later by Shor
+and Preskill. Many other QKD protocols have since been proposed; and
+some of them also come with correctness proofs of varying rigour.
+
+However, most of these protocols are designed for ideal single photon
+sources and detectors. Real devices are far from the ideal. So already
+it is unclear whether QKD implementations on real devices are secure
+enough. Another issue that is often overlooked is the efficiency of
+the classical postprocessing in a QKD protocol. One postprocessing step
+called information reconciliation has never been rigorously proved to
+be both correct and optimal for a malicious unbounded eavesdropper, as
+well as efficient.
+
+In this work we mathematically model real devices and come up with
+new QKD protocols, all variants of BB84 but for real devices. Our protocols
+are practical in that they are designed to correctly work with the
+limitations of existing devices. They are resilient in that they
+can tolerate some amounts photon erasures and loss of purity of
+single photon sources. They are computationally efficient. On the way,
+we achieve optimal and efficient information reconciliation for QKD for
+the first time. We obtain new elementary proofs of security which allows
+to obtain three new variants of BB84:
+1. A strictly one way variant where all communication is from Alice to Bob
+2. An almost one way variant with only constant amount of back
+communication from Bob to Alice.
+3. A two way variant where the basis sifting step sends only
+$\sqrt{n} \mathsf{polylog}(n)$ bits of basis information instead of n bits used
+in the original BB84.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCC650UVUqRTrLw_bE51ZdzATiZipaUsSw4XZUTNSqquAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vzy2lB) | 
+
+<br/>
+
 
 
 ### [Quantum Talk] Anirban Pathak—Experience of playing with different aspects of quantum cryptography (in-person)
