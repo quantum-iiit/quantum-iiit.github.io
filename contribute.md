@@ -90,6 +90,10 @@ I am using toAtulArora@gmail.com for all of these. The sign in in Calendly and i
    * Specific tasks
       * Maintaining a spreadsheet with all the members and the tentative week in which they intend to present.
       * Ensuring that they schedule a talk on the system at least a week prior (and at most two weeks prior) to their target presentation week.
+
+   *Calendly tips.*
+  * *Sending invites?* While the system should automatically prevent users from scheduling multiple events on the same day, it sometimes fails—since we have to allow events to be added manually. So, when you ask people to book a slot using Calendly, please also ask them to double check that the slot they are picking does not have an event already in the calendar on our [webpage](https://quantum-meets.github.io/). Saves us time.
+  * *The speaker needs to reschedule?* To reschedule, it is often easier to ask them to use the “reschedule link”. This link sits at the bottom of the description of the event they create (which appears on our webpage’s calendar as well). If they are unable to find this link, you can copy paste it from the event and share it with them. That way, nobody has to delete events etc.
 * **GitHub maintainer.**
   * *Load.* About twenty minutes a week.
   * *Task.*
