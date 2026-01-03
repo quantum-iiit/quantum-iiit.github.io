@@ -114,7 +114,7 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 <br/>
 
 
-### [Quantum Seminar] Soumik Ghosh—(visitor, in-person)
+### [Quantum Seminar] Soumik Ghosh—Peaked quantum advantage using error correction (presented online)
 
 
 
@@ -123,15 +123,12 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 <!-- <img width="153" height="163" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" />
  -->
 
-```
+A key issue of current quantum advantage experiments is that their verification requires a full classical simulation of the ideal computation. 
+This limits the regime in which the experiments can be verified to precisely the regime in which they are also simulatable. An important outstanding question is therefore to find quantum advantage schemes that are also classically verifiable. 
 
+We make progress on this question by designing a new quantum advantage proposal—"Hidden Code Sampling"—whose output distribution is conditionally peaked. These peaks enable verification in far less time than it takes for full simulation. At the same time, we show that exactly sampling from the output distribution is classically hard unless the polynomial hierarchy collapses, and we propose a plausible conjecture regarding average-case hardness. Our scheme is based on ideas from quantum error correction. The required quantum computations can be implemented transversally and are closely related to quantum fault-tolerant circuits. 
 
-
-TBA
-
-
-
-```
+Our proposal may thus give rise to a next generation of quantum advantage experiments en route to full quantum fault-tolerance.
 
 <div style="clear: both;"></div>
 <br/>
