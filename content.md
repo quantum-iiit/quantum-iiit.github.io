@@ -39,7 +39,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-## Pipeline
+
 
 
 <!-- ### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
@@ -113,6 +113,95 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 <br/>
 
+
+### [Quantum Seminar] Soumik Ghosh—(visitor, in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" /> 
+
+<!-- <img width="153" height="163" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" />
+ -->
+
+```
+
+
+
+TBA
+
+
+
+```
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Soumik Ghosh | University of Chicago  | TBA  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
+
+<!-- <img width="256" height="255" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" />
+ -->
+
+
+Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | (provisional) KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad  | Friday, January 9, 2026 | 11:30am – 1:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+## Pipeline
+
+### [Quantum Talk] Mohit Dilipbhai Rohida—[Quantum algorithm for edge detection in digital grayscale images](https://arxiv.org/abs/2507.06642) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/51346112-4734-4452-a38e-343b0dc4abf5" /> 
+
+<!-- <img width="387" height="477" alt="image" src="https://github.com/user-attachments/assets/51346112-4734-4452-a38e-343b0dc4abf5" />
+ -->
+
+
+In this work, we present a novel quantum algorithm for edge detection in digital grayscale images. The proposed algorithm relies on the quantum advantage obtained by performing a Quantum Walsh-Hadamard Transform (QWHT) over the Quantum Fourier Transform (QFT), which is generally preferred for decomposing images into orthogonal basis functions. This is because for an n-qubit system, the circuit depth required to perform a QWHT has a polynomial advantage over the circuit depth required for QFT. We adopt the Quantum Probability Image Encoding (QPIE) as our quantum image representation, inspired by the Quantum Hadamard Edge Detection (QHED) algorithm. In addition to the data qubits required for image encoding, we would require ancilla qubits to perform high-pass filtering. The ancilla qubits segregate high sequencies and low sequencies in the Walsh domain. Postselecting the ancilla qubits, we obtain a state vector containing information about the edges in an image. The proposed algorithm has a polynomial advantage over the QHED approach. We present computational examples to validate the algorithm’s capability in accurately detecting edges in a given image.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Mohit Dilipbhai Rohida  | Ahmedabad University, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, January 12, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
@@ -162,6 +251,31 @@ I will show how basic aspects of the Riemannian geometry of the unitary group su
 <br/>
 
 
+### [Quantum Seminar] Naresh Goud Boddu—On Split-State Quantum Tamper Detection (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b0c4caf8-4059-4ef1-b3e8-a244c4e08371" /> 
+
+<!-- <img width="750" height="722" alt="image" src="https://github.com/user-attachments/assets/b0c4caf8-4059-4ef1-b3e8-a244c4e08371" />
+ -->
+
+
+Tamper-detection codes (TDCs) are fundamental objects at the intersection of cryptography and coding theory. A TDC encodes messages in such a manner that tampering the codeword causes the decoder to either output the original message, or reject it. In this work, we study quantum analogs of one of the most well-studied adversarial tampering models: the so-called $t$-split-state tampering model, where the codeword is divided into $t$ shares, and each share is tampered with ``locally”. It is impossible to achieve tamper detection in the split-state model using classical codewords. Nevertheless, we demonstrate that the situation changes significantly if the message can be encoded into a multipartite quantum state, entangled across the $t$ shares. Concretely, we define a family of quantum TDCs defined on any $t\geq 3$ shares, which can detect arbitrary split-state tampering so long as the adversaries are unentangled, or even limited to a finite amount of pre-shared entanglement. Previously, this was only known in the limit of asymptotically large $t$. As our flagship application, we show how to augment threshold secret sharing schemes with similar tamper-detecting guarantees. We complement our results by establishing connections between quantum TDCs and quantum encryption schemes.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Naresh Goud Boddu | JPMorgan Chase, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 20, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" /> 
@@ -185,6 +299,34 @@ Secure key leasing allows a cryptographic key to be leased as a quantum state in
 
 
 <br/>
+
+
+### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/446e08c6-0b01-4087-adb0-6217c77350ce" /> 
+
+<!-- <img width="257" height="344" alt="image" src="https://github.com/user-attachments/assets/446e08c6-0b01-4087-adb0-6217c77350ce" />
+ -->
+
+
+A theory of gravity localizes quantum information differently from nongravitational quantum field theories. This effect, called the holography of information, arises as a consequence of the gravitational Gauss law when it is carefully implemented in the quantum theory.  A precise version of this property can be  established while making only weak assumptions about how gravity behaves at high energies.  For simple low-energy states, this property can also be studied in perturbation
+theory. I will also discuss implications for evaporating black-holes and show how accounting for this feature of gravity leads to a resolution of several puzzles and explains why information is not lost during black-hole evaporation.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Suvrat Raju | ICTS, Bengaluru  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Friday, January 23, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 
 
