@@ -222,7 +222,6 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 <br/>
 
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
 
@@ -247,6 +246,7 @@ I will show how basic aspects of the Riemannian geometry of the unitary group su
 
 <br/>
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Naresh Goud Boddu—On Split-State Quantum Tamper Detection (in-person)
 
