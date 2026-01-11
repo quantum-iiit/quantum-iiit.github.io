@@ -463,7 +463,7 @@ Our proposal may thus give rise to a next generation of quantum advantage experi
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Soumik Ghosh | University of Chicago  | TBA  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQAQK-4Bx223TIsRZ3hAOKbBAS9RoLabo5AURPjrvHwts1o?e=lZ8JwZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Seminar | Soumik Ghosh | University of Chicago  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQAQK-4Bx223TIsRZ3hAOKbBAS9RoLabo5AURPjrvHwts1o?e=lZ8JwZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
 
 
 <br/>
