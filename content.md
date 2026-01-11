@@ -88,62 +88,11 @@ TBA
 
 
 
-### [Quantum Seminar] Soumik Ghosh—Peaked quantum advantage using error correction (presented online)
 
 
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" /> 
-
-<!-- <img width="153" height="163" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" />
- -->
-
-A key issue of current quantum advantage experiments is that their verification requires a full classical simulation of the ideal computation. 
-This limits the regime in which the experiments can be verified to precisely the regime in which they are also simulatable. An important outstanding question is therefore to find quantum advantage schemes that are also classically verifiable. 
-
-We make progress on this question by designing a new quantum advantage proposal—"Hidden Code Sampling"—whose output distribution is conditionally peaked. These peaks enable verification in far less time than it takes for full simulation. At the same time, we show that exactly sampling from the output distribution is classically hard unless the polynomial hierarchy collapses, and we propose a plausible conjecture regarding average-case hardness. Our scheme is based on ideas from quantum error correction. The required quantum computations can be implemented transversally and are closely related to quantum fault-tolerant circuits. 
-
-Our proposal may thus give rise to a next generation of quantum advantage experiments en route to full quantum fault-tolerance.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
 
 
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Soumik Ghosh | University of Chicago  | TBA  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQAQK-4Bx223TIsRZ3hAOKbBAS9RoLabo5AURPjrvHwts1o?e=lZ8JwZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
-
-
-<br/>
-
-### ~~[Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)~~ (cancelled)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
-
-<!-- <img width="256" height="255" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" />
- -->
-
-
-Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | ~~(provisional) KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad~~  | ~~Friday, January 9, 2026~~ | ~~11:30am – 1:00pm~~ |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-## Pipeline
 
 ### [Quantum Talk] Mohit Dilipbhai Rohida—[Quantum algorithm for edge detection in digital grayscale images](https://arxiv.org/abs/2507.06642) (presented online)
 
@@ -171,6 +120,28 @@ In this work, we present a novel quantum algorithm for edge detection in digital
 
 <br/>
 
+### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" /> 
+
+<!-- <img width="389" height="450" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" />
+ -->
+
+
+I will show how basic aspects of the Riemannian geometry of the unitary group such as its curvature, tangent space and dense covering can guide the design of quantum algorithms. For this, we will derive an explicit formula for tangential gradients of linear cost functions which will show that corresponding state updates are in form of exponentials of commutators. Such unitary operations can be systematically implemented on quantum computers using the framework of double-bracket quantum algorithms which recently resulted in generalizations of the paradigmatic Grover's algorithm and new unitary synthesis formulas for implementing quantum signal processing. I will summarize the results of an ongoing collaboration developing this approach and I hope that at the end of the talk you will feel that knowing linear algebra is enough to take up designing quantum algorithms yourself.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 13, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
@@ -197,30 +168,9 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 <br/>
 
 
-### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" /> 
-
-<!-- <img width="389" height="450" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" />
- -->
+## Pipeline
 
 
-I will show how basic aspects of the Riemannian geometry of the unitary group such as its curvature, tangent space and dense covering can guide the design of quantum algorithms. For this, we will derive an explicit formula for tangential gradients of linear cost functions which will show that corresponding state updates are in form of exponentials of commutators. Such unitary operations can be systematically implemented on quantum computers using the framework of double-bracket quantum algorithms which recently resulted in generalizations of the paradigmatic Grover's algorithm and new unitary synthesis formulas for implementing quantum signal processing. I will summarize the results of an ongoing collaboration developing this approach and I hope that at the end of the talk you will feel that knowing linear algebra is enough to take up designing quantum algorithms yourself.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Thursday, January 15, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Naresh Goud Boddu—On Split-State Quantum Tamper Detection (in-person)
 
@@ -271,6 +221,7 @@ Secure key leasing allows a cryptographic key to be leased as a quantum state in
 
 <br/>
 
+<!-- SKIP_START -->
 
 ### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
 
@@ -455,8 +406,75 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 <br />
 
 <!-- </summary>  -->
+<details><!-- open -->
+   <summary>
 
-<details open>
+  ### January – April, 2026
+
+  <br/>
+   </summary>
+
+   ### ~~[Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)~~ (cancelled)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
+
+<!-- <img width="256" height="255" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" />
+ -->
+
+
+Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | ~~(provisional) KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad~~  | ~~Friday, January 9, 2026~~ | ~~11:30am – 1:00pm~~ |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+   
+   ### [Quantum Seminar] Soumik Ghosh—Peaked quantum advantage using error correction (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" /> 
+
+<!-- <img width="153" height="163" alt="image" src="https://github.com/user-attachments/assets/059ed42f-d00b-4ccf-9b09-fd64c81185b6" />
+ -->
+
+A key issue of current quantum advantage experiments is that their verification requires a full classical simulation of the ideal computation. 
+This limits the regime in which the experiments can be verified to precisely the regime in which they are also simulatable. An important outstanding question is therefore to find quantum advantage schemes that are also classically verifiable. 
+
+We make progress on this question by designing a new quantum advantage proposal—"Hidden Code Sampling"—whose output distribution is conditionally peaked. These peaks enable verification in far less time than it takes for full simulation. At the same time, we show that exactly sampling from the output distribution is classically hard unless the polynomial hierarchy collapses, and we propose a plausible conjecture regarding average-case hardness. Our scheme is based on ideas from quantum error correction. The required quantum computations can be implemented transversally and are closely related to quantum fault-tolerant circuits. 
+
+Our proposal may thus give rise to a next generation of quantum advantage experiments en route to full quantum fault-tolerance.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Soumik Ghosh | University of Chicago  | TBA  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQAQK-4Bx223TIsRZ3hAOKbBAS9RoLabo5AURPjrvHwts1o?e=lZ8JwZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+
+<br/>
+
+<details/>
+
+
+<details> <!-- open -->
    <summary>
 
   ### September – December, 2025
