@@ -23,7 +23,7 @@ At present, this effort is being driven by volunteers from IIIT Hyderabad, the U
 ## Upcoming 
 <!-- <br/> -->
 
-Here are the confirmed upcoming [Quantum Meets](https://quantum-meets.github.io/) event(s). Quantum Seminars are usually delivered remotely. 
+Here are the upcoming [Quantum Meets](https://quantum-meets.github.io/) event(s). We take a few hours to update the following---please see the [calendar](https://quantum-meets.github.io) for the most up-to-date information. Quantum Seminars are usually delivered remotely. 
 Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) </sub></sup> for these events.
 <div style="clear: both;"></div>
 <!-- <br/> -->
@@ -405,13 +405,12 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 <br />
 
-<!-- </summary>  -->
-<details><!-- open -->
+<details open> 
    <summary>
 
   ### January – April, 2026
 
-  <br/>
+  <!-- <br/>
    </summary>
 
    ### ~~[Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)~~ (cancelled)
@@ -420,8 +419,6 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
 
-<!-- <img width="256" height="255" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" />
- -->
 
 
 Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
@@ -438,7 +435,7 @@ Quantum simulation with optical lattices provides a powerful platform for quantu
 | Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | ~~(provisional) KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad~~  | ~~Friday, January 9, 2026~~ | ~~11:30am – 1:00pm~~ |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
-<br/>
+<br/> -->
 
 
    
@@ -471,7 +468,7 @@ Our proposal may thus give rise to a next generation of quantum advantage experi
 
 <br/>
 
-<details/>
+</details>
 
 
 <details> <!-- open -->
@@ -1776,9 +1773,8 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
  | Event    | Description                                                  | Duration (minutes)          |
  | -------- | ------------------------------------------------------------ | --------------------------- |
- | Seminar     | One invited/visiting speaker talks about his/her research.   | 45 (talk) + 30 (discussion) |
+ | Seminar     | An invited speaker presents their research.   | 60 + 30 minutes (including discussions) |
 
-*Typical Schedule*: TBA.
 
 
   #### Talk
@@ -1787,19 +1783,17 @@ We show that encrypted cloning of unknown quantum states is possible. Any number
 
  | Event    | Description                                                  | Duration (minutes)          |
  | -------- | ------------------------------------------------------------ | --------------------------- |
- | Talk     | One member talks about his/her research. | 45 (talk) + 30 (discussion) |
+ | Talk     | A member talks about their research. | 60 + 30 minutes (including discussions) |
 
-*Typical Schedule*: TBA.
 
-  #### Tea
+  #### Colloquium
 
-*Format:* ~¾ hours. Member of IIIT.
+*Format:* ~1½ hours. Invited established researcher.
 
  | Event    | Description                                                  | Duration (minutes)          |
  | -------- | ------------------------------------------------------------ | --------------------------- |
- | Tea     | Informal discussion over tea. | ~45 (discussion) |
+ | Colloquium   | An established researcher presents a sequence of results in a sub-area, at broadly accessible level | 60 + 30 minutes (including discussions) |
 
-*Typical Schedule*: TBA.
 
 
 </details>
