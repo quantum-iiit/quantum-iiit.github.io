@@ -94,31 +94,6 @@ TBA
 
 
 
-### [Quantum Talk] Mohit Dilipbhai Rohida—[Quantum algorithm for edge detection in digital grayscale images](https://arxiv.org/abs/2507.06642) (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/51346112-4734-4452-a38e-343b0dc4abf5" /> 
-
-<!-- <img width="387" height="477" alt="image" src="https://github.com/user-attachments/assets/51346112-4734-4452-a38e-343b0dc4abf5" />
- -->
-
-
-In this work, we present a novel quantum algorithm for edge detection in digital grayscale images. The proposed algorithm relies on the quantum advantage obtained by performing a Quantum Walsh-Hadamard Transform (QWHT) over the Quantum Fourier Transform (QFT), which is generally preferred for decomposing images into orthogonal basis functions. This is because for an n-qubit system, the circuit depth required to perform a QWHT has a polynomial advantage over the circuit depth required for QFT. We adopt the Quantum Probability Image Encoding (QPIE) as our quantum image representation, inspired by the Quantum Hadamard Edge Detection (QHED) algorithm. In addition to the data qubits required for image encoding, we would require ancilla qubits to perform high-pass filtering. The ancilla qubits segregate high sequencies and low sequencies in the Walsh domain. Postselecting the ancilla qubits, we obtain a state vector containing information about the edges in an image. The proposed algorithm has a polynomial advantage over the QHED approach. We present computational examples to validate the algorithm’s capability in accurately detecting edges in a given image.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Mohit Dilipbhai Rohida  | Ahmedabad University, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, January 12, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 ### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
 
@@ -409,6 +384,33 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
    <summary>
 
   ### January – April, 2026
+
+
+### [Quantum Talk] Mohit Dilipbhai Rohida—[Quantum algorithm for edge detection in digital grayscale images](https://arxiv.org/abs/2507.06642) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/51346112-4734-4452-a38e-343b0dc4abf5" /> 
+
+<!-- <img width="387" height="477" alt="image" src="https://github.com/user-attachments/assets/51346112-4734-4452-a38e-343b0dc4abf5" />
+ -->
+
+
+In this work, we present a novel quantum algorithm for edge detection in digital grayscale images. The proposed algorithm relies on the quantum advantage obtained by performing a Quantum Walsh-Hadamard Transform (QWHT) over the Quantum Fourier Transform (QFT), which is generally preferred for decomposing images into orthogonal basis functions. This is because for an n-qubit system, the circuit depth required to perform a QWHT has a polynomial advantage over the circuit depth required for QFT. We adopt the Quantum Probability Image Encoding (QPIE) as our quantum image representation, inspired by the Quantum Hadamard Edge Detection (QHED) algorithm. In addition to the data qubits required for image encoding, we would require ancilla qubits to perform high-pass filtering. The ancilla qubits segregate high sequencies and low sequencies in the Walsh domain. Postselecting the ancilla qubits, we obtain a state vector containing information about the edges in an image. The proposed algorithm has a polynomial advantage over the QHED approach. We present computational examples to validate the algorithm’s capability in accurately detecting edges in a given image.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Mohit Dilipbhai Rohida  | Ahmedabad University, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, January 12, 2026 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCg56uqXgEPSpOls9gVumtkAaVrFyGQsde_9w5Y__gLRKo?e=tLYcpM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+
+<br/>
 
   <!-- <br/>
    </summary>
