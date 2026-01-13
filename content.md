@@ -75,50 +75,6 @@ TBA
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" /> 
-
-<!-- <img width="389" height="450" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" />
- -->
-
-
-I will show how basic aspects of the Riemannian geometry of the unitary group such as its curvature, tangent space and dense covering can guide the design of quantum algorithms. For this, we will derive an explicit formula for tangential gradients of linear cost functions which will show that corresponding state updates are in form of exponentials of commutators. Such unitary operations can be systematically implemented on quantum computers using the framework of double-bracket quantum algorithms which recently resulted in generalizations of the paradigmatic Grover's algorithm and new unitary synthesis formulas for implementing quantum signal processing. I will summarize the results of an ongoing collaboration developing this approach and I hope that at the end of the talk you will feel that knowing linear algebra is enough to take up designing quantum algorithms yourself.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 13, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
@@ -388,6 +344,31 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
    </summary>
 
 <br/>
+
+
+### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" /> 
+
+<!-- <img width="389" height="450" alt="image" src="https://github.com/user-attachments/assets/8a9d2732-25d2-4c0a-92ff-b23e19849e7a" />
+ -->
+
+
+I will show how basic aspects of the Riemannian geometry of the unitary group such as its curvature, tangent space and dense covering can guide the design of quantum algorithms. For this, we will derive an explicit formula for tangential gradients of linear cost functions which will show that corresponding state updates are in form of exponentials of commutators. Such unitary operations can be systematically implemented on quantum computers using the framework of double-bracket quantum algorithms which recently resulted in generalizations of the paradigmatic Grover's algorithm and new unitary synthesis formulas for implementing quantum signal processing. I will summarize the results of an ongoing collaboration developing this approach and I hope that at the end of the talk you will feel that knowing linear algebra is enough to take up designing quantum algorithms yourself.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 13, 2026 | 3:00 – 4:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCskxqKD8m0QpllE_Rb2WrTAb_NZvxk04OBHhauyN1MUXY?e=LYOohR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+
+
+<br/>
+
 
       
 ### [Quantum Talk] Mohit Dilipbhai Rohida—[Quantum algorithm for edge detection in digital grayscale images](https://arxiv.org/abs/2507.06642) (presented online)
