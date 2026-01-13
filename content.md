@@ -385,8 +385,14 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
   ### January – April, 2026
 
+   </summary>
 
+<br/>
+
+      
 ### [Quantum Talk] Mohit Dilipbhai Rohida—[Quantum algorithm for edge detection in digital grayscale images](https://arxiv.org/abs/2507.06642) (presented online)
+
+
 
 
 
@@ -410,10 +416,13 @@ In this work, we present a novel quantum algorithm for edge detection in digital
 | Talk | Mohit Dilipbhai Rohida  | Ahmedabad University, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, January 12, 2026 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCg56uqXgEPSpOls9gVumtkAaVrFyGQsde_9w5Y__gLRKo?e=tLYcpM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
 
 
+
+
+
 <br/>
 
   <!-- <br/>
-   </summary>
+   
 
    ### ~~[Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)~~ (cancelled)
 
