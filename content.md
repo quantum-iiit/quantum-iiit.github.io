@@ -93,7 +93,7 @@ Quantum simulation with optical lattices provides a powerful platform for quantu
 |-|-|-|-|-|-|-|
 | Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Monday, January 19, 2026 | 11:30am – 1:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
-
+<br />
 
 
 ### [Quantum Seminar] Naresh Goud Boddu—On Split-State Quantum Tamper Detection (in-person)
