@@ -72,17 +72,15 @@ TBA
 
 <br/> -->
 
+### [Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)
 
 
 
-### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
-
-<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
 
 
-Gate-based quantum computers hold enormous potential to accelerate classically intractable computational tasks. Random circuit sampling (RCS) is the only known task that has been able to be experimentally demonstrated using current-day NISQ devices. However, for a long time, it remained challenging to demonstrate the quantum utility of RCS on practical problems. Recently, leveraging RCS, an interactive protocol generating certified randomness was demonstrated using a trapped ion quantum computer, advancing the practical utility of near-term gate-based quantum computers. In this work, we establish a strong connection between certified randomness and another quantum computation classical communication primitive, classically verifiable position verification (CVPV), which circumvents the practical challenges that may arise from long-distance quantum communications. We provide a new generic compiler that can convert any single-round proof of quantumness based certified randomness protocol into a secure classical communication-based position verification scheme. Later, we extend our compiler to different types of multi-round protocols. Notably, our compiler can be applied to any multi-round certified randomness protocol that can be analyzed using the entropy accumulation theorem, making its applicability very general. Moreover, we show that CVPV is equivalent to a relaxed variant of certified randomness that we define. We instantiate each of our compilers using existing certified randomness protocols. In particular, building on the work of Aaronson and Hung (STOC '23), we give a NISQ-friendly instantiation based on RCS, which was experimentally demonstrated by Liu et al.. Hence, we show that CVPV is another application within reach of NISQ devices.
+
+Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
 
 
 <div style="clear: both;"></div>
@@ -93,13 +91,8 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQBBDCZYLsFXTK3yYbRAfVRUAZOlfrgI-WqWjFlxZkjWABI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ql4J2D) | 
+| Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Monday, January 19, 2026 | 11:30am – 1:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
-
-<br/>
-
-
-## Pipeline
 
 
 
@@ -147,7 +140,7 @@ Secure key leasing allows a cryptographic key to be leased as a quantum state in
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 21, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 21, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -179,6 +172,12 @@ theory. I will also discuss implications for evaporating black-holes and show ho
 
 
 <br/>
+
+
+
+
+## Pipeline
+
 
 
 
@@ -345,6 +344,28 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 <br/>
 
+### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
+
+<!-- <img width="360" height="421" alt="image" src="https://github.com/user-attachments/assets/e2d87102-7ab7-4dc8-9720-e6e9a5073d88" /> -->
+
+
+Gate-based quantum computers hold enormous potential to accelerate classically intractable computational tasks. Random circuit sampling (RCS) is the only known task that has been able to be experimentally demonstrated using current-day NISQ devices. However, for a long time, it remained challenging to demonstrate the quantum utility of RCS on practical problems. Recently, leveraging RCS, an interactive protocol generating certified randomness was demonstrated using a trapped ion quantum computer, advancing the practical utility of near-term gate-based quantum computers. In this work, we establish a strong connection between certified randomness and another quantum computation classical communication primitive, classically verifiable position verification (CVPV), which circumvents the practical challenges that may arise from long-distance quantum communications. We provide a new generic compiler that can convert any single-round proof of quantumness based certified randomness protocol into a secure classical communication-based position verification scheme. Later, we extend our compiler to different types of multi-round protocols. Notably, our compiler can be applied to any multi-round certified randomness protocol that can be analyzed using the entropy accumulation theorem, making its applicability very general. Moreover, we show that CVPV is equivalent to a relaxed variant of certified randomness that we define. We instantiate each of our compilers using existing certified randomness protocols. In particular, building on the work of Aaronson and Hung (STOC '23), we give a NISQ-friendly instantiation based on RCS, which was experimentally demonstrated by Liu et al.. Hence, we show that CVPV is another application within reach of NISQ devices.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQBBDCZYLsFXTK3yYbRAfVRUAZOlfrgI-WqWjFlxZkjWABI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ql4J2D) | 
+
+
+<br/>
 
 ### [Quantum Seminar] Marek Gluza—New quantum algorithms based on Riemannian optimization (in-person)
 
