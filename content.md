@@ -145,7 +145,6 @@ Secure key leasing allows a cryptographic key to be leased as a quantum state in
 
 <br/>
 
-<!-- SKIP_START -->
 
 ### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
 
@@ -234,6 +233,7 @@ This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli
 | Seminar | Aparna Gupte | MIT  | TBA | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
+<!-- SKIP_START -->
 <br/>
 
 ### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
