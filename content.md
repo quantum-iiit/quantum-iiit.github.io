@@ -368,7 +368,7 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  N/A | 
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [[OneDrive]](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQBBDCZYLsFXTK3yYbRAfVRUAS7SsPQ11LIr-a_nOs6ZkEo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaI0J6) <br/> <sub> use the speaker's name to unlock</sub> | 
 
 
 <br/>
