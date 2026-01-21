@@ -72,78 +72,12 @@ TBA
 
 <br/> -->
 
-### [Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)
 
 
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
 
 
 
-Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Monday, January 19, 2026 | 11:30am – 1:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br />
-
-
-### [Quantum Seminar] Naresh Goud Boddu—On Split-State Quantum Tamper Detection (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b0c4caf8-4059-4ef1-b3e8-a244c4e08371" /> 
-
-<!-- <img width="750" height="722" alt="image" src="https://github.com/user-attachments/assets/b0c4caf8-4059-4ef1-b3e8-a244c4e08371" />
- -->
-
-
-Tamper-detection codes (TDCs) are fundamental objects at the intersection of cryptography and coding theory. A TDC encodes messages in such a manner that tampering the codeword causes the decoder to either output the original message, or reject it. In this work, we study quantum analogs of one of the most well-studied adversarial tampering models: the so-called $t$-split-state tampering model, where the codeword is divided into $t$ shares, and each share is tampered with ``locally”. It is impossible to achieve tamper detection in the split-state model using classical codewords. Nevertheless, we demonstrate that the situation changes significantly if the message can be encoded into a multipartite quantum state, entangled across the $t$ shares. Concretely, we define a family of quantum TDCs defined on any $t\geq 3$ shares, which can detect arbitrary split-state tampering so long as the adversaries are unentangled, or even limited to a finite amount of pre-shared entanglement. Previously, this was only known in the limit of asymptotically large $t$. As our flagship application, we show how to augment threshold secret sharing schemes with similar tamper-detecting guarantees. We complement our results by establishing connections between quantum TDCs and quantum encryption schemes.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Naresh Goud Boddu | JPMorgan Chase, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 20, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" /> 
-
-<!-- <img width="368" height="410" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" />
- -->
-
-
-Secure key leasing allows a cryptographic key to be leased as a quantum state in such a way that the key can later be revoked in a verifiable manner. In this work, we propose a modular framework for constructing secure key leasing with a classical-lessor, where the lessor is entirely classical and, in particular, the quantum secret key can be both leased and revoked using only classical communication. Based on this framework, we obtain classical-lessor secure key leasing schemes for public-key encryption (PKE), pseudorandom function (PRF), and digital signature. We adopt the strong security notion known as security against verification key revealing attacks (VRA security) proposed by Kitagawa et al. (Eurocrypt 2025) into the classical-lessor setting, and we prove that all three of our schemes satisfy this notion under the learning with errors assumption. Our PKE scheme improves upon the previous construction by Goyal et al. (Eurocrypt 2025), and our PRF and digital signature schemes are respectively the first PRF and digital signature with classical-lessor secure key leasing property.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | A3-117, Vindhya, IIIT Hyderabad | Wednesday, January 21, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 ### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
@@ -344,6 +278,78 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 <br/>
 
+### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" /> 
+
+<!-- <img width="368" height="410" alt="image" src="https://github.com/user-attachments/assets/13b091c0-9e08-484a-b84e-1ad6a66c4092" />
+ -->
+
+
+Secure key leasing allows a cryptographic key to be leased as a quantum state in such a way that the key can later be revoked in a verifiable manner. In this work, we propose a modular framework for constructing secure key leasing with a classical-lessor, where the lessor is entirely classical and, in particular, the quantum secret key can be both leased and revoked using only classical communication. Based on this framework, we obtain classical-lessor secure key leasing schemes for public-key encryption (PKE), pseudorandom function (PRF), and digital signature. We adopt the strong security notion known as security against verification key revealing attacks (VRA security) proposed by Kitagawa et al. (Eurocrypt 2025) into the classical-lessor setting, and we prove that all three of our schemes satisfy this notion under the learning with errors assumption. Our PKE scheme improves upon the previous construction by Goyal et al. (Eurocrypt 2025), and our PRF and digital signature schemes are respectively the first PRF and digital signature with classical-lessor secure key leasing property.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Shota Yamada | National Institute of Advanced Industrial Science and Technology, Japan  | A3-117, Vindhya, IIIT Hyderabad | Wednesday, January 21, 2026 | 11:00am – 12:30pm |  [YouTube](https://www.youtube.com/watch?v=yuCDWCGVc9Q) | 
+
+
+<br/>
+ 
+### [Quantum Seminar] Naresh Goud Boddu—On Split-State Quantum Tamper Detection (in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b0c4caf8-4059-4ef1-b3e8-a244c4e08371" /> 
+
+<!-- <img width="750" height="722" alt="image" src="https://github.com/user-attachments/assets/b0c4caf8-4059-4ef1-b3e8-a244c4e08371" />
+ -->
+
+
+Tamper-detection codes (TDCs) are fundamental objects at the intersection of cryptography and coding theory. A TDC encodes messages in such a manner that tampering the codeword causes the decoder to either output the original message, or reject it. In this work, we study quantum analogs of one of the most well-studied adversarial tampering models: the so-called $t$-split-state tampering model, where the codeword is divided into $t$ shares, and each share is tampered with ``locally”. It is impossible to achieve tamper detection in the split-state model using classical codewords. Nevertheless, we demonstrate that the situation changes significantly if the message can be encoded into a multipartite quantum state, entangled across the $t$ shares. Concretely, we define a family of quantum TDCs defined on any $t\geq 3$ shares, which can detect arbitrary split-state tampering so long as the adversaries are unentangled, or even limited to a finite amount of pre-shared entanglement. Previously, this was only known in the limit of asymptotically large $t$. As our flagship application, we show how to augment threshold secret sharing schemes with similar tamper-detecting guarantees. We complement our results by establishing connections between quantum TDCs and quantum encryption schemes.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Naresh Goud Boddu | JPMorgan Chase, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 20, 2026 | 4:00 – 5:30pm |  [YouTube](https://www.youtube.com/watch?v=zyloSnCb0-U) | 
+
+
+<br/>
+ 
+### [Quantum Talk] Rukmani Bai—Quantum simulation with Ultracold and Rydberg atoms in optical lattices (visitor, in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/733de6cd-f370-40a1-a99e-ba7c8e414bb0" /> 
+
+
+
+Quantum simulation with optical lattices provides a powerful platform for quantum computation. It enables the engineering and study of strongly correlated quantum phases that can serve as building blocks for fault-tolerant quantum devices. Ultracold atoms in engineered lattice geometries allow precise control over interactions, hopping, and synthetic gauge fields. This control makes it possible to realize topological phases, such as fractional quantum Hall states, and other exotic many-body phases that are difficult to observe in solids because they require strong magnetic fields (~100 T) and strong electron interactions. Ultracold atomic systems offer a clean and highly tunable alternative, with synthetic fields exceeding ~1000 T achievable via lasers. Rydberg atom arrays are particularly promising. They provide tunable long-range interactions, adjustable lattice geometries, and intrinsic spin-orbit coupling. Such platforms not only open pathways toward robust quantum computation but also serve as versatile playgrounds for exploring fundamental many-body physics. In this talk, I will discuss various artificial platforms based on Ultracold and Rydberg atoms for realizing topological phases and strongly correlated quantum states, highlighting their relevance for quantum simulation and quantum computation.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Rukmani Bai | ITP, Leibniz Universität Hannover , Germany  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Monday, January 19, 2026 | 11:30am – 1:00pm |  [YouTube](https://www.youtube.com/watch?v=QrxRJOHBsOc) | 
+
+<br />
+
+
 ### [Quantum Seminar] Kaushik Chakraborty—[Certified Randomness and Classical Verifier Position Verification](https://arxiv.org/abs/2410.03982) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/aa56746e-68a8-4712-8a48-0eb936c32175" /> 
@@ -362,7 +368,7 @@ Gate-based quantum computers hold enormous potential to accelerate classically i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQBBDCZYLsFXTK3yYbRAfVRUAZOlfrgI-WqWjFlxZkjWABI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ql4J2D) | 
+| Seminar | Kaushik Chakraborty | Global Technology Applied Research, JPMorganChase  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Wednesday, January 14, 2026 | 6:30 – 8:00pm |  N/A | 
 
 
 <br/>
@@ -385,7 +391,7 @@ I will show how basic aspects of the Riemannian geometry of the unitary group su
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 13, 2026 | 3:00 – 4:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCskxqKD8m0QpllE_Rb2WrTAb_NZvxk04OBHhauyN1MUXY?e=LYOohR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Seminar | Marek Gluza | NTU, Singapore  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Tuesday, January 13, 2026 | 3:00 – 4:30pm |  [YouTube](https://www.youtube.com/watch?v=7FHP259SbMU) | 
 
 
 <br/>
@@ -415,7 +421,7 @@ In this work, we present a novel quantum algorithm for edge detection in digital
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Mohit Dilipbhai Rohida  | Ahmedabad University, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, January 12, 2026 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCg56uqXgEPSpOls9gVumtkAaVrFyGQsde_9w5Y__gLRKo?e=tLYcpM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Talk | Mohit Dilipbhai Rohida  | Ahmedabad University, India  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, January 12, 2026 | 3:30 – 5:00pm |  [YouTube](https://www.youtube.com/watch?v=V_9EKXuB_YY) | 
 
 
 
@@ -476,7 +482,7 @@ Our proposal may thus give rise to a next generation of quantum advantage experi
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Soumik Ghosh | University of Chicago  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQAQK-4Bx223TIsRZ3hAOKbBAS9RoLabo5AURPjrvHwts1o?e=lZ8JwZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
+| Seminar | Soumik Ghosh | University of Chicago  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  |Thursday, January 8, 2026 | 2:30 – 4:00pm |  [YouTube](https://www.youtube.com/watch?v=F8rRvupL6jw) | 
 
 
 <br/>
@@ -540,7 +546,7 @@ in the original BB84.
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCC650UVUqRTrLw_bE51ZdzATiZipaUsSw4XZUTNSqquAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vzy2lB) | 
+| Talk | Pranab Sen | TIFR, Mumbai  | KRB Large Meeting-LM 22 (2rd floor), IIIT Hyderabad  | Monday, 22 December | 11:30am – 1:00pm |  [YouTube](https://www.youtube.com/watch?v=7UPMAQn-Q4M) | 
 
 <br/>
 
@@ -566,7 +572,7 @@ Quantum Cryptography is essentially a non-cooperative game where Alice and Bob f
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Anirban Pathak | JIIT, Noida  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Saturday, December 20, 2025 | 11:30am – 1:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQD2CmT4DezHTo7K-oZT8vUSASDZL5STBr8PII0PcFTZneU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=iWfvCA) | 
+| Talk | Anirban Pathak | JIIT, Noida  | KRB Large Meeting-LM 34 (3rd floor), IIIT Hyderabad  | Saturday, December 20, 2025 | 11:30am – 1:00pm |  N/A | 
 
 
 <br/>
@@ -594,7 +600,7 @@ Certain types of quantum computing platforms, such as those realized using Rydbe
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDsbLDUEXjZQpTopOe6NMKQAXeJD7RVw-P9FFhc2S-mgM4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ev1I49) | 
+| Talk | Aryaman Kolhe | IIIT, Hyderabad | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad  | Monday, December 15, 2025 | 4:00 – 5:30pm |  N/A | 
 
 
 <br/>
@@ -622,7 +628,7 @@ Inspired by the concept of pseudo-entanglement, we introduce the notion of pseud
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Sreyas Saminathan | IIIT, Hyderabad | A3 117 (ground floor), Vindhya, IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQDWydio4gKdT7WV1w4tubf4AU7paos4R8aoo2GCSthUQ3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=1B3dH4) | 
+| Talk | Sreyas Saminathan | IIIT, Hyderabad | A3 117 (ground floor), Vindhya, IIIT Hyderabad  | Thursday, December 11, 2025 | 3:30 – 5:00pm |  N/A | 
 
 
 <br/>
