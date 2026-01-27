@@ -28,10 +28,10 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 | Shota Yamada | Atul | 21 January, 2026 |
 | Naresh Goud Boddu | Atul | 20 January, 2026 |
 | Rukmani Bai | Atul | 19 January, 2026 |
-| Marek Gluza | Atul | 13 January, 2026 | 
+| Marek Gluza | Niranjan and Atul | 13 January, 2026 | 
 | Mohit Dilipbhai Rohida | Niranjan | 12 January, 2026 |
 | Soumik Ghosh | Atul | 8 January, 2026 |
-| Pranab Sen | Himanshu and Atul | 22 December, 2026 |
+| Pranab Sen | Himanshu | 22 December, 2026 |
 | Sreyas Saminathan | Niranjan | 11 December, 2025 |
 | Xiangling Xu | Himanshu | 10 December, 2025 | 
 | Sayantan Chakraborty | Himanshu | 9 December, 2025 |
