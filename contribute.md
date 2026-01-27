@@ -24,6 +24,7 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+| Suvrat Raju | Atul | 23 January, 2026 | 
 | Shota Yamada | Atul | 21 January, 2026 |
 | Naresh Goud Boddu | Atul | 20 January, 2026 |
 | Rukmani Bai | Atul | 19 January, 2026 |

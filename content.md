@@ -80,31 +80,6 @@ TBA
 
 
 
-### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/446e08c6-0b01-4087-adb0-6217c77350ce" /> 
-
-<!-- <img width="257" height="344" alt="image" src="https://github.com/user-attachments/assets/446e08c6-0b01-4087-adb0-6217c77350ce" />
- -->
-
-
-A theory of gravity localizes quantum information differently from nongravitational quantum field theories. This effect, called the holography of information, arises as a consequence of the gravitational Gauss law when it is carefully implemented in the quantum theory.  A precise version of this property can be  established while making only weak assumptions about how gravity behaves at high energies.  For simple low-energy states, this property can also be studied in perturbation
-theory. I will also discuss implications for evaporating black-holes and show how accounting for this feature of gravity leads to a resolution of several puzzles and explains why information is not lost during black-hole evaporation.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Colloquium | Suvrat Raju | ICTS, Bengaluru  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Friday, January 23, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 
@@ -277,6 +252,33 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
    </summary>
 
 <br/>
+
+### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/446e08c6-0b01-4087-adb0-6217c77350ce" /> 
+
+<!-- <img width="257" height="344" alt="image" src="https://github.com/user-attachments/assets/446e08c6-0b01-4087-adb0-6217c77350ce" />
+ -->
+
+
+A theory of gravity localizes quantum information differently from nongravitational quantum field theories. This effect, called the holography of information, arises as a consequence of the gravitational Gauss law when it is carefully implemented in the quantum theory.  A precise version of this property can be  established while making only weak assumptions about how gravity behaves at high energies.  For simple low-energy states, this property can also be studied in perturbation
+theory. I will also discuss implications for evaporating black-holes and show how accounting for this feature of gravity leads to a resolution of several puzzles and explains why information is not lost during black-hole evaporation.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Suvrat Raju | ICTS, Bengaluru  | KRB Large Meeting-LM 22 (2nd floor), IIIT Hyderabad | Friday, January 23, 2026 | 2:30 – 4:00pm |  [YouTube](https://www.youtube.com/watch?v=YMEDcywfI8M) | 
+
+
+<br/>
+
 
 ### [Quantum Seminar] Shota Yamada—[A Unified Approach to Quantum Key Leasing with a Classical Lessor](https://eprint.iacr.org/2025/1871) (presented online)
 
