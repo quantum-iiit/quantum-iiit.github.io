@@ -79,16 +79,6 @@ TBA
 
 
 
-
-
-
-
-
-## Pipeline
-
-
-
-
 ### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
 
 
@@ -113,6 +103,34 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 
 <br/>
+
+### [Quantum Talk] Sreenath K. Manikandan—Testing the coherent state description of gravitational radiation (visitor, in-person)
+
+
+<!-- <img width="1254" height="1280" alt="image" src="https://github.com/user-attachments/assets/16e105e3-0918-4b0f-812d-9d7d6149fdd0" /> -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/16e105e3-0918-4b0f-812d-9d7d6149fdd0" />  
+
+
+Gravitational radiation from known astrophysical sources is conventionally treated classically. This treatment corresponds, implicitly, to the hypothesis that a particular class of quantum-mechanical states — the so-called coherent states — adequately describe the gravitational radiation field. We propose practicable, quantitative tests of that hypothesis using resonant bar detectors monitored in coincidence with LIGO-style interferometers. Our tests readily distinguish fields that contain significant thermal components or squeezing. We identify concrete circumstances in which the classical (i.e. coherent state) hypothesis is likely to fail. Such failures are of fundamental interest in that addressing them requires us to treat the gravitational field quantum-mechanically, and they open a new window into the dynamics of gravitational wave sources.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Sreenath K. Manikandan | TIFR Hyderabad  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, 6 February | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+
+## Pipeline
 
 
 ### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
@@ -142,7 +160,6 @@ This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli
 | Seminar | Aparna Gupte | MIT  | TBA | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
-<!-- SKIP_START -->
 <br/>
 
 ### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
@@ -172,6 +189,7 @@ We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures fo
 
 <br/>
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
 
