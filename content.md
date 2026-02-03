@@ -162,6 +162,86 @@ This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli
 
 <br/>
 
+
+
+
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 1) (online-only)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | Online-only | Thursday, February 12, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
+ -->
+
+
+
+Noise presents a significant challenge to quantum computing hardware, limiting the complexity of problems that can be tackled beyond just a few qubits. Quantum error correction (QEC) offers a theoretical framework that guarantees reliable quantum computation in the presence of noise. In this talk, I will focus on a popular class of QEC codes called surface codes, where quantum information is encoded in an entangled state of many physical qubits arranged on a two-dimensional lattice. I will give an introductory overview of QEC, explaining how errors are detected and corrected in surface codes. Finally, I will introduce an open-source software tool that enables the design and analysis of surface codes.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Pavithran Iyer | Xanadu   | KRB Large Meeting Room LM-34 (3rd level), IIIT Hyderabad | Friday, February 13, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 2) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Tuesday, February 17, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 ### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" /> 
@@ -188,6 +268,57 @@ We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures fo
 
 
 <br/>
+
+
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (final part) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Thursday, February 19, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Anton Trushechkin—[Multiplexed multipartite quantum repeater rates in the stationary regime](https://arxiv.org/abs/2505.18031) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> 
+
+<!-- <img width="258" height="324" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> -->
+
+
+
+Multipartite quantum repeaters play an important role in quantum communication networks enabling the transmission of quantum information over larger distances. To increase the rates for multipartite entanglement distribution, multiplexing of quantum memories is included. Understanding the limitations of achievable rates in the stationary regime for different network sizes is a fundamental step to comprehend scalability of quantum networks. This work investigates the behavior of the multipartite quantum repeater rate (i.e., the number of GHZ states generated per round and per memory) in the stationary regime in multipartite star graphs with a single central multipartite quantum repeater including multiplexing using Markov chains. We derive a closed-form expression for the stationary rate depending on the network size. We support our results with numerical simulations. Further, we show that the rate saturates for large number of memories. On an abstract level, the mathematical description is equivalent to quantum repeater chains between two parties. Therefore, our results also apply to those setups.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Anton Trushechkin | Steklov Mathematical Institute  | KRB Large Meeting-LM 34 (3rd level), IIIT Hyderabad | Friday, February 20, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 <!-- SKIP_START -->
 
