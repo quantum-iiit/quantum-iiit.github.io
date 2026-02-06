@@ -191,9 +191,9 @@ I present my QIP2025 tutorial, which provides an overview of quantum error corre
 
 ### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a798a95e-a0b7-4d0c-a66f-a7086692f497" /> 
 
-<!-- <img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
+<!-- <img width="189" height="197" alt="image" src="https://github.com/user-attachments/assets/a798a95e-a0b7-4d0c-a66f-a7086692f497" />
  -->
 
 
