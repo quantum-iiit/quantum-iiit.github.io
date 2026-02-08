@@ -36,6 +36,88 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
+### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> 
+
+<!-- <img width="455" height="483" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> -->
+
+
+
+A classical obfuscator for quantum circuits is a classical program that, given the classical description of a quantum circuit Q, outputs the classical description of a functionally equivalent quantum circuit Q' that hides as much as possible about Q. Previously, the only known feasibility result for classical obfuscation of quantum circuits (Bartusek and Malavolta, ITCS 2022) was limited to "nul" security, which is only meaningful for circuits that always reject. On the other hand, if the obfuscator is allowed to compile the quantum circuit Q into a quantum state |Q'>, there exist feasibility results for obfuscating much more expressive classes of circuits: All pseudo-deterministic quantum circuits (Bartusek, Kitagawa, Nishimaki and Yamakawa, STOC 2023, Bartusek, Brakerski and Vaikuntanathan, STOC 2024), and even all unitaries (Huang and Tang, FOCS 2025).
+
+We show that (relative to a classical oracle) there exists a classical obfuscator for all pseudo-deterministic quantum circuits. As our main technical step, we give the first construction of a compact quantum fully-homomorphic encryption (QFHE) scheme that supports public verification of (pseudo-deterministic) quantum evaluation, relative to a classical oracle.
+
+To construct our QFHE scheme, we improve on an approach introduced by Bartusek, Kitagawa, Nishimaki and Yamakawa (STOC 2023), which previously required ciphertexts that are both quantum and non-compact due to a heavy use of quantum coset states and their publicly-verifiable properties. As part of our core technical contribution, we introduce new techniques for analyzing coset states that can be generated "on the fly", by proving new cryptographic properties of the one-shot signature scheme of Shmueli and Zhandry (CRYPTO 2025). Our techniques allow us to produce QFHE ciphertexts that are purely classical, compact, and publicly-verifiable. This additionally yields the first classical verification of quantum computation protocol for BQP that simultaneously satisfies blindness and public-verifiability.
+
+This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli. 
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Aparna Gupte | MIT  | TBA | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 1) (online-only)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | Online-only | Thursday, February 12, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a798a95e-a0b7-4d0c-a66f-a7086692f497" /> 
+
+<!-- <img width="189" height="197" alt="image" src="https://github.com/user-attachments/assets/a798a95e-a0b7-4d0c-a66f-a7086692f497" />
+ -->
+
+
+
+Noise presents a significant challenge to quantum computing hardware, limiting the complexity of problems that can be tackled beyond just a few qubits. Quantum error correction (QEC) offers a theoretical framework that guarantees reliable quantum computation in the presence of noise. In this talk, I will focus on a popular class of QEC codes called surface codes, where quantum information is encoded in an entangled state of many physical qubits arranged on a two-dimensional lattice. I will give an introductory overview of QEC, explaining how errors are detected and corrected in surface codes. Finally, I will introduce an open-source software tool that enables the design and analysis of surface codes.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Pavithran Iyer | Xanadu   | KRB Large Meeting Room LM-34 (3rd level), IIIT Hyderabad | Friday, February 13, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 
 
@@ -74,61 +156,9 @@ TBA
 
 
 
-### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> 
-
-<!-- <img width="455" height="483" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> -->
 
 
 
-A classical obfuscator for quantum circuits is a classical program that, given the classical description of a quantum circuit Q, outputs the classical description of a functionally equivalent quantum circuit Q' that hides as much as possible about Q. Previously, the only known feasibility result for classical obfuscation of quantum circuits (Bartusek and Malavolta, ITCS 2022) was limited to "nul" security, which is only meaningful for circuits that always reject. On the other hand, if the obfuscator is allowed to compile the quantum circuit Q into a quantum state |Q'>, there exist feasibility results for obfuscating much more expressive classes of circuits: All pseudo-deterministic quantum circuits (Bartusek, Kitagawa, Nishimaki and Yamakawa, STOC 2023, Bartusek, Brakerski and Vaikuntanathan, STOC 2024), and even all unitaries (Huang and Tang, FOCS 2025).
-
-We show that (relative to a classical oracle) there exists a classical obfuscator for all pseudo-deterministic quantum circuits. As our main technical step, we give the first construction of a compact quantum fully-homomorphic encryption (QFHE) scheme that supports public verification of (pseudo-deterministic) quantum evaluation, relative to a classical oracle.
-
-To construct our QFHE scheme, we improve on an approach introduced by Bartusek, Kitagawa, Nishimaki and Yamakawa (STOC 2023), which previously required ciphertexts that are both quantum and non-compact due to a heavy use of quantum coset states and their publicly-verifiable properties. As part of our core technical contribution, we introduce new techniques for analyzing coset states that can be generated "on the fly", by proving new cryptographic properties of the one-shot signature scheme of Shmueli and Zhandry (CRYPTO 2025). Our techniques allow us to produce QFHE ciphertexts that are purely classical, compact, and publicly-verifiable. This additionally yields the first classical verification of quantum computation protocol for BQP that simultaneously satisfies blindness and public-verifiability.
-
-This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli. 
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Aparna Gupte | MIT  | Online-only | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 1) (online-only)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
-
-<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
- -->
-
-
-
-I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | Online-only | Thursday, February 12, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 
@@ -137,34 +167,6 @@ I present my QIP2025 tutorial, which provides an overview of quantum error corre
 
 
 ## Pipeline
-
-
-
-
-### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
-
-<!-- <img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
- -->
-
-
-
-Noise presents a significant challenge to quantum computing hardware, limiting the complexity of problems that can be tackled beyond just a few qubits. Quantum error correction (QEC) offers a theoretical framework that guarantees reliable quantum computation in the presence of noise. In this talk, I will focus on a popular class of QEC codes called surface codes, where quantum information is encoded in an entangled state of many physical qubits arranged on a two-dimensional lattice. I will give an introductory overview of QEC, explaining how errors are detected and corrected in surface codes. Finally, I will introduce an open-source software tool that enables the design and analysis of surface codes.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Pavithran Iyer | Xanadu   | KRB Large Meeting Room LM-34 (3rd level), IIIT Hyderabad | Friday, February 13, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 
@@ -405,6 +407,32 @@ Gravitational radiation from known astrophysical sources is conventionally treat
 
 
 <br/>
+
+### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
+
+<!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
+ -->
+
+
+We construct a classical oracle proving that, in a relativized setting, the set of languages decidable by an efficient quantum verifier with a quantum witness (QMA) is strictly bigger than those decidable with access only to a classical witness (QCMA). The separating classical oracle we construct is for a decision problem we coin spectral Forrelation -- the oracle describes two subsets of the boolean hypercube, and the computational task is to decide if there exists a quantum state whose standard basis measurement distribution is well supported on one subset while its Fourier basis measurement distribution is well supported on the other subset. This is equivalent to estimating the spectral norm of a "Forrelation" matrix between two sets that are accessible through membership queries.Our lower bound derives from a simple observation that a query algorithm with a classical witness can be run multiple times to generate many samples from a distribution, while a quantum witness is a "use once" object. This observation allows us to reduce proving a QCMA lower bound to proving a sampling hardness result which does not simultaneously prove a QMA lower bound. To prove said sampling hardness result for QCMA, we observe that quantum access to the oracle can be compressed by expressing the problem in terms of bosons -- a novel "second quantization" perspective on compressed oracle techniques, which may be of independent interest. Using this compressed perspective on the sampling problem, we prove the sampling hardness result, completing the proof.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Chinmay Nirkhe | University of Washington, US  | Online-only  | Wednesday, 4 February, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 ### [Quantum Colloquium] Suvrat Raju—How does information emerge from a black hole? (visitor, in-person)
 
