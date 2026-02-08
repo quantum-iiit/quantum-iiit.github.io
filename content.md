@@ -74,65 +74,6 @@ TBA
 
 
 
-
-
-
-
-
-### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
-
-<!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
- -->
-
-
-We construct a classical oracle proving that, in a relativized setting, the set of languages decidable by an efficient quantum verifier with a quantum witness (QMA) is strictly bigger than those decidable with access only to a classical witness (QCMA). The separating classical oracle we construct is for a decision problem we coin spectral Forrelation -- the oracle describes two subsets of the boolean hypercube, and the computational task is to decide if there exists a quantum state whose standard basis measurement distribution is well supported on one subset while its Fourier basis measurement distribution is well supported on the other subset. This is equivalent to estimating the spectral norm of a "Forrelation" matrix between two sets that are accessible through membership queries.Our lower bound derives from a simple observation that a query algorithm with a classical witness can be run multiple times to generate many samples from a distribution, while a quantum witness is a "use once" object. This observation allows us to reduce proving a QCMA lower bound to proving a sampling hardness result which does not simultaneously prove a QMA lower bound. To prove said sampling hardness result for QCMA, we observe that quantum access to the oracle can be compressed by expressing the problem in terms of bosons -- a novel "second quantization" perspective on compressed oracle techniques, which may be of independent interest. Using this compressed perspective on the sampling problem, we prove the sampling hardness result, completing the proof.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Chinmay Nirkhe | University of Washington, US  | Online-only  | Wednesday, 4 February, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-### [Quantum Talk] Sreenath K. Manikandan—Testing the coherent state description of gravitational radiation (visitor, in-person)
-
-
-<!-- <img width="1254" height="1280" alt="image" src="https://github.com/user-attachments/assets/16e105e3-0918-4b0f-812d-9d7d6149fdd0" /> -->
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/16e105e3-0918-4b0f-812d-9d7d6149fdd0" />  
-
-
-Gravitational radiation from known astrophysical sources is conventionally treated classically. This treatment corresponds, implicitly, to the hypothesis that a particular class of quantum-mechanical states — the so-called coherent states — adequately describe the gravitational radiation field. We propose practicable, quantitative tests of that hypothesis using resonant bar detectors monitored in coincidence with LIGO-style interferometers. Our tests readily distinguish fields that contain significant thermal components or squeezing. We identify concrete circumstances in which the classical (i.e. coherent state) hypothesis is likely to fail. Such failures are of fundamental interest in that addressing them requires us to treat the gravitational field quantum-mechanically, and they open a new window into the dynamics of gravitational wave sources.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Sreenath K. Manikandan | TIFR Hyderabad  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, 6 February | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-
-
-
-
-## Pipeline
-
-
 ### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> 
@@ -157,7 +98,7 @@ This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Aparna Gupte | MIT  | TBA | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Aparna Gupte | MIT  | Online-only | Wednesday, February 11, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
@@ -188,6 +129,17 @@ I present my QIP2025 tutorial, which provides an overview of quantum error corre
 
 
 <br/>
+
+
+
+
+
+
+
+## Pipeline
+
+
+
 
 ### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
 
@@ -380,6 +332,33 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 <br/>
 
 
+
+### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
+
+<!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
+ -->
+
+
+We construct a classical oracle proving that, in a relativized setting, the set of languages decidable by an efficient quantum verifier with a quantum witness (QMA) is strictly bigger than those decidable with access only to a classical witness (QCMA). The separating classical oracle we construct is for a decision problem we coin spectral Forrelation -- the oracle describes two subsets of the boolean hypercube, and the computational task is to decide if there exists a quantum state whose standard basis measurement distribution is well supported on one subset while its Fourier basis measurement distribution is well supported on the other subset. This is equivalent to estimating the spectral norm of a "Forrelation" matrix between two sets that are accessible through membership queries.Our lower bound derives from a simple observation that a query algorithm with a classical witness can be run multiple times to generate many samples from a distribution, while a quantum witness is a "use once" object. This observation allows us to reduce proving a QCMA lower bound to proving a sampling hardness result which does not simultaneously prove a QMA lower bound. To prove said sampling hardness result for QCMA, we observe that quantum access to the oracle can be compressed by expressing the problem in terms of bosons -- a novel "second quantization" perspective on compressed oracle techniques, which may be of independent interest. Using this compressed perspective on the sampling problem, we prove the sampling hardness result, completing the proof.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Chinmay Nirkhe | University of Washington, US  | TBA  | Friday, 20 March, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 <br/>
 
 
@@ -399,6 +378,31 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
   ### January – April, 2026
 
    </summary>
+
+<br/>
+
+
+### [Quantum Talk] Sreenath K. Manikandan—Testing the coherent state description of gravitational radiation (visitor, in-person)
+
+
+<!-- <img width="1254" height="1280" alt="image" src="https://github.com/user-attachments/assets/16e105e3-0918-4b0f-812d-9d7d6149fdd0" /> -->
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/16e105e3-0918-4b0f-812d-9d7d6149fdd0" />  
+
+
+Gravitational radiation from known astrophysical sources is conventionally treated classically. This treatment corresponds, implicitly, to the hypothesis that a particular class of quantum-mechanical states — the so-called coherent states — adequately describe the gravitational radiation field. We propose practicable, quantitative tests of that hypothesis using resonant bar detectors monitored in coincidence with LIGO-style interferometers. Our tests readily distinguish fields that contain significant thermal components or squeezing. We identify concrete circumstances in which the classical (i.e. coherent state) hypothesis is likely to fail. Such failures are of fundamental interest in that addressing them requires us to treat the gravitational field quantum-mechanically, and they open a new window into the dynamics of gravitational wave sources.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Sreenath K. Manikandan | TIFR Hyderabad  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, 6 February | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
 
 <br/>
 
