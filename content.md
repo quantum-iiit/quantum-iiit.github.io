@@ -36,7 +36,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (presented online)
+### [Quantum Seminar] Aparna Gupte—[Classical Obfuscation of Quantum Circuits via Publicly-Verifiable QFHE](https://arxiv.org/abs/2510.08400) (online-only)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/c8d5bd2c-32fe-4f72-8dcc-880584246079" /> 
 
