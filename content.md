@@ -74,10 +74,17 @@ This is based on joint work with James Bartusek, Saachi Mutreja and Omri Shmueli
 
 <!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
  -->
+```
 
 
 
+```
 I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+```
+
+
+
+```
 
 <div style="clear: both;"></div>
 <br/>
@@ -177,9 +184,17 @@ TBA
 <!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
  -->
 
+```
 
 
+
+```
 I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+```
+
+
+
+```
 
 <div style="clear: both;"></div>
 <br/>
@@ -231,9 +246,17 @@ We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures fo
 <!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
  -->
 
+```
 
 
+
+```
 I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+```
+
+
+
+```
 
 <div style="clear: both;"></div>
 <br/>
