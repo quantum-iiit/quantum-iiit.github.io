@@ -24,7 +24,7 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
-| Sreenath K Manikandan | Atul | 6 February, 2026 |
+| Sreenath K Manikandan | Himanshu and Atul | 6 February, 2026 |
 | Suvrat Raju | Atul | 23 January, 2026 | 
 | Shota Yamada | Atul | 21 January, 2026 |
 | Naresh Goud Boddu | Atul | 20 January, 2026 |
