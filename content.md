@@ -46,7 +46,7 @@ I present my QIP2025 tutorial, which provides an overview of quantum error corre
 
 What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
 
-The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the talk may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
+The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
 
 
 <div style="clear: both;"></div>
@@ -92,7 +92,7 @@ We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures fo
 <br/>
 
 
-### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (final part) (presented online)
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 3) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
 
@@ -103,7 +103,7 @@ I present my QIP2025 tutorial, which provides an overview of quantum error corre
 
 What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
 
-The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the talk may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
+The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
 
 <div style="clear: both;"></div>
 <br/>
@@ -349,7 +349,7 @@ I present my QIP2025 tutorial, which provides an overview of quantum error corre
 
 What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
 
-The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the talk may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
+The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
 
 <div style="clear: both;"></div>
 <br/>
