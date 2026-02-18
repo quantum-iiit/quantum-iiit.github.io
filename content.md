@@ -57,7 +57,7 @@ The speaker is tentatively expected to offer a broad overview of quantum error c
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Tuesday, February 17, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Tuesday, February 17, 2026 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/6p1y0kY3P4c) | 
 
 
 <br/>
