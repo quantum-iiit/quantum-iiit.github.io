@@ -34,35 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 2) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
-
-<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
- -->
-
-I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
-
-
-What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
-
-The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Tuesday, February 17, 2026 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/6p1y0kY3P4c) | 
-
-
-<br/>
-
-
 
 ### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
 
@@ -145,6 +116,31 @@ Multipartite quantum repeaters play an important role in quantum communication n
 
 
 
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (final part, online-only)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
+
+The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | Online-only | Monday, February 23, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
@@ -308,6 +304,37 @@ We construct a classical oracle proving that, in a relativized setting, the set 
    </summary>
 
 <br/>
+
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 2) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+
+What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
+
+The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Tuesday, February 17, 2026 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/6p1y0kY3P4c) | 
+
+
+<br/>
+
+
+
 
 
 ### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
