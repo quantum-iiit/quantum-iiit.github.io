@@ -24,6 +24,8 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+| Victor Albert | Himanshu and Atul | 17 February, 2026 |
+| Pavithran Iyer | Himanshu and Atul | 13 February, 2026 |
 | Victor Albert | Himanshu and Atul | 12 February, 2026 |
 | Aparna Gupte | Himanshu and Atul | 11 February, 2026 |
 | Sreenath K Manikandan | Himanshu and Atul | 6 February, 2026 |
