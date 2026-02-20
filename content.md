@@ -34,61 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-
-### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" /> 
-
-<!-- <img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" />
- -->
-
-
-
-We introduce Hamiltonian Decoded Quantum Interferometry (HDQI), a quantum algorithm that utilizes coherent Bell measurements and the symplectic representation of the Pauli group to reduce Gibbs sampling and Hamiltonian optimization to classical decoding. For a signed Pauli Hamiltonian H and any degree-ℓ polynomial P, HDQI prepares a purification of the density matrix ρP(H)∝P2(H) by solving a combination of two tasks: decoding ℓ errors on a classical code defined by H, and preparing a pilot state that encodes the anti-commutation structure of H. Choosing P(x) to approximate exp(−βx/2) yields Gibbs states at inverse temperature β; other choices prepare approximate ground states, microcanonical ensembles, and other spectral filters.
-For local Hamiltonians, the corresponding decoding problem is that of LDPC codes. Preparing the pilot state is always efficient for commuting Hamiltonians, but highly non-trivial for non-commuting Hamiltonians. Nevertheless, we prove that this state admits an efficient matrix product state representation for Hamiltonians whose anti-commutation graph decomposes into connected components of logarithmic size.
-We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures for a class of physically motivated commuting Hamiltonians -- including the toric code and Haah's cubic code -- but we also develop a matching efficient classical algorithm for this task. For a non-commuting semiclassical spin glass and commuting stabilizer Hamiltonians with quantum defects, HDQI prepares Gibbs states up to a constant inverse-temperature threshold using polynomial quantum resources and quasi-polynomial classical pre-processing. These results position HDQI as a versatile algorithmic primitive and the first extension of Regev's reduction to non-abelian groups.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Alexander Schmidhuber | MIT  | A3-117, Vindhya, IIIT Hyderabad | Wednesday, February 18, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/jjsHO3SeM3M) | 
-
-
-<br/>
-
-
-### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 3) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
-
-<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
- -->
-
-I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
-
-What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
-
-The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Thursday, February 19, 2026 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/HwtfRoPbt6k) | 
-
-
-<br/>
-
 ### [Quantum Seminar] Anton Trushechkin—[Multiplexed multipartite quantum repeater rates in the stationary regime](https://arxiv.org/abs/2505.18031) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> 
@@ -305,6 +250,61 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 <br/>
 
+### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 3) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
+
+<!-- <img width="335" height="430" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" />
+ -->
+
+I present my QIP2025 tutorial, which provides an overview of quantum error correction circa Spring 2025.
+
+What to expect from this series (based on the speaker's slide; co-written with ChatGPT)?
+
+The speaker is tentatively expected to offer a broad overview of quantum error correction, focusing on unifying ideas that link information theory, geometry, and many-body physics. Starting from classical coding concepts, the speaker may introduce key quantum ingredients such as the stabilizer formalism and protection against different types of errors, before touching on CSS codes, homological viewpoints, and representative families such as surface and quantum LDPC codes. Possible extensions beyond qubits and brief discussion of practical issues like decoding, fault tolerance, and approximate error correction may also be included, along with pointers to wider connections with quantum matter and near-term hardware.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Victor Albert | QuICS at NIST & University of Maryland  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Thursday, February 19, 2026 | 6:30 – 8:00pm |  [YouTube](https://www.youtube.com/watch?v=HwtfRoPbt6k) | 
+
+
+<br/>
+
+
+
+### [Quantum Seminar] Alexander Schmidhuber—[Hamiltonian Decoded Quantum Interferometry](https://arxiv.org/abs/2510.07913) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" /> 
+
+<!-- <img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/842aae51-bf04-4c89-90d6-96c134cee02c" />
+ -->
+
+
+
+We introduce Hamiltonian Decoded Quantum Interferometry (HDQI), a quantum algorithm that utilizes coherent Bell measurements and the symplectic representation of the Pauli group to reduce Gibbs sampling and Hamiltonian optimization to classical decoding. For a signed Pauli Hamiltonian H and any degree-ℓ polynomial P, HDQI prepares a purification of the density matrix ρP(H)∝P2(H) by solving a combination of two tasks: decoding ℓ errors on a classical code defined by H, and preparing a pilot state that encodes the anti-commutation structure of H. Choosing P(x) to approximate exp(−βx/2) yields Gibbs states at inverse temperature β; other choices prepare approximate ground states, microcanonical ensembles, and other spectral filters.
+For local Hamiltonians, the corresponding decoding problem is that of LDPC codes. Preparing the pilot state is always efficient for commuting Hamiltonians, but highly non-trivial for non-commuting Hamiltonians. Nevertheless, we prove that this state admits an efficient matrix product state representation for Hamiltonians whose anti-commutation graph decomposes into connected components of logarithmic size.
+We show that HDQI efficiently prepares Gibbs states at arbitrary temperatures for a class of physically motivated commuting Hamiltonians -- including the toric code and Haah's cubic code -- but we also develop a matching efficient classical algorithm for this task. For a non-commuting semiclassical spin glass and commuting stabilizer Hamiltonians with quantum defects, HDQI prepares Gibbs states up to a constant inverse-temperature threshold using polynomial quantum resources and quasi-polynomial classical pre-processing. These results position HDQI as a versatile algorithmic primitive and the first extension of Regev's reduction to non-abelian groups.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexander Schmidhuber | MIT  | A3-117, Vindhya, IIIT Hyderabad | Wednesday, February 18, 2026 | 7:30 – 9:00pm |  [YouTube](https://www.youtube.com/watch?v=jjsHO3SeM3M) | 
+
+
+<br/>
+
 ### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 2) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f0e8ca09-51a0-4d3e-b2fd-243ee134d344" /> 
@@ -335,8 +335,6 @@ The speaker is tentatively expected to offer a broad overview of quantum error c
 
 
 
-
-
 ### [Quantum Talk] Pavithran Iyer—Making Peace with Noise: Quantum Error Correction That Fits on a Chip (visitor, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a798a95e-a0b7-4d0c-a66f-a7086692f497" /> 
@@ -357,8 +355,7 @@ Noise presents a significant challenge to quantum computing hardware, limiting t
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Pavithran Iyer | Xanadu   | KRB Large Meeting Room LM-34 (3rd level), IIIT Hyderabad | Friday, February 13, 2026 | 3:30 – 5:00pm |  [OneDrive](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/atul_arora_iiit_ac_in/IQCEdNLgpzzvTawjAKo3xjwBAYWXM5GVEHpt5jauwkJww6Y?e=TgqoCV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 
-
+| Talk | Pavithran Iyer | Xanadu   | KRB Large Meeting Room LM-34 (3rd level), IIIT Hyderabad | Friday, February 13, 2026 | 3:30 – 5:00pm |  [YouTube](https://www.youtube.com/watch?v=44siONYmRkA)
 
 <br/>
 
