@@ -69,7 +69,7 @@ Multipartite quantum repeaters play an important role in quantum communication n
 
 
 
-<!-- ### [Quantum Talk] Arnab Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
+<!-- ### [Quantum Talk] Arnab  Ghorui—Quantum Communication Via Energy Constrained Homodyne detection (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" />
 
