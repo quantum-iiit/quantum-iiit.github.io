@@ -144,9 +144,10 @@ TBA
 
 ### [Quantum Seminar] Joseph Slote—[Quantum parallelization and the Moore–Nilsson conjecture](https://arxiv.org/abs/2510.04411) (presented online)
 
-<img align="left" width="140" alt="image" src="" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1f6142b5-72ea-47db-87bb-c08d48cae542" /> 
 
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+<!-- <img width="243" height="363" alt="image" src="https://github.com/user-attachments/assets/1f6142b5-72ea-47db-87bb-c08d48cae542" />
+
 
  -->
 
@@ -174,7 +175,7 @@ In this talk we'll develop a quantum precomputation technique and use it to sett
 
 ### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (presented online)
 
-<img align="left" width="140" alt="image" src="" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
 <!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
 
@@ -235,11 +236,10 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 ### [Quantum Seminar] Jose Carrasco—[The abelian state hidden subgroup problem: Learning stabilizer groups and beyond](https://arxiv.org/abs/2505.15770) (presented online)
 
-<img align="left" width="140" alt="image" src="(image.png)" />
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b50afe2a-387b-4165-8e52-c9029cf8f4f6" />
 
+<!-- <img width="305" height="393" alt="image" src="https://github.com/user-attachments/assets/b50afe2a-387b-4165-8e52-c9029cf8f4f6" /> -->
 
-<!-- <img width="292" height="319" alt="image" src="https://github.com/user-attachments/assets/3ac9c59b-2c04-43fe-85f3-aab40a4ff9fb" />
- -->
 
 
 
