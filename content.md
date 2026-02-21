@@ -34,30 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Anton Trushechkin—[Multiplexed multipartite quantum repeater rates in the stationary regime](https://arxiv.org/abs/2505.18031) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> 
-
-<!-- <img width="258" height="324" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> -->
-
-
-
-Multipartite quantum repeaters play an important role in quantum communication networks enabling the transmission of quantum information over larger distances. To increase the rates for multipartite entanglement distribution, multiplexing of quantum memories is included. Understanding the limitations of achievable rates in the stationary regime for different network sizes is a fundamental step to comprehend scalability of quantum networks. This work investigates the behavior of the multipartite quantum repeater rate (i.e., the number of GHZ states generated per round and per memory) in the stationary regime in multipartite star graphs with a single central multipartite quantum repeater including multiplexing using Markov chains. We derive a closed-form expression for the stationary rate depending on the network size. We support our results with numerical simulations. Further, we show that the rate saturates for large number of memories. On an abstract level, the mathematical description is equivalent to quantum repeater chains between two parties. Therefore, our results also apply to those setups.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Anton Trushechkin | Steklov Mathematical Institute  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, February 20, 2026 | 7:00 – 8:30pm |  [YouTube](https://youtu.be/GZDaRqnm2BQ) | 
-
-
-<br/>
 
 
 
@@ -88,7 +64,34 @@ The speaker is tentatively expected to offer a broad overview of quantum error c
 <br/>
 
 
+### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Unclonable cryptography leverages the quantum no-cloning principle to copy-protect cryptographic functionalities. While most existing works address the basic single-copy security, the stronger notion of multi-copy security remains largely unexplored.
+We introduce a generic compiler that upgrades collusion-resistant unclonable primitives to achieve multi-copy security, assuming only one-way functions. Using this framework, we obtain the first multi-copy secure constructions of public-key quantum money (termed quantum coins), single-decryptor encryption, unclonable encryption, and more. We also introduce an extended notion of quantum coins, called upgradable quantum coins, which allow weak (almost-public) verification under weaker assumptions and can be upgraded to full public verification under stronger assumptions by the bank simply publishing additional classical information.
+Along the way, we give a generic compiler that upgrades single-copy secure single-decryptor encryption to a collusion-resistant one, assuming the existence of functional encryption, and construct the first multi-challenge secure unclonable encryption scheme, which we believe are of independent interest.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alper Cakan | Carnegie Mellon University  | TBA | Wednesday, February 25, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 
@@ -139,23 +142,22 @@ TBA
 ## Pipeline
 
 
+### [Quantum Seminar] Joseph Slote—[Quantum parallelization and the Moore–Nilsson conjecture](https://arxiv.org/abs/2510.04411) (presented online)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1f6142b5-72ea-47db-87bb-c08d48cae542" /> 
 
+<!-- <img width="243" height="363" alt="image" src="https://github.com/user-attachments/assets/1f6142b5-72ea-47db-87bb-c08d48cae542" />
 
-### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
 
  -->
 
 
 
-Unclonable cryptography leverages the quantum no-cloning principle to copy-protect cryptographic functionalities. While most existing works address the basic single-copy security, the stronger notion of multi-copy security remains largely unexplored.
-We introduce a generic compiler that upgrades collusion-resistant unclonable primitives to achieve multi-copy security, assuming only one-way functions. Using this framework, we obtain the first multi-copy secure constructions of public-key quantum money (termed quantum coins), single-decryptor encryption, unclonable encryption, and more. We also introduce an extended notion of quantum coins, called upgradable quantum coins, which allow weak (almost-public) verification under weaker assumptions and can be upgraded to full public verification under stronger assumptions by the bank simply publishing additional classical information.
-Along the way, we give a generic compiler that upgrades single-copy secure single-decryptor encryption to a collusion-resistant one, assuming the existence of functional encryption, and construct the first multi-challenge secure unclonable encryption scheme, which we believe are of independent interest.
 
+
+Parallelization is a significant challenge in quantum algorithms due to physical constraints like no-cloning. This is vividly illustrated by the conjecture of Moore and Nilsson from their seminal work on quantum circuit complexity (SIAM J. Comput. ’01): unitaries of a deceptively simple form—controlled-unitary “staircases”—require circuits of minimum depth Ω(n). If true, this lower bound would represent a major break from classical parallelism and prove a quantum-native analogue of the famous NC = P conjecture.
+
+In this talk we'll develop a quantum precomputation technique and use it to settle the Moore–Nilsson conjecture in the negative by compressing all circuits in the class to depth O(log n), which is the best possible. We'll also give polynomial depth improvements for certain generalizations of Moore–Nilsson circuits and discuss open problems in the area.
 
 
 <div style="clear: both;"></div>
@@ -166,10 +168,41 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alper Cakan | Carnegie Mellon University  | TBA | Wednesday, February 25, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Joseph Slote | University of Washington  | TBA | Friday, March 6, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
+
+### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+
+
+We show an unconditional classical oracle separation between the class of languages that can be verified using a quantum proof (𝖰𝖬𝖠) and the class of languages that can be verified with a classical proof (𝖰𝖢𝖬𝖠). Compared to the recent work of Bostanci, Haferkamp, Nirkhe, and Zhandry (STOC 2026), our proof is conceptually and technically simpler, and readily extends to other oracle separations. In particular, our techniques yield the first unconditional classical oracle separation between the class of languages that can be decided with quantum advice (𝖡𝖰𝖯/𝗊𝗉𝗈𝗅𝗒) and the class of languages that can be decided with classical advice (𝖡𝖰𝖯/𝗉𝗈𝗅𝗒), improving on the quantum oracle separation of Aaronson and Kuperberg (CCC 2007) and the classically-accessible classical oracle separation of Li, Liu, Pelecanos and Yamakawa (ITCS 2024).
+Our oracles are based on the code intersection problem introduced by Yamakawa and Zhandry (FOCS 2022), combined with codes that have extremely good list-recovery properties.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | MIT | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Andrew Huang | University of Washington  | TBA | Monday, March 9, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 
 <!-- SKIP_START -->
 
@@ -200,6 +233,34 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 <br/>
 
+
+### [Quantum Seminar] Jose Carrasco—[The abelian state hidden subgroup problem: Learning stabilizer groups and beyond](https://arxiv.org/abs/2505.15770) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b50afe2a-387b-4165-8e52-c9029cf8f4f6" />
+
+<!-- <img width="305" height="393" alt="image" src="https://github.com/user-attachments/assets/b50afe2a-387b-4165-8e52-c9029cf8f4f6" /> -->
+
+
+
+
+Identifying the symmetry properties of quantum states is a central theme in quantum information theory and quantum many-body physics. In this work, we investigate quantum learning problems in which the goal is to identify a hidden symmetry of an unknown quantum state. Building on the recent formulation of the state hidden subgroup problem (StateHSP), we focus on abelian groups and develop an efficient quantum algorithm that learns any hidden symmetry subgroup using a generalized form of Fourier sampling. We showcase the versatility of the approach in three concrete applications: These are learning (i) qubit and qudit stabilizer groups, (ii) cuts along which a state is unentangled, and (iii) hidden translation symmetries. Through these applications, we reveal that well-known quantum learning primitives, such as Bell sampling and Bell difference sampling, are in fact special cases of Fourier sampling. Our results highlight the broad potential of the StateHSP framework for symmetry-based quantum learning tasks.
+
+
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Jose Carrasco | Freie Universität Berlin  | TBA | Wednesday, March 18, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 
 ### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
@@ -249,6 +310,33 @@ We construct a classical oracle proving that, in a relativized setting, the set 
    </summary>
 
 <br/>
+
+### [Quantum Seminar] Anton Trushechkin—[Multiplexed multipartite quantum repeater rates in the stationary regime](https://arxiv.org/abs/2505.18031) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> 
+
+<!-- <img width="258" height="324" alt="image" src="https://github.com/user-attachments/assets/232caacf-88b2-4c37-819d-f90624836b1a" /> -->
+
+
+
+Multipartite quantum repeaters play an important role in quantum communication networks enabling the transmission of quantum information over larger distances. To increase the rates for multipartite entanglement distribution, multiplexing of quantum memories is included. Understanding the limitations of achievable rates in the stationary regime for different network sizes is a fundamental step to comprehend scalability of quantum networks. This work investigates the behavior of the multipartite quantum repeater rate (i.e., the number of GHZ states generated per round and per memory) in the stationary regime in multipartite star graphs with a single central multipartite quantum repeater including multiplexing using Markov chains. We derive a closed-form expression for the stationary rate depending on the network size. We support our results with numerical simulations. Further, we show that the rate saturates for large number of memories. On an abstract level, the mathematical description is equivalent to quantum repeater chains between two parties. Therefore, our results also apply to those setups.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Anton Trushechkin | Steklov Mathematical Institute  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, February 20, 2026 | 7:00 – 8:30pm |  [YouTube](https://youtu.be/GZDaRqnm2BQ) | 
+
+
+<br/>
+
+
 
 ### [Quantum Seminar] Victor Albert—Quantum error correction: a guided tour (part 3) (presented online)
 
