@@ -54,7 +54,7 @@ Multipartite quantum repeaters play an important role in quantum communication n
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Anton Trushechkin | Steklov Mathematical Institute  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, February 20, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Anton Trushechkin | Steklov Mathematical Institute  | KRB Large Meeting-LM 22 (2nd level), IIIT Hyderabad | Friday, February 20, 2026 | 7:00 – 8:30pm |  [YouTube](https://youtu.be/GZDaRqnm2BQ) | 
 
 
 <br/>
