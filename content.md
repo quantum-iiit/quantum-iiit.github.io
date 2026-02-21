@@ -293,7 +293,7 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 
 
-<details> <!-- open -->
+<!-- <details> 
   <summary>
     
   ## Segments    
@@ -329,6 +329,6 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 
 
-</details>
+</details> -->
 
 <!-- SKIP_END -->

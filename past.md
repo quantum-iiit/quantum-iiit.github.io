@@ -4,7 +4,7 @@ See our Quantum Meets page ([quantum-meets.github.io](https://quantum-meets.gith
 
 Here we only list the past events. 
 
-## Past    
+## Past
 
 <br />
 
