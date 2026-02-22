@@ -291,6 +291,9 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 <br/>
 
+## Past
+
+This section has been moved into its [own page](past.md) now.
 
 
 <!-- <details> 
