@@ -24,6 +24,8 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+| Victor Albert | Atul | 23 February, 2026 |
+| Anton Trushechkin | Atul | 20 February, 2026 |
 | Victor Albert | Atul | 19 February, 2026 |
 | Alexander Schmidhuber | Atul | 18 February, 2026 |
 | Victor Albert | Himanshu and Atul | 17 February, 2026 |
