@@ -38,7 +38,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
+### [Quantum Seminar] ~~Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)~~ (cancelled)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
 
@@ -62,7 +62,7 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alper Cakan | Carnegie Mellon University  | Online-only | Wednesday, February 25, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Alper Cakan | Carnegie Mellon University  | Online-only | ~~Wednesday, February 25, 2026~~ | ~~8:30 – 10:00pm~~ |  ~~[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)~~ | 
 
 
 <br/>
