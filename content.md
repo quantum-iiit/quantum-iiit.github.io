@@ -109,7 +109,8 @@ TBA
 
 
 
-
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
 
 ## Pipeline
 
