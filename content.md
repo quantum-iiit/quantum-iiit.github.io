@@ -227,7 +227,33 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Chinmay Nirkhe | University of Washington, US  | TBA  | Friday, 20 March, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Ruta Jawale | University of Washington, US  | TBA  | Friday, 20 March, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Seminar] Ruta Jawale—[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/499b3820-1419-431c-a764-bcd7f3cf0ece" /> 
+
+<!-- <img width="977" height="1057" alt="image" src="https://github.com/user-attachments/assets/499b3820-1419-431c-a764-bcd7f3cf0ece" />
+ -->
+
+
+We construct a publicly-verifiable non-interactive zero-knowledge argument system for QMA with the following properties of interest.   1. Transparent setup. Our protocol only requires a uniformly random string (URS) setup. The only prior publicly-verifiable NIZK for QMA (Bartusek and Malavolta, ITCS 2022) requires an entire obfuscated program as the common reference string.   2. Extractability. Valid QMA witnesses can be extracted directly from our accepting proofs. That is, we obtain a publicly-verifiable non-interactive argument of quantum knowledge, previously only known in a privately-verifiable setting (Coladangelo, Vidick, and Zhang, CRYPTO 2020).   Our construction introduces a novel ZX QMA verifier with "strong completeness" and builds upon the coset state authentication scheme from (Bartusek, Brakerski, and Vaikuntanathan, STOC 2024) within the context of QMA verification. Along the way, we establish new properties of the authentication scheme.   The security of our construction rests on the heuristic use of a post-quantum indistinguishability obfuscator. Rather than rely on the full-fledged classical oracle model (i.e. ideal obfuscation), we isolate a particular game-based property of the obfuscator that suffices for our proof, which we dub the evasive composability heuristic.   As an additional contribution, we study a general method for replacing heuristic use of obfuscation with heuristic use of hash functions in the post-quantum setting. In particular, we establish security of the ideal obfuscation scheme of Jain, Lin, Luo, and Wichs (CRYPTO 2023) in the quantum pseudorandom oracle model (QPrO), which can be heuristically instantiated with a hash function. This gives us NIZK arguments of quantum knowledge for QMA in the QPrO, and additionally allows us to translate several quantum-cryptographic results that were only known in the classical oracle model to results in the QPrO.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ruta Jawale | University of Illinois, Urbana-Champaign   | TBA  | Monday, March 30, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
