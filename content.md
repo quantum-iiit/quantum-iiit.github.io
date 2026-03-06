@@ -61,7 +61,7 @@ In this talk we'll develop a quantum precomputation technique and use it to sett
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Joseph Slote | University of Washington  | TBA | Friday, March 6, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Joseph Slote | University of Washington  | Online | Friday, March 6, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
