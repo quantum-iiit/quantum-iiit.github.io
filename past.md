@@ -17,6 +17,41 @@ Here we only list the past events.
 
 <br/>
 
+
+### [Quantum Seminar] Joseph Slote—[Quantum parallelization and the Moore–Nilsson conjecture](https://arxiv.org/abs/2510.04411) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/1f6142b5-72ea-47db-87bb-c08d48cae542" /> 
+
+<!-- <img width="243" height="363" alt="image" src="https://github.com/user-attachments/assets/1f6142b5-72ea-47db-87bb-c08d48cae542" />
+
+
+ -->
+
+
+
+
+
+Parallelization is a significant challenge in quantum algorithms due to physical constraints like no-cloning. This is vividly illustrated by the conjecture of Moore and Nilsson from their seminal work on quantum circuit complexity (SIAM J. Comput. ’01): unitaries of a deceptively simple form—controlled-unitary “staircases”—require circuits of minimum depth Ω(n). If true, this lower bound would represent a major break from classical parallelism and prove a quantum-native analogue of the famous NC = P conjecture.
+
+In this talk we'll develop a quantum precomputation technique and use it to settle the Moore–Nilsson conjecture in the negative by compressing all circuits in the class to depth O(log n), which is the best possible. We'll also give polynomial depth improvements for certain generalizations of Moore–Nilsson circuits and discuss open problems in the area.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Joseph Slote | University of Washington  | Online | Friday, March 6, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+
 ### [Quantum Seminar] ~~Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)~~ (cancelled)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
