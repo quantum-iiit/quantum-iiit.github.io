@@ -36,7 +36,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (online)
+### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
