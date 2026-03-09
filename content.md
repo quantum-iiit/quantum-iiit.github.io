@@ -35,6 +35,35 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
+### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+
+
+We show an unconditional classical oracle separation between the class of languages that can be verified using a quantum proof (𝖰𝖬𝖠) and the class of languages that can be verified with a classical proof (𝖰𝖢𝖬𝖠). Compared to the recent work of Bostanci, Haferkamp, Nirkhe, and Zhandry (STOC 2026), our proof is conceptually and technically simpler, and readily extends to other oracle separations. In particular, our techniques yield the first unconditional classical oracle separation between the class of languages that can be decided with quantum advice (𝖡𝖰𝖯/𝗊𝗉𝗈𝗅𝗒) and the class of languages that can be decided with classical advice (𝖡𝖰𝖯/𝗉𝗈𝗅𝗒), improving on the quantum oracle separation of Aaronson and Kuperberg (CCC 2007) and the classically-accessible classical oracle separation of Li, Liu, Pelecanos and Yamakawa (ITCS 2024).
+Our oracles are based on the code intersection problem introduced by Yamakawa and Zhandry (FOCS 2022), combined with codes that have extremely good list-recovery properties.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 
 
 
@@ -86,38 +115,7 @@ TBA
 
 
 
-### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-
-
-We show an unconditional classical oracle separation between the class of languages that can be verified using a quantum proof (𝖰𝖬𝖠) and the class of languages that can be verified with a classical proof (𝖰𝖢𝖬𝖠). Compared to the recent work of Bostanci, Haferkamp, Nirkhe, and Zhandry (STOC 2026), our proof is conceptually and technically simpler, and readily extends to other oracle separations. In particular, our techniques yield the first unconditional classical oracle separation between the class of languages that can be decided with quantum advice (𝖡𝖰𝖯/𝗊𝗉𝗈𝗅𝗒) and the class of languages that can be decided with classical advice (𝖡𝖰𝖯/𝗉𝗈𝗅𝗒), improving on the quantum oracle separation of Aaronson and Kuperberg (CCC 2007) and the classically-accessible classical oracle separation of Li, Liu, Pelecanos and Yamakawa (ITCS 2024).
-Our oracles are based on the code intersection problem introduced by Yamakawa and Zhandry (FOCS 2022), combined with codes that have extremely good list-recovery properties.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Liang Mao—[Random unitaries that conserve energy](https://arxiv.org/abs/2510.08448) (presented online)
 
@@ -174,6 +172,9 @@ Identifying the symmetry properties of quantum states is a central theme in quan
 
 
 <br/>
+
+
+<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
