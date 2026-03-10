@@ -36,7 +36,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (presented online)
+### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
@@ -59,25 +59,14 @@ Our oracles are based on the code intersection problem introduced by Yamakawa an
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm | [Slides](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/attachments/AndrewHuang_Separation_Slides.pdf) <br/> <sub>Video will be uploaded shortly.</sub> | 
 
 
 <br/>
 
 
 
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
-
-### [Quantum Seminar] Liang Mao—[Random unitaries that conserve energy](https://arxiv.org/abs/2510.08448) (presented online)
+### [Quantum Seminar] Liang Mao—[Random unitaries that conserve energy](https://arxiv.org/abs/2510.08448) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3ac9c59b-2c04-43fe-85f3-aab40a4ff9fb" />
 
@@ -99,10 +88,21 @@ Random unitaries sampled from the Haar measure serve as fundamental models for g
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Liang Mao | Tsinghua University, China  | TBA | Wednesday, March 11, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Liang Mao | Tsinghua University, China  | Online | Wednesday, March 11, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+
 
 
 ### [Quantum Seminar] Jose Carrasco—[The abelian state hidden subgroup problem: Learning stabilizer groups and beyond](https://arxiv.org/abs/2505.15770) (presented online)
