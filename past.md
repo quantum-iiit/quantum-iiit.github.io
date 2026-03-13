@@ -17,6 +17,63 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Liang Mao—[Random unitaries that conserve energy](https://arxiv.org/abs/2510.08448) (online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3ac9c59b-2c04-43fe-85f3-aab40a4ff9fb" />
+
+<!-- <img width="292" height="319" alt="image" src="https://github.com/user-attachments/assets/3ac9c59b-2c04-43fe-85f3-aab40a4ff9fb" />
+ -->
+
+
+
+Random unitaries sampled from the Haar measure serve as fundamental models for generic quantum many-body dynamics. Under standard cryptographic assumptions, recent works have constructed polynomial-size quantum circuits that are computationally indistinguishable from Haar-random unitaries, establishing the concept of pseudorandom unitaries (PRUs). While PRUs have found broad implications in many-body physics, they fail to capture the energy conservation that governs physical systems. In this work, we investigate the computational complexity of generating PRUs that conserve energy under a fixed and known Hamiltonian H. We provide an efficient construction of energy-conserving PRUs when H is local and commuting with random coefficients. Conversely, we prove that for certain translationally invariant one-dimensional H, there exists an efficient quantum algorithm that can distinguish truly random energy-conserving unitaries from any polynomial-size quantum circuit. This establishes that energy-conserving PRUs cannot exist for these Hamiltonians. Furthermore, we prove that determining whether energy-conserving PRUs exist for a given family of one-dimensional local Hamiltonians is an undecidable problem. Our results reveal an unexpected computational barrier that fundamentally separates the generation of generic random unitaries from those obeying the basic physical constraint of energy conservation.
+
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Liang Mao | Tsinghua University, China  | Online | Wednesday, March 11, 2026 | 5:30 – 7:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+### [Quantum Seminar] Andrew Huang—[Separating Quantum and Classical Advice with Good Codes](https://arxiv.org/abs/2602.09385) (online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+
+
+We show an unconditional classical oracle separation between the class of languages that can be verified using a quantum proof (𝖰𝖬𝖠) and the class of languages that can be verified with a classical proof (𝖰𝖢𝖬𝖠). Compared to the recent work of Bostanci, Haferkamp, Nirkhe, and Zhandry (STOC 2026), our proof is conceptually and technically simpler, and readily extends to other oracle separations. In particular, our techniques yield the first unconditional classical oracle separation between the class of languages that can be decided with quantum advice (𝖡𝖰𝖯/𝗊𝗉𝗈𝗅𝗒) and the class of languages that can be decided with classical advice (𝖡𝖰𝖯/𝗉𝗈𝗅𝗒), improving on the quantum oracle separation of Aaronson and Kuperberg (CCC 2007) and the classically-accessible classical oracle separation of Li, Liu, Pelecanos and Yamakawa (ITCS 2024).
+Our oracles are based on the code intersection problem introduced by Yamakawa and Zhandry (FOCS 2022), combined with codes that have extremely good list-recovery properties.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm | [Slides](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/attachments/AndrewHuang_Separation_Slides.pdf) <br/> [YouTube](https://youtu.be/p3xRmeS-mIw)  | 
+
+
+<br/>
+
 
 ### [Quantum Seminar] Joseph Slote—[Quantum parallelization and the Moore–Nilsson conjecture](https://arxiv.org/abs/2510.04411) (presented online)
 
