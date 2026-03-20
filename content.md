@@ -36,67 +36,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Jose Carrasco—[The abelian state hidden subgroup problem: Learning stabilizer groups and beyond](https://arxiv.org/abs/2505.15770) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b50afe2a-387b-4165-8e52-c9029cf8f4f6" />
-
-<!-- <img width="305" height="393" alt="image" src="https://github.com/user-attachments/assets/b50afe2a-387b-4165-8e52-c9029cf8f4f6" /> -->
-
-
-
-
-Identifying the symmetry properties of quantum states is a central theme in quantum information theory and quantum many-body physics. In this work, we investigate quantum learning problems in which the goal is to identify a hidden symmetry of an unknown quantum state. Building on the recent formulation of the state hidden subgroup problem (StateHSP), we focus on abelian groups and develop an efficient quantum algorithm that learns any hidden symmetry subgroup using a generalized form of Fourier sampling. We showcase the versatility of the approach in three concrete applications: These are learning (i) qubit and qudit stabilizer groups, (ii) cuts along which a state is unentangled, and (iii) hidden translation symmetries. Through these applications, we reveal that well-known quantum learning primitives, such as Bell sampling and Bell difference sampling, are in fact special cases of Fourier sampling. Our results highlight the broad potential of the StateHSP framework for symmetry-based quantum learning tasks.
-
-
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Jose Carrasco | Freie Universität Berlin  | Online-only | Wednesday, March 18, 2026 | 3:30 – 5:00pm |  [YouTube](https://youtu.be/oG-XMvWXup4) | 
-
-
-<br/>
-
-
-
-
-
-### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/051937da-e69f-41cc-a4c4-55504a65a115" /> 
-
-<!-- <img width="361" height="393" alt="image" src="https://github.com/user-attachments/assets/af07ad36-eb39-4918-9b3a-87a8cab17351" />
- -->
-
-
-We construct a classical oracle proving that, in a relativized setting, the set of languages decidable by an efficient quantum verifier with a quantum witness (QMA) is strictly bigger than those decidable with access only to a classical witness (QCMA). The separating classical oracle we construct is for a decision problem we coin spectral Forrelation -- the oracle describes two subsets of the boolean hypercube, and the computational task is to decide if there exists a quantum state whose standard basis measurement distribution is well supported on one subset while its Fourier basis measurement distribution is well supported on the other subset. This is equivalent to estimating the spectral norm of a "Forrelation" matrix between two sets that are accessible through membership queries.Our lower bound derives from a simple observation that a query algorithm with a classical witness can be run multiple times to generate many samples from a distribution, while a quantum witness is a "use once" object. This observation allows us to reduce proving a QCMA lower bound to proving a sampling hardness result which does not simultaneously prove a QMA lower bound. To prove said sampling hardness result for QCMA, we observe that quantum access to the oracle can be compressed by expressing the problem in terms of bosons -- a novel "second quantization" perspective on compressed oracle techniques, which may be of independent interest. Using this compressed perspective on the sampling problem, we prove the sampling hardness result, completing the proof.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Chinmay Nirkhe | University of Washington, US  | Online-only  | Friday, 20 March, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-
 
 
 <!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
@@ -135,6 +74,37 @@ We construct a publicly-verifiable non-interactive zero-knowledge argument syste
 
 
 <br/>
+
+
+### [Quantum Talk] Arijit Sharma—Towards a warm Rubidium (Rb) atomic vapour all-optical atomic clock at 420 nm (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" /> 
+
+<!-- <img width="3159" height="3159" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" />
+ -->
+
+
+Portable optical atomic clocks based on warm atomic vapors offer an attractive pathway toward compact, low-power frequency standards suitable for field deployment in navigation, timing, and sensing systems. This talk presents the development of a portable all-optical atomic clock based on rubidium atoms operating at the 420 nm transition, implemented using a microfabricated MEMS vapor cell. The work focuses on high-resolution spectroscopy of the blue optical transition in rubidium and its application to precision metrology and compact clock architectures.
+A central element of this effort is precision spectroscopy at 420 nm, which provides a sensitive probe of atomic population dynamics and vapor properties inside microfabricated cells. We demonstrate how spectroscopy on this transition can be used to perform in-situ measurements of rubidium number density in MEMS vapor cells, enabling accurate characterization of atomic vapor conditions critical for stable optical frequency references.
+To establish the spectroscopic parameters required for clock operation, we perform high-resolution saturated absorption spectroscopy at 420 nm in a conventional rubidium vapor cell. Using this method, we report measurements of the saturation intensity for the 420 nm transition for different rubidium isotopes, providing key experimental parameters for the design of compact optical interrogation systems. In addition, detailed spectroscopic measurements are used to determine the hyperfine structure constants associated with the 420 nm transition.
+Finally, the talk discusses how these spectroscopic results inform the development of a warm-vapor, all-optical atomic clock operating at 420 nm using a MEMS rubidium vapor cell. The results establish a spectroscopic and engineering foundation for next-generation portable optical atomic clocks, with potential applications in precision timing, GNSS-independent navigation, space systems, and quantum sensing technologies.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Arijit Sharma | IIT Tirupati   | KRB Large Meeting-LM 22 (2nd floor)  | Wednesday, April 1, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 
 ### [Quantum Seminar] Kabir Tomer—[On the Cryptographic Foundations of Interactive Quantum Advantage](https://arxiv.org/pdf/2510.05082) (presented online)
