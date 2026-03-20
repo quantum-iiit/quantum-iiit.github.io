@@ -69,7 +69,7 @@ Our oracles are based on the code intersection problem introduced by Yamakawa an
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm | [Slides](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/attachments/AndrewHuang_Separation_Slides.pdf) <br/> [YouTube](https://youtu.be/p3xRmeS-mIw)  | 
+| Seminar | Andrew Huang | MIT  | Online | Monday, March 9, 2026 | 4:00 – 5:30pm | [Slides](https://github.com/quantum-iiit/quantum-iiit.github.io/blob/main/attachments/AndrewHuang_Separation_Slides.pdf) <br/> [YouTube](https://youtu.be/V06g-FEw9ec)  | 
 
 
 <br/>
