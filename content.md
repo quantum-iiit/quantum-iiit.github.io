@@ -76,6 +76,37 @@ We construct a publicly-verifiable non-interactive zero-knowledge argument syste
 <br/>
 
 
+### [Quantum Talk] Arijit Sharma—Towards a warm Rubidium (Rb) atomic vapour all-optical atomic clock at 420 nm (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" /> 
+
+<!-- <img width="3159" height="3159" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" />
+ -->
+
+
+Portable optical atomic clocks based on warm atomic vapors offer an attractive pathway toward compact, low-power frequency standards suitable for field deployment in navigation, timing, and sensing systems. This talk presents the development of a portable all-optical atomic clock based on rubidium atoms operating at the 420 nm transition, implemented using a microfabricated MEMS vapor cell. The work focuses on high-resolution spectroscopy of the blue optical transition in rubidium and its application to precision metrology and compact clock architectures.
+A central element of this effort is precision spectroscopy at 420 nm, which provides a sensitive probe of atomic population dynamics and vapor properties inside microfabricated cells. We demonstrate how spectroscopy on this transition can be used to perform in-situ measurements of rubidium number density in MEMS vapor cells, enabling accurate characterization of atomic vapor conditions critical for stable optical frequency references.
+To establish the spectroscopic parameters required for clock operation, we perform high-resolution saturated absorption spectroscopy at 420 nm in a conventional rubidium vapor cell. Using this method, we report measurements of the saturation intensity for the 420 nm transition for different rubidium isotopes, providing key experimental parameters for the design of compact optical interrogation systems. In addition, detailed spectroscopic measurements are used to determine the hyperfine structure constants associated with the 420 nm transition.
+Finally, the talk discusses how these spectroscopic results inform the development of a warm-vapor, all-optical atomic clock operating at 420 nm using a MEMS rubidium vapor cell. The results establish a spectroscopic and engineering foundation for next-generation portable optical atomic clocks, with potential applications in precision timing, GNSS-independent navigation, space systems, and quantum sensing technologies.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Arijit Sharma | IIT Tirupati   | KRB Large Meeting-LM 22 (2nd floor)  | Wednesday, April 1, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
 ### [Quantum Seminar] Kabir Tomer—[On the Cryptographic Foundations of Interactive Quantum Advantage](https://arxiv.org/pdf/2510.05082) (presented online)
 
 
