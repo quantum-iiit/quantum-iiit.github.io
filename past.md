@@ -37,7 +37,7 @@ We construct a classical oracle proving that, in a relativized setting, the set 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Chinmay Nirkhe | University of Washington, US  | Online-only  | Friday, 20 March, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/AqtCdVJ2FUI) | 
+| Seminar | Chinmay Nirkhe | University of Washington, US  | Online-only  | Friday, 20 March, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/sK5ywKRWV-s) | 
 
 
 <br/>
