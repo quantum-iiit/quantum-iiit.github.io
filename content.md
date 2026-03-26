@@ -76,7 +76,7 @@ We construct a publicly-verifiable non-interactive zero-knowledge argument syste
 <br/>
 
 
-### [Quantum Talk] Arijit Sharma—Towards a warm Rubidium (Rb) atomic vapour all-optical atomic clock at 420 nm (presented online)
+### [Quantum Talk] Arijit Sharma—Towards a warm Rubidium (Rb) atomic vapour all-optical atomic clock at 420 nm (in-person)
 
 
 
