@@ -34,22 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
-
-
-
 ### [Quantum Seminar] Ruta Jawale—[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155) (presented online)
 
 
@@ -107,6 +91,16 @@ Finally, the talk discusses how these spectroscopic results inform the developme
 
 
 
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
 ### [Quantum Seminar] Kabir Tomer—[On the Cryptographic Foundations of Interactive Quantum Advantage](https://arxiv.org/pdf/2510.05082) (presented online)
 
 
@@ -133,7 +127,6 @@ In this work, we study the hardness required to achieve proofs of quantumness (P
 
 <br/>
 
-<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
@@ -165,6 +158,8 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
 <br/>
 
+
+<!-- SKIP_START -->
 
 <br/>
 
