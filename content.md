@@ -34,7 +34,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Seminar] Ruta Jawale—[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155) (presented online)
+### [Quantum Seminar] ~~Ruta Jawale—[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155) (presented online)~~ (being rescheduled)
 
 
 
@@ -54,7 +54,7 @@ We construct a publicly-verifiable non-interactive zero-knowledge argument syste
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ruta Jawale | University of Illinois, Urbana-Champaign   | Online-only  | Monday, March 30, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Ruta Jawale | University of Illinois, Urbana-Champaign   | Online-only  | ~~Monday, March 30, 2026~~ | ~~4:00 – 5:30pm~~ |  ~~[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)~~ | 
 
 
 <br/>
