@@ -17,6 +17,61 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Talk] Arijit Sharma—Towards a warm Rubidium (Rb) atomic vapour all-optical atomic clock at 420 nm (in-person)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" /> 
+
+<!-- <img width="3159" height="3159" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" />
+ -->
+
+
+Portable optical atomic clocks based on warm atomic vapors offer an attractive pathway toward compact, low-power frequency standards suitable for field deployment in navigation, timing, and sensing systems. This talk presents the development of a portable all-optical atomic clock based on rubidium atoms operating at the 420 nm transition, implemented using a microfabricated MEMS vapor cell. The work focuses on high-resolution spectroscopy of the blue optical transition in rubidium and its application to precision metrology and compact clock architectures.
+A central element of this effort is precision spectroscopy at 420 nm, which provides a sensitive probe of atomic population dynamics and vapor properties inside microfabricated cells. We demonstrate how spectroscopy on this transition can be used to perform in-situ measurements of rubidium number density in MEMS vapor cells, enabling accurate characterization of atomic vapor conditions critical for stable optical frequency references.
+To establish the spectroscopic parameters required for clock operation, we perform high-resolution saturated absorption spectroscopy at 420 nm in a conventional rubidium vapor cell. Using this method, we report measurements of the saturation intensity for the 420 nm transition for different rubidium isotopes, providing key experimental parameters for the design of compact optical interrogation systems. In addition, detailed spectroscopic measurements are used to determine the hyperfine structure constants associated with the 420 nm transition.
+Finally, the talk discusses how these spectroscopic results inform the development of a warm-vapor, all-optical atomic clock operating at 420 nm using a MEMS rubidium vapor cell. The results establish a spectroscopic and engineering foundation for next-generation portable optical atomic clocks, with potential applications in precision timing, GNSS-independent navigation, space systems, and quantum sensing technologies.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Arijit Sharma | IIT Tirupati   | KRB Large Meeting-LM 22 (2nd floor)  | Wednesday, April 1, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+### [Quantum Seminar] ~~Ruta Jawale—[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155) (presented online)~~ (being rescheduled)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/499b3820-1419-431c-a764-bcd7f3cf0ece" /> 
+
+<!-- <img width="977" height="1057" alt="image" src="https://github.com/user-attachments/assets/499b3820-1419-431c-a764-bcd7f3cf0ece" />
+ -->
+
+
+We construct a publicly-verifiable non-interactive zero-knowledge argument system for QMA with the following properties of interest.   1. Transparent setup. Our protocol only requires a uniformly random string (URS) setup. The only prior publicly-verifiable NIZK for QMA (Bartusek and Malavolta, ITCS 2022) requires an entire obfuscated program as the common reference string.   2. Extractability. Valid QMA witnesses can be extracted directly from our accepting proofs. That is, we obtain a publicly-verifiable non-interactive argument of quantum knowledge, previously only known in a privately-verifiable setting (Coladangelo, Vidick, and Zhang, CRYPTO 2020).   Our construction introduces a novel ZX QMA verifier with "strong completeness" and builds upon the coset state authentication scheme from (Bartusek, Brakerski, and Vaikuntanathan, STOC 2024) within the context of QMA verification. Along the way, we establish new properties of the authentication scheme.   The security of our construction rests on the heuristic use of a post-quantum indistinguishability obfuscator. Rather than rely on the full-fledged classical oracle model (i.e. ideal obfuscation), we isolate a particular game-based property of the obfuscator that suffices for our proof, which we dub the evasive composability heuristic.   As an additional contribution, we study a general method for replacing heuristic use of obfuscation with heuristic use of hash functions in the post-quantum setting. In particular, we establish security of the ideal obfuscation scheme of Jain, Lin, Luo, and Wichs (CRYPTO 2023) in the quantum pseudorandom oracle model (QPrO), which can be heuristically instantiated with a hash function. This gives us NIZK arguments of quantum knowledge for QMA in the QPrO, and additionally allows us to translate several quantum-cryptographic results that were only known in the classical oracle model to results in the QPrO.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ruta Jawale | University of Illinois, Urbana-Champaign   | Online-only  | ~~Monday, March 30, 2026~~ | ~~4:00 – 5:30pm~~ |  ~~[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)~~ | 
+
+
+<br/>
+
 ### [Quantum Seminar] Chinmay Nirkhe—[Separating QMA and QCMA with a classical oracle](https://arxiv.org/abs/2511.09551) (presented online)
 
 
