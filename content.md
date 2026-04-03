@@ -155,6 +155,65 @@ Recent advances in quantum simulators allow direct experimental access to ensemb
 
 <!-- SKIP_START -->
 
+
+
+### [Quantum Seminar] Atsuya Hasegawa—[Fine-Grained Complexity of the Local Hamiltonian Problem from Size-Preserving Circuit-to-Hamiltonian Constructions](https://arxiv.org/abs/2602.14379) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e1239e68-941a-466f-a08b-1d0b65e7917a" />
+ -->
+
+
+
+The local Hamiltonian problem is the canonical QMA-complete problem introduced by Kitaev. We show its hardness in a very strong sense: we show that the 3-local Hamiltonian problem on n qubits cannot be solved classically in time O(2^{(1−ε)n}) for any ε > 0 under the Strong Exponential-Time Hypothesis (SETH), and cannot be solved quantumly in time O(2^{(1−ε)n/2}) for any ε > 0 under the Quantum Strong Exponential-Time Hypothesis (QSETH). These lower bounds give evidence that the currently known classical and quantum algorithms for the local Hamiltonian problem cannot be significantly improved.
+
+To prove our fine-grained lower bounds, we introduce the first size-preserving circuit-to-Hamiltonian construction that encodes the computation of a T-time quantum circuit acting on N qubits into a (d+1)-local Hamiltonian acting on N + O(T^{1/d}) qubits. This improves the standard construction based on the unary clock, which uses N + O(T) qubits.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Atsuya Hasegawa | Nagoya University, Japan  | Online-only | Wednesday, May 6, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Leo Orshansky—[Private Proofs of When and Where](https://arxiv.org/abs/2601.18961) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bee571fe-6a32-40d2-b2a5-7f81f822b812" /> 
+
+<!-- <img width="473" height="568" alt="image" src="https://github.com/user-attachments/assets/bee571fe-6a32-40d2-b2a5-7f81f822b812" />
+ -->
+
+
+
+Position verification schemes are interactive protocols where entities prove their physical location to others; this enables interactive proofs for statements of the form "I am at a location L." Although secure position verification cannot be achieved with classical protocols (even with computational assumptions), they are feasible with quantum protocols.
+In this paper we introduce the notion of zero-knowledge position verification, which generalizes position verification in two ways:
+1. enabling entities to prove more sophisticated statements about their locations at different times (for example, "I was NOT near location L at noon yesterday").
+2. maintaining privacy for any other detail about their true location besides the statement they are proving.
+We construct zero-knowledge position verification from standard position verification and post-quantum one-way functions. The central tool in our construction is a primitive we call position commitments, which allow entities to privately commit to their physical position in a particular moment, which is then revealed at some later time. 
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Leo Orshansky |  Columbia University  | TBA | Friday, May 8, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 <br/>
 
 ## Past
