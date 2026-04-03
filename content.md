@@ -34,73 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Seminar] ~~Ruta Jawale—[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155) (presented online)~~ (being rescheduled)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/499b3820-1419-431c-a764-bcd7f3cf0ece" /> 
-
-<!-- <img width="977" height="1057" alt="image" src="https://github.com/user-attachments/assets/499b3820-1419-431c-a764-bcd7f3cf0ece" />
- -->
-
-
-We construct a publicly-verifiable non-interactive zero-knowledge argument system for QMA with the following properties of interest.   1. Transparent setup. Our protocol only requires a uniformly random string (URS) setup. The only prior publicly-verifiable NIZK for QMA (Bartusek and Malavolta, ITCS 2022) requires an entire obfuscated program as the common reference string.   2. Extractability. Valid QMA witnesses can be extracted directly from our accepting proofs. That is, we obtain a publicly-verifiable non-interactive argument of quantum knowledge, previously only known in a privately-verifiable setting (Coladangelo, Vidick, and Zhang, CRYPTO 2020).   Our construction introduces a novel ZX QMA verifier with "strong completeness" and builds upon the coset state authentication scheme from (Bartusek, Brakerski, and Vaikuntanathan, STOC 2024) within the context of QMA verification. Along the way, we establish new properties of the authentication scheme.   The security of our construction rests on the heuristic use of a post-quantum indistinguishability obfuscator. Rather than rely on the full-fledged classical oracle model (i.e. ideal obfuscation), we isolate a particular game-based property of the obfuscator that suffices for our proof, which we dub the evasive composability heuristic.   As an additional contribution, we study a general method for replacing heuristic use of obfuscation with heuristic use of hash functions in the post-quantum setting. In particular, we establish security of the ideal obfuscation scheme of Jain, Lin, Luo, and Wichs (CRYPTO 2023) in the quantum pseudorandom oracle model (QPrO), which can be heuristically instantiated with a hash function. This gives us NIZK arguments of quantum knowledge for QMA in the QPrO, and additionally allows us to translate several quantum-cryptographic results that were only known in the classical oracle model to results in the QPrO.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Ruta Jawale | University of Illinois, Urbana-Champaign   | Online-only  | ~~Monday, March 30, 2026~~ | ~~4:00 – 5:30pm~~ |  ~~[Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d)~~ | 
-
-
-<br/>
-
-
-### [Quantum Talk] Arijit Sharma—Towards a warm Rubidium (Rb) atomic vapour all-optical atomic clock at 420 nm (in-person)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" /> 
-
-<!-- <img width="3159" height="3159" alt="image" src="https://github.com/user-attachments/assets/56c16240-27f6-45e2-8aa8-e22cd5c05c2d" />
- -->
-
-
-Portable optical atomic clocks based on warm atomic vapors offer an attractive pathway toward compact, low-power frequency standards suitable for field deployment in navigation, timing, and sensing systems. This talk presents the development of a portable all-optical atomic clock based on rubidium atoms operating at the 420 nm transition, implemented using a microfabricated MEMS vapor cell. The work focuses on high-resolution spectroscopy of the blue optical transition in rubidium and its application to precision metrology and compact clock architectures.
-A central element of this effort is precision spectroscopy at 420 nm, which provides a sensitive probe of atomic population dynamics and vapor properties inside microfabricated cells. We demonstrate how spectroscopy on this transition can be used to perform in-situ measurements of rubidium number density in MEMS vapor cells, enabling accurate characterization of atomic vapor conditions critical for stable optical frequency references.
-To establish the spectroscopic parameters required for clock operation, we perform high-resolution saturated absorption spectroscopy at 420 nm in a conventional rubidium vapor cell. Using this method, we report measurements of the saturation intensity for the 420 nm transition for different rubidium isotopes, providing key experimental parameters for the design of compact optical interrogation systems. In addition, detailed spectroscopic measurements are used to determine the hyperfine structure constants associated with the 420 nm transition.
-Finally, the talk discusses how these spectroscopic results inform the development of a warm-vapor, all-optical atomic clock operating at 420 nm using a MEMS rubidium vapor cell. The results establish a spectroscopic and engineering foundation for next-generation portable optical atomic clocks, with potential applications in precision timing, GNSS-independent navigation, space systems, and quantum sensing technologies.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Arijit Sharma | IIT Tirupati   | KRB Large Meeting-LM 22 (2nd floor)  | Wednesday, April 1, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
 ### [Quantum Seminar] Kabir Tomer—[On the Cryptographic Foundations of Interactive Quantum Advantage](https://arxiv.org/pdf/2510.05082) (presented online)
 
 
@@ -126,6 +59,41 @@ In this work, we study the hardness required to achieve proofs of quantumness (P
 
 
 <br/>
+
+### [Quantum Seminar] Jackson Morris—[QAC<sup>0</sup> contains TC<sup>0</sup> (with many copies of the input)](https://arxiv.org/abs/2601.03243) (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2cf604c0-15f9-40f1-ade7-c9d09fa59635" /> 
+
+<!-- <img width="226" height="253" alt="image" src="https://github.com/user-attachments/assets/2cf604c0-15f9-40f1-ade7-c9d09fa59635" />
+ -->
+
+
+$\mathsf{QAC}^0$ is the class of constant-depth polynomial-size quantum circuits constructed from arbitrary single-qubit gates and generalized Toffoli gates. It is arguably the smallest natural class of constant-depth quantum computation which has not been shown useful for computing any non-trivial Boolean function. Despite this, many attempts to port classical $\mathsf{AC}^0$ lower bounds to $\mathsf{QAC}^0$ have failed.
+  We give one possible explanation of this: $\mathsf{QAC}^0$ circuits are significantly more powerful than their classical counterparts. We show the unconditional separation $\mathsf{QAC}^0\not\subset\mathsf{AC}^0[p]$ for decision problems, which also resolves for the first time whether $\mathsf{AC}^0$ could be more powerful than $\mathsf{QAC}^0$. Moreover, we prove that $\mathsf{QAC}^0$ circuits can compute a wide range of Boolean functions if given multiple copies of the input: $\mathsf{TC}^0 \subseteq \mathsf{QAC}^0 \circ \mathsf{NC}^0$. Along the way, we introduce an amplitude amplification technique that makes several approximate constant-depth constructions exact.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Jackson Morris | UCSD   | Online-only  | Friday, April 10, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
 
 
 
@@ -154,6 +122,32 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Alper Cakan | Carnegie Mellon University  | TBA | Wednesday, April 22, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Dariel Mok—[Nature is stingy: Universality of Scrooge ensembles in quantum many-body systems](https://arxiv.org/abs/2601.00266v2) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e1239e68-941a-466f-a08b-1d0b65e7917a" /> 
+
+<!-- <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e1239e68-941a-466f-a08b-1d0b65e7917a" />
+ -->
+
+
+
+Recent advances in quantum simulators allow direct experimental access to ensembles of pure states generated by measuring part of an isolated quantum many-body system. These projected ensembles encode fine-grained information beyond thermal expectation values and provide a new window into quantum thermalization. In chaotic dynamics, projected ensembles exhibit universal statistics governed by maximum-entropy principles, known as deep thermalization. At infinite temperature this universality is characterized by Haar-random ensembles. More generally, physical constraints such as finite temperature or conservation laws lead to Scrooge ensembles, which are maximally entropic distributions of pure states consistent with these constraints. Here we introduce Scrooge k-designs, which approximate Scrooge ensembles, and use this framework to sharpen the conditions under which Scrooge-like behavior emerges. We first show that global Scrooge designs arise from long-time chaotic unitary dynamics alone, without measurements. Second, we show that measuring a complementary subsystem of a scrambled global state drawn from a global Scrooge 2k-design induces a local Scrooge k-design. Third, we show that a local Scrooge k-design arises from an arbitrary entangled state when the complementary system is measured in a scrambled basis induced by a unitary drawn from a Haar 2k-design. These results show that the resources required to generate approximate Scrooge ensembles scale only with the desired degree of approximation, enabling efficient implementations. Complementing our analytical results, numerical simulations identify coherence, entanglement, non-stabilizerness, and information scrambling as essential ingredients for the emergence of Scrooge-like behavior. Together, our findings advance theoretical explanations for maximally entropic, information-stingy randomness in quantum many-body systems.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Dariel Mok | Caltech  | Online-only | Friday, April 24, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
