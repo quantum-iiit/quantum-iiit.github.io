@@ -24,6 +24,12 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+|Arijit Sharma| Atul | 1 April, 2026|
+|Chinmay Nirkhe | Atul | 20 March, 2026 |
+|Jose Carrasco | Atul | 18 March, 2026 |
+|Liang Mao| Atul | 11 March, 2026 |
+| Andrew Huang | Atul | 9 March, 2026 |
+|Joseph Slote | Atul | 6 March, 2026 |
 | Victor Albert | Atul | 23 February, 2026 |
 | Anton Trushechkin | Atul | 20 February, 2026 |
 | Victor Albert | Atul | 19 February, 2026 |
