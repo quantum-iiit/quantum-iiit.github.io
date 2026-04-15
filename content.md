@@ -34,67 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Seminar] Kabir Tomer—[On the Cryptographic Foundations of Interactive Quantum Advantage](https://arxiv.org/pdf/2510.05082) (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/d18985a4-5445-4bb8-88f0-788c52f648a7" /> 
-
-<!-- <img width="1304" height="1328" alt="image" src="https://github.com/user-attachments/assets/d18985a4-5445-4bb8-88f0-788c52f648a7" />
- -->
-
-
-In this work, we study the hardness required to achieve proofs of quantumness (PoQ), which in turn capture (potentially interactive) quantum advantage. A “trivial” PoQ is to simply assume an average-case hard problem for classical computers that is easy for quantum computers. However, there is much interest in “non-trivial” PoQ that actually rely on quantum hardness assumptions, as these are often a starting point for more sophisticated protocols such as classical verification of quantum computation (CVQC). We show several lower-bounds for the hardness required to achieve non-trivial PoQ, specifically showing that they likely require cryptographic hardness, with different types of cryptographic hardness being required for differentvariations of non-trivial PoQ. In particular, our results help explain the challenges in using lattices to build publicly verifiable PoQ and its various extensions such as CVQC.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Kabir Tomer | University of Illinois, Urbana-Champaign   | TBA  | Wednesday, April 8, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-### [Quantum Seminar] Jackson Morris—[QAC<sup>0</sup> contains TC<sup>0</sup> (with many copies of the input)](https://arxiv.org/abs/2601.03243) (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2cf604c0-15f9-40f1-ade7-c9d09fa59635" /> 
-
-<!-- <img width="226" height="253" alt="image" src="https://github.com/user-attachments/assets/2cf604c0-15f9-40f1-ade7-c9d09fa59635" />
- -->
-
-
-$\mathsf{QAC}^0$ is the class of constant-depth polynomial-size quantum circuits constructed from arbitrary single-qubit gates and generalized Toffoli gates. It is arguably the smallest natural class of constant-depth quantum computation which has not been shown useful for computing any non-trivial Boolean function. Despite this, many attempts to port classical $\mathsf{AC}^0$ lower bounds to $\mathsf{QAC}^0$ have failed.
-  We give one possible explanation of this: $\mathsf{QAC}^0$ circuits are significantly more powerful than their classical counterparts. We show the unconditional separation $\mathsf{QAC}^0\not\subset\mathsf{AC}^0[p]$ for decision problems, which also resolves for the first time whether $\mathsf{AC}^0$ could be more powerful than $\mathsf{QAC}^0$. Moreover, we prove that $\mathsf{QAC}^0$ circuits can compute a wide range of Boolean functions if given multiple copies of the input: $\mathsf{TC}^0 \subseteq \mathsf{QAC}^0 \circ \mathsf{NC}^0$. Along the way, we introduce an amplitude amplification technique that makes several approximate constant-depth constructions exact.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Jackson Morris | UCSD   | Online-only  | Friday, April 10, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br/>
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
 
 
 ### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
@@ -151,6 +90,14 @@ Recent advances in quantum simulators allow direct experimental access to ensemb
 
 
 <br/>
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
 
 
 <!-- SKIP_START -->
