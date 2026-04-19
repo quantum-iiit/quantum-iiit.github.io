@@ -100,10 +100,6 @@ Recent advances in quantum simulators allow direct experimental access to ensemb
 
 
 
-<!-- SKIP_START -->
-
-
-
 ### [Quantum Seminar] Atsuya Hasegawa—[Fine-Grained Complexity of the Local Hamiltonian Problem from Size-Preserving Circuit-to-Hamiltonian Constructions](https://arxiv.org/abs/2602.14379) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
@@ -160,6 +156,7 @@ We construct zero-knowledge position verification from standard position verific
 
 <br/>
 
+<!-- SKIP_START -->
 
 <br/>
 
