@@ -102,7 +102,10 @@ Recent advances in quantum simulators allow direct experimental access to ensemb
 
 ### [Quantum Seminar] Atsuya Hasegawa—[Fine-Grained Complexity of the Local Hamiltonian Problem from Size-Preserving Circuit-to-Hamiltonian Constructions](https://arxiv.org/abs/2602.14379) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/7c3e5ad4-6919-4448-81e3-de9b1a1bb9e0" /> 
+
+
+
 
 <!-- <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e1239e68-941a-466f-a08b-1d0b65e7917a" />
  -->
