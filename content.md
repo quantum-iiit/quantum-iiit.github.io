@@ -81,10 +81,9 @@ To prove our fine-grained lower bounds, we introduce the first size-preserving c
 
 ### [Quantum Seminar] Leo Orshansky—[Private Proofs of When and Where](https://arxiv.org/abs/2601.18961) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/bee571fe-6a32-40d2-b2a5-7f81f822b812" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> 
 
-<!-- <img width="473" height="568" alt="image" src="https://github.com/user-attachments/assets/bee571fe-6a32-40d2-b2a5-7f81f822b812" />
- -->
+<!-- <img width="693" height="795" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> -->
 
 
 
@@ -103,7 +102,123 @@ We construct zero-knowledge position verification from standard position verific
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Leo Orshansky |  Columbia University  | TBA | Friday, May 8, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Leo Orshansky |  Columbia University  | Online-only | Friday, May 8, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Dhara Thakkar—[Group Order and Group Non-Membership is in QCMA](https://arxiv.org/abs/2504.05547) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" /> 
+
+<!-- <img width="811" height="811" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" />
+ -->
+
+
+
+In this talk, I will discuss recent progress on the role of
+classical proofs in quantum complexity theory, focusing on
+group-theoretic problems in the black-box model. In particular, I
+will present QCMA protocols for two long-standing open questions in
+this area. First, we show that the Group Non-Membership problem--known
+to lie in QMA but not in MA--is in fact in QCMA, settling a 2006
+conjecture by Aaronson and Kuperberg. This result follows from a more
+general result that the Group Order Verification problem lies in QCMA,
+answering an open question posed by Watrous in 2000. Our techniques
+also give improved quantum upper bounds on the complexity of many
+other group-theoretical problems, such as group isomorphism in
+black-box groups settings.
+
+This talk is based on the joint work with François Le Gall and
+Harumichi Nishimura.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Dhara Thakkar |  Nagoya University, Japan  | Online-only | Monday, May 11, 2026 | 10:00 – 11:30am |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Joseph Slote—[Robust state certification from simple measurements](https://arxiv.org/abs/2602.11616) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> 
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+State certification seeks to determine whether an approximate, lab-prepared quantum state is close to a target ideal state. There is particular interest in certification approaches requiring only few-qubit measurements, and recent work has culminated in protocols certifying n-qubit quantum states with only single-qubit measurements (Huang, Preskill, Soleimanifar '24; Gupta, He, O'Donnell '25). Unfortunately, existing tests are inherently non-robust: they can only positively certify lab states that are vanishingly close to the ideal state as n grows, making them difficult to apply in realistic scenarios. In this talk we describe new few-qubit measurement protocols that achieve constant robustness, for example distinguishing lab states with at least 80% fidelity from those with at most 60% fidelity, independent of system size. Our protocols succeed for all but an exponentially small fraction of target states and are based on a novel uncertainty principle for conditional fidelities.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Joseph Slote |  University of Washington, US  | Online-only | Wednesday, May 13, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+<!-- SKIP_START -->
+
+### [Quantum Seminar] Baocheng Sun—[Quantum Interactive Oracle Proofs](https://arxiv.org/abs/2601.12874v1) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+We initiate the study of quantum Interactive Oracle Proofs (qIOPs), a generalization of both quantum Probabilistically Checkable Proofs and quantum Interactive Proofs, as well as a quantum analogue of classical Interactive Oracle Proofs.
+In the model of quantum Interactive Oracle Proofs, we allow multiple rounds of quantum interaction between the quantum prover and the quantum verifier, but the verifier has limited access to quantum resources. This includes both queries to the prover's messages and the complexity of the quantum circuits applied by the verifier. The question of whether QMA admits a quantum interactive oracle proof system is a relaxation of the quantum PCP Conjecture.
+We show the following two main constructions of qIOPs, both of which are unconditional:
+- We construct a qIOP for QMA in which the verifier shares polynomially many EPR pairs with the prover at the start of the protocol and reads only a constant number of qubits from the prover's messages.
+- We provide a stronger construction of qIOP for QMA in which the verifier not only reads a constant number of qubits but also operates on a constant number of qubits overall, including those in their private registers. However, in this stronger setting, the communication complexity becomes exponential. This leaves open the question of whether strong qIOPs for QMA, with polynomial communication complexity, exist.
+As a key component of our construction, we introduce a novel single prover many-qubits test, which may be of independent interest.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Baocheng Sun |  Weizmann Institute of Science, Israel  | Online-only | Wednesday, May 20, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Lana Bozanic—[Entanglement summoning from entanglement sharing](https://arxiv.org/abs/2601.15112) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f6fcf1a7-972e-46e8-9af7-06b24962de9b" />
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+In an entanglement summoning task, a set of distributed, co-operating parties attempt to fulfill requests to prepare entanglement between distant locations. The parties share limited communication resources: timing constraints may require the entangled state be prepared before some pairs of distant parties can communicate, and a restricted set of links in a quantum network may further constrain communication. Building on earlier work, we continue the characterization of entanglement summoning. We give an if and only if condition on entanglement summoning tasks with only bidirected causal connections, and provide a set of sufficient conditions addressing the most general case containing both oriented and bidirected causal connections. Our results rely on the recent development of entanglement sharing schemes.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Lana Bozanic |  Perimeter Institute, Canada  | Online-only | Friday, May 29, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
