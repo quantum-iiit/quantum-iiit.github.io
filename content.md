@@ -36,19 +36,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
 ### [Quantum Seminar] Atsuya Hasegawa—[Fine-Grained Complexity of the Local Hamiltonian Problem from Size-Preserving Circuit-to-Hamiltonian Constructions](https://arxiv.org/abs/2602.14379) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/7c3e5ad4-6919-4448-81e3-de9b1a1bb9e0" /> 
@@ -106,6 +93,15 @@ We construct zero-knowledge position verification from standard position verific
 
 
 <br/>
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
 
 ### [Quantum Seminar] Dhara Thakkar—[Group Order and Group Non-Membership is in QCMA](https://arxiv.org/abs/2504.05547) (presented online)
 
