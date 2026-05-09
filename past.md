@@ -17,6 +17,38 @@ Here we only list the past events.
 
 <br/>
 
+
+### [Quantum Seminar] Atsuya Hasegawa—[Fine-Grained Complexity of the Local Hamiltonian Problem from Size-Preserving Circuit-to-Hamiltonian Constructions](https://arxiv.org/abs/2602.14379) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/7c3e5ad4-6919-4448-81e3-de9b1a1bb9e0" /> 
+
+
+
+
+<!-- <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e1239e68-941a-466f-a08b-1d0b65e7917a" />
+ -->
+
+
+
+The local Hamiltonian problem is the canonical QMA-complete problem introduced by Kitaev. We show its hardness in a very strong sense: we show that the 3-local Hamiltonian problem on n qubits cannot be solved classically in time O(2^{(1−ε)n}) for any ε > 0 under the Strong Exponential-Time Hypothesis (SETH), and cannot be solved quantumly in time O(2^{(1−ε)n/2}) for any ε > 0 under the Quantum Strong Exponential-Time Hypothesis (QSETH). These lower bounds give evidence that the currently known classical and quantum algorithms for the local Hamiltonian problem cannot be significantly improved.
+
+To prove our fine-grained lower bounds, we introduce the first size-preserving circuit-to-Hamiltonian construction that encodes the computation of a T-time quantum circuit acting on N qubits into a (d+1)-local Hamiltonian acting on N + O(T^{1/d}) qubits. This improves the standard construction based on the unary clock, which uses N + O(T) qubits.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Atsuya Hasegawa | Nagoya University, Japan  | Online-only | Wednesday, May 6, 2026 | 10:30am – 12:00pm |  [YouTube](https://www.youtube.com/watch?v=OP0Pm7YJzWw) | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Dariel Mok—[Nature is stingy: Universality of Scrooge ensembles in quantum many-body systems](https://arxiv.org/abs/2601.00266v2) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e1239e68-941a-466f-a08b-1d0b65e7917a" /> 
