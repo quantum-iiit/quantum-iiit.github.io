@@ -35,43 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Leo Orshansky—[Private Proofs of When and Where](https://arxiv.org/abs/2601.18961) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> 
-
-<!-- <img width="693" height="795" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> -->
-
-
-
-Position verification schemes are interactive protocols where entities prove their physical location to others; this enables interactive proofs for statements of the form "I am at a location L." Although secure position verification cannot be achieved with classical protocols (even with computational assumptions), they are feasible with quantum protocols.
-In this paper we introduce the notion of zero-knowledge position verification, which generalizes position verification in two ways:
-1. enabling entities to prove more sophisticated statements about their locations at different times (for example, "I was NOT near location L at noon yesterday").
-2. maintaining privacy for any other detail about their true location besides the statement they are proving.
-We construct zero-knowledge position verification from standard position verification and post-quantum one-way functions. The central tool in our construction is a primitive we call position commitments, which allow entities to privately commit to their physical position in a particular moment, which is then revealed at some later time. 
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Leo Orshansky |  Columbia University  | Online-only | Friday, May 8, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/FXLaLbOxR1Q) | 
-
-
-<br/>
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
 ### [Quantum Seminar] Dhara Thakkar—[Group Order and Group Non-Membership is in QCMA](https://arxiv.org/abs/2504.05547) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" /> 
@@ -135,6 +98,17 @@ State certification seeks to determine whether an approximate, lab-prepared quan
 
 <br/>
 
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+
 <!-- SKIP_START -->
 
 ### [Quantum Seminar] Baocheng Sun—[Quantum Interactive Oracle Proofs](https://arxiv.org/abs/2601.12874v1) (presented online)
@@ -184,6 +158,34 @@ In an entanglement summoning task, a set of distributed, co-operating parties at
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
 | Seminar | Lana Bozanic |  Perimeter Institute, Canada  | Online-only | Friday, May 29, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+### [Quantum Colloquium] Carl A. Miller—Behind the Q-Ball: Quantum Physics, Games, and the Re-Invention of Cryptography (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" />
+
+<!-- <img width="531" height="584" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" /> -->
+
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+In the present day, technology has set up a majestic showdown between two of the most important innovations of the 20th century – namely, quantum physics in the 1920s and public-key cryptography in the 1970s. In 1994, Peter Shor described a hypothetical circuit on a quantum computer which (in the words of the U. S. National Academies) would cause a "total, simultaneous, instantaneous, worldwide compromise" of public-key information security if it were actually realized. But, Shor's circuit hasn't been realized – yet. Last year, NIST published its first set of post-quantum cryptographic protocols. These replacement protocols, which are the product of a decade of international study, are designed to block quantum attacks and keep information safe going forward. Now, a new stage of re-invention has begun as these protocols are put into practice. This presentation will be a tour of ideas from this unexpected storyline in the history of information technology.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Carl A. Miller |  QuICS at NIST & University of Maryland  | Online-only | Wednesday, June 3, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
