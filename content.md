@@ -109,8 +109,6 @@ State certification seeks to determine whether an approximate, lab-prepared quan
 
 
 
-<!-- SKIP_START -->
-
 ### [Quantum Seminar] Baocheng Sun—[Quantum Interactive Oracle Proofs](https://arxiv.org/abs/2601.12874v1) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
@@ -162,6 +160,7 @@ In an entanglement summoning task, a set of distributed, co-operating parties at
 
 <br/>
 
+<!-- SKIP_START -->
 
 
 ### [Quantum Colloquium] Carl A. Miller—Behind the Q-Ball: Quantum Physics, Games, and the Re-Invention of Cryptography (presented online)
