@@ -5,6 +5,46 @@ See our Quantum Meets page ([quantum-meets.github.io](https://quantum-meets.gith
 Here we only list the past events. 
 
 ## Past
+<br />
+
+<details open> 
+   <summary>
+
+  ### May – August, 2026
+
+   </summary>
+
+<br/>
+
+### [Quantum Seminar] Leo Orshansky—[Private Proofs of When and Where](https://arxiv.org/abs/2601.18961) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> 
+
+<!-- <img width="693" height="795" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> -->
+
+
+
+Position verification schemes are interactive protocols where entities prove their physical location to others; this enables interactive proofs for statements of the form "I am at a location L." Although secure position verification cannot be achieved with classical protocols (even with computational assumptions), they are feasible with quantum protocols.
+In this paper we introduce the notion of zero-knowledge position verification, which generalizes position verification in two ways:
+1. enabling entities to prove more sophisticated statements about their locations at different times (for example, "I was NOT near location L at noon yesterday").
+2. maintaining privacy for any other detail about their true location besides the statement they are proving.
+We construct zero-knowledge position verification from standard position verification and post-quantum one-way functions. The central tool in our construction is a primitive we call position commitments, which allow entities to privately commit to their physical position in a particular moment, which is then revealed at some later time. 
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Leo Orshansky |  Columbia University  | Online-only | Friday, May 8, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/FXLaLbOxR1Q) | 
+
+
+<br/>
+
+</details>
 
 <br />
 
