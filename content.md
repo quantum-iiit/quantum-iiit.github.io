@@ -35,45 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Dhara Thakkar—[Group Order and Group Non-Membership is in QCMA](https://arxiv.org/abs/2504.05547) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" /> 
-
-<!-- <img width="811" height="811" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" />
- -->
-
-
-
-In this talk, I will discuss recent progress on the role of
-classical proofs in quantum complexity theory, focusing on
-group-theoretic problems in the black-box model. In particular, I
-will present QCMA protocols for two long-standing open questions in
-this area. First, we show that the Group Non-Membership problem--known
-to lie in QMA but not in MA--is in fact in QCMA, settling a 2006
-conjecture by Aaronson and Kuperberg. This result follows from a more
-general result that the Group Order Verification problem lies in QCMA,
-answering an open question posed by Watrous in 2000. Our techniques
-also give improved quantum upper bounds on the complexity of many
-other group-theoretical problems, such as group isomorphism in
-black-box groups settings.
-
-This talk is based on the joint work with François Le Gall and
-Harumichi Nishimura.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Dhara Thakkar |  Nagoya University, Japan  | Online-only | Monday, May 11, 2026 | 10:00 – 11:30am |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
 ### [Quantum Seminar] Joseph Slote—[Robust state certification from simple measurements](https://arxiv.org/abs/2602.11616) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> 

@@ -16,6 +16,47 @@ Here we only list the past events.
 
 <br/>
 
+
+### [Quantum Seminar] Dhara Thakkar—[Group Order and Group Non-Membership is in QCMA](https://arxiv.org/abs/2504.05547) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" /> 
+
+<!-- <img width="811" height="811" alt="image" src="https://github.com/user-attachments/assets/cd3c9c45-1726-49cb-a82c-bd082e783711" />
+ -->
+
+
+
+In this talk, I will discuss recent progress on the role of
+classical proofs in quantum complexity theory, focusing on
+group-theoretic problems in the black-box model. In particular, I
+will present QCMA protocols for two long-standing open questions in
+this area. First, we show that the Group Non-Membership problem--known
+to lie in QMA but not in MA--is in fact in QCMA, settling a 2006
+conjecture by Aaronson and Kuperberg. This result follows from a more
+general result that the Group Order Verification problem lies in QCMA,
+answering an open question posed by Watrous in 2000. Our techniques
+also give improved quantum upper bounds on the complexity of many
+other group-theoretical problems, such as group isomorphism in
+black-box groups settings.
+
+This talk is based on the joint work with François Le Gall and
+Harumichi Nishimura.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Dhara Thakkar |  Nagoya University, Japan  | Online-only | Monday, May 11, 2026 | 10:00 – 11:30am |  [YouTube](https://youtu.be/n1Qtfu63cw8) | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Leo Orshansky—[Private Proofs of When and Where](https://arxiv.org/abs/2601.18961) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/01a104bc-6477-4419-a142-4905347fd9c6" /> 

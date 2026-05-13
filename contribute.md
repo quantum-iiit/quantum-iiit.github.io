@@ -24,6 +24,7 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+|Dhara Thakkar | Himanshu | 11 May, 2026 |
 |Atsuya Hasegawa | Atul | 6 May, 2026 |
 |Dariel Mok | Atul & Himanshu | 24 April, 2026 |
 |Jackson Morris| Atul & Himanshu | 10 April, 2026 |
