@@ -35,41 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Joseph Slote—[Robust state certification from simple measurements](https://arxiv.org/abs/2602.11616) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> 
-
-<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
-
-
-
-State certification seeks to determine whether an approximate, lab-prepared quantum state is close to a target ideal state. There is particular interest in certification approaches requiring only few-qubit measurements, and recent work has culminated in protocols certifying n-qubit quantum states with only single-qubit measurements (Huang, Preskill, Soleimanifar '24; Gupta, He, O'Donnell '25). Unfortunately, existing tests are inherently non-robust: they can only positively certify lab states that are vanishingly close to the ideal state as n grows, making them difficult to apply in realistic scenarios. In this talk we describe new few-qubit measurement protocols that achieve constant robustness, for example distinguishing lab states with at least 80% fidelity from those with at most 60% fidelity, independent of system size. Our protocols succeed for all but an exponentially small fraction of target states and are based on a novel uncertainty principle for conditional fidelities.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Joseph Slote |  University of Washington, US  | Online-only | Wednesday, May 13, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
 ### [Quantum Seminar] Baocheng Sun—[Quantum Interactive Oracle Proofs](https://arxiv.org/abs/2601.12874v1) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
@@ -97,6 +62,14 @@ As a key component of our construction, we introduce a novel single prover many-
 
 
 <br/>
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
 
 ### [Quantum Seminar] Lana Bozanic—[Entanglement summoning from entanglement sharing](https://arxiv.org/abs/2601.15112) (presented online)
 
