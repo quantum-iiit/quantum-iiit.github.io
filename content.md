@@ -123,7 +123,7 @@ In the present day, technology has set up a majestic showdown between two of the
 
 <br/>
 
-<!-- SKIP_START -->
+
 
 <br/>
 
