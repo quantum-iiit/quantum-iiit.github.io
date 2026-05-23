@@ -16,6 +16,34 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Baocheng Sun—[Quantum Interactive Oracle Proofs](https://arxiv.org/abs/2601.12874v1) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+We initiate the study of quantum Interactive Oracle Proofs (qIOPs), a generalization of both quantum Probabilistically Checkable Proofs and quantum Interactive Proofs, as well as a quantum analogue of classical Interactive Oracle Proofs.
+In the model of quantum Interactive Oracle Proofs, we allow multiple rounds of quantum interaction between the quantum prover and the quantum verifier, but the verifier has limited access to quantum resources. This includes both queries to the prover's messages and the complexity of the quantum circuits applied by the verifier. The question of whether QMA admits a quantum interactive oracle proof system is a relaxation of the quantum PCP Conjecture.
+We show the following two main constructions of qIOPs, both of which are unconditional:
+- We construct a qIOP for QMA in which the verifier shares polynomially many EPR pairs with the prover at the start of the protocol and reads only a constant number of qubits from the prover's messages.
+- We provide a stronger construction of qIOP for QMA in which the verifier not only reads a constant number of qubits but also operates on a constant number of qubits overall, including those in their private registers. However, in this stronger setting, the communication complexity becomes exponential. This leaves open the question of whether strong qIOPs for QMA, with polynomial communication complexity, exist.
+As a key component of our construction, we introduce a novel single prover many-qubits test, which may be of independent interest.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Baocheng Sun |  Weizmann Institute of Science, Israel  | Online-only | Wednesday, May 20, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 
 ### [Quantum Seminar] Joseph Slote—[Robust state certification from simple measurements](https://arxiv.org/abs/2602.11616) (presented online)
 
