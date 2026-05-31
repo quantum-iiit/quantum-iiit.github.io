@@ -16,6 +16,30 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Lana Bozanic—[Entanglement summoning from entanglement sharing](https://arxiv.org/abs/2601.15112) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f6fcf1a7-972e-46e8-9af7-06b24962de9b" />
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+In an entanglement summoning task, a set of distributed, co-operating parties attempt to fulfill requests to prepare entanglement between distant locations. The parties share limited communication resources: timing constraints may require the entangled state be prepared before some pairs of distant parties can communicate, and a restricted set of links in a quantum network may further constrain communication. Building on earlier work, we continue the characterization of entanglement summoning. We give an if and only if condition on entanglement summoning tasks with only bidirected causal connections, and provide a set of sufficient conditions addressing the most general case containing both oriented and bidirected causal connections. Our results rely on the recent development of entanglement sharing schemes.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Lana Bozanic |  Perimeter Institute, Canada  | Online-only | Friday, May 29, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Baocheng Sun—[Quantum Interactive Oracle Proofs](https://arxiv.org/abs/2601.12874v1) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
