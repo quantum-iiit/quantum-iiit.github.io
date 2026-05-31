@@ -34,42 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Seminar] Lana Bozanic—[Entanglement summoning from entanglement sharing](https://arxiv.org/abs/2601.15112) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f6fcf1a7-972e-46e8-9af7-06b24962de9b" />
-
-<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
-
-
-
-In an entanglement summoning task, a set of distributed, co-operating parties attempt to fulfill requests to prepare entanglement between distant locations. The parties share limited communication resources: timing constraints may require the entangled state be prepared before some pairs of distant parties can communicate, and a restricted set of links in a quantum network may further constrain communication. Building on earlier work, we continue the characterization of entanglement summoning. We give an if and only if condition on entanglement summoning tasks with only bidirected causal connections, and provide a set of sufficient conditions addressing the most general case containing both oriented and bidirected causal connections. Our results rely on the recent development of entanglement sharing schemes.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Lana Bozanic |  Perimeter Institute, Canada  | Online-only | Friday, May 29, 2026 | 8:00 – 9:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
-
-
 ### [Quantum Colloquium] Carl A. Miller—Behind the Q-Ball: Quantum Physics, Games, and the Re-Invention of Cryptography (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" />
@@ -96,13 +60,80 @@ In the present day, technology has set up a majestic showdown between two of the
 
 <br/>
 
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+
+### [Quantum Colloquium] Luowen Qian—On Best-Possible One-Time Programs (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+
+
+One-time programs (OTPs) aim to let a user evaluate a program on a single input while revealing nothing else. Classical OTPs require hardware assumptions, and even with quantum information, OTPs for deterministic functionalities remain impossible due to gentle-measurement attacks (Broadbent, Gutoski and Stebila, 2013). While recent works achieve positive results for certain randomized functionalities, the fundamental limits and the strongest achievable security notions remain poorly understood.
+In this paper, we ask for a "best-possible" OTP that achieves the strongest one-time security achievable by any OTP construction. We first show that a generic best-possible one-time compiler cannot exist, even for classical randomized functionalities (assuming lossy encryption schemes exist).
+Given this impossibility, we introduce a natural subclass of one-time compilers called "testable one-time program" compilers, which output quantum states augmented with reflection oracles for these program states. We show that best-possible testable OTP compilers are achievable by (1) formulating a generalized Single-Effective-Query (SEQ) simulation security notion for quantum channels and show that SEQ security implies best-possible testable one-time security, and (2) constructing SEQ-secure OTPs for all quantum functionalities in the classical oracle model. This yields the first OTP for arbitrary quantum channels beyond classical randomized functionalities.
+Finally, we propose stateful quantum indistinguishability obfuscation (stateful quantum iO) -- quantum state obfuscation for stateful quantum programs. We show that (1) stateful quantum iO implies best-possible testable OTPs and (2) stateful quantum iO is also achievable in the classical oracle model. These results identify stateful quantum iO as a promising approach towards best-possible testable OTPs.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Luowen Qian |  CIS Lab at NTT Research, Inc  | Online-only | Wednesday, 10 June, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 <!-- SKIP_START -->
+
+### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Unclonable cryptography leverages the quantum no-cloning principle to copy-protect cryptographic functionalities. While most existing works address the basic single-copy security, the stronger notion of multi-copy security remains largely unexplored.
+We introduce a generic compiler that upgrades collusion-resistant unclonable primitives to achieve multi-copy security, assuming only one-way functions. Using this framework, we obtain the first multi-copy secure constructions of public-key quantum money (termed quantum coins), single-decryptor encryption, unclonable encryption, and more. We also introduce an extended notion of quantum coins, called upgradable quantum coins, which allow weak (almost-public) verification under weaker assumptions and can be upgraded to full public verification under stronger assumptions by the bank simply publishing additional classical information.
+Along the way, we give a generic compiler that upgrades single-copy secure single-decryptor encryption to a collusion-resistant one, assuming the existence of functional encryption, and construct the first multi-challenge secure unclonable encryption scheme, which we believe are of independent interest.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alper Cakan | Carnegie Mellon University  | Online-only | Wednesday, 8 July, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
 
 <br/>
 
 ## Past
 
 This section has been converted into its [own page](past.md) now.
+
+
 
 
 <!-- <details> 
