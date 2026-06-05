@@ -69,7 +69,7 @@ In the present day, technology has set up a majestic showdown between two of the
 
 
 
-### [Quantum Colloquium] Luowen Qian—On Best-Possible One-Time Programs (presented online)
+### [Quantum Seminar] Luowen Qian—On Best-Possible One-Time Programs (presented online)
 
 
 
