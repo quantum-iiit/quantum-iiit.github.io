@@ -68,7 +68,36 @@ Finally, we propose stateful quantum indistinguishability obfuscation (stateful 
 ## Pipeline
 
 
+### [Quantum Seminar] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (presented online)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/45d745cc-658b-4f1b-a917-cf862b09aa67" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+A quantum network is a paradigm-changing type of communication network envisaged to provide long-range entangled states between arbitrarily distant network nodes as the essential resource for a range of classically impossible tasks ranging from unconditionally secure communications to distributed quantum computation. Quantum networks are undergoing rapid development in their design and hardware and many issues about their properties and eventual uses are open. In particular, a pressing question is how to exploit their complex network structure for efficient long-range entanglement distribution. In this talk, I will describe our recent results on entanglement distribution using multipath entanglement purification approaches that utilise the potential multiplicity of distinct paths between a pair of source-destination nodes in complex quantum networks.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Siddhartha Santra | IIT Bombay  | Online-only | Wednesday, June 17, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
 
 
 <!-- SKIP_START -->
