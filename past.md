@@ -16,6 +16,32 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Colloquium] Carl A. Miller—Behind the Q-Ball: Quantum Physics, Games, and the Re-Invention of Cryptography (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" />
+
+<!-- <img width="531" height="584" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" /> -->
+
+
+<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
+
+
+
+In the present day, technology has set up a majestic showdown between two of the most important innovations of the 20th century – namely, quantum physics in the 1920s and public-key cryptography in the 1970s. In 1994, Peter Shor described a hypothetical circuit on a quantum computer which (in the words of the U. S. National Academies) would cause a "total, simultaneous, instantaneous, worldwide compromise" of public-key information security if it were actually realized. But, Shor's circuit hasn't been realized – yet. Last year, NIST published its first set of post-quantum cryptographic protocols. These replacement protocols, which are the product of a decade of international study, are designed to block quantum attacks and keep information safe going forward. Now, a new stage of re-invention has begun as these protocols are put into practice. This presentation will be a tour of ideas from this unexpected storyline in the history of information technology.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Colloquium | Carl A. Miller |  QuICS at NIST & University of Maryland  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, June 3, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/W44ZKXLxoKE) | 
+
+
+<br/>
+
 ### [Quantum Seminar] Lana Bozanic—[Entanglement summoning from entanglement sharing](https://arxiv.org/abs/2601.15112) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/f6fcf1a7-972e-46e8-9af7-06b24962de9b" />

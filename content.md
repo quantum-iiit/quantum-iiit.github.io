@@ -34,40 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Colloquium] Carl A. Miller—Behind the Q-Ball: Quantum Physics, Games, and the Re-Invention of Cryptography (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" />
-
-<!-- <img width="531" height="584" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" /> -->
-
-
-<!-- <img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/a174f03d-ab44-48dd-9e17-c8168c472e0f" /> -->
-
-
-
-In the present day, technology has set up a majestic showdown between two of the most important innovations of the 20th century – namely, quantum physics in the 1920s and public-key cryptography in the 1970s. In 1994, Peter Shor described a hypothetical circuit on a quantum computer which (in the words of the U. S. National Academies) would cause a "total, simultaneous, instantaneous, worldwide compromise" of public-key information security if it were actually realized. But, Shor's circuit hasn't been realized – yet. Last year, NIST published its first set of post-quantum cryptographic protocols. These replacement protocols, which are the product of a decade of international study, are designed to block quantum attacks and keep information safe going forward. Now, a new stage of re-invention has begun as these protocols are put into practice. This presentation will be a tour of ideas from this unexpected storyline in the history of information technology.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Colloquium | Carl A. Miller |  QuICS at NIST & University of Maryland  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, June 3, 2026 | 7:30 – 9:00pm |  [YouTube](https://youtu.be/W44ZKXLxoKE) | 
-
-
-<br/>
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
 
 ### [Quantum Seminar] Luowen Qian—On Best-Possible One-Time Programs (presented online)
 
@@ -94,6 +60,45 @@ Finally, we propose stateful quantum indistinguishability obfuscation (stateful 
 
 
 <br/>
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+### [Quantum Seminar] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/45d745cc-658b-4f1b-a917-cf862b09aa67" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+A quantum network is a paradigm-changing type of communication network envisaged to provide long-range entangled states between arbitrarily distant network nodes as the essential resource for a range of classically impossible tasks ranging from unconditionally secure communications to distributed quantum computation. Quantum networks are undergoing rapid development in their design and hardware and many issues about their properties and eventual uses are open. In particular, a pressing question is how to exploit their complex network structure for efficient long-range entanglement distribution. In this talk, I will describe our recent results on entanglement distribution using multipath entanglement purification approaches that utilise the potential multiplicity of distinct paths between a pair of source-destination nodes in complex quantum networks.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Siddhartha Santra | IIT Bombay  | Online-only | Wednesday, June 17, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
 
 <!-- SKIP_START -->
 
