@@ -68,7 +68,7 @@ Finally, we propose stateful quantum indistinguishability obfuscation (stateful 
 ## Pipeline
 
 
-### [Quantum Seminar] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (in-person)
+### [Quantum Talk] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/45d745cc-658b-4f1b-a917-cf862b09aa67" /> 
 
