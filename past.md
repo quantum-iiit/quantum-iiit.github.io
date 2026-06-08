@@ -60,7 +60,7 @@ In an entanglement summoning task, a set of distributed, co-operating parties at
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Lana Bozanic |  Perimeter Institute, Canada  | Online-only | Friday, May 29, 2026 | 8:00 – 9:30pm |  [YouTube](https://youtu.be/W7cuBixT8ME) | 
+| Seminar | Lana Bozanic |  Perimeter Institute, Canada  | Online-only | Friday, May 29, 2026 | 8:00 – 9:30pm |  [YouTube](https://youtu.be/NKC6R4EFius) | 
 
 
 <br/>
