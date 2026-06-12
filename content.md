@@ -66,7 +66,7 @@ A quantum network is a paradigm-changing type of communication network envisaged
 
 <br/>
 
-### [Quantum Talk] Himadri Shekhar Dhar (presented in-person)
+### [Quantum Talk] Himadri Shekhar Dhar (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2e436e2d-bba5-479a-b184-69e1f60e7bb8" /> 
 
