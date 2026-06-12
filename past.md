@@ -16,6 +16,32 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Luowen Qian—On Best-Possible One-Time Programs (presented online)
+
+
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+
+
+One-time programs (OTPs) aim to let a user evaluate a program on a single input while revealing nothing else. Classical OTPs require hardware assumptions, and even with quantum information, OTPs for deterministic functionalities remain impossible due to gentle-measurement attacks (Broadbent, Gutoski and Stebila, 2013). While recent works achieve positive results for certain randomized functionalities, the fundamental limits and the strongest achievable security notions remain poorly understood.
+In this paper, we ask for a "best-possible" OTP that achieves the strongest one-time security achievable by any OTP construction. We first show that a generic best-possible one-time compiler cannot exist, even for classical randomized functionalities (assuming lossy encryption schemes exist).
+Given this impossibility, we introduce a natural subclass of one-time compilers called "testable one-time program" compilers, which output quantum states augmented with reflection oracles for these program states. We show that best-possible testable OTP compilers are achievable by (1) formulating a generalized Single-Effective-Query (SEQ) simulation security notion for quantum channels and show that SEQ security implies best-possible testable one-time security, and (2) constructing SEQ-secure OTPs for all quantum functionalities in the classical oracle model. This yields the first OTP for arbitrary quantum channels beyond classical randomized functionalities.
+Finally, we propose stateful quantum indistinguishability obfuscation (stateful quantum iO) -- quantum state obfuscation for stateful quantum programs. We show that (1) stateful quantum iO implies best-possible testable OTPs and (2) stateful quantum iO is also achievable in the classical oracle model. These results identify stateful quantum iO as a promising approach towards best-possible testable OTPs.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Luowen Qian |  Northeastern University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 10 June, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 ### [Quantum Colloquium] Carl A. Miller—Behind the Q-Ball: Quantum Physics, Games, and the Re-Invention of Cryptography (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/76cbc67a-0c18-4ce9-9dc2-e6c7c1927c76" />
