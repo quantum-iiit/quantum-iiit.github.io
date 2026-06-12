@@ -35,39 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Luowen Qian—On Best-Possible One-Time Programs (presented online)
-
-
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
-
-
-
-One-time programs (OTPs) aim to let a user evaluate a program on a single input while revealing nothing else. Classical OTPs require hardware assumptions, and even with quantum information, OTPs for deterministic functionalities remain impossible due to gentle-measurement attacks (Broadbent, Gutoski and Stebila, 2013). While recent works achieve positive results for certain randomized functionalities, the fundamental limits and the strongest achievable security notions remain poorly understood.
-In this paper, we ask for a "best-possible" OTP that achieves the strongest one-time security achievable by any OTP construction. We first show that a generic best-possible one-time compiler cannot exist, even for classical randomized functionalities (assuming lossy encryption schemes exist).
-Given this impossibility, we introduce a natural subclass of one-time compilers called "testable one-time program" compilers, which output quantum states augmented with reflection oracles for these program states. We show that best-possible testable OTP compilers are achievable by (1) formulating a generalized Single-Effective-Query (SEQ) simulation security notion for quantum channels and show that SEQ security implies best-possible testable one-time security, and (2) constructing SEQ-secure OTPs for all quantum functionalities in the classical oracle model. This yields the first OTP for arbitrary quantum channels beyond classical randomized functionalities.
-Finally, we propose stateful quantum indistinguishability obfuscation (stateful quantum iO) -- quantum state obfuscation for stateful quantum programs. We show that (1) stateful quantum iO implies best-possible testable OTPs and (2) stateful quantum iO is also achievable in the classical oracle model. These results identify stateful quantum iO as a promising approach towards best-possible testable OTPs.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Luowen Qian |  Northeastern University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 10 June, 2026 | 7:30 – 9:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
 ### [Quantum Talk] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/45d745cc-658b-4f1b-a917-cf862b09aa67" /> 
@@ -91,7 +58,7 @@ A quantum network is a paradigm-changing type of communication network envisaged
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Siddhartha Santra | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, June 17, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Siddhartha Santra | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, June 17, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
@@ -99,6 +66,104 @@ A quantum network is a paradigm-changing type of communication network envisaged
 
 <br/>
 
+### [Quantum Talk] Himadri Shekhar Dhar (presented in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2e436e2d-bba5-479a-b184-69e1f60e7bb8" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+```
+
+
+
+TBA
+
+
+
+```
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Himadri Shekhar Dhar | IIT Bombay  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Thursday, June 18, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+### [Quantum Seminar] Francois Le Gall—[Dequantizing Short-Path Quantum Algorithms](https://arxiv.org/abs/2604.12131) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ea5563-063c-4425-af8d-2f23de527ddc" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+The short-path quantum algorithm introduced by Hastings (Quantum 2018, 2019) is a variant of adiabatic quantum algorithms that enables an easier worst-case analysis by avoiding the need to control the spectral gap along a long adiabatic path. Dalzell, Pancotti, Campbell, and Brandão (STOC 2023) recently revisited this framework and obtained a clear analysis of the complexity of the short-path algorithm for several classes of constraint satisfaction problems (MAX-k-CSPs), leading to quantum algorithms with complexity 2(1−c)n/2 for some constant c>0. This suggested a super-quadratic quantum advantage over classical algorithms.
+In this work, we identify an explicit classical mechanism underlying a substantial part of this line of work, and show that it leads to clean dequantizations. As a consequence, we obtain classical algorithms that run in time 2(1−c′)n, for some constant c′>c, for the same classes of constraint satisfaction problems. This shows that current short-path quantum algorithms for these problems do not achieve a super-quadratic advantage. On the positive side, our results provide a new ``quantum-inspired'' approach to designing classical algorithms for important classes of constraint satisfaction problems.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Francois Le Gall | Nagoya University, Japan  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, June 22, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
+### [Quantum Seminar] Myeongjin Shin, Junseo Lee—[Certifying and learning local quantum Hamiltonians](https://arxiv.org/abs/2603.29809) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3d96193b-d8b6-471a-9ce5-57a851071b0a" /> 
+
+<!-- <img width="688" height="639" alt="image" src="https://github.com/user-attachments/assets/3d96193b-d8b6-471a-9ce5-57a851071b0a" /> -->
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+The short-path quantum algorithm introduced by Hastings (Quantum 2018, 2019) is a variant of adiabatic quantum algorithms that enables an easier worst-case analysis by avoiding the need to control the spectral gap along a long adiabatic path. Dalzell, Pancotti, Campbell, and Brandão (STOC 2023) recently revisited this framework and obtained a clear analysis of the complexity of the short-path algorithm for several classes of constraint satisfaction problems (MAX-k-CSPs), leading to quantum algorithms with complexity 2(1−c)n/2 for some constant c>0. This suggested a super-quadratic quantum advantage over classical algorithms.
+In this work, we identify an explicit classical mechanism underlying a substantial part of this line of work, and show that it leads to clean dequantizations. As a consequence, we obtain classical algorithms that run in time 2(1−c′)n, for some constant c′>c, for the same classes of constraint satisfaction problems. This shows that current short-path quantum algorithms for these problems do not achieve a super-quadratic advantage. On the positive side, our results provide a new ``quantum-inspired'' approach to designing classical algorithms for important classes of constraint satisfaction problems.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Myeongjin Shin<sup>1</sup>, Junseo Lee<sup>2</sup> | 1. KAIST, South Korea; 2. Harvard University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, June 29, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
 
 <!-- SKIP_START -->
 
@@ -133,6 +198,41 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
 
 <br/>
+
+
+### [Quantum Seminar] Haimeng Zhao—Exponential quantum advantage in processing massive classical data (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> 
+
+<!-- <img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> -->
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Broadly applicable quantum advantage, particularly in classical data processing and machine learning, has been a fundamental open problem. In this work, we prove that a small quantum computer of polylogarithmic size can perform large-scale classification and dimension reduction on massive classical data by processing samples on the fly, whereas any classical machine achieving the same prediction performance requires exponentially larger size. Furthermore, classical machines that are exponentially larger yet below the required size need superpolynomially more samples and time. We validate these quantum advantages in real-world applications, including single-cell RNA sequencing and movie review sentiment analysis, demonstrating four to six orders of magnitude reduction in size with fewer than 60 logical qubits. These quantum advantages are enabled by quantum oracle sketching, an algorithm for accessing the classical world in quantum superposition using only random classical data samples. Combined with classical shadows, our algorithm circumvents the data loading and readout bottleneck to construct succinct classical models from massive classical data, a task provably impossible for any classical machine that is not exponentially larger than the quantum machine. These quantum advantages persist even when classical machines are granted unlimited time or if BPP=BQP, and rely only on the correctness of quantum mechanics. Together, our results establish machine learning on classical data as a broad and natural domain of quantum advantage and a fundamental test of quantum mechanics at the complexity frontier.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Haimeng Zhao | Caltech  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, July 15, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
 
 ## Past
 
