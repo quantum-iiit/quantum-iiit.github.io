@@ -66,7 +66,7 @@ A quantum network is a paradigm-changing type of communication network envisaged
 
 <br/>
 
-### [Quantum Talk] Himadri Shekhar Dhar (in-person)
+### [Quantum Talk] Himadri Shekhar Dhar—[Quantum error correction for unresolvable spin ensemble](https://arxiv.org/abs/2408.11628) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2e436e2d-bba5-479a-b184-69e1f60e7bb8" /> 
 
@@ -74,15 +74,8 @@ A quantum network is a paradigm-changing type of communication network envisaged
 
  -->
 
-```
+Atomic and solid-state spin ensembles are promising platforms for implementing quantum technologies, but the unavoidable presence of noise imposes the needs for error correction. Typical quantum error correction (QEC) requires addressing specific qubits, but this is practically challenging in most realistic ensemble-based architectures. In this work, we propose QEC schemes for unresolvable spin ensembles. By using degenerate superpositions of excited states, which are fundamentally mixed, we find codes that can protect against both individual and collective errors, including dephasing, decay, and pumping. We show how information recovery can be achieved with only collective measurement and control, and illustrate its applications in extending memory lifetime. 
 
-
-
-TBA
-
-
-
-```
 <div style="clear: both;"></div>
 <br/>
 <br/>
@@ -91,7 +84,7 @@ TBA
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Himadri Shekhar Dhar | IIT Bombay  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Thursday, June 18, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Himadri Shekhar Dhar | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Thursday, June 18, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 <br/>
