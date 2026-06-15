@@ -139,9 +139,13 @@ In this work, we identify an explicit classical mechanism underlying a substanti
  -->
 
 
+In this work, we study the problems of certifying and learning quantum k-local Hamiltonians, for a constant k. Our main contributions are as follows:
 
-The short-path quantum algorithm introduced by Hastings (Quantum 2018, 2019) is a variant of adiabatic quantum algorithms that enables an easier worst-case analysis by avoiding the need to control the spectral gap along a long adiabatic path. Dalzell, Pancotti, Campbell, and Brandão (STOC 2023) recently revisited this framework and obtained a clear analysis of the complexity of the short-path algorithm for several classes of constraint satisfaction problems (MAX-k-CSPs), leading to quantum algorithms with complexity 2(1−c)n/2 for some constant c>0. This suggested a super-quadratic quantum advantage over classical algorithms.
-In this work, we identify an explicit classical mechanism underlying a substantial part of this line of work, and show that it leads to clean dequantizations. As a consequence, we obtain classical algorithms that run in time 2(1−c′)n, for some constant c′>c, for the same classes of constraint satisfaction problems. This shows that current short-path quantum algorithms for these problems do not achieve a super-quadratic advantage. On the positive side, our results provide a new ``quantum-inspired'' approach to designing classical algorithms for important classes of constraint satisfaction problems.
+(1) Certification of Hamiltonians. We show that certifying a local Hamiltonian in normalized Frobenius norm via access to its time-evolution operator can be achieved with only O(1/ε) evolution time. This is optimal, as it matches the Heisenberg-scaling lower bound of Ω(1/ε). To our knowledge, this is the first optimal algorithm for testing a Hamiltonian property. A key ingredient in our analysis is the Bonami Hypercontractivity Lemma from Fourier analysis.
+
+(2) Learning Gibbs states. We design an algorithm for learning Gibbs states of local Hamiltonians in trace norm that is sample-efficient in all relevant parameters. In contrast, previous approaches learned the underlying Hamiltonian (which implies learning the Gibbs state), and thus inevitably suffered from exponential sample complexity scaling in the inverse temperature.
+
+(3) Certification of Gibbs states. We give an algorithm for certifying Gibbs states of local Hamiltonians in trace norm that is both sample and time-efficient in all relevant parameters, thereby solving a question posed by Anshu (Harvard Data Science Review, 2022).
 
 
 
