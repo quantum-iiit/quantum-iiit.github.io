@@ -35,59 +35,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Talk] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/45d745cc-658b-4f1b-a917-cf862b09aa67" /> 
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-A quantum network is a paradigm-changing type of communication network envisaged to provide long-range entangled states between arbitrarily distant network nodes as the essential resource for a range of classically impossible tasks ranging from unconditionally secure communications to distributed quantum computation. Quantum networks are undergoing rapid development in their design and hardware and many issues about their properties and eventual uses are open. In particular, a pressing question is how to exploit their complex network structure for efficient long-range entanglement distribution. In this talk, I will describe our recent results on entanglement distribution using multipath entanglement purification approaches that utilise the potential multiplicity of distinct paths between a pair of source-destination nodes in complex quantum networks.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Siddhartha Santra | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, June 17, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-
-
-
-<br/>
-
-### [Quantum Talk] Himadri Shekhar Dhar—[Quantum error correction for unresolvable spin ensemble](https://arxiv.org/abs/2408.11628) (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2e436e2d-bba5-479a-b184-69e1f60e7bb8" /> 
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-Atomic and solid-state spin ensembles are promising platforms for implementing quantum technologies, but the unavoidable presence of noise imposes the needs for error correction. Typical quantum error correction (QEC) requires addressing specific qubits, but this is practically challenging in most realistic ensemble-based architectures. In this work, we propose QEC schemes for unresolvable spin ensembles. By using degenerate superpositions of excited states, which are fundamentally mixed, we find codes that can protect against both individual and collective errors, including dephasing, decay, and pumping. We show how information recovery can be achieved with only collective measurement and control, and illustrate its applications in extending memory lifetime. 
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Himadri Shekhar Dhar | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Thursday, June 18, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
 
 
 
