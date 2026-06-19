@@ -35,69 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Talk] Siddhartha Santra—Multipath entanglement purification for long-range entanglement distribution in quantum networks (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/45d745cc-658b-4f1b-a917-cf862b09aa67" /> 
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-A quantum network is a paradigm-changing type of communication network envisaged to provide long-range entangled states between arbitrarily distant network nodes as the essential resource for a range of classically impossible tasks ranging from unconditionally secure communications to distributed quantum computation. Quantum networks are undergoing rapid development in their design and hardware and many issues about their properties and eventual uses are open. In particular, a pressing question is how to exploit their complex network structure for efficient long-range entanglement distribution. In this talk, I will describe our recent results on entanglement distribution using multipath entanglement purification approaches that utilise the potential multiplicity of distinct paths between a pair of source-destination nodes in complex quantum networks.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Siddhartha Santra | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, June 17, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-
-
-
-<br/>
-
-### [Quantum Talk] Himadri Shekhar Dhar—[Quantum error correction for unresolvable spin ensemble](https://arxiv.org/abs/2408.11628) (in-person)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2e436e2d-bba5-479a-b184-69e1f60e7bb8" /> 
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-Atomic and solid-state spin ensembles are promising platforms for implementing quantum technologies, but the unavoidable presence of noise imposes the needs for error correction. Typical quantum error correction (QEC) requires addressing specific qubits, but this is practically challenging in most realistic ensemble-based architectures. In this work, we propose QEC schemes for unresolvable spin ensembles. By using degenerate superpositions of excited states, which are fundamentally mixed, we find codes that can protect against both individual and collective errors, including dephasing, decay, and pumping. We show how information recovery can be achieved with only collective measurement and control, and illustrate its applications in extending memory lifetime. 
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Himadri Shekhar Dhar | IIT Bombay  | (provisional) Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Thursday, June 18, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-<br/>
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
 ### [Quantum Seminar] Francois Le Gall—[Dequantizing Short-Path Quantum Algorithms](https://arxiv.org/abs/2604.12131) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ea5563-063c-4425-af8d-2f23de527ddc" /> 
@@ -126,6 +63,17 @@ In this work, we identify an explicit classical mechanism underlying a substanti
 
 
 <br/>
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
 
 ### [Quantum Seminar] Myeongjin Shin, Junseo Lee—[Certifying and learning local quantum Hamiltonians](https://arxiv.org/abs/2603.29809) (presented online)
 
@@ -162,7 +110,6 @@ In this work, we study the problems of certifying and learning quantum k-local H
 
 <br/>
 
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
 
@@ -190,6 +137,33 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 |-|-|-|-|-|-|-|
 | Seminar | Alper Cakan | Carnegie Mellon University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 8 July, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
+<br/>
+
+
+### [Quantum Talk] Tulja Varun Kondra—[Fundamental limitations on entanglement extraction from purity](https://arxiv.org/abs/2605.29197) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+States of sufficiently low purity are separable and cannot be entangled by unital (purity-non-generating) operations. Since high-purity states are experimentally demanding, it is natural to ask how much purity a state must possess to enable entanglement generation. Absolutely separable states remain separable under all deterministic unital channels, and so cannot deterministically generate entanglement in this setting. We show, however, that some absolutely separable states can generate entanglement via probabilistic protocols that do not produce purity. This motivates the study of states that fail to generate entanglement with any non-zero probability, which we call completely absolutely separable; we give a full characterization of this class. Along the way, we derive a novel sufficient condition for separability that depends only on the largest and smallest eigenvalues, along with the smallest local dimension and is independent of all previously known spectral separability criteria.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, July 13, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
 
 
 
@@ -197,7 +171,10 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 <br/>
 
 
-### [Quantum Seminar] Haimeng Zhao—Exponential quantum advantage in processing massive classical data (presented online)
+
+<!-- SKIP_START -->
+
+### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> 
 
@@ -229,6 +206,129 @@ Broadly applicable quantum advantage, particularly in classical data processing 
 
 
 <br/>
+
+
+### [Quantum Seminar] Aleksandrs Belovs—[Tight Quantum Lower Bound for k-Distinctness](https://arxiv.org/abs/2604.05133) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3bb29d04-6680-4a12-8e7b-bb3e2c152071" /> 
+
+<!-- <img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> -->
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+In this paper, we introduce a new quantum query lower bound framework. It is inspired by Zhandry's compressed oracle technique, but it also subsumes the polynomial method as a special case. Compared to Zhandry's technique, our approach has two key differences. First, we do not use any oracles (except for the standard input oracle), and define "knowledge" directly through the expansion of the state of the algorithm in the Fourier basis. Second, we allow arbitrary probability distributions of inputs.
+We show how this framework behaves on the problem of finding equal elements in the input string. In particular, we demonstrate its power by proving a first tight quantum query lower bound for the k-Distinctness problem.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Aleksandrs Belovs | University of Latvia  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, July 20, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
+### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.09410) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ed699b-1e62-4e95-91d2-510e2813c8ed" /> 
+
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Thermal behavior in subsystems of closed quantum systems is commonly attributed to dynamical chaos, quantum ergodicity, canonical typicality, or the eigenstate thermalization hypothesis, suggesting a fundamentally statistical origin of thermalization. Here, we propose a potential alternative mechanism in which thermal structures emerge deterministically from symmetry considerations alone, without recourse to statistical arguments. We prove a finite de Finetti-type theorem for quantum states invariant under energy-preserving unitaries, establishing that the reduced marginals of any such invariant N-qudit state are close (both in trace distance and relative entropy) to convex mixtures of thermal product states, with explicit error bounds vanishing as N approaches infinity. We further present an example of energy-conserving Lindblad dynamics whose long-time limit is invariant under energy-preserving unitaries, providing a dynamical realization of the desired symmetry class. These results imply that invariance under energy-preserving unitaries suffices as a sole fundamental, deterministic principle to enforce thermal structures.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Uttam Singh | IIIT Hyderabad  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, July 29, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
+### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/96f20a08-2db6-4588-bc21-70fc766c7728" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+We construct unclonable encryption (UE) in the Haar random oracle model, where all parties have query access to U,U†,U∗,UT for a Haar random unitary U. Our scheme satisfies the standard notion of unclonable indistinguishability security, supports reuse of the secret key, and can encrypt arbitrary-length messages. That is, we give the first evidence that (reusable) UE, which requires computational assumptions, exists in "micocrypt", a world where one-way functions may not exist.
+As one of our central technical contributions, we build on the recently introduced path recording framework to prove a natural ``unitary reprogramming lemma'', which may be of independent interest.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Eli Goldin | New York University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 9, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
+
+### [Quantum Seminar] Nathan Claudet—[Graph states and counter-examples to the LU-LC conjecture](https://arxiv.org/pdf/2603.25219) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5ed32956-c60b-4143-b8d5-8c433bb54f75" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+Graph states form a large family of quantum states that are in one-to-one correspondence with mathematical graphs. Graph states are used in many applications, such as measurement-based quantum computation, as multipartite entangled resources. It is thus crucial to understand when two such states have the same entanglement, i.e. when they can be transformed into each other using only local operations. In this case, we say that the graph states are LU-equivalent (local unitary). If the local operations are restricted to the Clifford group, we say that the graph states are LC-equivalent (local Clifford). It was once conjectured that two graph states are LU-equivalent if and only if they are LC-equivalent. This so-called LU-LC conjecture was disproved in 2007, as a pair of 27-qubit graph states that are LU-equivalent, but not LC-equivalent, was discovered. We prove that this counterexample to the LU-LC conjecture is minimal. In other words, for graph states on up to 26 qubits, the notions of LU-equivalence and LC-equivalence coincide. This result is obtained by studying the structure of 2-local complementation. 2-local complementation is a special case of the recently introduced r-local complementation, and a generalization of the well-known local complementation, which respectively capture the LU-equivalence and LC-equivalence of graph states. We make use of a connection with triorthogonal codes and Reed-Muller codes.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Nathan Claudet | University of Innsbruck, Austria  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 16, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
 
 
 ## Past
