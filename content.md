@@ -35,17 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
 ### [Quantum Seminar] Francois Le Gall—[Dequantizing Short-Path Quantum Algorithms](https://arxiv.org/abs/2604.12131) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ea5563-063c-4425-af8d-2f23de527ddc" /> 
@@ -74,6 +63,17 @@ In this work, we identify an explicit classical mechanism underlying a substanti
 
 
 <br/>
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
 
 ### [Quantum Seminar] Myeongjin Shin, Junseo Lee—[Certifying and learning local quantum Hamiltonians](https://arxiv.org/abs/2603.29809) (presented online)
 
@@ -110,7 +110,6 @@ In this work, we study the problems of certifying and learning quantum k-local H
 
 <br/>
 
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
 
@@ -173,6 +172,7 @@ States of sufficiently low purity are separable and cannot be entangled by unita
 
 
 
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (presented online)
 
