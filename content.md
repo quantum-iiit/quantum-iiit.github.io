@@ -301,7 +301,8 @@ Graph states form a large family of quantum states that are in one-to-one corres
 
 ### [Quantum Seminar] Yihang Sun—[On Worst-Case Optimal Polynomial Intersection](https://arxiv.org/abs/2604.09533) (presented online)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/79eb9686-7c48-4ba3-ae93-7be2e95fd918" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e82bc7fe-3a33-4524-b44c-a5878ac8bc00" /> 
+
 
 <!-- <img width="1024" height="1280" alt="IMG-20260622-WA0004" src="https://github.com/user-attachments/assets/79eb9686-7c48-4ba3-ae93-7be2e95fd918" /> -->
 <!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
