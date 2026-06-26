@@ -16,6 +16,35 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Francois Le Gall—[Dequantizing Short-Path Quantum Algorithms](https://arxiv.org/abs/2604.12131) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ea5563-063c-4425-af8d-2f23de527ddc" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+The short-path quantum algorithm introduced by Hastings (Quantum 2018, 2019) is a variant of adiabatic quantum algorithms that enables an easier worst-case analysis by avoiding the need to control the spectral gap along a long adiabatic path. Dalzell, Pancotti, Campbell, and Brandão (STOC 2023) recently revisited this framework and obtained a clear analysis of the complexity of the short-path algorithm for several classes of constraint satisfaction problems (MAX-k-CSPs), leading to quantum algorithms with complexity 2(1−c)n/2 for some constant c>0. This suggested a super-quadratic quantum advantage over classical algorithms.
+In this work, we identify an explicit classical mechanism underlying a substantial part of this line of work, and show that it leads to clean dequantizations. As a consequence, we obtain classical algorithms that run in time 2(1−c′)n, for some constant c′>c, for the same classes of constraint satisfaction problems. This shows that current short-path quantum algorithms for these problems do not achieve a super-quadratic advantage. On the positive side, our results provide a new ``quantum-inspired'' approach to designing classical algorithms for important classes of constraint satisfaction problems.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Francois Le Gall | Nagoya University, Japan  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, June 22, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+<br/>
+
 ### [Quantum Talk] Himadri Shekhar Dhar—[Quantum error correction for unresolvable spin ensemble](https://arxiv.org/abs/2408.11628) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/2e436e2d-bba5-479a-b184-69e1f60e7bb8" /> 
