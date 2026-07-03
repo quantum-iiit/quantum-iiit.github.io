@@ -16,6 +16,42 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Myeongjin Shin, Junseo Lee—[Certifying and learning local quantum Hamiltonians](https://arxiv.org/abs/2603.29809) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3d96193b-d8b6-471a-9ce5-57a851071b0a" /> 
+
+<!-- <img width="688" height="639" alt="image" src="https://github.com/user-attachments/assets/3d96193b-d8b6-471a-9ce5-57a851071b0a" /> -->
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+In this work, we study the problems of certifying and learning quantum k-local Hamiltonians, for a constant k. Our main contributions are as follows:
+
+(1) Certification of Hamiltonians. We show that certifying a local Hamiltonian in normalized Frobenius norm via access to its time-evolution operator can be achieved with only O(1/ε) evolution time. This is optimal, as it matches the Heisenberg-scaling lower bound of Ω(1/ε). To our knowledge, this is the first optimal algorithm for testing a Hamiltonian property. A key ingredient in our analysis is the Bonami Hypercontractivity Lemma from Fourier analysis.
+
+(2) Learning Gibbs states. We design an algorithm for learning Gibbs states of local Hamiltonians in trace norm that is sample-efficient in all relevant parameters. In contrast, previous approaches learned the underlying Hamiltonian (which implies learning the Gibbs state), and thus inevitably suffered from exponential sample complexity scaling in the inverse temperature.
+
+(3) Certification of Gibbs states. We give an algorithm for certifying Gibbs states of local Hamiltonians in trace norm that is both sample and time-efficient in all relevant parameters, thereby solving a question posed by Anshu (Harvard Data Science Review, 2022).
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Myeongjin Shin<sup>1</sup>, Junseo Lee<sup>2</sup> | 1. KAIST, South Korea; 2. Harvard University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, June 29, 2026 | 10:30am – 12:00pm |  [YouTube](https://www.youtube.com/watch?v=dpjEGZ_KGZY) | 
+
+
+<br/>
+
+
 ### [Quantum Seminar] Francois Le Gall—[Dequantizing Short-Path Quantum Algorithms](https://arxiv.org/abs/2604.12131) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ea5563-063c-4425-af8d-2f23de527ddc" /> 
