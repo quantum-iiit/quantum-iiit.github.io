@@ -34,52 +34,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 <br/>
 
-### [Quantum Seminar] Myeongjin Shin, Junseo Lee—[Certifying and learning local quantum Hamiltonians](https://arxiv.org/abs/2603.29809) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3d96193b-d8b6-471a-9ce5-57a851071b0a" /> 
-
-<!-- <img width="688" height="639" alt="image" src="https://github.com/user-attachments/assets/3d96193b-d8b6-471a-9ce5-57a851071b0a" /> -->
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-In this work, we study the problems of certifying and learning quantum k-local Hamiltonians, for a constant k. Our main contributions are as follows:
-
-(1) Certification of Hamiltonians. We show that certifying a local Hamiltonian in normalized Frobenius norm via access to its time-evolution operator can be achieved with only O(1/ε) evolution time. This is optimal, as it matches the Heisenberg-scaling lower bound of Ω(1/ε). To our knowledge, this is the first optimal algorithm for testing a Hamiltonian property. A key ingredient in our analysis is the Bonami Hypercontractivity Lemma from Fourier analysis.
-
-(2) Learning Gibbs states. We design an algorithm for learning Gibbs states of local Hamiltonians in trace norm that is sample-efficient in all relevant parameters. In contrast, previous approaches learned the underlying Hamiltonian (which implies learning the Gibbs state), and thus inevitably suffered from exponential sample complexity scaling in the inverse temperature.
-
-(3) Certification of Gibbs states. We give an algorithm for certifying Gibbs states of local Hamiltonians in trace norm that is both sample and time-efficient in all relevant parameters, thereby solving a question posed by Anshu (Harvard Data Science Review, 2022).
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Myeongjin Shin<sup>1</sup>, Junseo Lee<sup>2</sup> | 1. KAIST, South Korea; 2. Harvard University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, June 29, 2026 | 10:30am – 12:00pm |  [YouTube](https://www.youtube.com/watch?v=dpjEGZ_KGZY) | 
-
-
-<br/>
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
 
 ### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
 
@@ -108,6 +62,18 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 | Seminar | Alper Cakan | Carnegie Mellon University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 8 July, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
+
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
 
 
 ### [Quantum Talk] Tulja Varun Kondra—[Fundamental limitations on entanglement extraction from purity](https://arxiv.org/abs/2605.29197) (presented online)
