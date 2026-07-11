@@ -40,7 +40,7 @@ Along the way, we give a generic compiler that upgrades single-copy secure singl
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alper Cakan | Carnegie Mellon University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 8 July, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Alper Cakan | Carnegie Mellon University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 8 July, 2026 | 10:30am – 12:00pm |  [YouTube](https://youtu.be/sEsknErfe78) | 
 
 <br/>
 
