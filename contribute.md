@@ -26,10 +26,10 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 | - | - | - |
 |Myeongjin Shin | Atul & Himanshu | 29 June, 2026 |
 |Francois Le Gall | Atul & Himanshu | 22 June, 2026 |
-|Luowen Qian | Himanshu | 10 June, 2026 |
+|Luowen Qian | Atul & Himanshu | 10 June, 2026 |
 |Baocheng Sun| Atul | 20 May, 2026 |
 |Joseph Slote | Atul | 13 May, 2026|
-|Dhara Thakkar | Himanshu | 11 May, 2026 |
+|Dhara Thakkar | Atul & Himanshu | 11 May, 2026 |
 |Atsuya Hasegawa | Atul | 6 May, 2026 |
 |Dariel Mok | Atul & Himanshu | 24 April, 2026 |
 |Jackson Morris| Atul & Himanshu | 10 April, 2026 |
