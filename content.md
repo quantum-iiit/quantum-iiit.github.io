@@ -35,47 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Seminar] Alper Cakan—[Multi-Copy Security in Unclonable Cryptography](https://arxiv.org/abs/2510.12626) (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" /> 
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-Unclonable cryptography leverages the quantum no-cloning principle to copy-protect cryptographic functionalities. While most existing works address the basic single-copy security, the stronger notion of multi-copy security remains largely unexplored.
-We introduce a generic compiler that upgrades collusion-resistant unclonable primitives to achieve multi-copy security, assuming only one-way functions. Using this framework, we obtain the first multi-copy secure constructions of public-key quantum money (termed quantum coins), single-decryptor encryption, unclonable encryption, and more. We also introduce an extended notion of quantum coins, called upgradable quantum coins, which allow weak (almost-public) verification under weaker assumptions and can be upgraded to full public verification under stronger assumptions by the bank simply publishing additional classical information.
-Along the way, we give a generic compiler that upgrades single-copy secure single-decryptor encryption to a collusion-resistant one, assuming the existence of functional encryption, and construct the first multi-challenge secure unclonable encryption scheme, which we believe are of independent interest.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Alper Cakan | Carnegie Mellon University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, 8 July, 2026 | 10:30am – 12:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br/>
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
 ### [Quantum Talk] Tulja Varun Kondra—[Fundamental limitations on entanglement extraction from purity](https://arxiv.org/abs/2605.29197) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
@@ -108,7 +67,6 @@ States of sufficiently low purity are separable and cannot be entangled by unita
 
 
 
-<!-- SKIP_START -->
 
 ### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (presented online)
 
@@ -142,6 +100,21 @@ Broadly applicable quantum advantage, particularly in classical data processing 
 
 
 <br/>
+
+
+
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+
 
 
 ### [Quantum Seminar] Aleksandrs Belovs—[Tight Quantum Lower Bound for k-Distinctness](https://arxiv.org/abs/2604.05133) (presented online)
@@ -208,6 +181,7 @@ Thermal behavior in subsystems of closed quantum systems is commonly attributed 
 
 
 <br/>
+<!-- SKIP_START -->
 
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
 
