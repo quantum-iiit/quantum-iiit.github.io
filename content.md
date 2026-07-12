@@ -35,7 +35,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Talk] Tulja Varun Kondra—[Fundamental limitations on entanglement extraction from purity](https://arxiv.org/abs/2605.29197) (presented online)
+### [Quantum Talk] Tulja Varun Kondra—[Fundamental limitations on entanglement extraction from purity](https://arxiv.org/abs/2605.29197) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
 
@@ -57,7 +57,7 @@ States of sufficiently low purity are separable and cannot be entangled by unita
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, July 13, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany  | Online-only | Monday, July 13, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
@@ -68,7 +68,7 @@ States of sufficiently low purity are separable and cannot be entangled by unita
 
 
 
-### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (presented online)
+### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> 
 
@@ -93,7 +93,7 @@ Broadly applicable quantum advantage, particularly in classical data processing 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Haimeng Zhao | Caltech  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, July 15, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Haimeng Zhao | Caltech  | Online | Wednesday, July 15, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
@@ -117,7 +117,7 @@ Broadly applicable quantum advantage, particularly in classical data processing 
 
 
 
-### [Quantum Seminar] Aleksandrs Belovs—[Tight Quantum Lower Bound for k-Distinctness](https://arxiv.org/abs/2604.05133) (presented online)
+### [Quantum Seminar] Aleksandrs Belovs—[Tight Quantum Lower Bound for k-Distinctness](https://arxiv.org/abs/2604.05133) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3bb29d04-6680-4a12-8e7b-bb3e2c152071" /> 
 
@@ -143,7 +143,7 @@ We show how this framework behaves on the problem of finding equal elements in t
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Aleksandrs Belovs | University of Latvia  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, July 20, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Aleksandrs Belovs | University of Latvia  | Online | Monday, July 20, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 
 
