@@ -151,7 +151,7 @@ We show how this framework behaves on the problem of finding equal elements in t
 
 <br/>
 
-### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.09410) (presented online)
+### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.09410) (in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/03ed699b-1e62-4e95-91d2-510e2813c8ed" /> 
 
