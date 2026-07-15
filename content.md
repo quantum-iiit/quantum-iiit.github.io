@@ -35,88 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 
 
-### [Quantum Talk] Tulja Varun Kondra—[Fundamental limitations on entanglement extraction from purity](https://arxiv.org/abs/2605.29197) (online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9f276411-901f-4b4e-8b78-1e7a80255720" /> 
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-States of sufficiently low purity are separable and cannot be entangled by unital (purity-non-generating) operations. Since high-purity states are experimentally demanding, it is natural to ask how much purity a state must possess to enable entanglement generation. Absolutely separable states remain separable under all deterministic unital channels, and so cannot deterministically generate entanglement in this setting. We show, however, that some absolutely separable states can generate entanglement via probabilistic protocols that do not produce purity. This motivates the study of states that fail to generate entanglement with any non-zero probability, which we call completely absolutely separable; we give a full characterization of this class. Along the way, we derive a novel sufficient condition for separability that depends only on the largest and smallest eigenvalues, along with the smallest local dimension and is independent of all previously known spectral separability criteria.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Talk | Tulja Varun Kondra | Heinrich Heine University Düsseldorf, Germany  | Online-only | Monday, July 13, 2026 | 4:00 – 5:30pm |  [YouTube](https://youtu.be/mPRdtWvzpyY) | 
-
-
-
-
-
-<br/>
-
-
-
-
-### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> 
-
-<!-- <img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> -->
-
-
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-Broadly applicable quantum advantage, particularly in classical data processing and machine learning, has been a fundamental open problem. In this work, we prove that a small quantum computer of polylogarithmic size can perform large-scale classification and dimension reduction on massive classical data by processing samples on the fly, whereas any classical machine achieving the same prediction performance requires exponentially larger size. Furthermore, classical machines that are exponentially larger yet below the required size need superpolynomially more samples and time. We validate these quantum advantages in real-world applications, including single-cell RNA sequencing and movie review sentiment analysis, demonstrating four to six orders of magnitude reduction in size with fewer than 60 logical qubits. These quantum advantages are enabled by quantum oracle sketching, an algorithm for accessing the classical world in quantum superposition using only random classical data samples. Combined with classical shadows, our algorithm circumvents the data loading and readout bottleneck to construct succinct classical models from massive classical data, a task provably impossible for any classical machine that is not exponentially larger than the quantum machine. These quantum advantages persist even when classical machines are granted unlimited time or if BPP=BQP, and rely only on the correctness of quantum mechanics. Together, our results establish machine learning on classical data as a broad and natural domain of quantum advantage and a fundamental test of quantum mechanics at the complexity frontier.
-
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Haimeng Zhao | Caltech  | Online-only | Wednesday, July 15, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-
-
-
-
-<br/>
-
-
-
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
-
-
-
-
-
 ### [Quantum Seminar] Aleksandrs Belovs—[Tight Quantum Lower Bound for k-Distinctness](https://arxiv.org/abs/2604.05133) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3bb29d04-6680-4a12-8e7b-bb3e2c152071" /> 
@@ -150,6 +68,22 @@ We show how this framework behaves on the problem of finding equal elements in t
 
 
 <br/>
+
+
+
+
+
+
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
+
+
 
 ### [Quantum Talk] Uttam Singh—[Symmetry-driven thermalization via finite de Finetti theorems](https://arxiv.org/abs/2604.09410) (in-person)
 
