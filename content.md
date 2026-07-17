@@ -115,6 +115,37 @@ Thermal behavior in subsystems of closed quantum systems is commonly attributed 
 
 
 <br/>
+
+
+### [Quantum Seminar] Zikuan Huang—[On the Need for (Quantum) Memory with Short Outputs](https://arxiv.org/abs/2602.23763) (Online-only)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6ec2e1c1-9cb5-455c-8218-0c57f56a3a25" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+In this work, we establish the first separation between computation with bounded and unbounded space, for problems with short outputs (i.e., working memory can be exponentially larger than output size), both in the classical and the quantum setting. Towards that, we introduce a problem called nested collision finding, and show that optimal query complexity can not be achieved without exponential memory. Our result is based on a novel ``two-oracle recording'' technique, where one oracle ``records'' the computation's long outputs under the other oracle, effectively reducing the time-space trade-off for short-output problems to that of long-output problems. We believe this technique will be of independent interest for establishing time-space tradeoffs in other short-output settings.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Zikuan Huang | Shanghai Qizhi Institute  | Online-only | Wednesday, August 5, 2026 | 7:00 – 8:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
 <!-- SKIP_START -->
 
 ### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
