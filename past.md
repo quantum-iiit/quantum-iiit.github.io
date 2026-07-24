@@ -16,6 +16,40 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Aleksandrs Belovs—[Tight Quantum Lower Bound for k-Distinctness](https://arxiv.org/abs/2604.05133) (online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/3bb29d04-6680-4a12-8e7b-bb3e2c152071" /> 
+
+<!-- <img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> -->
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+In this paper, we introduce a new quantum query lower bound framework. It is inspired by Zhandry's compressed oracle technique, but it also subsumes the polynomial method as a special case. Compared to Zhandry's technique, our approach has two key differences. First, we do not use any oracles (except for the standard input oracle), and define "knowledge" directly through the expansion of the state of the algorithm in the Fourier basis. Second, we allow arbitrary probability distributions of inputs.
+We show how this framework behaves on the problem of finding equal elements in the input string. In particular, we demonstrate its power by proving a first tight quantum query lower bound for the k-Distinctness problem.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Aleksandrs Belovs | University of Latvia  | Online-only | Monday, July 20, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+
+
+
+
+<br/>
+
 ### [Quantum Seminar] Haimeng Zhao—[Exponential quantum advantage in processing massive classical data](https://arxiv.org/abs/2604.07639) (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5eb0538e-1142-43c2-a1d6-b3e521c1efd6" /> 
