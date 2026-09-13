@@ -16,6 +16,34 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Eli Goldin—[Unclonable Encryption in the Haar Random Oracle Model](https://arxiv.org/abs/2603.11437) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/96f20a08-2db6-4588-bc21-70fc766c7728" /> 
+
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+
+
+We construct unclonable encryption (UE) in the Haar random oracle model, where all parties have query access to U,U†,U∗,UT for a Haar random unitary U. Our scheme satisfies the standard notion of unclonable indistinguishability security, supports reuse of the secret key, and can encrypt arbitrary-length messages. That is, we give the first evidence that (reusable) UE, which requires computational assumptions, exists in "micocrypt", a world where one-way functions may not exist.
+As one of our central technical contributions, we build on the recently introduced path recording framework to prove a natural ``unitary reprogramming lemma'', which may be of independent interest.
+
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Eli Goldin | New York University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 9, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
 ### [Quantum Talk] Madhumita Saha—Quantum transport and Nonequilibrium dynamics in quantum systems (visitor, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/6a67fbee-35b7-4f63-b2c8-e5795d3b3b88" /> 
