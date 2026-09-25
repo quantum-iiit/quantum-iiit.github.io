@@ -35,40 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- Upcoming event details go below  -->
 
 
-### [Quantum Seminar] Yihang Sun—[On Worst-Case Optimal Polynomial Intersection](https://arxiv.org/abs/2604.09533) (online-only)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/e82bc7fe-3a33-4524-b44c-a5878ac8bc00" /> 
-
-
-<!-- <img width="1024" height="1280" alt="IMG-20260622-WA0004" src="https://github.com/user-attachments/assets/79eb9686-7c48-4ba3-ae93-7be2e95fd918" /> -->
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-
-The Optimal Polynomial Intersection (OPI) problem is the following: Given sets S1,…,Sm⊆𝔽 and evaluation points a1,…,am∈𝔽, find a polynomial Q∈𝔽[x] of degree less than n so that Q(ai)∈Si for as many i∈{1,2,…,m} as possible. Decoded Quantum Interferometry (DQI) is a quantum algorithm that efficiently returns good solutions to the problem, even on worst-case instances (Jordan et. al., 2025). The quality of the solutions returned follows a semicircle law, which outperforms known efficient classical algorithms. But does DQI obtain the best possible solutions? That is, are there solutions better than the semicircle law for worst-case OPI instances? Surprisingly, before this work, the best existential results coincide with (and follow from) the best algorithmic results.
-In this work, we show that there are better solutions for worst-case OPI instances over prime fields. In particular, DQI and the semicircle law are not optimal. For example, when the lists Si have size ρp for ρ∼1/2, our results imply the existence of a solution that asymptotically beats the semicircle law whenever n/m≥0.6225, and we show that an asymptotically perfect solution exists whenever n/m≥0.7496. Our results generalize to Max-LINSAT problems derived from any Maximum Distance Separable (MDS) code, and to any ρ∈(0,1). The key insight to our improvement is a connection to local leakage resilience of secret sharing schemes. Along the way, we recover several re-proofs of the existence of solutions achieving the semicircle law.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Yihang Sun | Stanford University | Online-only | Wednesday, September 23, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br/>
-
-
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
 
 ### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (presented online)
 
@@ -100,7 +66,10 @@ Based on joint work with Amolak Ratan Kalra, Sungjai Lee, Debbie Leung, Luke Sch
 <br/>
 
 
-<!-- SKIP_START -->
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
 
 ### [Quantum Seminar] Alexandru Gheorghiu—[Quantum State Isomorphism Problems for Groups](https://arxiv.org/abs/2605.12615) (presented online)
 
@@ -132,6 +101,9 @@ Prior to our work, state isomorphism problems had only been studied for the symm
 | Seminar | Alexandru Gheorghiu | IBM Quantum | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 7, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
+
+
+<!-- SKIP_START -->
 
 
 ### [Quantum Seminar] Daochen Wang—[Rational degree is polynomially related to degree](https://arxiv.org/abs/2601.08727) (presented online)
