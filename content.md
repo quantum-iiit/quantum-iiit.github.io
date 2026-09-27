@@ -36,7 +36,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 
 
-### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (presented online)
+### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/249725a3-a3b0-44df-9f84-942d04b90c3f" /> 
 
@@ -61,7 +61,7 @@ Based on joint work with Amolak Ratan Kalra, Sungjai Lee, Debbie Leung, Luke Sch
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Avantika Agarwal | University of Waterloo | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 30, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Avantika Agarwal | University of Waterloo | Online-only | Wednesday, September 30, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
 
