@@ -35,42 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- Upcoming event details go below  -->
 
 
-
-### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/249725a3-a3b0-44df-9f84-942d04b90c3f" /> 
-
-
-<!-- <img width="1024" height="1280" alt="IMG-20260622-WA0004" src="https://github.com/user-attachments/assets/79eb9686-7c48-4ba3-ae93-7be2e95fd918" /> -->
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
-
- -->
-
-
-The quantum capacity captures the value of a quantum channel for transmitting quantum information, establishing fundamental limits on quantum communication. In spite of its central role in quantum information, the quantum capacity of most channels is unknown. In our recent work, we report significant increases in the capacity thresholds of the depolarizing channel. This is the first improvement in 18 years, giving a bigger increase beyond the hashing bound than all previous improvements combined. Our starting point is the representation theoretic framework recently proposed by Bhalerao and Leditzky (2025) to compute coherent information for special permutation invariant states. We generalize their framework to the full symmetric subspace, which allow us to optimize coherent information over rank two states in that space.
-
-No background in information theory is assumed. 
-Based on joint work with Amolak Ratan Kalra, Sungjai Lee, Debbie Leung, Luke Schaeffer, Pulkit Sinha, Graeme Smith.
-
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Seminar | Avantika Agarwal | University of Waterloo | Online-only | Wednesday, September 30, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br/>
-
-
-<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
-<br/>
-
-## Pipeline
-
 ### [Quantum Seminar] Alexandru Gheorghiu—[Quantum State Isomorphism Problems for Groups](https://arxiv.org/abs/2605.12615) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" /> 
@@ -103,7 +67,14 @@ Prior to our work, state isomorphism problems had only been studied for the symm
 <br/>
 
 
-<!-- SKIP_START -->
+
+<!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
+<br/>
+
+## Pipeline
+
+
+
 
 
 ### [Quantum Seminar] Daochen Wang—[Rational degree is polynomially related to degree](https://arxiv.org/abs/2601.08727) (presented online)
@@ -132,6 +103,8 @@ We prove that deg(f) is at most rdeg(f) cubed (up to logarithmic factors) for ev
 <br/>
 
 
+
+<!-- SKIP_START -->
 
 ## Past
 
