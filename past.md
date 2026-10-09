@@ -16,6 +16,37 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Alexandru Gheorghiu—[Quantum State Isomorphism Problems for Groups](https://arxiv.org/abs/2605.12615) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" /> 
+
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+We study the computational complexity of quantum state isomorphism problems under group actions: given two quantum circuits that prepare pure or mixed states, decide whether the two states are related by a group action. This can be seen as a quantum state version of the Hidden Shift Problem, in much the same way that the State Hidden Subgroup Problem is a quantum version of the ordinary Hidden Subgroup Problem.
+We prove several results for this computational problem:
+- For the pure-state version, we show that the problem is BQP-hard for all nontrivial groups, and contained in QCMA ∩ QCSZK. We further obtain refined results for specific groups of interest: for abelian groups we show that the problem reduces to the state hidden subgroup problem over the generalized dihedral group; for the Clifford group, the problem is at least as hard as Graph Isomorphism under polynomial-time reductions; for the Pauli group it is BQP-complete.
+- For the mixed-state version, for nontrivial, finite and efficiently representable groups, the problem is QSZK-complete.
+- We also study a variant of this problem over an infinite group, in particular, the bosonic linear optical unitaries. We show that in the setting where the classical description of the quantum state is given in a suitable wave function representation known as the stellar representation, the problem is at least as hard as Graph Isomorphism, and is contained in NP ∩ SZK.
+Prior to our work, state isomorphism problems had only been studied for the symmetric group [LG17]. As a consequence of our results, we resolve an open question posed in [HEC25] about the existence of a quantum algorithm for the abelian state hidden subgroup problem on mixed states. We show that this problem is QSZK-hard in the worst case, thereby ruling out an efficient quantum algorithm unless QSZK = BQP.
+
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Alexandru Gheorghiu | IBM Quantum | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 7, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
 ### [Quantum Seminar] Avantika Agarwal—Quantum Capacity of the Depolarizing Channel (online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/249725a3-a3b0-44df-9f84-942d04b90c3f" /> 
