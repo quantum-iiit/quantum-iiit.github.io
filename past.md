@@ -43,7 +43,7 @@ Prior to our work, state isomorphism problems had only been studied for the symm
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Alexandru Gheorghiu | IBM Quantum | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 7, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Alexandru Gheorghiu | IBM Quantum | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 7, 2026 | 8:30 – 10:00pm |  [YouTube](https://youtu.be/TUyJ2jtpDOA) | 
 
 <br/>
 
@@ -72,7 +72,7 @@ Based on joint work with Amolak Ratan Kalra, Sungjai Lee, Debbie Leung, Luke Sch
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Avantika Agarwal | University of Waterloo | Online-only | Wednesday, September 30, 2026 | 6:30 – 8:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Avantika Agarwal | University of Waterloo | Online-only | Wednesday, September 30, 2026 | 6:30 – 8:00pm |  [YouTube](https://youtu.be/oWKIGy-0lhQ) | 
 
 <br/>
 
@@ -99,7 +99,7 @@ In this work, we show that there are better solutions for worst-case OPI instanc
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Yihang Sun | Stanford University | Online-only | Wednesday, September 23, 2026 | 8:30 – 10:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Yihang Sun | Stanford University | Online-only | Wednesday, September 23, 2026 | 8:30 – 10:00pm |  [YouTube](https://youtu.be/33hxRhXRe2U) | 
 
 <br/>
 
@@ -126,7 +126,7 @@ Graph states form a large family of quantum states that are in one-to-one corres
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Nathan Claudet | University of Innsbruck, Austria  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 16, 2026 | 3:00 – 4:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Seminar | Nathan Claudet | University of Innsbruck, Austria  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 16, 2026 | 3:00 – 4:30pm |  [YouTube](https://youtu.be/Tk2dkHja5Co) | 
 
 <br/>
 
