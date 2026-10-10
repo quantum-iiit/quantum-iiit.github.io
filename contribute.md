@@ -25,6 +25,10 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+|Alexandru Gheorghiu| Atul | 7th October, 2026| 
+| Avantika Agarwal| Atul| 30th September, 2026|
+| Yihang Sun| Atul| 23 September, 2026 |
+| Nathan Claudet| Atul| 16 September, 2026 |
 |Eli Goldin | Atul | 9 September, 2026 |
 |Madhumita Saha | Atul | 19 August, 2026|
 |Prabhanjan Ananth| Atul| 12 August, 2026|
