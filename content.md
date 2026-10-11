@@ -34,7 +34,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 <!-- Upcoming event details go below  -->
 
-### [Quantum Talk] Shiv Akshar Yadavalli—[Protecting Quantum Computers against Untrusted Users](https://arxiv.org/abs/2610.06812) (presented online)
+### [Quantum Talk] Shiv Akshar Yadavalli—[Protecting Quantum Computers against Untrusted Users](https://arxiv.org/abs/2610.06812) (visitor, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/33fa0563-37c4-475a-a604-eafc223d8136" /> 
 
