@@ -10,7 +10,7 @@ Here we only list the past events.
 <details open> 
    <summary>
 
-  ### May – August, 2026
+  ### September – December, 2026
 
    </summary>
 
@@ -157,6 +157,20 @@ As one of our central technical contributions, we build on the recently introduc
 | Seminar | Eli Goldin | New York University  | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, September 9, 2026 | 8:30 – 10:00pm |  [YouTube](https://youtu.be/WbnvC2hy6U8) | 
 
 <br/>
+
+
+</details>
+
+<details> 
+   <summary>
+
+  ### May – August, 2026
+
+   </summary>
+
+<br/>
+
+
 
 ### [Quantum Talk] Madhumita Saha—Quantum transport and Nonequilibrium dynamics in quantum systems (visitor, in-person)
 
