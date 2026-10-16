@@ -34,19 +34,23 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 <!-- Upcoming event details go below  -->
 
-### [Quantum Talk] Shiv Akshar Yadavalli—[Protecting Quantum Computers against Untrusted Users](https://arxiv.org/abs/2610.06812) (visitor, in-person)
+### [Quantum Talk] Sudipto Singha Roy—[Quantum Complexity in Rule-Based Constrained Many-Body Models: Scars, Fragmentation, and Chaos](https://arxiv.org/abs/2510.16570) (visitor, in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/33fa0563-37c4-475a-a604-eafc223d8136" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
 
 <!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
  -->
-
 <!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
 
  -->
 
- Publicly accessible fault-tolerant quantum computers must preserve scientific utility while limiting cryptanalytic power. We propose the restricted model of computation, 1/2BQP_1: a quantum server provides random computational-basis inputs, revealed only after execution, and one designated output bit. This interface permits arbitrary circuits and system sizes. We conjecture that a classical client making polynomially many adaptive requests cannot efficiently factor RSA moduli. The model subsumes the well-known one-clean-qubit model DQC1, retaining its applications to infinite-temperature multi-time correlations, out-of-time-order correlators, and suitably normalized partition functions. We propose a candidate for separating 1/2BQP_1 from DQC1 based on testing classical predictions of quantum spin dynamics. We argue security in two steps. First, we show that one-bit readout makes the quantum stages of standard factoring algorithms classically simulable, even when their preparation and postprocessing are redesigned within a broad family around a single arithmetic-oracle call. This covers the quantum stages of Shor, Ekera-Hastad, Kitaev, and Regev factoring constructions. Second, we examine the workaround of coherently implementing rational reconstruction to release a factor bit. Random inputs obstruct this straightforward attack: known techniques accommodate logarithmic-depth classical circuits, but rational reconstruction has resisted such parallelization for decades. Therefore, we show that security of our protocol is built on not only classical hardness for factoring, but also conjectured circuit lowerbounds for rational reconstruction. 
+Kinetic constraints strongly restrict the accessible Hilbert space of quantum many-body systems, offering insight into both thermalization and its failure. In this talk, I will present a family of rule-based kinetically constrained models, including the Quantum Game of Life,
+through entanglement, nonstabilizerness, and chaos. I will show that robust chaos can
+coexist with strong and weak Hilbert-space fragmentation and quantum many-body scars,
+and that simple changes to the kinetic rules tune fragmentation from strong to weak and
+ultimately to its absence, beyond Rydberg-blockade-based constraints.
+
 <div style="clear: both;"></div>
 <br/>
 <br/>
@@ -55,7 +59,7 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Shiv Akshar Yadavalli | UMD | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 14, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Sudipto Singha Roy | IIT (ISM) Dhanbad | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Friday, October 30, 2026 | 4:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
 
@@ -93,7 +97,54 @@ We prove that deg(f) is at most rdeg(f) cubed (up to logarithmic factors) for ev
 
 ## Pipeline
 
+### [Quantum Seminar] Yiming Wang—[No linear stretching of single-copy quantum pseudorandomness](https://arxiv.org/abs/2606.24736) (presented online)
 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+Pseudorandom states, introduced by Ji, Liu, and Song (CRYPTO 2018), are quantum analogues of classical pseudorandom generators. A fundamental property of classical pseudorandom generators is that their output can be stretched to arbitrary polynomial length. Whether an analogous stretching property holds for quantum pseudorandom states has been elusive. Here, we essentially resolve this question for the single-copy variant of pseudorandom states, 1PRS. We show, via a unitary oracle separation, that no fully black-box construction can stretch the output length of a 1PRS by any constant factor greater than one. 
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Yiming Wang |  University of Washington | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 11, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+### [Quantum Talk] Sounak Kar—[Requirements for Teleportation in an Intercity Quantum Network](https://arxiv.org/abs/2602.04869) (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5b69e1b2-e555-449f-9a9d-f424a7c270dc" /> 
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+We investigate the hardware requirements for quantum teleportation in an intercity-scale network topology consisting of two metropolitan-scale networks connected via a long-distance backbone link. Specifically, we identify the minimal improvements required beyond the state-of-the-art to achieve an end-to-end expected teleportation fidelity of 2/3, which represents the classical limit. To this end, we formulate the hardware requirements computation as optimisation problems, where the hardware parameters representing the underlying device capabilities serve as decision variables. Assuming a simplified noise model, we derive closed-form analytical expressions for the teleportation fidelity and rate when the network is realised using heterogeneous quantum hardware, including a quantum repeater chain with a memory cut-off. Our derivations are based on events defined by the order statistics of link generation durations in both the metropolitan networks and the backbone, and the resulting expressions are validated through simulations on the NetSquid platform. The analytical expressions facilitate efficient exploration of the optimisation parameter space without resorting to computationally intensive simulations. We then apply this framework to a representative realisation in which the metropolitan nodes are based on trapped-ion processors and the backbone is composed of ensemble-based quantum memories. Our results suggest that teleportation across metropolitan distances is already achievable with state-of-the-art hardware when the data qubit is prepared after end-to-end entanglement has already been established, whereas extending teleportation to intercity scales requires additional, though plausibly achievable, improvements in hardware performance.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Sounak Kar | QuTech, TU Delft | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 25, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
 
 
 
