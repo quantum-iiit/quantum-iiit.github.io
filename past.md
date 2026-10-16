@@ -16,6 +16,33 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Talk] Shiv Akshar Yadavalli—[Protecting Quantum Computers against Untrusted Users](https://arxiv.org/abs/2610.06812) (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/33fa0563-37c4-475a-a604-eafc223d8136" /> 
+
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+ Publicly accessible fault-tolerant quantum computers must preserve scientific utility while limiting cryptanalytic power. We propose the restricted model of computation, 1/2BQP_1: a quantum server provides random computational-basis inputs, revealed only after execution, and one designated output bit. This interface permits arbitrary circuits and system sizes. We conjecture that a classical client making polynomially many adaptive requests cannot efficiently factor RSA moduli. The model subsumes the well-known one-clean-qubit model DQC1, retaining its applications to infinite-temperature multi-time correlations, out-of-time-order correlators, and suitably normalized partition functions. We propose a candidate for separating 1/2BQP_1 from DQC1 based on testing classical predictions of quantum spin dynamics. We argue security in two steps. First, we show that one-bit readout makes the quantum stages of standard factoring algorithms classically simulable, even when their preparation and postprocessing are redesigned within a broad family around a single arithmetic-oracle call. This covers the quantum stages of Shor, Ekera-Hastad, Kitaev, and Regev factoring constructions. Second, we examine the workaround of coherently implementing rational reconstruction to release a factor bit. Random inputs obstruct this straightforward attack: known techniques accommodate logarithmic-depth classical circuits, but rational reconstruction has resisted such parallelization for decades. Therefore, we show that security of our protocol is built on not only classical hardness for factoring, but also conjectured circuit lowerbounds for rational reconstruction. 
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Shiv Akshar Yadavalli | UMD | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 14, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
+
 ### [Quantum Seminar] Alexandru Gheorghiu—[Quantum State Isomorphism Problems for Groups](https://arxiv.org/abs/2605.12615) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" /> 
