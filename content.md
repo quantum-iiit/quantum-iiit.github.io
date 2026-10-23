@@ -34,9 +34,36 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <br/>
 <!-- Upcoming event details go below  -->
 
+### [Quantum Talk] Anindita Bera Roy—[Topology-Dependent Robustness of Quantum Repeater Networks Against Noisy Bell-State Measurement](https://arxiv.org/abs/2510.16570) (visitor, in-person)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/ae2c353a-8934-4a94-b935-1867356e2d50" /> 
+
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+Entanglement swapping is essential for establishing long-distance entanglement in quantum repeater networks. This talk explores the impact of noisy Bell-state measurements across different network topologies, focusing on how swapping noise, network size, and link strength affect maximum average teleportation fidelity and the conditions required to maintain quantum advantage.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Talk | Anindita Bera | BIT Mesra | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Friday, October 30, 2026 | 3:00 – 5:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
+
 ### [Quantum Talk] Sudipto Singha Roy—[Quantum Complexity in Rule-Based Constrained Many-Body Models: Scars, Fragmentation, and Chaos](https://arxiv.org/abs/2510.16570) (visitor, in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/38270161-25c3-4821-8ae2-a92e30d1b203" /> 
 
 
 <!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
