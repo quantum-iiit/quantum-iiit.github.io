@@ -149,7 +149,7 @@ Pseudorandom states, introduced by Ji, Liu, and Song (CRYPTO 2018), are quantum 
 
 <br/>
 
-### [Quantum Talk] Sounak Kar—[Requirements for Teleportation in an Intercity Quantum Network](https://arxiv.org/abs/2602.04869) (visitor, in-person)
+### [Quantum Talk] Sounak Kar—[Requirements for Teleportation in an Intercity Quantum Network](https://arxiv.org/abs/2602.04869) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/5b69e1b2-e555-449f-9a9d-f424a7c270dc" /> 
 
