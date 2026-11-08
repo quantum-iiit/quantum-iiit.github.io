@@ -16,6 +16,34 @@ Here we only list the past events.
 
 <br/>
 
+
+
+### [Quantum Seminar] Daochen Wang—[Rational degree is polynomially related to degree](https://arxiv.org/abs/2601.08727) (presented online)
+
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
+
+
+<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
+ -->
+<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+
+ -->
+
+We prove that deg(f) is at most rdeg(f) cubed (up to logarithmic factors) for every Boolean function f, where deg(f) is the degree of f and rdeg(f) is the rational degree of f. This resolves the second of the three open problems stated by Nisan and Szegedy, and attributed to Fortnow, in 1994. [Based on joint work with Robin Kothari, Matt Kovacs-Deak, and Rain Zimin Yang.]
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Daochen Wang | UBC, Canada | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 4, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
 ### [Quantum Talk] Sudipto Singha Roy—[Quantum Complexity in Rule-Based Constrained Many-Body Models: Scars, Fragmentation, and Chaos](https://arxiv.org/abs/2510.16570) (visitor, in-person)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/38270161-25c3-4821-8ae2-a92e30d1b203" /> 
