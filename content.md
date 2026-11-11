@@ -62,6 +62,27 @@ Pseudorandom states, introduced by Ji, Liu, and Song (CRYPTO 2018), are quantum 
 
 
 
+### [Quantum Seminar] Ziyi Xie—[Quantum Query Advantage Requires Space](https://arxiv.org/abs/2609.29497) (presented online)
+
+<img align="left" width="140" alt="image" src="https://raw.githubusercontent.com/niranjannagumalli/quantum-iiit.github.io/speaker-photos/photos/ziyi-xie-mwcgccg3.jpg" /> 
+
+Hao, Huang, and Liu (STOC'26) recently showed that optimal quantum query complexity may require large workspace even for short-output problems, and asked whether a quantum query advantage over classical computation can itself require space. We resolve this question by exhibiting an explicit total Boolean function with quantum query complexity Q=Θ˜(M), and randomized query complexity R=Θ(M21/20), whereas, for every fixed 0<η<1/100 and S≤O(M1/100−η), its S-space quantum query complexity satisfies QS=ω(M21/20). Consequently,
+Q<R<QS,so the unrestricted quantum query advantage disappears under sufficiently small workspace. The separation is obtained through a one-bit filtered-parity construction and a space-sensitive quantum lower bound based on compressed-oracle capacity and a new parity-to-capacity inequality, which may be of independent interest.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ziyi Xie | Tsinghua University | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 18, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+
+<br/>
+
+
+
 <!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
 <br/>
 
