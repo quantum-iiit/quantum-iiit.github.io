@@ -35,18 +35,15 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- Upcoming event details go below  -->
 
 
-### [Quantum Seminar] Yiming Wang—[No linear stretching of single-copy quantum pseudorandomness](https://arxiv.org/abs/2606.24736) (presented online)
+### [Quantum colloquium] Gaurav Mukherjee—An introduction to the path integral formulation of quantum mechanics (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
+What if a particle does not take just one path between two points, but somehow explores every possible path simultaneously?
 
-<!-- <img width="242" height="328" alt="image" src="https://github.com/user-attachments/assets/b5154ea1-bd43-4329-8255-62ab9b2c7fbc" />
- -->
-<!-- <img width="1921" height="1931" alt="image" src="https://github.com/user-attachments/assets/a67f73cf-02ca-467a-8cd8-5b0a7717f43c" />
+In Feynman's path integral formulation of quantum mechanics, the evolution of a quantum system is described as a sum over all conceivable histories connecting its initial and final states. Each history contributes a complex probability amplitude, weighted by its action through a phase factor. Remarkably, the interference among these contributions gives rise to the classical trajectory in the appropriate classical limit, where the principle of stationary action emerges from the collective behavior of an immense space of possibilities.
 
- -->
-
-Pseudorandom states, introduced by Ji, Liu, and Song (CRYPTO 2018), are quantum analogues of classical pseudorandom generators. A fundamental property of classical pseudorandom generators is that their output can be stretched to arbitrary polynomial length. Whether an analogous stretching property holds for quantum pseudorandom states has been elusive. Here, we essentially resolve this question for the single-copy variant of pseudorandom states, 1PRS. We show, via a unitary oracle separation, that no fully black-box construction can stretch the output length of a 1PRS by any constant factor greater than one. 
+This talk introduces the path integral approach as an intuitive and powerful alternative to the conventional formulation of quantum mechanics, exploring its connection to the principle of least (stationary) action, classical trajectories, and variational calculus.
 
 <div style="clear: both;"></div>
 <br/>
@@ -56,7 +53,7 @@ Pseudorandom states, introduced by Ji, Liu, and Song (CRYPTO 2018), are quantum 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Yiming Wang |  University of Washington | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 11, 2026 | 11:00am – 12:30pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Colloquium | Gaurav Mukherjee | CIE IIIT Hyderabad | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, November 16, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
 <br/>
 
