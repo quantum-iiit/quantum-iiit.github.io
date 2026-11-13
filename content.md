@@ -35,30 +35,6 @@ Use our [Teams link to join us online](https://teams.microsoft.com/l/meetup-join
 <!-- Upcoming event details go below  -->
 
 
-### [Quantum colloquium] Gaurav Mukherjee—An introduction to the path integral formulation of quantum mechanics (presented online)
-
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
-
-What if a particle does not take just one path between two points, but somehow explores every possible path simultaneously?
-
-In Feynman's path integral formulation of quantum mechanics, the evolution of a quantum system is described as a sum over all conceivable histories connecting its initial and final states. Each history contributes a complex probability amplitude, weighted by its action through a phase factor. Remarkably, the interference among these contributions gives rise to the classical trajectory in the appropriate classical limit, where the principle of stationary action emerges from the collective behavior of an immense space of possibilities.
-
-This talk introduces the path integral approach as an intuitive and powerful alternative to the conventional formulation of quantum mechanics, exploring its connection to the principle of least (stationary) action, classical trajectories, and variational calculus.
-
-<div style="clear: both;"></div>
-<br/>
-<br/>
-
-
-
-| Event | Speaker | Affiliation | Venue | Date | Time | Link |
-|-|-|-|-|-|-|-|
-| Colloquium | Gaurav Mukherjee | CIE IIIT Hyderabad | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Monday, November 16, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
-
-<br/>
-
-
-
 ### [Quantum Seminar] Ziyi Xie—[Quantum Query Advantage Requires Space](https://arxiv.org/abs/2609.29497) (presented online)
 
 <img align="left" width="140" alt="image" src="https://raw.githubusercontent.com/niranjannagumalli/quantum-iiit.github.io/speaker-photos/photos/ziyi-xie-mwcgccg3.jpg" /> 
