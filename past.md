@@ -16,6 +16,27 @@ Here we only list the past events.
 
 <br/>
 
+### [Quantum Seminar] Ziyi Xie—[Quantum Query Advantage Requires Space](https://arxiv.org/abs/2609.29497) (presented online)
+
+<img align="left" width="140" alt="image" src="https://raw.githubusercontent.com/niranjannagumalli/quantum-iiit.github.io/speaker-photos/photos/ziyi-xie-mwcgccg3.jpg" /> 
+
+Hao, Huang, and Liu (STOC'26) recently showed that optimal quantum query complexity may require large workspace even for short-output problems, and asked whether a quantum query advantage over classical computation can itself require space. We resolve this question by exhibiting an explicit total Boolean function with quantum query complexity Q=Θ˜(M), and randomized query complexity R=Θ(M21/20), whereas, for every fixed 0<η<1/100 and S≤O(M1/100−η), its S-space quantum query complexity satisfies QS=ω(M21/20). Consequently,
+Q<R<QS,so the unrestricted quantum query advantage disappears under sufficiently small workspace. The separation is obtained through a one-bit filtered-parity construction and a space-sensitive quantum lower bound based on compressed-oracle capacity and a new parity-to-capacity inequality, which may be of independent interest.
+
+<div style="clear: both;"></div>
+<br/>
+<br/>
+
+
+
+| Event | Speaker | Affiliation | Venue | Date | Time | Link |
+|-|-|-|-|-|-|-|
+| Seminar | Ziyi Xie | Tsinghua University | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 18, 2026 | 2:30 – 4:00pm |  TBA | 
+
+<br/>
+
+
+
 ### [Quantum Seminar] Yiming Wang—[No linear stretching of single-copy quantum pseudorandomness](https://arxiv.org/abs/2606.24736) (presented online)
 
 <img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
