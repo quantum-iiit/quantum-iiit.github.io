@@ -31,7 +31,7 @@ Q<R<QS,so the unrestricted quantum query advantage disappears under sufficiently
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Ziyi Xie | Tsinghua University | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 18, 2026 | 2:30 – 4:00pm |  TBA | 
+| Seminar | Ziyi Xie | Tsinghua University | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 18, 2026 | 2:30 – 4:00pm |  [YouTube](https://youtu.be/uwz1o67B79Q) | 
 
 <br/>
 
