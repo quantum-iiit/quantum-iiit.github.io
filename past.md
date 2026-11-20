@@ -168,7 +168,7 @@ Entanglement swapping is essential for establishing long-distance entanglement i
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Talk | Shiv Akshar Yadavalli | UMD | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 14, 2026 | 2:30 – 4:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
+| Talk | Shiv Akshar Yadavalli | UMD | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, October 14, 2026 | 2:30 – 4:00pm |  [YouTube](https://youtu.be/lbJygpuyfac) | 
 
 <br/>
 
