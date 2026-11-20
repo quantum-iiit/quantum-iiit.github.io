@@ -58,7 +58,7 @@ Pseudorandom states, introduced by Ji, Liu, and Song (CRYPTO 2018), are quantum 
 
 | Event | Speaker | Affiliation | Venue | Date | Time | Link |
 |-|-|-|-|-|-|-|
-| Seminar | Yiming Wang |  University of Washington | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 11, 2026 | 11:00am – 12:30pm |  TBA  | 
+| Seminar | Yiming Wang |  University of Washington | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 11, 2026 | 11:00am – 12:30pm |  [YouTube](https://youtu.be/Rh7yiuIyOtc)  | 
 
 <br/>
 
