@@ -57,7 +57,7 @@ We investigate the hardware requirements for quantum teleportation in an interci
 |-|-|-|-|-|-|-|
 | Seminar | Sounak Kar | QuTech, TU Delft | Meeting Room, CQST, Vindhya (3rd level), IIIT Hyderabad | Wednesday, November 25, 2026 | 3:30 – 5:00pm |  [Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwYzA1N2UtZTk4OC00MmUyLTgzNTEtOGVlNjIyMjVkZGY0%40thread.v2/0?context=%7b%22Tid%22%3a%22031a3bbc-cf7c-4e2b-96ec-867555540a1c%22%2c%22Oid%22%3a%227a4a124e-e79f-4645-a13d-e0c802a8b77b%22%7d) | 
 
-<br/>
+
 
 <!-- Don't remove this line break before Pipeline; messes up the email formatting in the weekly announcement emails -->
 <br/>
@@ -66,7 +66,7 @@ We investigate the hardware requirements for quantum teleportation in an interci
 
 
 
-
+<br/>
 
 
 <!-- SKIP_START -->
