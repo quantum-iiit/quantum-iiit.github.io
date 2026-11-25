@@ -66,7 +66,7 @@ We investigate the hardware requirements for quantum teleportation in an interci
 
 ### [Quantum Talk] Ramanathan Thinniyam Srinivasan—[Building the quantum stack and verifying it](https://arxiv.org/abs/2511.19897) (visitor, in-person)
 
-<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/9d386a7a-3066-4337-b513-2995ffdda6f9" /> 
+<img align="left" width="140" alt="image" src="https://github.com/user-attachments/assets/57584f93-28ff-435e-82fa-36bc0b42fece" /> 
 
 We present the first fully automatic framework for verifying relational properties of parameterized quantum programs, i.e., a program that, given an input size, generates a corresponding quantum circuit. We focus on verifying input-output correctness as well as equivalence. At the core of our approach is a new automata model, synchronized weighted tree automata (SWTAs), which compactly and precisely captures the infinite families of quantum states produced by parameterized programs. We introduce a class of transducers to model quantum gate semantics and develop composition algorithms for constructing transducers of parameterized circuits. Verification is reduced to functional inclusion or equivalence checking between SWTAs, for which we provide decision procedures. Our implementation demonstrates both the expressiveness and practical efficiency of the framework by verifying a diverse set of representative parameterized quantum programs with verification times ranging from milliseconds to seconds.
 
